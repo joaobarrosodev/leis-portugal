@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "11.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 11.º\n\nQuando se verifiquem despedimentos colectivos em virtude de encerramento das empresas, transferência de local ou redução dos quadros de pessoal, e as circunstâncias o aconselhem, os Ministros da Economia e das Corporações e Previdência Social poderão, em despacho conjunto e fundamentado, mandar aplicar ao pessoal despedido os benefícios previstos neste diploma, ficando as empresas respectivas abrangidas pelas obrigações correspondentes.\n\n§ único. Neste caso, a pensão a que se refere o artigo 4.º será substituída por um subsídio temporário a fixar no despacho a que se refere o corpo deste artigo.",
+    "depois": "###### Artigo 11.º\n\nSempre que as empresas pretendam efectivar despedimentos colectivos por motivos diferentes do previsto no artigo 1.º e as circunstâncias o aconselhem, poderão os Ministros da Economia e das Corporações e Previdência Social, em despacho conjunto e fundamentado, mandar aplicar ao pessoal despedido os benefícios previstos neste diploma e, bem assim, definir a comparticipação das empresas nos encargos correspondentes, nos termos estabelecidos no § 1.º do artigo 9.º\n\n§ 1.º Neste caso, a pensão a que se refere o artigo 4.º será substituída por um subsídio temporário a fixar no despacho a que se refere o corpo deste artigo.\n\n§ 2.º O regime de protecção estabelecido neste artigo é aplicável às empresas de todos os sectores de actividade, com excepção da agricultura e da pesca, que tenham mais de dez trabalhadores ao seu serviço.\n\n> Alterado pelo/a [Decreto-Lei n.º 48888](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48888-1969-527591), publicado em 1969-03-01.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:163242:por",
+    "alterador": "pt:dre:527591:por;pt:dre:478074:por"
+  },
+  {
+    "artigo": "12.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º\n\nPara efeitos da aplicação do presente diploma e oportuno conhecimento das situações de desemprego colectivo, as empresas industriais abrangidas por uma reorganização ou que pretendam cessar definitivamente o exercício da sua actividade ou reduzir os quadros do pessoal deverão comunicá-lo ao Ministério das Corporações e Previdência Social com antecedência não inferior a 60 dias, esclarecendo as razões justificativas dessa decisão.\n\n§ 1.º Na comunicação indicar-se-á o nome de todos os trabalhadores da empresa ou das secções afectadas e dos trabalhadores a despedir, data do seu nascimento, categoria, ordenado ou salário e qualificações profissionais, bem como a data de admissão na empresa, pessoas a seu cargo e situação perante as instituições de previdência.\n\n§ 2.º Sempre que ao pessoal a despedir sejam de conceder os benefícios estabelecidos neste diploma, os critérios e condições de despedimento serão fixados em despacho conjunto dos Ministros da Economia e das Corporações e Previdência Social, ouvidas as empresas e os sindicatos interessados.\n\n§ 3.º A comunicação referida no corpo deste artigo é obrigatória para todas as empresas abrangidas por uma reorganização nos termos da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081), e, nos restantes casos, para todas as empresas industriais que tenham mais de dez trabalhadores ao seu serviço.\n\n§ 4.º Entende-se que há redução de quadros quando o pessoal despedido não tenha de ser substituído ou o não seja efectivamente, no prazo de 90 dias.",
+    "depois": "###### Artigo 12.º\n\nPara efeito de aplicação do presente diploma e oportuno conhecimento das situações de desemprego colectivo, as empresas industriais abrangidas por uma reorganização, e bem assim as que se encontram na situação prevista no artigo 11.º e seu § 2.º, deverão comunicar os despedimentos ao Ministério das Corporações e Previdência Social com antecedência não inferior a sessenta dias, esclarecendo as razões justificativas da decisão tomada.\n\n§ 1.º A comunicação será acompanhada da relação de todos os trabalhadores a despedir, contendo, relativamente a cada um deles, os seguintes elementos:\n\nnome, morada, estado civil, datas de nascimento e de admissão na empresa, situação perante a previdência, número de pessoas a cargo, assiduidade nos últimos dois anos, rendimento ou qualificação profissional, secção ou secções afectadas, categoria e classe, ordenado ou salário e data de despedimento.\n\n§ 2.º Sempre que ao pessoal a despedir sejam de conceder os benefícios estabelecidos neste diploma, os critérios e condições de despedimento serão fixados em despacho conjunto dos Ministros da Economia e das Corporações e Previdência Social, ouvidas as empresas e os sindicatos interessados.\n\n§ 3.º Para efeito da aplicação deste diploma, entende-se que não há despedimento se as empresas declararem expressamente, na comunicação a fazer nos termos estabelecidos no corpo deste artigo, que assumem a obrigação de readmitir o pessoal dispensado dentro de sessenta dias. A falta de cumprimento da obrigação assumida fará incorrer as empresas na sanção prevista no artigo 13.º\n\n§ 4.º Entende-se que há redução de quadros quando o pessoal despedido não tenha de ser substituído ou o não seja efectivamente, no prazo de 90 dias.\n\n> Alterado pelo/a [Decreto-Lei n.º 48888](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48888-1969-527591), publicado em 1969-03-01.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:163242:por",
+    "alterador": "pt:dre:527591:por;pt:dre:478074:por"
+  },
+  {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º\n\nO pessoal despedido, ainda não empregado ou reformado, terá preferência no preenchimento das vagas que vierem a verificar-se na empresa donde tiver saído ou naquela em que a mesma tenha sido transformada ou integrada. O mesmo princípio se aplica quando o pessoal já empregado tiver remuneração inferior à que percebia anteriormente.\n\n§ 1.º O Instituto Nacional do Trabalho e Previdência poderá autorizar o preenchimento das vagas de modo diverso, quando a aptidão profissional e física dos trabalhadores se não ajustar às necessidades das empresas.\n\n§ 2.º Se as empresas não derem cumprimento ao determinado no presente artigo, aplicar-se-á o disposto no artigo 13.º",
+    "depois": "###### Artigo 14.º\n\nO pessoal despedido, ainda não empregado ou reformado, terá preferência no preenchimento das vagas que vierem a verificar-se na empresa donde tiver saído ou naquela em que a mesma tenha sido transformada ou integrada, mantendo os direitos que tinha à data do despedimento desde que o reingresso se verifique no prazo de um ano, a contar daquela data. O mesmo princípio se aplica quando o pessoal já empregado tiver remuneração inferior à que percebia anteriormente.\n\n§ 1.º O Instituto Nacional do Trabalho e Previdência poderá autorizar o preenchimento das vagas de modo diverso, quando a aptidão profissional e física dos trabalhadores se não ajustar às necessidades das empresas.\n\n§ 2.º Se as empresas não derem cumprimento ao determinado no presente artigo, aplicar-se-á o disposto no artigo 13.º\n\n> Alterado pelo/a [Decreto-Lei n.º 48888](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48888-1969-527591), publicado em 1969-03-01.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:163242:por",
+    "alterador": "pt:dre:527591:por;pt:dre:478074:por"
+  },
+  {
+    "artigo": "15.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 15.º\n\nAo Ministro das Corporações e Previdência Social competirá promover, por despacho, a adopção das restantes medidas consideradas necessárias à completa execução do presente diploma.\n\n§ único. Para o mesmo efeito, o Ministro das Corporações e Previdência Social poderá determinar que as empresas comerciais e industriais e quaisquer outras enviem, nos prazos que forem designados, os elementos indispensáveis ao conhecimento do mercado da mão-de-obra nos seus diversos aspectos.",
+    "depois": "###### Artigo 15.º\n\nAo Ministro das Corporações e Previdência Social incumbe promover o esclarecimento das dúvidas que resultarem da aplicação deste diploma, tomar as providências necessárias à sua perfeita execução, e bem assim adoptar medidas complementares destinadas à protecção e desenvolvimento da mão-de-obra, designadamente em matéria de concessão de subsídios e outros auxílios, incluindo empréstimos a empresas ou organismos, que integrem o esquema previsto e se julguem indispensáveis a uma mais completa realização dos objectivos pretendidos. Cabe-lhe também promover a criação de centros de aprendizagem e outros centros de formação profissional destinados a auxiliar a promoção social do trabalhador.\n\n§ único. Para o mesmo efeito, o Ministro das Corporações e Previdência Social poderá determinar que as empresas comerciais e industriais e quaisquer outras enviem, nos prazos que forem designados, os elementos indispensáveis ao conhecimento do mercado da mão-de-obra nos seus diversos aspectos.\n\n> Alterado pelo/a [Decreto-Lei n.º 47254](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47254-1966-478074), publicado em 1966-10-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:163242:por",
+    "alterador": "pt:dre:527591:por;pt:dre:478074:por"
+  }
+]

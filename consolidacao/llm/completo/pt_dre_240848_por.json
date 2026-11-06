@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:240848:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1. Nos acordos, o Estado garantirá às empresas algum ou alguns dos seguintes benefícios:\n\na) Consolidação do passivo, nos termos do artigo 9.º;\n\nb) Conversão de dívidas a curto prazo em passivo a médio ou longo prazos;\n\nc) Financiamento a médio e longo prazos, em condições mais favoráveis de prazo e juro, para a aquisição de bens de equipamentos nacionais, previstos no acordo, ou para recomposição do fundo de maneio permanente;\n\nd) Apoio no lançamento de empréstimos por obrigações ou na colocação de outros valores mobiliários;\n\ne) Aumento de capital estatutário, para financiamento de novos investimentos ou para correcção da estrutura financeira da empresa;\n\nf) Comparticipação, até ao limite de 50%, no custo do estudo referido na alínea a) do n.º 1 do artigo 8.º e nas despesas da valorização profissional dos trabalhadores, podendo a parte não comparticipada ser objecto de financiamento, a taxa subsidiada, durante a vigência do acordo;\n\ng) Comparticipação, até ao limite de 30%, no custo dos estudos, projectos e outras acções de reorganização, promoção de mercados, racionalização de produção ou investigação científica e tecnológica, conducente à produção de inovações socialmente úteis, podendo a parte não comparticipada ser objecto de financiamento, a taxa subsidiada, durante a vigência do acordo;\n\nh) A concessão de um subsídio por trabalhador, durante um certo período, caso a empresa tenha sido previamente declarada em situação económica difícil, e enquanto se mantiver nessa situação, e faça prova de lhe ser impossível pagar os salários mínimos em vigor; esse subsídio cobrirá metade da diferença entre os salários que a empresa possa efectivamente pagar e os mínimos referidos, sendo a outra metade suportada pelos trabalhadores;\n\ni) (Revogada.)\n\nj) Outros subsídios que se justifiquem, face à situação e à especialidade da empresa.\n\n2. As espécies de benefícios a conceder, bem como a sua medida e as condições de que depender a sua efectivação, serão rigorosamente fixadas no acordo, graduando-se os benefícios em função das metas e obrigações da empresa.",
+      "alterador": 2
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "",
+      "texto": "As disposições do presente diploma podem ser aplicadas às empresas concessionárias de transportes públicos colectivos urbanos de passageiros, em cujo capital social o Estado detenha a maioria, através de despacho conjunto dos Ministros das Finanças e do Plano e da Tutela, devidamente fundamentado.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 164/78), artigo único: adita o artigo 20.º — aditado letra a letra.",
+    "Alterador 2 (DL 485/88), art. 3.º, n.º 17): revoga a alínea i) do artigo 5.º — alínea passa a 'i) (Revogada.)'.",
+    "Alterador 2, restantes números dos arts. 1.º a 3.º: revogam benefícios de outros diplomas — ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

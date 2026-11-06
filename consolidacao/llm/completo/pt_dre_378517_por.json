@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:378517:por",
+  "artigos": [
+    {
+      "chave": "55.º",
+      "epigrafe": "(Estatuto laboral)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do artigo 55.º (n.os 1 e 2); substituída depois pela revogação.",
+    "Alterador 2: revogado o artigo 55.º; corpo \"(Revogado.)\"."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

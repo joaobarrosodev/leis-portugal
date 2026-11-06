@@ -1,0 +1,50 @@
+{
+  "id": "pt:dre:291436:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Âmbito",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Definições",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Actividades do Sistema",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Competência do responsável pela farmacovigilância",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Confidencialidade",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Disposições finais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 263/2002, art. 2.º: revoga a Portaria n.º 487/94, salvo o modelo do anexo I (que não está no texto por artigos); os artigos 1.º a 6.º ficam (Revogado.).",
+    "DL 263/2002, art. 1.º e anexo: aprova um novo Regulamento autónomo; não é alteração textual do original, não aplicado ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

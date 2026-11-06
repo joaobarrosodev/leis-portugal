@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:643961:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Todas as instruções dirigidas ao original alteram apenas os anexos I, III e IV (quadros de efectivos, apêndices de comandos e subunidades), que não estão no texto atual por artigos e em parte só vêm em imagem (DL 264/84, art. 2.º, n.º 2; DL 333/84, anexos I e II; Portaria 212/98, mapa anexo); nenhum artigo do corpo do diploma é alterado textualmente.",
+  "instrucoes": [
+    "Alterador 1 (DL 264/84): retira Barcelos do apêndice 5 e adita-o ao apêndice 4 do anexo III; aumenta o quadro geral do anexo I; dá nova redação ao apêndice 13 do anexo IV (só em imagem). Alterações a anexos, não aplicadas ao texto dos artigos.",
+    "Alterador 2 (Portaria 651/84): desactiva o posto de Vieira de Leiria ao abrigo do artigo 8.º; não altera texto do original.",
+    "Alterador 3 (DL 333/84): extingue o apêndice 3 do anexo IV, substitui o apêndice 2 (anexo I em imagem), acresce lugares ao apêndice 1 (anexo II em imagem); art. 5.º remete para portaria. Alterações a anexos, não aplicadas.",
+    "Alterador 4 (DL 223/86): adita a Esquadra de Monsanto ao apêndice 4 do anexo III e ao apêndice 5 do anexo IV; aumenta o anexo I. Alterações a anexos, não aplicadas.",
+    "Alterador 5 (Portaria 151/88): fixa abonos de alimentação nas Forças Armadas; não contém instrução dirigida ao original.",
+    "Alteradores 6 a 13 (Portarias 170/88, 100/90, 98/90, 99/90, 97/90, 365/90, 427/90, 478/90): aumentam o quadro geral do anexo I e consideram alterados os anexos III e IV; alterações a anexos sem texto de artigo, não aplicadas.",
+    "Alterador 14 (Portaria 212/98): substitui o quadro geral de efectivos pelo mapa anexo (só em imagem); não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

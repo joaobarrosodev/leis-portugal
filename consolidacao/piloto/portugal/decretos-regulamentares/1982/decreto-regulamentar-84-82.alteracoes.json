@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "55.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 55.º — (Estatuto laboral)\n\nO estatuto laboral dos trabalhadores das associações de beneficiários será estabelecido por portaria conjunta dos Ministros da Agricultura, Comércio e Pescas e do Trabalho.",
+    "depois": "###### Artigo 55.º — (Estatuto laboral)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-1996-405309), publicado em 1996-08-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:378517:por",
+    "alterador": "pt:dre:405309:por"
+  }
+]

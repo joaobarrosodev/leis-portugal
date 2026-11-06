@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:461650:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "(Local e realização de matrículas)",
+      "alterador": 2,
+      "texto": "1 - Em localidades onde exista ensino oficial, as matrículas são efectuadas na escola da área da residência do aluno, à data de matrícula.\n\n2 - Em localidade onde não exista ensino oficial, as matrículas fazem-se na escola da localidade que ofereça melhores condições naturais de acesso.\n\n3 - Serão presentes, a despacho ministerial, as situações devidamente comprovadas pelas entidades escolares, em que se verifique dificuldade na aplicação do disposto no n.º 1 do presente artigo."
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "(Fixação do corpo docente)",
+      "alterador": 3,
+      "texto": "1 - O corpo docente das escolas é fixado em função da relação professor/aluno definida nos termos seguintes:\n\n1.1 - Em escolas com um número limite de 137 alunos:\n\na) Até 26 alunos - 1 lugar docente;\n\nb) De 27 a 50 alunos - 2 lugares docentes;\n\nc) De 51 a 75 alunos - 3 lugares docentes;\n\nd) De 76 a 100 alunos - 4 lugares docentes;\n\ne) De 101 a 137 alunos - 5 lugares docentes.\n\n1.2 - Em escolas com 138 ou mais alunos o número de lugares docentes é igual ao quociente arredondado da divisão por 25 do total dos alunos.\n\n2 - A relação professor/aluno definida no número anterior pode ser alterada em casos especiais devidamente justificados, definidos em despacho ministerial."
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "(Provimento em instituições de solidariedade social e tutelares de menores)",
+      "alterador": 1,
+      "texto": "1 - Os provimentos dos lugares das escolas oficiais que funcionem em estabelecimentos de solidariedade social e tutelares de menores são feitos nos termos da lei geral.\n\n2 - Em relação aos cursos oficiais do ensino básico que funcionam já em instituições privadas de solidariedade social e na Direcção-Geral dos Serviços Tutelares de Menores, os provimentos referidos no número anterior obedecerão a critérios a definir por despacho do Ministro da Educação e das Universidades e do Ministro da Reforma Administrativa, bem como dos Ministros da Justiça e dos Assuntos Sociais, conforme os casos."
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 301/81, art. 1.º): nova redação dos n.os 1 e 2 do art. 18.º e nova epígrafe; aplicada.",
+    "Alterador 2 (DL 124/83): nova redação do art. 2.º, n.os 1 e 2 '...' (mantidos) e aditado n.º 3; aplicada.",
+    "Alterador 3 (DL 460/85, art. 1.º): nova redação dos n.os 1.1 e 1.2 do art. 5.º; n.os 1 e 2 mantidos; aplicada.",
+    "Alterador 4 (DL 20/2006, art. 69.º): mantém em vigor o art. 22.º, sem alteração textual: nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

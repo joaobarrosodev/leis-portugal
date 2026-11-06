@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "56.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 56.º\n\n1. O pessoal dos hospitais e serviços da organização hospitalar, bem como todos os que ali exerçam funções por eles remunerados, temporárias ou permanentes, ficam sujeitos ao regime disciplinar dos servidores civis do Estado.\n\n2. A este regime podem ser introduzidas alterações no Regulamento Geral dos Hospitais, no que respeita aos estabelecimentos das Misericórdias e demais instituições de assistência particular, para o adaptar à natureza específica dos mesmos.\n\n3. A distribuição da competência disciplinar relativa ao pessoal dos estabelecimentos e serviços administrados por instituições de assistência particular constará também do Regulamento Geral dos Hospitais.\n\n4. O pessoal religioso tem estatuto especial.",
+    "depois": "###### Artigo 56.º\n\n1. O pessoal dos hospitais e serviços da organização hospitalar, bem como todos os que ali exerçam funções por eles remunerados, temporárias ou permanentes, ficam sujeitos ao regime disciplinar dos servidores civis do Estado.\n\n2. A este regime podem ser introduzidas alterações no Regulamento Geral dos Hospitais, no que respeita aos estabelecimentos das Misericórdias e demais instituições de assistência particular, para o adaptar à natureza específica dos mesmos.\n\n3. A distribuição da competência disciplinar relativa ao pessoal dos estabelecimentos e serviços administrados por instituições de assistência particular constará também do Regulamento Geral dos Hospitais.\n\n4 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 253/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-2009-490426), publicado em 2009-09-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:274639:por",
+    "alterador": "pt:dre:490426:por"
+  },
+  {
+    "artigo": "83.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 83.º\n\n1. A assistência religiosa católica aos doentes em tratamento nos hospitais é assegurada nos termos da concordata com a Santa Sé.\n\n2. Devem ser dadas todas as facilidades a doentes de fé não católica para a assistência religiosa que solicitarem.",
+    "depois": "###### Artigo 83.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 253/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-2009-490426), publicado em 2009-09-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:274639:por",
+    "alterador": "pt:dre:490426:por"
+  },
+  {
+    "artigo": "84.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 84.º\n\n1. Os encargos da assistência continuam a ser liquidados e pagos de harmonia com o disposto no [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710).\n\n2. Quanto aos hospitais escolares, os encargos resultantes da assistência prestada por interesse científico e os resultantes da utilização de serviços comuns dos edifícios hospitalares serão objecto de acordo a celebrar entre os Ministérios das Finanças, da Educação Nacional e da Saúde e Assistência.",
+    "depois": "###### Artigo 84.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 253/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-2009-490426), publicado em 2009-09-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:274639:por",
+    "alterador": "pt:dre:490426:por"
+  }
+]

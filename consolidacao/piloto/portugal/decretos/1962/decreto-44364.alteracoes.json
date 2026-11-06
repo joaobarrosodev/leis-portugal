@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nAlém dos vencimentos referidos no artigo anterior, o pessoal técnico das missões e brigadas pode ser abonado, quando em exercício nas províncias ultramarinas, de subsídios diário e de campo, a fixar por despacho do Ministro do Ultramar ou, por sua delegação, pelos governos das províncias, observado o disposto nos §§ 1.º e 2.º do artigo 3.º do Estatuto do Funcionalismo Ultramarino.\n\n§ único. Os quantitativos dos subsídios diário e de campo e as condições do seu abono e processamento serão fixados tendo em conta a província, categoria do pessoal, a violência do trabalho, custo de vida, grau de isolamento e quaisquer outras circunstâncias especiais que caracterizem o desempenho da função.",
+    "depois": "###### Artigo 7.º\n\nAlém dos vencimentos referidos no artigo anterior, o pessoal técnico das missões e brigadas pode ser abonado, quando em exercício nas províncias ultramarinas, de subsídios diários e de campo, a fixar por despacho do Ministro do Ultramar ou, por sua delegação, pelos governadores das províncias.\n\n§ único. Os quantitativos dos subsídios diário e de campo e as condições do seu abono e processamento serão fixados tendo em conta a província, categoria do pessoal, a violência do trabalho, custo de vida, grau de isolamento e quaisquer outras circunstâncias especiais que caracterizem o desempenho da função.\n\n> Alterado pelo/a [Decreto n.º 45083](https://diariodarepublica.pt/dr/detalhe/decreto/45083-1963-627387), publicado em 1963-06-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:164415:por",
+    "alterador": "pt:dre:627387:por"
+  }
+]

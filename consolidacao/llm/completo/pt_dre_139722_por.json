@@ -1,0 +1,48 @@
+{
+  "id": "pt:dre:139722:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1. A reavaliação dos bens do activo imobilizado corpóreo de empresas privadas de demonstrada viabilidade económica e que sejam objecto de saneamento económico-financeiro, directamente acompanhado pelo Estado ou por entidade por este designada para o efeito, incluindo as empresas sob intervenção do Estado, será considerada para efeitos fiscais, nos termos do presente diploma, desde que tal reavaliação seja requerida no prazo de um ano a contar da data de publicação do presente diploma.\n\n2. O disposto no número anterior é extensivo às empresas públicas, desde que a avaliação seja requerida no prazo de um ano a contar da data da publicação do presente diploma.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1. Na determinação do lucro tributável, nos termos do Código da Contribuição Industrial, das empresas que tenham procedido à reavaliação prevista no presente diploma, aceitar-se-ão, como custos do exercício, e tratando-se de bens ainda não totalmente amortizados, as amortizações calculadas com base no valor reavaliado, aplicando-se, no demais, as regras estabelecidas na [Portaria n.º 21867](https://diariodarepublica.pt/dr/detalhe/portaria/21867-1966-488132), de 12 de Fevereiro de 1966, e outra legislação aplicável.\n\n2. Tratando-se de bens já totalmente amortizados à data da reavaliação, aceitar-se-ão como custos do exercício as amortizações calculadas de harmonia com a regra estabelecida no n.º 5 da [Portaria n.º 21867](https://diariodarepublica.pt/dr/detalhe/portaria/21867-1966-488132), de 12 de Fevereiro de 1966, para os bens reavaliados nos termos da [Portaria n.º 20258](https://diariodarepublica.pt/dr/detalhe/portaria/20258-1963-680463), de 28 de Dezembro de 1963, e com observância, na parte aplicável, das demais regras estabelecidas na referida [Portaria n.º 21867](https://diariodarepublica.pt/dr/detalhe/portaria/21867-1966-488132).\n\n3 - Os bens reavaliados figurarão em mapas autónomos, do modelo n.º 7, a que se refere a alínea c) do artigo 46.º do Código da Contribuição Industrial, com menção ao presente diploma, na parte superior, e, quanto aos bens que não estavam ainda totalmente amortizados, na coluna (4), do valor de reavaliação, e na coluna (9), do valor das amortizações actualizadas feitas nos exercícios anteriores.",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "1. Se as empresas venderem bens depois de reavaliados, deverão investir o preço da venda no prazo de um ano, a partir da alienação.\n\n2 - Na falta de reinvestimento, nos termos do número anterior, será a reavaliação considerada nula para efeito de determinação da matéria colectável, nos termos do Código da Contribuição Industrial.\n\n3. No caso de só parte do preço ser reinvestido, aplica-se o disposto no número anterior, na proporção da parte não reinvestida para o total.",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º-A",
+      "epigrafe": "",
+      "texto": "1 - Os movimentos resultantes da reavaliação são registados a débito e a crédito de uma subconta denominada «Reserva de reavaliação - [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril».\n\n2 - O saldo da subconta mencionada no número anterior, excepto nos casos de dissolução da empresa, só pode ser utilizado para aumento de capital e cobertura de prejuízos, sendo qualquer outra utilização considerada como proveito para efeitos fiscais no exercício em que a mesma se verificar, sem prejuízo da multa cominada no artigo 6.º-B.",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º-B",
+      "epigrafe": "",
+      "texto": "A infracção ao disposto no n.º 2 do artigo anterior será punida com multa de 20000$00 a 500000$00, a aplicar nos termos do Código de Processo das Contribuições e Impostos, na qual incorrerão solidariamente entre si o contribuinte, os directores, administradores, gerentes e membros do conselho fiscal, em exercício ao tempo em que foi cometida a infracção.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 3 (DL 280/78), art. 3.º, e alterador 5 (DL 66/79): novas redações das regras 1, 2, 3 e 7 do anexo — o anexo (regras para a reavaliação) não está no texto atual, pelo que não foram aplicadas. Alteradores 2, 4, 6, 7, 8, 9 e 10: prorrogações do prazo dos n.os 1 e 2 do art. 1.º sem nova redação do texto — não textuais, não aplicadas.",
+  "instrucoes": [
+    "Alt. 1 (DL 353-B/77): aditado n.º 2 ao art. 1.º; o texto atual passa a n.º 1 — aplicado.",
+    "Alt. 2, 4, 6, 7, 8, 9, 10: prorrogação do prazo do art. 1.º (até 1978, 1979, 1980, 1981, 1984, 1985, 1988) — não textual, em nao_aplicavel.",
+    "Alt. 3 art. 1.º: nova redação do n.º 3 do art. 5.º e do n.º 2 do art. 6.º — aplicadas, copiadas do alterador.",
+    "Alt. 3 art. 2.º: aditados os arts. 6.º-A e 6.º-B — aplicados.",
+    "Alt. 3 art. 3.º: regras 1, 2, 3 e 7 do anexo — anexo ausente do texto atual, em nao_aplicavel.",
+    "Alt. 5 (DL 66/79): regra 3 do anexo — anexo ausente, em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

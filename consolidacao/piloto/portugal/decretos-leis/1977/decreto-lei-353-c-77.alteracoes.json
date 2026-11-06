@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\n1. Nos acordos, o Estado garantirá às empresas algum ou alguns dos seguintes benefícios:\n\na) Consolidação do passivo, nos termos do artigo 9.º;\n\nb) Conversão de dívidas a curto prazo em passivo a médio ou longo prazos;\n\nc) Financiamento a médio e longo prazos, em condições mais favoráveis de prazo e juro, para a aquisição de bens de equipamentos nacionais, previstos no acordo, ou para recomposição do fundo de maneio permanente;\n\nd) Apoio no lançamento de empréstimos por obrigações ou na colocação de outros valores mobiliários;\n\ne) Aumento de capital estatutário, para financiamento de novos investimentos ou para correcção da estrutura financeira da empresa;\n\nf) Comparticipação, até ao limite de 50%, no custo do estudo referido na alínea a) do n.º 1 do artigo 8.º e nas despesas da valorização profissional dos trabalhadores, podendo a parte não comparticipada ser objecto de financiamento, a taxa subsidiada, durante a vigência do acordo;\n\ng) Comparticipação, até ao limite de 30%, no custo dos estudos, projectos e outras acções de reorganização, promoção de mercados, racionalização de produção ou investigação científica e tecnológica, conducente à produção de inovações socialmente úteis, podendo a parte não comparticipada ser objecto de financiamento, a taxa subsidiada, durante a vigência do acordo;\n\nh) A concessão de um subsídio por trabalhador, durante um certo período, caso a empresa tenha sido previamente declarada em situação económica difícil, e enquanto se mantiver nessa situação, e faça prova de lhe ser impossível pagar os salários mínimos em vigor; esse subsídio cobrirá metade da diferença entre os salários que a empresa possa efectivamente pagar e os mínimos referidos, sendo a outra metade suportada pelos trabalhadores;\n\ni) Benefícios fiscais previstos na lei;\n\nj) Outros subsídios que se justifiquem, face à situação e à especialidade da empresa.\n\n2. As espécies de benefícios a conceder, bem como a sua medida e as condições de que depender a sua efectivação, serão rigorosamente fixadas no acordo, graduando-se os benefícios em função das metas e obrigações da empresa.",
+    "depois": "###### Artigo 5.º\n\n1. Nos acordos, o Estado garantirá às empresas algum ou alguns dos seguintes benefícios:\n\na) Consolidação do passivo, nos termos do artigo 9.º;\n\nb) Conversão de dívidas a curto prazo em passivo a médio ou longo prazos;\n\nc) Financiamento a médio e longo prazos, em condições mais favoráveis de prazo e juro, para a aquisição de bens de equipamentos nacionais, previstos no acordo, ou para recomposição do fundo de maneio permanente;\n\nd) Apoio no lançamento de empréstimos por obrigações ou na colocação de outros valores mobiliários;\n\ne) Aumento de capital estatutário, para financiamento de novos investimentos ou para correcção da estrutura financeira da empresa;\n\nf) Comparticipação, até ao limite de 50%, no custo do estudo referido na alínea a) do n.º 1 do artigo 8.º e nas despesas da valorização profissional dos trabalhadores, podendo a parte não comparticipada ser objecto de financiamento, a taxa subsidiada, durante a vigência do acordo;\n\ng) Comparticipação, até ao limite de 30%, no custo dos estudos, projectos e outras acções de reorganização, promoção de mercados, racionalização de produção ou investigação científica e tecnológica, conducente à produção de inovações socialmente úteis, podendo a parte não comparticipada ser objecto de financiamento, a taxa subsidiada, durante a vigência do acordo;\n\nh) A concessão de um subsídio por trabalhador, durante um certo período, caso a empresa tenha sido previamente declarada em situação económica difícil, e enquanto se mantiver nessa situação, e faça prova de lhe ser impossível pagar os salários mínimos em vigor; esse subsídio cobrirá metade da diferença entre os salários que a empresa possa efectivamente pagar e os mínimos referidos, sendo a outra metade suportada pelos trabalhadores;\n\ni) (Revogada.)\n\nj) Outros subsídios que se justifiquem, face à situação e à especialidade da empresa.\n\n2. As espécies de benefícios a conceder, bem como a sua medida e as condições de que depender a sua efectivação, serão rigorosamente fixadas no acordo, graduando-se os benefícios em função das metas e obrigações da empresa.\n\n> Alterado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:240848:por",
+    "alterador": "pt:dre:401901:por;pt:dre:298034:por"
+  },
+  {
+    "artigo": "20.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 20.º\n\nAs disposições do presente diploma podem ser aplicadas às empresas concessionárias de transportes públicos colectivos urbanos de passageiros, em cujo capital social o Estado detenha a maioria, através de despacho conjunto dos Ministros das Finanças e do Plano e da Tutela, devidamente fundamentado.\n\n> Aditado pelo/a [Decreto-Lei n.º 164/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1978-298034), publicado em 1978-07-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:240848:por",
+    "alterador": "pt:dre:401901:por;pt:dre:298034:por"
+  }
+]

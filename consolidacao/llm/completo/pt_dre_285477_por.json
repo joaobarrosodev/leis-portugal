@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:285477:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Os quadros de pessoal das Escolas de Enfermagem de Artur Ravara, Beja, Bissaia Barreto, Bragança, Calouste Gulbenkian de Braga, Calouste Gulbenkian de Lisboa, D. Ana Guedes, Dr. Ângelo da Fonseca, Dr. Lopes Dias, Faro, Francisco Gentil, Guarda, Leiria, Portalegre, Santarém, São João, São João de Deus, Viana do Castelo, Vila Real e Viseu passam a ser os constantes ao anexo ao presente decreto-lei, que dele faz parte integrante.",
+      "alterador": 6
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Os alteradores 1 a 5, 7 a 62 (portarias) e o artigo 3.º do alterador 6 (Decreto-Lei n.º 290/91) alteram, substituem ou acrescentam quadros de pessoal do anexo que só existem em imagem ('ver documento original'); não há texto para aplicar. O artigo 2.º do Decreto-Lei n.º 290/91 é norma autónoma, não altera o original.",
+  "instrucoes": [
+    "Alterador 6 (DL 290/91), art. 1.º: nova redação do artigo 1.º (acrescenta Francisco Gentil) — aplicada letra a letra.",
+    "Alterador 6, art. 3.º: acrescenta ao anexo o quadro da Escola de Francisco Gentil — só em imagem, não aplicado.",
+    "Alterador 6, art. 2.º: transição do secretário para chefe de repartição — norma própria, não altera o texto do original.",
+    "Alteradores 1-5 e 7-62: alteram/substituem quadros de pessoal do anexo, publicados só em imagem — não aplicados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

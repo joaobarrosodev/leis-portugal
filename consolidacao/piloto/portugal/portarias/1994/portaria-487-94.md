@@ -44,9 +44,9 @@ Regulamento do Sistema Nacional de Farmacovigilância e Toxicologia Veterinária
 
 ###### Artigo 1.º — Âmbito
 
-1 - O Sistema Nacional de Farmacovigilância e Toxicologia Veterinária, adiante designado por Sistema, compreende a recolha sistemática de informação de reacções nocivas e involuntárias, ocorridas nos animais e, eventualmente, no homem quando expostos a medicamentos e outros produtos de uso veterinário, utilizados no domínio da produção e saúde animal, e a avaliação daquela informação.
+(Revogado.)
 
-2 - Sem prejuízo do disposto no artigo 4.º do presente Regulamento, as reacções referidas no número anterior devem ser objecto de notificação pelos médicos veterinários.
+> Revogado pelo/a [Decreto-Lei n.º 263/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2002-448158), publicado em 2002-11-25.
 
 ###### Artigo 2.º — Definições
 
@@ -56,51 +56,27 @@ Regulamento do Sistema Nacional de Farmacovigilância e Toxicologia Veterinária
 
 ###### Artigo 3.º — Actividades do Sistema
 
-As actividades do Sistema consistem, designadamente, em:
+(Revogado.)
 
-a) Proceder à recolha sistemática de informação e análise das notificações recebidas;
-
-b) Consultar, sempre que se revele conveniente, peritos e representantes de entidades públicas e privadas ligadas à investigação, ao ensino e à indústria, com vista à emissão de pareceres especializados;
-
-c) Comunicar ao responsável pela introdução no mercado todas as notificações recebidas de reacção adversa grave referente a um seu produto;
-
-d) Facultar a participação do responsável pela introdução no mercado, representado pela pessoa designada no artigo 4.º, na discussão e análise referente à informação do produto em questão;
-
-e) Propor acções de natureza preventiva ou outras, nomeadamente a efectivação de diligências com vista a alterar, suspender ou revogar a autorização de introdução no mercado de medicamentos e outros produtos de uso veterinário, sempre que os motivos se enquadrem no âmbito do presente diploma;
-
-f) Assegurar os compromissos decorrentes da cooperação internacional sobre a matéria, designadamente os inerentes ao ponto de contacto nacional no Sistema Comunitário de Alerta Rápido e os relacionados com o Grupo de Trabalho de Farmacovigilância Veterinária, no âmbito do Comité dos Medicamentos Veterinários;
-
-g) Promover a publicação periódica de informação sobre a matéria.
+> Revogado pelo/a [Decreto-Lei n.º 263/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2002-448158), publicado em 2002-11-25.
 
 ###### Artigo 4.º — Competência do responsável pela farmacovigilância
 
-As empresas responsáveis pela introdução no mercado de medicamentos e outros produtos de uso veterinário devem comunicar ao IPPAA, no prazo de 90 dias a contar da data de publicação do presente Regulamento, o nome do técnico qualificado responsável pela farmacovigilância, a quem compete:
+(Revogado.)
 
-a) Criar e manter um sistema de registo de todas as reacções nocivas e involuntárias comunicadas à empresa, nomeadamente ao seu departamento técnico-comercial;
-
-b) Assegurar a comunicação ao IPPAA das notificações recebidas, do seguinte modo:
-
-i) Nos sete dias seguintes à recepção, as reacções adversas graves, compreendendo as notificações provenientes de países terceiros, as informações respeitantes à ocorrência de reacções nocivas no homem e, caso haja a suspeita em relação a um lote de produto, todas as suspeitas de reacções adversas que envolvam esse lote;
-
-ii) Nos 30 dias seguintes à recepção, todas as notificações (anexo I) recebidas directamente dos prescritores ou utilizadores dos produtos de uso veterinário;
-
-iii) Enviar semestralmente, nos dois primeiros anos a contar da data de autorização de introdução no mercado, a informação prevista no modelo de relatório sumário constante do anexo II ao presente Regulamento, referente aos medicamentos e outros produtos de uso veterinário e anualmente nos três anos subsequentes. Posteriormente, estes relatórios devem ser submetidos quinquenalmente, acompanhando o pedido de renovação da autorização;
-
-c) Assegurar a resposta aos pedidos de informação ou investigação adicional que seja solicitada pelo IPPAA, incluindo informações sobre o volume de vendas ou de prescrições referentes ao produto em questão e, bem assim, as notificações recebidas sobre as suspeitas de reacções adversas ocorridas em países terceiros;
-
-d) Preparar estudos realizados após a introdução no mercado do produto em questão, sempre que estes sejam uma condição para a concessão de autorização;
-
-e) Comunicar ao IPPAA, no prazo de 30 dias, sempre que proceda à retirada do mercado de um produto ou de um lote, quando esta decisão se fundamente em motivos relacionados com a qualidade, segurança e eficácia ou por questões de saúde pública em geral, bem como respectivos fundamentos.
+> Revogado pelo/a [Decreto-Lei n.º 263/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2002-448158), publicado em 2002-11-25.
 
 ###### Artigo 5.º — Confidencialidade
 
-1 - A confidencialidade referente ao notificante deve ser respeitada sempre que seja solicitada.
+(Revogado.)
 
-2 - Após investigação subsequente a uma notificação, em que se prove que não há relação entre a ocorrência da reacção manifestada e o produto administrado, devem ser tomadas as medidas necessárias de modo a excluir aquela informação da publicação prevista na alínea g) do artigo 3.º do presente Regulamento.
+> Revogado pelo/a [Decreto-Lei n.º 263/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2002-448158), publicado em 2002-11-25.
 
 ###### Artigo 6.º — Disposições finais
 
-Em face da evolução neste domínio, pode ser criada uma comissão de farmacovigilância e toxicologia veterinária, cuja composição e funções são definidas por despacho do Ministro da Agricultura, sob proposta do conselho directivo do IPPAA.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 263/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2002-448158), publicado em 2002-11-25.
 
 ## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/152b00/35153517.pdf)
 

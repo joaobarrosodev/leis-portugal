@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:164415:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "Além dos vencimentos referidos no artigo anterior, o pessoal técnico das missões e brigadas pode ser abonado, quando em exercício nas províncias ultramarinas, de subsídios diários e de campo, a fixar por despacho do Ministro do Ultramar ou, por sua delegação, pelos governadores das províncias.\n\n§ único. Os quantitativos dos subsídios diário e de campo e as condições do seu abono e processamento serão fixados tendo em conta a província, categoria do pessoal, a violência do trabalho, custo de vida, grau de isolamento e quaisquer outras circunstâncias especiais que caracterizem o desempenho da função.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Decreto n.º 45083), art. 32.º: nova redação do corpo do artigo 7.º; aplicada, mantido o § único atual.",
+    "Alterador 1, restantes artigos: alteram outros diplomas ou são normas autónomas; ignorados.",
+    "Alterador 2 (Portaria n.º 10/73): altera a Portaria n.º 21312, não o Decreto n.º 44364; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}
