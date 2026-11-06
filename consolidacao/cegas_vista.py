@@ -28,6 +28,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+from difflib import SequenceMatcher
 from pathlib import Path
 
 from texto import RAIZ
@@ -55,7 +56,23 @@ def blocos(texto: str) -> list[tuple[str, str]]:
     return resultado
 
 
+def comparar_corrido(d: dict) -> dict:
+    """Original sem artigos (`modo: corrido`, ver `llm_corrido.py`): os parágrafos comparam-se
+    com `difflib`; cada trecho que muda é um "artigo" da vista (`Trecho 1`, …)."""
+    def paragrafos(t: str) -> list[str]:
+        return [p.strip() for p in re.split(r"\n{2,}", t) if p.strip()]
+
+    antes, depois = paragrafos(d["texto_original"]), paragrafos(d["texto_consolidado"])
+    diferentes = []
+    for tipo, i1, i2, j1, j2 in SequenceMatcher(None, antes, depois, autojunk=False).get_opcodes():
+        if tipo != "equal":
+            diferentes.append((f"Trecho {len(diferentes) + 1}", "\n\n".join(antes[i1:i2]) or None, "\n\n".join(depois[j1:j2])))
+    return {"diferentes": diferentes, "iguais": [], "removidos": []}
+
+
 def comparar(d: dict) -> dict:
+    if d.get("modo") == "corrido":
+        return comparar_corrido(d)
     original = blocos(d.get("texto_original_com_titulos") or d["texto_original"])
     consolidado = blocos(d["texto_consolidado"])
     por_chave = dict(original)
@@ -74,8 +91,9 @@ def vista(d: dict) -> str:
         f"Alterador completo: {str(d['alterador_completo']).lower()}",
         f"Títulos normalizados: {str(bool(d.get('titulos_normalizados'))).lower()}", "",
         "### TEXTO DO DIPLOMA QUE ALTERA", d["texto_alterador"].strip(), "",
-        f"### ARTIGOS DO CONSOLIDADO IGUAIS AO ORIGINAL ({len(c['iguais'])})", "; ".join(c["iguais"]) or "(nenhum)", "",
-        f"### ARTIGOS DO CONSOLIDADO QUE DIFEREM DO ORIGINAL ({len(c['diferentes'])})",
+        *(["### TEXTO DO ORIGINAL (inteiro, sem artigos: os trechos abaixo são os parágrafos que mudaram; o resto ficou igual)", d["texto_original"].strip(), ""] if d.get("modo") == "corrido" else
+          [f"### ARTIGOS DO CONSOLIDADO IGUAIS AO ORIGINAL ({len(c['iguais'])})", "; ".join(c["iguais"]) or "(nenhum)", ""]),
+        f"### {'TRECHOS' if d.get('modo') == 'corrido' else 'ARTIGOS'} DO CONSOLIDADO QUE DIFEREM DO ORIGINAL ({len(c['diferentes'])})",
     ]
     for chave, antes, depois in c["diferentes"]:
         linhas += [f"#### ARTIGO: {chave}", "--- ORIGINAL" if antes is not None else "--- ORIGINAL: (não existe: artigo novo)"]

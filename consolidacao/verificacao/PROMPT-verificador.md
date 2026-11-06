@@ -15,3 +15,7 @@ Regras:
 Saída: um ficheiro JSON (indicado na tarefa) com uma lista, um objeto por diploma, TODOS os diplomas do ficheiro:
 `{"id": "<id do DIPLOMA>", "artigos": [{"artigo": "<chave exacta do ARTIGO: ...>", "veredicto": "certo|errado|dúvida", "motivo": "...", "texto_esperado": "..."}], "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}`
 Um item em `artigos` para cada "#### ARTIGO:" (diferem e removidos). Motivo curto. Escreve o JSON com a ferramenta Write; confirma que são válidos e que respondes a todos os ids da vista (conta os "## DIPLOMA").
+
+## Diplomas sem artigos (texto corrido)
+
+Quando um diploma vem com "TEXTO DO ORIGINAL (inteiro…)" e "TRECHOS DO CONSOLIDADO QUE DIFEREM", o original não tem artigos: portaria, resolução ou despacho em texto corrido. Os "ARTIGO: Trecho N" são os parágrafos que mudaram (os outros são iguais ao original, que tens inteiro: uma instrução que visava um deles vai em `instrucoes_em_falta`). Um trecho `certo` copia letra a letra a nova redação do diploma que altera, com o texto original onde a instrução diz "[...]". As notas "> Alterado pelo/a …" já foram retiradas. A chave de `artigos` é "Trecho N", tal como aparece.
