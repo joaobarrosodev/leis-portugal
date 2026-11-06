@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:565420:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1424/2004), ponto 1.º: o anexo (plano de estudos, unidades 13-15) passa a ter a redacção do anexo da Portaria n.º 1424/2004, cujos quadros n.os 1 a 3 só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do anexo (quadros só em imagem) — não aplicado, ver nao_aplicavel.",
+    "Alterador 1, 2.º a 6.º: normas autónomas da própria Portaria n.º 1424/2004 (duração do ano lectivo, estágio, número de alunos, transição, aplicação), não alteram o texto do original — nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

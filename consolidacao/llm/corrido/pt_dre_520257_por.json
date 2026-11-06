@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:520257:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 6,
+      "texto": "A República Portuguesa é Parte na Convenção, a qual foi aprovada pelo [Decreto-Lei n.º 41378](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41378-1957-251836), publicado no Diário do Governo, 1.ª série, n.º 262, de 19 de Novembro de 1957.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retificação; o 'onde se lê' abrange os dois parágrafos (unidades 5 e 6), substituídos pelo único parágrafo do 'deve ler-se'. A citação diz 'conforme o Aviso' e o texto atual 'conforme o aviso' (diferença só de maiúscula; alvo inequívoco)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

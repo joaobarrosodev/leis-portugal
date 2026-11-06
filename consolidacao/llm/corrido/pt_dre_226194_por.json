@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:226194:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º Pela presente portaria é renovada, por um período de 10 anos, a concessão da zona de caça associativa da Herdade da Froia (processo n.º 1290-DGF), abrangendo vários prédios rústicos sitos nas freguesias de Chancelaria e Alter do Chão, município de Alter do Chão, com a área de 903 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2 do artigo único: a planta anexa é substituída por outra que só existe em imagem no documento original; não há texto a aplicar à unidade 10.",
+  "instrucoes": [
+    "Alterador 1, art. único n.º 1: nova redação do n.º 1.º (área passa a 903 ha); substituída a unidade 7.",
+    "Alterador 1, art. único n.º 2: substituição da planta anexa (imagem); não aplicada, ver nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

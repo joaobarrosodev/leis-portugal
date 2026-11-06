@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º As margens máximas de comercialização permitidas ao grossista e ao retalhista são, respectivamente, de 8% e 10% sobre o preço líquido de factura do produtor, não podendo aquelas percentagens ser adicionadas de quaisquer outras despesas e encargos.",
+    "depois": "3.º As margens máximas de comercialização permitidas ao grossista e ao retalhista são, respectivamente, de 10% e 15% sobre o preço líquido de factura do produtor, não podendo aquelas percentagens ser adicionadas de quaisquer outras despesas e encargos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:500699:por",
+    "alterador": "pt:dre:429870:por"
+  }
+]

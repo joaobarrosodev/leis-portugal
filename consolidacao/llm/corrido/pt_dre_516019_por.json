@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:516019:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "c) Um representante do Instituto de Desenvolvimento Rural e Hidráulica;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 24,
+      "texto": "l) Um representante do Instituto da Conservação da Natureza.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "RCM 2/2003: nova redação da alínea c) do n.º 4 (unidade 17) e aditamento da alínea l) ao n.º 4, inserida após a alínea j) (unidade 24); a letra 'l)' e a pontuação da alínea j) mantêm-se como no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

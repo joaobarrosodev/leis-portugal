@@ -30,6 +30,7 @@ from __future__ import annotations
 
 import argparse
 import json
+from difflib import SequenceMatcher
 import random
 import re
 from dataclasses import asdict
@@ -38,8 +39,10 @@ from pathlib import Path
 from aplicar import Registo
 from cegas import _texto_alterador
 from consolidar import PILOTO, _markdown
-from llm_completo import _alteradores, _aprovados, verificar_resposta
+from llm import _alteradores as _alteradores_da_selecao
+from llm_completo import _alteradores, _aprovados
 from texto import RAIZ, Corpo, front_matter, publicado
+from verificar import _REVOGADO, _plano
 
 
 PASTA = RAIZ / "consolidacao"
@@ -175,6 +178,52 @@ def pedidos(ids: list[str], por_ficheiro: int, pasta: Path) -> None:
     print(f"{len(ids)} diplomas em {(len(ids) + por_ficheiro - 1) // por_ficheiro} pedidos em {pasta}")
 
 
+_NUMERACAO = re.compile(r"^(?:\d+\s*\.?\s*[º°o]?(?:\s*-\s*[A-Z]{1,2}\b)?\s*[-–.]?\s+|[a-z]{1,3}\)\s+|\(\w{1,3}\)\s+)")
+
+
+def _tokens(texto: str) -> list[str]:
+    return re.findall(r"\w+|[^\w\s]", _plano(texto))
+
+
+def _na_fonte(p: str, fontes: list[str]) -> bool:
+    plano = _plano(p)
+    return any(plano in f for f in fontes) or any(_plano(_NUMERACAO.sub("", p.strip())) in f for f in fontes)
+
+
+def verificar_texto(mudanca: dict, antigo: list[str], fontes: list[str], fontes_tokens: list[str]) -> list[str]:
+    """Cada parágrafo do texto novo vem, letra a letra, de um alterador ou do original (com ou sem
+    a numeração). Um parágrafo do original com uma frase trocada ("onde se lê … deve ler-se …")
+    passa se o resto é o texto antigo e o que mudou está num alterador ou no original."""
+    problemas = []
+    for p in (x.strip() for x in (mudanca.get("texto") or "").split("\n\n") if x.strip()):
+        if _REVOGADO.match(p) or _na_fonte(p, fontes):
+            continue
+        melhor = max(antigo, key=lambda a: SequenceMatcher(None, _plano(a), _plano(p), autojunk=False).ratio(), default="")
+        a, b = _tokens(melhor), _tokens(p)
+        if not melhor or SequenceMatcher(None, a, b, autojunk=False).ratio() < 0.6:
+            problemas.append(f"parágrafo que não está no alterador nem no original: {p[:80]}")
+            continue
+        for tipo, i1, i2, j1, j2 in SequenceMatcher(None, a, b, autojunk=False).get_opcodes():
+            fragmento = " ".join(b[j1:j2])
+            if tipo in ("replace", "insert") and not any(fragmento in f for f in fontes_tokens):
+                problemas.append(f"troca que não está no alterador nem no original: «{fragmento[:60]}» em {p[:50]}")
+    return problemas
+
+
+def verificar_resposta(resposta: dict, selecao: dict) -> list[str]:
+    fontes = [_plano(publicado(RAIZ / a["path"])) for a in _alteradores_da_selecao(selecao) if a.get("path")]
+    todas = unidades(_registo_base(selecao))
+    fontes.append(_plano(_registo_base(selecao)))
+    tokens = [" ".join(_tokens(f)) for f in fontes]
+    problemas = []
+    for s in resposta.get("substituicoes") or []:
+        antigo = todas[s["de"] - 1 : s["ate"]] if isinstance(s.get("de"), int) and isinstance(s.get("ate"), int) else todas
+        problemas += [f"substituição {s.get('de')}-{s.get('ate')}: {x}" for x in verificar_texto(s, antigo, fontes, tokens)]
+    for s in resposta.get("insercoes") or []:
+        problemas += [f"inserção depois de {s.get('depois_de')}: {x}" for x in verificar_texto(s, [], fontes, tokens)]
+    return problemas
+
+
 def _validar(resposta: dict, n: int) -> list[str]:
     """Posições que existem e não se sobrepõem."""
     problemas, ocupadas = [], set()
@@ -206,8 +255,7 @@ def importar(ficheiros: list[Path]) -> None:
             resposta.setdefault("substituicoes", [])
             resposta.setdefault("insercoes", [])
             mudancas = resposta["substituicoes"] + resposta["insercoes"]
-            artigos = [{"chave": f"mudança {k}", "texto": m.get("texto") or ""} for k, m in enumerate(mudancas, 1)]
-            resposta["problemas"] = _validar(resposta, len(unidades(_registo_base(selecao[i])))) + verificar_resposta({"artigos": artigos}, selecao[i])
+            resposta["problemas"] = _validar(resposta, len(unidades(_registo_base(selecao[i])))) + verificar_resposta(resposta, selecao[i])
             tipo = "com problemas" if resposta["problemas"] else "sem alterações" if not mudancas else "sem problemas"
             contagem[tipo] = contagem.get(tipo, 0) + 1
             (CORRIDO / (i.replace(":", "_") + ".json")).write_text(json.dumps(resposta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

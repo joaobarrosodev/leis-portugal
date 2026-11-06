@@ -1,0 +1,31 @@
+---
+id: pt:dre:636903:por
+title: Portaria n.º 913/2007
+original: data/portugal/portarias/2007/portaria-913-2007.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:628803:por
+    title: Portaria n.º 1568/2007
+    publication_date: '2007-12-11'
+---
+
+# Portaria n.º 913/2007
+
+de 14 de Agosto
+
+Pela [Portaria n.º 333/2006](https://diariodarepublica.pt/dr/detalhe/portaria/333-2006-673036), de 6 de Abril, foi criada a zona de caça municipal da freguesia de Marmelete (processo n.º 4191-DGRF), situada no município de Monchique, e transferida a sua gestão para o Clube de Caçadores de Marmelete.
+
+Vieram entretanto vários proprietários de terrenos incluídos na zona de caça acima referida requerer a sua exclusão.
+
+Assim:
+
+Com fundamento no disposto no n.º 1 do artigo 28.º em conjugação com o estipulado no n.º 1 do artigo 167.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, que sejam excluídos da presente zona de caça vários prédios rústicos, sitos nas freguesias de Monchique e Marmelete, município de Monchique com a área de 252 ha, ficando a mesma com a área de 11 747 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+
+> Alterado pelo/a [Portaria n.º 1568/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1568-2007-628803), publicado em 2007-12-11.
+
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 31 de Julho de 2007. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 1 de Agosto de 2007.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15600/0529005291.pdf)

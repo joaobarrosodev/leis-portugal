@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:435624:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 substitui os quadros II a V dos anexos III, IV e V, e os alteradores 2 e 3 (o mesmo diploma repetido) substituem o quadro I do anexo VI; os novos quadros só vêm em imagem, pelo que não se podem aplicar com segurança.",
+  "instrucoes": [
+    "Alterador 1, 1.º n.os 1 e 2: nova redação dos quadros II a V dos anexos III, IV e V, só em imagem; não aplicado. 2.º e 3.º são normas próprias.",
+    "Alterador 2, 1.º: nova redação do quadro I do anexo VI, só em imagem; não aplicado.",
+    "Alterador 3: é a mesma Portaria n.º 787/89 repetida; mesma instrução, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

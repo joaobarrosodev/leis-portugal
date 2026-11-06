@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:660538:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 347/2003), 1.º, e alterador 2 (Portaria n.º 367/2004), 1.º: o anexo (unidades 24-33) passa a ter a redacção dos anexos dessas portarias, cujos quadros n.os 1 a 5 só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do anexo (quadros só em imagem) — não aplicado, ver nao_aplicavel.",
+    "Alterador 1, 2.º e 3.º: transição e aplicação, normas autónomas — nada a fazer.",
+    "Alterador 2, 1.º: nova redacção do anexo (quadros só em imagem) — não aplicado, ver nao_aplicavel.",
+    "Alterador 2, 2.º: produção de efeitos, norma autónoma — nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

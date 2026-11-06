@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:192597:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "b) (Revogada.)",
+      "alterador": 2
+    },
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "c) (Revogada.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Os planos de estudo dos cursos de Instrumento harmónico e Instrumento melódico, também abrangidos pelas revogações parciais, estão no anexo só em imagem (unidade 16); não alterado.",
+  "instrucoes": [
+    "Alterador 1, 7.º a): revoga a Portaria n.º 300/92 na parte do curso de Instrumento Melódico; alínea c) do 1.º passa a '(Revogada.)'.",
+    "Alterador 1, 5.º: extingue o curso de Instrumento Melódico (efeito material, coberto pela revogação do 7.º).",
+    "Alterador 2, 7.º a): revoga a Portaria n.º 300/92 na parte do curso de Instrumento Harmónico; alínea b) do 1.º passa a '(Revogada.)'.",
+    "Alterador 2, 5.º: extingue o curso de Instrumento Harmónico (efeito material, coberto pela revogação do 7.º)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Dar o seu acordo à instalação de uma nova unidade de produção de pasta celulósica, com a capacidade de 25000 t por ano, na região delimitada pelos rios Douro e Tejo, através de uma sociedade anónima de economia mista, cujo capital deverá ser maioritariamente detido pelo sector público;",
+    "depois": "a) Dar o seu acordo à instalação de uma nova unidade de produção de pasta celulósica, com a capacidade de 250000 t por ano, na região delimitada pelos rios Douro e Tejo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:326370:por",
+    "alterador": "pt:dre:382807:por"
+  }
+]

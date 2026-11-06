@@ -1,0 +1,46 @@
+{
+  "id": "pt:dre:547643:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "1.º - (Revogado.)",
+      "alterador": 4
+    },
+    {
+      "de": 13,
+      "ate": 21,
+      "texto": "2.º - (Revogado.)",
+      "alterador": 4
+    },
+    {
+      "de": 22,
+      "ate": 26,
+      "texto": "3.º - (Revogado.)",
+      "alterador": 4
+    },
+    {
+      "de": 30,
+      "ate": 34,
+      "texto": "5.º - (Revogado.)",
+      "alterador": 4
+    },
+    {
+      "de": 35,
+      "ate": 35,
+      "texto": "6.º - (Revogado.)",
+      "alterador": 4
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 882/91) acrescenta aditivos aos quadros 6.6, 9.6, 14 e 15.2 e substitui o quadro 16 do anexo, e alterador 2 (Portaria 646/93) substitui o anexo inteiro: o anexo e os novos quadros só existem em imagem (unidade 62); não aplicados.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 882/91, n.os 1.º e 2.º): acrescenta aditivos a quadros do anexo e substitui o quadro 16 (em imagem); não aplicado.",
+    "Alterador 2 (Portaria 646/93, n.º 1.º): substitui o anexo (em imagem); não aplicado. O n.º 2.º revoga outras portarias, não o original.",
+    "Alterador 3 (Portaria 747/94, n.º 1.º): nova redação das alíneas a) e b) do n.º 5.º, n.º 1 (unidades 31 e 32); ficou sem efeito no texto final porque o n.º 5.º foi depois revogado por inteiro pelo alterador 4.",
+    "Alterador 4 (DL 121/98, art. 9.º): revoga os n.os 1.º, 2.º, 3.º, 5.º e 6.º do original; cada ponto (com os seus números e alíneas) passa a 'N.º - (Revogado.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:332050:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 altera o quadro de pessoal (mapa anexo) por um quadro anexo que só vem em imagem; não é possível aplicar com segurança.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o quadro de pessoal é alterado pelo quadro anexo, só em imagem; não aplicado. 2.º é a entrada em vigor do alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:241457:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "«Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Duas Igrejas e Miranda do Douro, município de Miranda do Douro, com a área de 1853 ha.»",
+      "alterador": 1
+    },
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1999/12/292b00/90379037.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: no n.º 1.º, onde se lê «com uma área de 1871,3790 ha» deve ler-se «com uma área de 1853 ha»; o texto atual diz «com a área de 1871,3790 ha»: trocada só a área na unidade 8.",
+    "Alterador 1, 2.º: planta anexa substituída; trocada a ligação da planta na unidade 13 (planta só em imagem).",
+    "Alterador 2: renova a concessão da Portaria n.º 815/95 com nova área; não altera o texto do original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

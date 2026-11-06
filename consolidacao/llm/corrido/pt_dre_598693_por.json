@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:598693:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 59/2003), 2.º, n.º 2, alínea b): revoga o original só na parte que aprovou o plano de estudos da opção e ramo de Ambiente, findo o processo de transição; essa parte está nos quadros dos anexos, só em imagem, e a revogação é parcial e condicional, sem alvo textual identificável.",
+  "instrucoes": [
+    "Alt. 1, 2.º, n.º 2, b): revogação parcial (ramo de Ambiente do plano de estudos), condicionada ao fim da transição e com alvo nos quadros em imagem; não aplicada.",
+    "Alt. 1, 2.º, n.º 2, a): dirigida à Portaria 495/99; ignorada.",
+    "Alt. 1, 1.º, 2.º n.º 1 e 3.º: aprovam outro plano de estudos e cessam a ministração; não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
