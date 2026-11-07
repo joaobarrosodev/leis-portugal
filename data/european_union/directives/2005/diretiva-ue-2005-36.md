@@ -740,6 +740,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1192107480:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:121734971:por
   label: null
   source: null

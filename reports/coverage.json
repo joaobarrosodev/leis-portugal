@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-06",
+  "generated_at": "2026-11-07",
   "methodology": "Contagem direta dos ficheiros Markdown em data/ com front matter válido; sem estimativas de completude. Ano = data de publicação.",
   "totals": {
-    "documents": 340527,
+    "documents": 340536,
     "sources_registered": 4,
     "sources_operational": 2,
-    "validated_documents": 340527
+    "validated_documents": 340536
   },
   "by_jurisdiction": {
-    "european_union": 35659,
-    "portugal": 274321,
-    "regional": 30547
+    "european_union": 35663,
+    "portugal": 274325,
+    "regional": 30548
   },
   "by_document_type": {
     "acordao": 457,
@@ -39,16 +39,16 @@
     "contrato-extrato": 25,
     "convenio": 2,
     "decisao": 3,
-    "decision": 8750,
+    "decision": 8751,
     "declaracao": 8417,
     "declaracao-extrato": 20,
-    "declaracao-retificacao": 17443,
+    "declaracao-retificacao": 17444,
     "declaracao-retificacao-extrato": 8,
     "decreto": 47478,
     "decreto-aprovacao-constituicao": 1,
     "decreto-governo": 293,
     "decreto-legislativo-regional": 2435,
-    "decreto-lei": 31723,
+    "decreto-lei": 31724,
     "decreto-ministro-republica": 49,
     "decreto-presidente-republica": 6068,
     "decreto-regional": 280,
@@ -100,7 +100,7 @@
     "parecer": 8,
     "parecer-conselho-estado": 20,
     "parecer-extrato": 2,
-    "portaria": 114588,
+    "portaria": 114591,
     "portaria-extrato": 24,
     "recomendacao": 1,
     "rectificacao": 636,
@@ -111,7 +111,7 @@
     "regulamento-cmvm": 198,
     "regulamento-extracto": 2,
     "regulamento-extrato": 5,
-    "regulation": 22775,
+    "regulation": 22778,
     "relatorio": 1,
     "resolucao": 15239,
     "resolucao-assembleia-legislativa-regional": 1868,
@@ -125,8 +125,8 @@
     "tabela": 1
   },
   "by_source": {
-    "dre": 304868,
-    "eurlex-cellar": 35659
+    "dre": 304873,
+    "eurlex-cellar": 35663
   },
   "by_year": {
     "1833": 2,
@@ -286,53 +286,53 @@
     "2023": 6295,
     "2024": 6280,
     "2025": 6232,
-    "2026": 6127
+    "2026": 6136
   },
   "by_territory": {
-    "acores": 26995,
+    "acores": 26996,
     "madeira": 3552,
-    "nacional": 309980
+    "nacional": 309988
   },
   "by_version_kind": {
     "consolidated": 11249,
-    "original": 329278
+    "original": 329287
   },
   "by_legal_status": {
-    "in_force": 172790,
+    "in_force": 172791,
     "not_in_force": 38055,
     "partially_in_force": 777,
     "repealed": 14656,
-    "unknown": 114249
+    "unknown": 114257
   },
   "by_origin": {
     "importacao_inicial": 1,
-    "recolha_direta": 340526
+    "recolha_direta": 340535
   },
   "by_text_quality": {
     "metadados": 24028,
     "pdf": 69851,
-    "texto": 246648
+    "texto": 246657
   },
   "with_version_history": 8564,
   "relationships_by_type": {
     "amended_by": 167417,
-    "amends": 33595,
-    "based_on": 48042,
-    "cited_by": 26686,
-    "cites": 656108,
+    "amends": 33602,
+    "based_on": 48046,
+    "cited_by": 26689,
+    "cites": 656165,
     "corrected_by": 24988,
     "corrects": 818,
     "implicitly_repeals": 7872,
     "interpreted_by": 9576,
     "repealed_by": 46364,
-    "repeals": 9954,
+    "repeals": 9955,
     "republished_by": 35,
     "republishes": 12,
-    "transposed_by": 2098,
-    "transposes": 2104
+    "transposed_by": 2099,
+    "transposes": 2105
   },
   "by_validation_status": {
-    "validated": 340527
+    "validated": 340536
   },
   "documents_listed": false,
   "documents": []
