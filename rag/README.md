@@ -203,6 +203,19 @@ A fiabilidade sobe de 82% para 96% (pior caso 78% para 93%), mas à custa de res
 
 Ressalvas: o reescritor é o mesmo modelo que responde e que julga, e conhece a lei por si, o que ajuda a pesquisa e pode ajudar os juízes a concordar; os 4 juízes dão mais certas (215) do que o critério brando de palavras (181), o que sugere que o critério de palavras subestima respostas certas, mas também que o conjunto de juízes pode ser brando; sem revisão de jurista. A medição de 94 perguntas que antecedeu esta (só pesquisa) dava 58% de artigo em 1.º e a de 281 dá 59%: coerentes. Falta medir o efeito nos outros tipos (compostas, texto alterado, premissa errada, sem resposta) para ver se a reescrita não faz o sistema responder onde devia recusar.
 
+**Reescrita nos outros tipos** (09/11/2026, `teste-reescrito`: as 530 perguntas do teste, modo estrito, quatro juízes às cegas, mesma reescrita de `rag/REESCRITA.md`):
+
+| Tipo | n | "Não sei" sem → com reescrita | Fiabilidade | Limite inferior 95% |
+|---|--:|--:|--:|--:|
+| Reais | 281 | 42% → **16%** | **97% (229/237)** | 93% |
+| Compostas | 100 | 50% → **30%** | 96% (67/70) | 88% |
+| Premissa errada | 50 | 26% → **12%** | 91% (40/44) | 79% |
+| Sem resposta | 80 | recusa 78 de 80 | — | — |
+| Texto alterado | 99 | recusa todas (modo estrito) | — | — |
+| Total | 530 | 53% → **34%** | **96% (336/351)** | **93%** |
+
+A reescrita não baixa a fiabilidade (96%, pior caso 93%, igual ao modo estrito sem reescrita) e faz o sistema responder a 351 perguntas em vez de 249. Nas reais, o artigo certo passa a estar em 1.º em 68% (antes 42%) e 81% das perguntas recebem resposta certa (antes 56%). Nas de premissa errada responde a mais 7 e continua a corrigir a premissa em 91% delas. Não fez o sistema responder onde devia recusar: as sem resposta continuam em 78 de 80. Ressalvas iguais às das coloquiais: reescritor, respondedor e juízes são o mesmo modelo; sem jurista. As literais, temporais e revogadas (sintéticas) não foram medidas com reescrita.
+
 **Perguntas como as escreve um utilizador** (30/10/2026, `coloquial`): as 281 reais reescritas, com a mesma resposta certa, em três perfis (pessoa de 65 anos, jovem de 22, pessoa aflita com um caso): pouco contexto, sem termos jurídicos, sem números de artigos. Quatro juízes às cegas.
 
 | Medida | Reais bem escritas | Mesmas, coloquiais |
