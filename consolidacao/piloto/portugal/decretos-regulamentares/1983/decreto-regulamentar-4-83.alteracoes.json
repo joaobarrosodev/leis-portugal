@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nA mais-valia corresponde à diferença entre o valor do prédio à data em que foi requerida a licença de construção e o seu valor, em conformidade com o respectivo destino económico, à data em que foi anunciada a construção de estrada ou de outras estruturas viárias.",
+    "depois": "###### Artigo 3.º\n\nA mais-valia corresponde à diferença entre o valor do prédio à data em que foi requerida a licença de construção e o valor que teria na mesma data, sem o anúncio ou construção da obra rodoviária.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 63/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1985-177036), publicado em 1985-10-02.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:308338:por",
+    "alterador": "pt:dre:177036:por"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\n1. O Ministro das Finanças poderá ainda autorizar os bancos comerciais a emitir obrigações, ficando o produto das emissões consignado à realização de operações de crédito a médio prazo com regime especial que tenham por objecto o financiamento de empreendimentos de reconhecido interesse para o desenvolvimento da economia nacional.\n\n2. A emissão destas obrigações, cujo prazo não excederá cinco anos, fica subordinada à legislação vigente.\n\n3. Os juros de obrigações emitidas em conformidade com o previsto no presente artigo podem ser isentos, total ou parcialmente, pelo Ministro das Finanças, do imposto de capitais e do imposto complementar.",
+    "depois": "###### Artigo 6.º\n\n1. O Ministro das Finanças poderá ainda autorizar os bancos comerciais a emitir obrigações, ficando o produto das emissões consignado à realização de operações de crédito a médio prazo com regime especial que tenham por objecto o financiamento de empreendimentos de reconhecido interesse para o desenvolvimento da economia nacional.\n\n2. A emissão destas obrigações, cujo prazo não excederá sete anos, fica subordinada à legislação vigente\n\n3. Os juros de obrigações emitidas em conformidade com o previsto no presente artigo podem ser isentos, total ou parcialmente, pelo Ministro das Finanças, do imposto de capitais e do imposto complementar.\n\n> Alterado pelo/a [Decreto-Lei n.º 199/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1970-142087), publicado em 1970-05-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:526201:por",
+    "alterador": "pt:dre:142087:por;pt:dre:226036:por;pt:dre:548228:por"
+  },
+  {
+    "artigo": "16.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 16.º\n\n1. O Ministro das Finanças, sob proposta do Banco de Portugal, determinará por portaria:\n\na) A participação das promissórias do fomento nacional nas disponibilidades de caixa, bem como a fracção destas disponibilidades, que pode estar representada por cheques e vales do correio quando considerados dinheiro em cofre;\n\nb) As percentagens, respectivamente, de responsabilidades à vista e de depósitos a prazo igual ou superior a trinta dias, em moeda nacional, que devem estar cobertas por disponibilidades de caixa;\n\nc) Os valores que podem servir de cobertura, para as citadas responsabilidades à vista e depósitos a prazo, na parte em que as importâncias totais, dessas responsabilidades e destes depósitos, excedam as percentagens referidas na alínea anterior;\n\nd) As regras a observar pelos bancos comerciais na contabilização dos indicados valores.\n\n2. O Ministro das Finanças, ao determinar, quer as percentagens, quer os valores mencionados nas alíneas b) e c) do n.º 1, poderá classificar os depósitos a prazo em grupos diferentes, de acordo com a duração do dito prazo.\n\n3. Para efeito do presente artigo:\n\na) Os depósitos com pré-aviso inferior a trinta dias são havidos como responsabilidades à vista;\n\nb) Os depósitos com pré-aviso igual ou superior a trinta dias são equiparados aos depósitos de prazo igual ao pré-aviso estipulado.",
+    "depois": "###### Artigo 16.º\n\n1. O Ministro das Finanças, ouvido o Banco de Portugal, fixará, por portaria, a participação que, nas disponibilidades de caixa, poderão atingir as promissórias de fomento nacional.\n\n2. Compete ao Banco de Portugal, em conformidade com o disposto no § 2.º do artigo 14.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, determinar:\n\na) A fracção das disponibilidades de caixa que pode estar representada por cheques e vales do correio, quando considerados dinheiro em cofre;\n\nb) As percentagens, respectivamente, de responsabilidades à vista e de depósitos a prazo, igual ou superior a trinta dias, em moeda nacional, que devem estar cobertas por disponibilidades de caixa;\n\nc) Os valores que podem servir de cobertura, para as citadas responsabilidades à vista e depósitos a prazo, na parte em que as importâncias totais, dessas responsabilidades e destes depósitos, excedam as percentagens referidas na alínea anterior;\n\nd) As regras a observar pelos bancos comerciais na contabilização dos indicados valores.\n\n3. O Banco de Portugal, ao determinar quer as percentagens, quer os valores mencionados nas alíneas b) e c) do n.º 2, poderá classificar os depósitos a prazo em grupos diferentes, de acordo com a duração do dito prazo.\n\n4. Para efeito do presente artigo:\n\na) Os depósitos com pré-aviso inferior a trinta dias são havidos como responsabilidades à vista;\n\nb) Os depósitos com pré-aviso igual ou superior a trinta dias são equiparados aos depósitos a prazo igual ao pré-aviso estipulado.\n\n5. As determinações tomadas pelo Banco de Portugal no exercício da competência que lhe é atribuída nos n.os 2 e 3 do presente artigo serão comunicadas à Inspecção-Geral de Crédito e Seguros, que as fará publicar na 1.ª série do Diário do Governo.\n\n> Alterado pelo/a [Decreto-Lei n.º 180/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1970-226036), publicado em 1970-04-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:526201:por",
+    "alterador": "pt:dre:142087:por;pt:dre:226036:por;pt:dre:548228:por"
+  },
+  {
+    "artigo": "17.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 17.º\n\n1. O Ministro das Finanças, ouvido o Conselho Nacional de Crédito, poderá estabelecer, por portaria, as relações que os bancos comerciais deverão observar:\n\na) Entre o valor global dos depósitos e outras responsabilidades efectivas para com terceiros e o montante dos capitais próprios;\n\nb) Entre o valor global das suas responsabilidades por aceites, avales e garantias concedidas e o montante dos capitais próprios.\n\n2. Quando o montante dos depósitos e outras responsabilidades efectivas para com terceiros exceder aquele que resulte da relação que houver sido fixada nos termos da alínea a) do número anterior, poderá o Ministro das Finanças determinar que o excesso seja aplicado em títulos de dívida pública, ou equiparados, ou em depósitos em institutos de crédito do Estado ou bancos de investimento.\n\n3. O produto dos depósitos efectuados nos termos da parte final do n.º 2 deste artigo será aplicado a fins de fomento económico.",
+    "depois": "###### Artigo 17.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 318/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1989-548228), publicado em 1989-09-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:526201:por",
+    "alterador": "pt:dre:142087:por;pt:dre:226036:por;pt:dre:548228:por"
+  },
+  {
+    "artigo": "19.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 19.º\n\n1. Os bancos comerciais não poderão subscrever ou adquirir obrigações emitidas, nos termos do artigo 6.º do presente diploma, por outros bancos comerciais; exceptua-se o caso de reembolso de crédito próprio por qualquer meio legal de aquisição, incluindo a arrematação judicial.\n\n2. As obrigações adquiridas, no caso de reembolso de crédito próprio, deverão ser alienadas no prazo máximo de um ano, a contar da data da sua aquisição.",
+    "depois": "###### Artigo 19.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 318/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1989-548228), publicado em 1989-09-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:526201:por",
+    "alterador": "pt:dre:142087:por;pt:dre:226036:por;pt:dre:548228:por"
+  }
+]

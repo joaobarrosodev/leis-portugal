@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:387825:por",
+  "artigos": [
+    {
+      "chave": "único",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 35.º: revoga o Decreto n.º 47982 (todo o diploma) - artigo único revogado.",
+    "Alterador 1, arts. 1.º a 34.º: regime novo da Caixa, não altera o texto do original - sem efeito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1. Os reitores dos liceus, os directores das escolas de ensino técnico profissional e do ciclo preparatório do ensino secundário indicarão até 15 de Julho de cada ano às respectivas Direcções-Gerais e Direcção de Serviços os professores eventuais que, tendo prestado serviço no ano lectivo findo, podem ser reconduzidos no ano seguinte.\n\n2. A recondução só é aplicável a professores com habilitação académica que permita o ingresso nos estágios pedagógicos ou nos quadros do ensino oficial e os reitores e directores de escolas deverão atender ao nível de habilitações académicas e ao tempo e qualidade do serviço prestado.\n\n3. A recondução pode abranger até 2/3 dos professores eventuais existentes em cada grupo ou especialidade que possua dois ou mais agentes de ensino.\n\n4. A recondução de professores eventuais nunca poderá fazer-se em prejuízo de professores diplomados com o Exame de Estado, os quais deverão indicar até 1 de Julho à respectiva direcção-geral ou Direcção de Serviços, por ordem de preferência, os estabelecimentos em que desejem ser colocados, e a mesma Direcção informará os directores dos estabelecimentos interessados até 10 daquele mês.",
+    "depois": "###### Artigo 1.º\n\n1. Os reitores dos liceus e os directores das escolas de ensino técnico profissional e do ciclo preparatório do ensino secundário indicarão, até 30 de Junho de cada ano, às respectivas Direcções-Gerais e Direcção de Serviços os professores eventuais que, tendo prestado serviço no ano lectivo findo, podem ser reconduzidos no ano seguinte.\n\n2. A recondução só é aplicável a professores com habilitação académica que permita o ingresso nos estágios pedagógicos ou nos quadros do ensino oficial e os reitores e directores de escolas deverão atender ao nível de habilitações académicas e ao tempo e qualidade do serviço prestado.\n\n3. A recondução pode abranger até 2/3 dos professores eventuais existentes em cada grupo ou especialidade que possua dois ou mais agentes de ensino.\n\n4. A recondução de professores eventuais nunca poderá fazer-se em prejuízo de professores diplomados com o Exame de Estado, os quais deverão indicar até 1 de Julho à respectiva direcção-geral ou Direcção de Serviços, por ordem de preferência, os estabelecimentos em que desejem ser colocados, e a mesma Direcção informará os directores dos estabelecimentos interessados até 10 daquele mês.\n\n> Alterado pelo/a [Decreto-Lei n.º 303/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1970-140554), publicado em 1970-06-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:199429:por",
+    "alterador": "pt:dre:140554:por;pt:dre:674029:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1. Cada concorrente apresentará na direcção-geral ou Direcção de Serviços correspondente ao ensino a que der preferência um requerimento único, em papel selado, dirigido ao Ministro, no qual solicitará a nomeação para um ou mais dos ensinos.\n\n2. O concorrente juntará ao requerimento, além da declaração a que se refere o [Decreto-Lei n.º 27003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27003-1936-363715), boletins de modelo oficial, de cores diferentes para cada ensino, que numerará de 1 a 3, por ordem decrescente de preferência, e em cada um deles indicará, também por ordem decrescente de preferência, os estabelecimentos onde deseja ser colocado.\n\n3. Os candidatos que concorram pela primeira vez e os que hajam adquirido novas habilitações após terem sido admitidos a anterior concurso devem comprovar as respectivas habilitações.\n\n4. O disposto no número anterior é aplicável aos candidatos que apresentem os seus requerimentos em serviços diferentes daqueles perante os quais tenham anteriormente concorrido.\n\n5. Os candidatos com preferência absoluta por uma localidade deverão indicar essa preferência em lugar próprio de cada boletim.\n\n6. Os boletins referidos no n.º 2 serão de modelo único, anexo ao presente diploma, podendo vir a ser alterado por despacho ministerial.\n\n7. Sobre cada boletim será aposto o selo fiscal de 6$00.",
+    "depois": "###### Artigo 4.º\n\n1. Cada concorrente apresentará na direcção-geral ou Direcção de Serviços correspondente ao ensino a que der preferência um requerimento único, em papel selado, dirigido ao Ministro, no qual solicitará a nomeação para um ou mais dos ensinos.\n\n2. O concorrente juntará ao requerimento, além da declaração a que se refere o [Decreto-Lei n.º 27003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27003-1936-363715), boletins de modelo oficial, de cores diferentes para cada ensino, que numerará de 1 a 3, por ordem decrescente de preferência, e em cada um deles indicará, também por ordem decrescente de preferência, os estabelecimentos onde deseja ser colocado.\n\n3. Os candidatos que concorram pela primeira vez e os que hajam adquirido novas habilitações após terem sido admitidos a concurso anterior devem comprovar, dentro do prazo a que se refere o artigo 3.º deste diploma, as respectivas habilitações e a classificação obtida; caso não façam prova da classificação, ser-lhes-á atribuída a 10 valores, sempre que não seja possível confirmá-la de outro modo.\n\n4. O disposto no número anterior é aplicável aos candidatos que apresentem os seus requerimentos em serviços diferentes daqueles perante os quais tenham anteriormente concorrido.\n\n5. Os candidatos com preferência absoluta por uma localidade deverão indicar essa preferência em lugar próprio de cada boletim.\n\n6. Os boletins referidos no n.º 2 serão de modelo único, anexo ao presente diploma, podendo vir a ser alterado por despacho ministerial.\n\n7. Sobre cada boletim será aposto o selo fiscal de 6$00.\n\n8. Os indivíduos que se candidatarem apenas aos liceus e escolas das ilhas adjacentes deverão fazer a entrega dos respectivos documentos em uma das secretarias dos estabelecimentos de ensino a que concorrerem.\n\n> Alterado pelo/a [Decreto-Lei n.º 303/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1970-140554), publicado em 1970-06-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:199429:por",
+    "alterador": "pt:dre:140554:por;pt:dre:674029:por"
+  },
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º\n\n1. Dentro de cada escalão, referido nos artigos 6.º a 8.º, são condições de preferência os bons serviços prestadas à Mocidade Portuguesa ou aos centros de actividades circum-escolares, nos termos do n.º 3 do artigo 52.º do [Decreto-Lei n.º 47311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47311-1966-479220), de 12 de Novembro de 1966, aplicável à Mocidade Portuguesa Feminina por força do artigo 62.º do mesmo diploma.\n\n2. Em igualdade de classificação profissional constituem condições de preferência:\n\na) A média do curso de Ciências Pedagógicas ou o maior número de cadeiras deste curso;\n\nb) Tempo de serviço não contado para a valorização;\n\nc) Mais idade.\n\n3. Para os agentes de ensino de Educação Física, Canto Coral ou Educação Musical e Lavores Femininos constitui condição de preferência, graduada em primeiro lugar, o bom aproveitamento registado em cursos de aperfeiçoamento promovidos ou reconhecidos pelo Ministério.",
+    "depois": "###### Artigo 13.º\n\n1. Dentro de cada escalão, referido nos artigos 6.º a 8.º, são condições de preferência os bons serviços prestadas à Mocidade Portuguesa ou aos centros de actividades circum-escolares, nos termos do n.º 3 do artigo 52.º do [Decreto-Lei n.º 47311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47311-1966-479220), de 12 de Novembro de 1966, aplicável à Mocidade Portuguesa Feminina por força do artigo 62.º do mesmo diploma.\n\n2. Em igualdade de classificação profissional constituem condições de preferência:\n\na) A média do curso de Ciências Pedagógicas ou o maior número de cadeiras deste curso;\n\nb) Tempo de serviço não contado para a valorização;\n\nc) Mais idade.\n\n3. Para os agentes de ensino de Educação Física, Canto Coral ou Educação Musical e Lavores Femininos constitui condição de preferência, graduada em primeiro lugar, o bom aproveitamento registado em cursos de aperfeiçoamento promovidos ou reconhecidos pelo Ministério.\n\n4. Para serviço docente relativo a horário de turmas exclusivamente masculinas terão preferência absoluta, dentro do mesmo escalão de habilitações, os candidatos do sexo masculino.\n\n> Alterado pelo/a [Decreto-Lei n.º 303/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1970-140554), publicado em 1970-06-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:199429:por",
+    "alterador": "pt:dre:140554:por;pt:dre:674029:por"
+  },
+  {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º\n\n1. Para efeito de distribuição dos concorrentes pelos vários estabelecimentos de ensino funcionará no Ministério da Educação Nacional uma comissão central de colocações, designada anualmente pelo Ministro, constituída por dois representantes da Mocidade Portuguesa, três representantes da Mocidade Portuguesa Feminina e dois por cada uma das Direcções-Gerais dos Ensino Liceal e Técnico Profissional e da Direcção de Serviços do Ciclo Preparatório do Ensino Secundário, à qual poderão ser agregados os funcionários que o serviço exigir.\n\n2. Na classificação definitiva e distribuição dos candidatos a professores eventuais de Educação Física, Canto Coral ou Educação Musical e Lavores Femininos intervêm os representantes das Organizações Nacionais Mocidade Portuguesa e Mocidade Portuguesa Feminina e um representante por cada uma das Direcções-Gerais e Direcção de Serviços referidas no n.º 1.\n\n3. Aos representantes das Direcções-Gerais e Direcção de Serviços cabe pronunciarem-se sobre a regularidade formal das propostas feitas nos termos do n.º 2 do artigo 53.º do [Decreto-Lei n.º 47311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47311-1966-479220).\n\n4. A distribuição dos candidatos pelos estabelecimentos de ensino a que hajam concorrido pode ser feita sem a intervenção da comissão central nos grupos em que a natureza da habilitação legal exclua a admissão a mais de um ensino.",
+    "depois": "###### Artigo 14.º\n\n1. Para efeito de distribuição dos concorrentes pelos vários estabelecimentos de ensino funcionará no Ministério da Educação Nacional uma comissão central de colocações, designada anualmente pelo Ministro, constituída por dois representantes da Mocidade Portuguesa, três representantes da Mocidade Portuguesa Feminina e dois por cada uma das Direcções-Gerais dos Ensino Liceal e Técnico Profissional e da Direcção de Serviços do Ciclo Preparatório do Ensino Secundário, à qual poderão ser agregados os funcionários que o serviço exigir.\n\n2. Na classificação definitiva e distribuição dos candidatos a professores eventuais de Educação Física, Canto Coral ou Educação Musical e Lavores Femininos intervêm os representantes das Organizações Nacionais Mocidade Portuguesa e Mocidade Portuguesa Feminina e um representante por cada uma das Direcções-Gerais e Direcção de Serviços referidas no n.º 1.\n\n3. Aos representantes das Direcções-Gerais e Direcção de Serviços cabe pronunciarem-se sobre a regularidade formal das propostas feitas nos termos do n.º 2 do artigo 53.º do [Decreto-Lei n.º 47311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47311-1966-479220).\n\n4. A distribuição dos candidatos pelos estabelecimentos de ensino a que hajam concorrido pode ser feita sem a intervenção da comissão central nos grupos em que a natureza da habilitação legal exclua a admissão a mais de um ensino.\n\n5. Os candidatos aos estabelecimentos de ensino das ilhas adjacentes serão graduados, nos termos estatuídos pelo presente diploma, por comissões que funcionarão em Ponta Delgada e no Funchal, constituídas por tês funcionários, um de cada ramo de ensino, designado por acordo entre os directores dos respectivos estabelecimentos. Essas comissões serão presididas pelo mais antigo director de estabelecimento de ensino secundário da cidade, que representará a Mocidade Portuguesa e a Mocidade Portuguesa Feminina.\n\n6. Para cumprimento do disposto no número anterior, devem os presidentes das comissões solicitar todos os elementos de que necessitarem às respectivas Direcções-Gerais e Direcção de Serviços.\n\n> Alterado pelo/a [Decreto-Lei n.º 303/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1970-140554), publicado em 1970-06-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:199429:por",
+    "alterador": "pt:dre:140554:por;pt:dre:674029:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nOs candidatos a professores eventuais não abrangidos pelas disposições anteriores serão recrutados mediante concurso, que decorrerá anualmente de 15 a 31 de Julho.",
+    "depois": "###### Artigo 3.º\n\nOs candidatos a professores eventuais não abrangidos pelas disposições anteriores serão recrutados mediante concurso que decorrerá anualmente de 1 a 15 de Junho.\n\n> Alterado pelo/a [Decreto-Lei n.º 200/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1972-674029), publicado em 1972-06-17.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:199429:por",
+    "alterador": "pt:dre:140554:por;pt:dre:674029:por"
+  }
+]

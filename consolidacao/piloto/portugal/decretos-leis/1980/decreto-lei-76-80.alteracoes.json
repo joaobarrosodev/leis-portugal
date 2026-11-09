@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nA execução do Programa cabe ao Ministério da Habitação e Obras Públicas, através da Direcção-Geral das Construções Escolares, com verbas do seu orçamento.",
+    "depois": "###### Artigo 3.º\n\nA execução do Programa cabe aos Ministérios da Educação e das Universidades e da Habitação, Obras Públicas e Transportes através, respectivamente, das Direcções-Gerais do Equipamento Escolar e das Construções Escolares, com verbas dos orçamentos de ambos os Ministérios.\n\n> Alterado pelo/a [Decreto-Lei n.º 156/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1982-392838), publicado em 1982-05-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:681997:por",
+    "alterador": "pt:dre:392838:por"
+  }
+]

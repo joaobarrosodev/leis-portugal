@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:258767:por",
+  "artigos": [
+    {
+      "chave": "16.º",
+      "epigrafe": "Comunicação de abertura",
+      "texto": "1 - Sem prejuízo da obtenção do alvará de autorização de utilização, previsto no regime jurídico da urbanização e da edificação, o titular do empreendimento, até 20 dias antes da abertura do estabelecimento ou conjunto comercial, comunica tal facto à DRCIE e à câmara municipal respetiva, acompanhado de termo de responsabilidade segundo o qual o estabelecimento ou conjunto comercial cumpre os compromissos que fundamentaram a autorização de instalação ou de modificação.\n\n2 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Comunicação do encerramento",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Art. 6.º, alínea e), do DLR 30/2016/M revoga o n.º 2 do artigo 18.º, mas o artigo 18.º (já na redação dada pelo art. 4.º do mesmo diploma) tem um só parágrafo sem números; não há n.º 2 a revogar.",
+  "instrucoes": [
+    "Art. 4.º do alterador 1: nova redação do artigo 18.º, já aplicada pelo programa; sem mudança.",
+    "Art. 6.º, e), do alterador 1: revoga o n.º 2 do artigo 16.º (feito), o artigo 17.º (feito) e o n.º 2 do artigo 18.º (inexistente, não aplicado).",
+    "Restantes alíneas do art. 6.º e arts. 1.º-3.º, 5.º: dirigidos a outros diplomas ou ao RJACSR; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

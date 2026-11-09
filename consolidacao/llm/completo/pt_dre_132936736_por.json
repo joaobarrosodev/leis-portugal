@@ -1,0 +1,129 @@
+{
+  "id": "pt:dre:132936736:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objeto",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Envio dos processos e outras comunicações",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Individualização e instrução do processo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Conteúdo da mensagem",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Nomenclatura dos ficheiros",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Formato e dimensão dos ficheiros",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º-A",
+      "epigrafe": "Ficheiros anexos à mensagem",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Assinatura e envio da mensagem",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Registo do processo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Validade e eficácia",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Prazos processuais",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Comunicações e notificações",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Meios alternativos de envio",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Informação e suporte técnico",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Mapas instrutórios",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Anexos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Direito aplicável",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Processos pendentes",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Entrada em vigor",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterações aos anexos I e VI pela Resolução n.º 2/2020 (mapas só em imagem) e as alterações da Resolução n.º 4/2020 aos artigos 2.º, 4.º a 9.º e 11.º ficam prejudicadas pela revogação integral da Resolução n.º 1/2020 pelo n.º 3, alínea b), da Resolução n.º 3/2022-PG; anexos não constam do texto atual.",
+  "instrucoes": [
+    "Alterador 1 (Res. 2/2020): altera arts. 6.º e 8.º e adita 6.º-A — já refletidos no texto atual; anexos I e VI só em imagem, não aplicados.",
+    "Alterador 2 (Res. 4/2020): altera arts. 2.º, 4.º, 5.º, 6.º, 6.º-A, 7.º, 8.º, 9.º e 11.º — prejudicado pela revogação posterior.",
+    "Alterador 3 (Res. 3/2022-PG), n.º 3, b): revoga a Resolução n.º 1/2020 — todos os artigos ficam (Revogado.)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

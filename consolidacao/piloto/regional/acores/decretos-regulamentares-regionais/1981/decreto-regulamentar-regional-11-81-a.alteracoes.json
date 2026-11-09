@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º — (Direcção e administração)\n\n1 - Os matadouros industriais são administrados por um director técnico e administrativo, médico veterinário, designado por director de matadouro e nomeado, em comissão de serviço, pelo Secretário Regional do Comércio e Indústria, sob proposta do conselho directivo do Serviço Regional dos Produtos Agro-Pecuários.\n\n2 - Aos directores referidos no número anterior caberá igualmente a direcção administrativa dos demais matadouros e casas de matança da ilha onde se sediarem os matadouros industriais.",
+    "depois": "###### Artigo 13.º — (Direcção e administração)\n\n1 - Os matadouros industriais são administrados por um director técnico e administrativo, médico veterinário, nomeado por despacho conjunto dos Secretários Regionais da Agricultura e Pescas e do Comércio e Indústria, em comissão de serviço de 2 anos, a qual será renovada pelos mesmos Secretários Regionais, sob proposta do conselho directivo do Serviço Regional dos Produtos Agro-Pecuários.\n\n2 - Aos directores referidos no número anterior caberá igualmente a direcção administrativa dos demais matadouros e casas de matança da ilha onde se sediarem os matadouros industriais.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 45/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1982-380564), publicado em 1982-12-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:391662:por",
+    "alterador": "pt:dre:380564:por"
+  },
+  {
+    "artigo": "30.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 30.º — (Receitas do Serviço)\n\n1 - Constituem receitas do SRPAP, além das inscritas no Orçamento da Região:\n\nTaxas aplicadas pelos serviços prestados nos matadouros e casas de matança;\n\nDiferenciais do preço resultante da venda de carne de bovino e suíno e de couros;\n\nVenda de produtos de lacticínios da Central Leiteira e de produtos horto-frutícolas da Estação Fruteira e postos de intervenção;\n\nJuros e rendimentos de capital e bens próprios;\n\nSubsídios ou quaisquer outras receitas que lhe sejam entregues;\n\nEmpréstimos contraídos.\n\n2 - As receitas serão depositadas, por guia, nas contas bancárias do Serviço que para o efeito forem indicadas.\n\n3 - Os serviços remeterão à sede um duplicado da guia de depósito, para efeito de contabilização e controle.",
+    "depois": "###### Artigo 30.º — (Receitas do serviço)\n\n1 - Constituem receitas do SRPAP, além das inscritas no Orçamento da Região:\n\nTaxas aplicadas pelos serviços prestados nos matadouros e casas de matança;\n\nDiferenciais do preço resultante da venda de carne de bovino e suíno e de couros;\n\nVenda de produtos de lacticínios da Central Leiteira e de produtos horto-frutícolas da Estação Fruteira e postos de intervenção;\n\nJuros e rendimentos de capital e bens próprios;\n\nSubsídios ou quaisquer outras receitas que lhe sejam entregues;\n\nEmpréstimos contraídos.\n\n2 - As receitas serão depositadas, por guia, nas contas bancárias do Serviço que para o efeito forem indicadas.\n\n3 - Os serviços remeterão à sede um duplicado da guia de depósito, para efeito de contabilização e controle.\n\n4 - Constituirão título executivo, nomeadamente para cobrança coerciva de quaisquer dívidas ao Serviço Regional dos Produtos Agro-Pecuários, através do respectivo processo de execução fiscal, ao abrigo do disposto no artigo 57.º do Estatuto da Região Autónoma dos Açores, as certidões passadas pelo conselho directivo e autenticadas com o respectivo selo branco.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 45/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1982-380564), publicado em 1982-12-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:391662:por",
+    "alterador": "pt:dre:380564:por"
+  },
+  {
+    "artigo": "32.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 32.º — (Pessoal dirigente)\n\n1 - Os cargos de presidente e vogais do conselho directivo serão exercidos por indivíduos de reconhecida competência técnica, em comissão de serviço, no caso em que o provimento recaia em funcionários das Administrações Central, Regional e Local.\n\n2 - Os funcionários nomeados em comissão de serviço, nos termos do presente artigo, e que exerçam o cargo a tempo inteiro poderão optar pelos vencimentos ou quaisquer remunerações dos lugares de origem, contando-se, para todos os efeitos, o tempo de serviço que prestarem no regime de comissão.\n\n3 - O presidente do conselho directivo será remunerado pelo vencimento de director de serviços e os vogais por senhas de presença.\n\n4 - O restante pessoal dirigente será recrutado e provido nos termos previstos na lei geral.",
+    "depois": "###### Artigo 32.º — (Pessoal dirigente)\n\n1 - O presidente e os vogais do conselho directivo são equiparados, respectivamente, a director de serviços e chefe de divisão.\n\n2 - Os vogais do conselho directivo que não exerçam o cargo a tempo inteiro serão abonados pelos montantes que vierem a ser estabelecidos em despacho conjunto dos Secretários Regionais da Administração Pública, das Finanças, da Agricultura e Pescas e do Comércio e Indústria.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 45/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1982-380564), publicado em 1982-12-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:391662:por",
+    "alterador": "pt:dre:380564:por"
+  },
+  {
+    "artigo": "32.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 32.º-A — (Integração de pessoal)\n\n1 - O pessoal que tenha sido transferido nos termos do artigo 10.º do [Decreto Regional n.º 18/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/18-1979-378944), de 20 de Agosto, e que exerça funções diversas das que integram as respectivas categorias poderá ser integrado, sem prejuízo das habilitações legalmente exigidas, em categoria de carreira correspondente a essas funções e cuja letra de vencimento seja igual ou imediatamente superior, na referida carreira, à da letra da categoria que possuía, de acordo com as funções efectivamente exercidas.\n\n2 - Para efeitos do número anterior, a correspondência das funções deverá ser certificada por despacho do presidente do conselho directivo.\n\n3 - Os auxiliares técnicos com mais de 2 anos de serviço efectivo e que possuam o curso geral do ensino secundário ou equivalente poderão ser integrados na categoria de técnico auxiliar de exportação de 2.ª classe.\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 45/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1982-380564), publicado em 1982-12-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:391662:por",
+    "alterador": "pt:dre:380564:por"
+  }
+]

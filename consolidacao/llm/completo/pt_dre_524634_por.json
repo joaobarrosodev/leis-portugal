@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:524634:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alt. 3 (DRR 2-A/2000/A), art. 3.º: o membro previsto na alínea d) do art. 2.º passa a designar-se Secretário Regional da Agricultura e Pescas, sem nova redação da alínea (alteração não textual). Alts. 1, 2 e 3 (art. 1.º) acrescentam membros ao Governo Regional sem alterar o texto do original.",
+  "instrucoes": [
+    "Alt. 1 (DRR 1-A/98/A): inclui Secretário Regional Adjunto da Presidência; não textual.",
+    "Alt. 2 (DRR 28-A/98/A): inclui Subsecretário Regional Adjunto para a Saúde; não textual.",
+    "Alt. 3 (DRR 2-A/2000/A): inclui Secretário Regional do Ambiente e muda designação do membro da alínea d) do art. 2.º; não textual, em nao_aplicavel.",
+    "Alt. 4 (DRR 15/2000/A): altera o DRR 6/94/A; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

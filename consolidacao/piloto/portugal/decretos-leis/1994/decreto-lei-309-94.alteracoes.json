@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "10.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º\n\n1 - É extinta a RNIP - Rodoviária Nacional, Investimentos e Participações, SGPS, S. A.\n\n2 - A extinção efectivar-se-á no último dia do 3.º mês seguinte à reprivatização da Rodoviária de Lisboa, S. A.\n\n3 - Em assembleia geral da RNIP, SGPS, S. A., a realizar nos 30 dias subsequentes à reprivatização da Rodoviária de Lisboa, S. A., serão definidos os termos em que se fará a dissolução e liquidação da sociedade.\n\nVisto e aprovado em Conselho de Ministros de 3 de Novembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 1 de Dezembro de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 5 de Dezembro de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "depois": "###### Artigo 10.º\n\n1 - É dissolvida, com efeitos reportados a 15 de Julho de 1995, a RNIP - Rodoviária Nacional, Investimentos e Participações, SGPS, S. A.\n\n2 - Os documentos de prestação de contas a que se refere o artigo 149.º do Código das Sociedades Comerciais devem estar organizados e aprovados até 31 de Agosto de 1995.\n\n3 - A liquidação será efectuada nos termos da lei e das deliberações da assembleia geral, sem prejuízo do disposto nos números seguintes.\n\n4 - Se a assembleia geral deliberar proceder à liquidação de todo o património, activo e passivo, da sociedade dissolvida mediante transmissão para o seu accionista único, é dispensado o acordo a que se refere o n.º 1 do artigo 148.º do Código das Sociedades Comerciais.\n\n5 - Com a transmissão prevista no número anterior considera-se imediatamente encerrada a liquidação, não havendo lugar à observância do disposto no artigo 157.º do Código das Sociedades Comerciais, operando-se a extinção da sociedade pelo registo daquele acto.\n\n6 - A posição da RNIP nas acções judiciais pendentes em que esta seja parte será assumida pelo Estado, não se suspendendo a instância nem sendo necessária habilitação.\n\n7 - Os actos a praticar pelo conselho de administração ou pelos liquidatários da RNIP, SGPS, S. A., respeitantes à dissolução, liquidação e extinção da sociedade são efectuados com dispensa de escritura pública e com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois dos seus membros.\n\n> Alterado pelo/a [Decreto-Lei n.º 235/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1995-563025), publicado em 1995-09-13.\n\nVisto e aprovado em Conselho de Ministros de 3 de Novembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 1 de Dezembro de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 5 de Dezembro de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:571603:por",
+    "alterador": "pt:dre:563025:por"
+  }
+]

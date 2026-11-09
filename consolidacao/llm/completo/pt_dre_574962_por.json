@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:574962:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Portaria n.º 925/80, 1.º, e Portaria n.º 854/81, 4.º: alteram o mapa anexo do quadro de pessoal (aumento de lugares e substituição pelo anexo IV), que só vem em imagem; nenhum artigo do original é alterado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: aumenta o quadro de pessoal com os lugares do mapa anexo (só em imagem); não aplicado.",
+    "Alterador 2, 4.º: substitui o mapa anexo pelo anexo IV e aprova tabela de reconversão (só em imagem); não aplicado. Os n.os 1.º a 3.º respeitam a outros diplomas; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

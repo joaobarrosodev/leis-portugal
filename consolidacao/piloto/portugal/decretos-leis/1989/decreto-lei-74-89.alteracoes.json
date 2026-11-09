@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1 - Compete à DGF, com as verbas previstas na subalínea 1) da alínea b) do n.º 2 do artigo 5.º do [Decreto-Lei n.º 312/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1985-179847), de 31 de Julho, e no n.º 2 do artigo 5.º do presente diploma, indemnizar os titulares de áreas de reserva pelos cortes de arvoredo nelas efectuados, em períodos anteriores à entrega efectiva das áreas reservadas.\n\n2 - Uma vez iniciado o processo conducente à atribuição daquelas áreas de reserva, deverá a direcção regional de agricultura competente comunicar à DGF este facto, a fim de que sejam sustidos todos os processos de comercialização daquele arvoredo e anulados, na quota-parte que diz respeito à reserva, os respectivos contratos de adjudicação, com vista a evitar prejuízos futuros para a Administração e para os administrados.",
+    "depois": "###### Artigo 3.º\n\n1 - Uma vez iniciado o processo conducente à atribuição de áreas de reserva ao abrigo da [Lei n.º 109/88](https://diariodarepublica.pt/dr/detalhe/lei/109-1988-355489), de 26 de Setembro, deverá a direcção regional de agricultura competente comunicar à Direcção-Geral das Florestas esse facto, a fim de serem sustados todos os processos de comercialização daquele arvoredo e anulados, na quota-parte que diz respeito à reserva, os respectivos contratos de adjudicação.\n\n2 - Os titulares das áreas de reserva serão indemnizados pela privação temporária dos rendimentos, nos termos do [Decreto-Lei n.º 199/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1988-374255), de 31 de Maio, decorrente dos cortes de arvoredo nelas efectuados em períodos anteriores à entrega efectiva das áreas reservadas.\n\n> Alterado pelo/a [Decreto-Lei n.º 5/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1990-313825), publicado em 1990-01-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:612834:por",
+    "alterador": "pt:dre:313825:por"
+  }
+]

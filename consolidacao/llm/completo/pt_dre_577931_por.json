@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:577931:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto Regulamentar n.º 2/86), artigo 1.º, e alterador 2 (Decreto Regulamentar n.º 42/86), artigo 1.º: substituem as obrigações das alíneas d) e g) do artigo 3.º 'nos seguintes termos', sem dar nova redacção a essas alíneas; alterações não textuais, não aplicadas ao texto. Os respectivos artigos 2.º fixam prazos próprios e não alteram o original.",
+  "instrucoes": [
+    "Alterador 1 art. 1.º: substitui a obrigação da alínea d) do artigo 3.º (campo de tiro) por um complexo de ténis, sem nova redacção; não aplicada (ver nao_aplicavel).",
+    "Alterador 1 art. 2.º: prazos do anteprojecto; não altera o original.",
+    "Alterador 2 art. 1.º: substitui a obrigação da alínea g) do artigo 3.º (Estalagem de São Félix) por obras no Hotel Vermar, sem nova redacção; não aplicada (ver nao_aplicavel).",
+    "Alterador 2 art. 2.º: prazos; não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

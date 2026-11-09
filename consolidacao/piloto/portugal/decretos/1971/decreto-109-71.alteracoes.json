@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "30.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 30.º\n\nO subdirector dos Portos é designado pelo Ministro do Ultramar por escolha entre os engenheiros de 1.ª classe do quadro comum dos Serviços de Portos, Caminhos de Ferro e Transportes ou entre diplomados em Engenharia Civil com reconhecida competência em assuntos portuários.",
+    "depois": "###### Artigo 30.º\n\nO subdirector dos Portos é designado pelo Ministro do Ultramar por escolha entre os engenheiros-chefes e os engenheiros de 1.ª classe do quadro comum dos Serviços de Portos, Caminhos de Ferro e Transportes ou entre diplomados em Engenharia Civil com reconhecida competência em assuntos portuários.\n\n> Alterado pelo/a [Decreto n.º 253/73](https://diariodarepublica.pt/dr/detalhe/decreto/253-1973-422218), publicado em 1973-05-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:445772:por",
+    "alterador": "pt:dre:422218:por"
+  }
+]

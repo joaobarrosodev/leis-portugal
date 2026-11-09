@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1 - Ao presidente do conselho de gestão cabe, em geral, a coordenação dos vários pelouros; ao vice-presidente cabe o pelouro do planeamento e finanças; os restantes pelouros serão distribuídos nos termos de deliberação do conselho.\n\n2 - A distribuição de pelouros não poderá dispensar o dever, que a todos os membros incumbe, de fiscalizar e tomar conhecimento da generalidade dos assuntos do Gabinete da Área de Sines e de propor providências relativas a qualquer deles.",
+    "depois": "###### Artigo 4.º\n\n1 - Ao presidente do conselho de gestão cabe, em geral, a coordenação dos vários pelouros, os quais serão distribuídos pelos restantes membros do conselho, por despacho do Ministro das Finanças e do Plano.\n\n2 - A distribuição de pelouros não poderá dispensar o dever, que a todos os membros incumbe, de fiscalizar e tomar conhecimento da generalidade dos assuntos do Gabinete da Área de Sines e de propor providências relativas a qualquer deles.\n\n> Alterado pelo/a [Decreto-Lei n.º 39/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1980-678031), publicado em 1980-03-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:382669:por",
+    "alterador": "pt:dre:678031:por"
+  },
+  {
+    "artigo": "6.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 6.º-A\n\nO conselho de gestão poderá delegar o exercício de parte da sua competência em qualquer dos seus membros, nas condições que considerar convenientes, especificando as matérias e os poderes abrangidos na delegação.\n\n> Aditado pelo/a [Decreto-Lei n.º 39/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1980-678031), publicado em 1980-03-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:382669:por",
+    "alterador": "pt:dre:678031:por"
+  }
+]

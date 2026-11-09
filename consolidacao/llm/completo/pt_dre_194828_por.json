@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:194828:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Decreto-Lei n.º 309-A/75: extingue o 2.º Tribunal Militar Territorial de Angola e muda a designação do 1.º, sem nova redação nem revogação expressa de artigos do original; alteração não textual.",
+  "instrucoes": [
+    "Art. 1.º: extinção do 2.º Tribunal e nova designação do 1.º — não textual; não aplicada.",
+    "Art. 2.º: jurisdição do Tribunal Militar Territorial de Angola — norma própria, não altera o texto.",
+    "Art. 3.º: processos pendentes — norma transitória própria, não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

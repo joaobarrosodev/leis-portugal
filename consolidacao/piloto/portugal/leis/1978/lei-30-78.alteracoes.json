@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nAs percentagens estabelecidas no anexo do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, correspondentes ao artigo pautal 87.02.09, passam a ser obtidas pela aplicação da seguinte fórmula:\n\nIVVA - 0,032 CC\n\nem que:\n\nIVVA - taxa de imposto sobre a venda de veículos automóveis aplicável em cada caso, arredondando-se o resultado de modo a eliminar as casas decimais;\n\nCC - cilindrada, em centímetros cúbicos, do veículo.",
+    "depois": "###### Artigo 2.º\n\n1 - As percentagens estabelecidas do anexo ao [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, para os veículos classificados na actual Pauta dos Direitos de Importação pelas subposições 87.02 A. I. b) 1. aa) 44, 87.02 A. I. b) 1. bb) 44, 87.02 A. I. b) 1. cc) 44, 87.02 A. I. b) 2. dd) e 87.02 A. II. b) passam a ser obtidas, para aqueles cuja cilindrada seja de 1400 cm3 ou menos, pela aplicação da fórmula:\n\nIVVA = 0,04 CC\n\nem que:\n\nIVVA = taxa de imposto sobre a venda de veículos automóveis aplicável em cada caso, arredondando-se o resultado de modo a eliminar as casas decimais;\n\nCC = cilindrada, em centímetros cúbicos, do veículo.\n\n2 - Relativamente aos veículos das subposições referidas no número anterior cuja cilindrada exceda 1400 cm3, as percentagens estabelecidas no mencionado [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132) passam a ser as indicadas no quadro seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/22902/00050006.pdf)\n\n> Alterado pelo/a [Decreto-Lei n.º 368-B/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-b-1983-319152), publicado em 1983-10-04.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:295104:por",
+    "alterador": "pt:dre:319152:por"
+  }
+]

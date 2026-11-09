@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1 - Sempre que as entidades obrigadas à restituição de qualquer quantia recebida no âmbito das comparticipações do Fundo Social Europeu e do Estado Português não cumpram a sua obrigação no prazo estipulado, será a mesma realizada através de execução fiscal.\n\n2 - O pedido de execução fiscal referido no número anterior, a promover pelo Ministério Público em representação do Estado Português, é instruído com os seguintes documentos, que servirão de título executivo para todos os efeitos legais:\n\na) Cópia da notificação da decisão de aprovação do apoio financeiro em causa e da declaração da respectiva aceitação ou documento equivalente;\n\nb) Cópia das autorizações de pagamento emitidas pelo Departamento para os Assuntos do Fundo Social Europeu (DAFSE);\n\nc) Cópia do despacho do director-geral do DAFSE que determinou a restituição;\n\nd) Cópia da notificação à entidade do despacho referido na alínea anterior.",
+    "depois": "###### Artigo 1.º\n\n1 - Sempre que as entidades obrigadas à restituição de qualquer quantia recebida no âmbito das comparticipações do Fundo Social Europeu e do Estado Português não cumpram a sua obrigação no prazo estipulado, será a mesma realizada através de execução fiscal.\n\n2 - A execução fiscal será promovida pelos serviços competentes de justiça fiscal com base em certidão do despacho do director-geral do Departamento para os Assuntos do Fundo Social Europeu que determine a restituição e sua notificação à entidade devedora.\n\n3 - A representação do exequente nos tribunais tributários faz-se nos termos do disposto no artigo 42.º do Código de Processo Tributário, aprovado pelo Decreto-Lei n.º 154/91, de 23 de Abril.\n\n> Alterado pelo/a [Decreto-Lei n.º 246/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1991-667945), publicado em 1991-07-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:571446:por",
+    "alterador": "pt:dre:667945:por"
+  }
+]

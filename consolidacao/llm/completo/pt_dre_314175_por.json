@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:314175:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - É instituído o regime de auto-acabamento nas habitações.\n\n2 - No regime previsto neste diploma é admitida a utilização do prédio ou parte dele em fase anterior à sua conclusão.\n\n3 - Este regime é aplicável em programas de habitação social.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "Na portaria a que se refere o artigo 6.º do [Decreto-Lei n.º 459/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1983-314074), de 30 de Dezembro, serão fixados os incentivos especiais a aplicar ao auto-acabamento nas habitações a que se refere o mesmo diploma, nomeadamente os limites máximos de financiamento, em função de cada modalidade.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, art. 1.º: nova redação dos arts. 1.º e 8.º; aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

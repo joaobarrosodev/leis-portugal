@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:3131230:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "É fixada a zona especial de protecção do Bairro Alto e imóveis classificados na sua área envolvente, conforme planta de delimitação constante do anexo à presente portaria, da qual faz parte integrante.\n\n2 de Junho de 2010. - Pela Ministra da Cultura, Elísio Costa Santos Summavielle, Secretário de Estado da Cultura.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Retificação da legenda da planta de delimitação do anexo: a planta só vem em imagem.",
+  "instrucoes": [
+    "Retificação do art. 2.º: nova redação do corpo — aplicada (mantida a linha de assinatura que segue no texto atual)",
+    "Retificação da legenda da planta — imagem, não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

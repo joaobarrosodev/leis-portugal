@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:622093:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto",
+      "texto": "O presente Regulamento estabelece o Regime de Apoio à Constituição de Sociedades Mistas, nos termos do Regulamento (CE) n.º [2792/99](http://data.europa.eu/eli/reg/1999/2792/oj?locale=pt), do Conselho, de 17 de Dezembro, e do previsto no Decreto-Lei n.º 224/2000, de 9 de Setembro, que cria o MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Condições especiais de acesso",
+      "texto": "São condições especiais de acesso a este regime:\n\n1 - Relativamente ao país terceiro previsto no projecto:\n\na) A existência de um acordo de pescas entre a Comunidade Europeia e esse país, salvo nos casos em que a Comissão haja concedido uma derrogação e o país terceiro em causa não faça parte da lista de países que permitem o exercício da pesca de uma forma que comprometa a eficácia das medidas internacionais de conservação;\n\nb) Existirem garantias adequadas de que a legislação internacional não será infringida, nomeadamente no que respeita à conservação e à gestão dos recursos marinhos ou outros objectivos da política comum de pescas e, ainda, no que se refere às condições de trabalho dos pescadores;\n\nc) Não se tratar de um país terceiro candidato à adesão à Comunidade;\n\nd) Existir acordo das autoridades competentes do país terceiro interessado.\n\n2 - Relativamente à embarcação objecto do projecto:\n\na) Estar operacional na data de concessão do apoio, a comprovar mediante certificado de navegabilidade;\n\nb) Ter permanecido, pelo menos, 75 dias no mar, em actividade de pesca, em cada um dos 2 períodos de 12 meses anteriores à data de apresentação do projecto ou, se for caso disso, ter exercido actividades de pesca durante, pelo menos, 80% dos dias de mar autorizados pela regulamentação comunitária ou nacional em vigor para a embarcação em causa;\n\nc) Estar registada em nome do candidato, no mínimo dois anos antes da apresentação da candidatura, salvo quando a embarcação:\n\nTenha sido adquirida por via sucessória;\n\nTenha passado a integrar o capital da sociedade comercial ou cooperativa, como entrada do anterior proprietário, caso em que a contagem do prazo de dois anos é feita continuadamente; ou\n\nTenha sido adquirida em regime de leasing, caso em que aquele prazo se conta desde a outorga do contrato respectivo com a empresa locadora.\n\nd) Possuir uma arqueação bruta igual ou superior a 20 TAB ou 22 GT;\n\ne) Possuir idade superior a 10 anos mas inferior a 30 anos;\n\nf) Ter exercido actividade de pesca, pelo menos, nos últimos cinco anos, sob pavilhão português:\n\nEm águas comunitárias; e ou\n\nEm águas de um país terceiro, quer no âmbito de um acordo de pesca com a Comunidade, quer de outro acordo; e ou\n\nEm águas internacionais em que as pescarias são regulamentadas por uma convenção internacional.",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Apreciação e decisão",
+      "texto": "1 - A apreciação das candidaturas, compete:\n\na) À DGPA, no que diz respeito à apreciação técnica e à avaliação sectorial;\n\nb) Ao IFADAP, no que diz respeito à avaliação económica e financeira.\n\n2 - A decisão final sobre as candidaturas é objecto de despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da delegação ou subdelegação dessa competência, nos termos do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril.\n\n3 - As candidaturas são decididas no prazo máximo de 90 dias a contar da respectiva apresentação, desde que o processo esteja completo, considerando-se aquele prazo interrompido sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos.\n\n4 - A comunicação da decisão das candidaturas será efectuada pela DGPA.",
+      "alterador": 2
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Pagamento dos apoios",
+      "texto": "1 - O pagamento dos apoios é efectuado em função da execução do projecto e, em conformidade com o disposto no artigo 11.º, processa-se em duas fases:\n\na) Com o cumprimento das condições fixadas para a primeira fase e com a apresentação de uma garantia bancária, pagamento de 80% do montante do apoio;\n\nb) O pagamento dos 20% remanescentes tem lugar após cinco anos de actividade no âmbito da sociedade mista e com a apresentação e aprovação dos respectivos relatórios.\n\n2 - A garantia bancária referida no número anterior é de montante correspondente, no mínimo, a 20% do apoio concedido.\n\n3 - A libertação da garantia bancária terá lugar com a conclusão do projecto e a apresentação e aprovação do quinto relatório relativo à execução do plano de actividade do projecto.\n\n4 - Os relatórios a que se referem os n.os 1 e 3 são submetidos à apreciação da DGPA e do IFADAP, sendo aprovados pelo gestor.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 56-H/2001: nova redacção do art. 1.º — aplicada",
+    "Portaria 157/2003 n.º 1.º: art. 5.º n.º 1 — novas alíneas a) e b), anterior b) passa a c); art. 9.º n.º 3 — novo prazo de 90 dias; art. 13.º n.º 1 b) — nova redacção; aplicados",
+    "Portaria 157/2003 n.º 2.º: aditada alínea d) ao n.º 1 do art. 5.º (toma o lugar da anterior c), de igual teor) e n.º 4 ao art. 9.º — aplicados",
+    "Portaria 157/2003 n.os 3.º a 5.º: data limite e aplicação no tempo — não textuais"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

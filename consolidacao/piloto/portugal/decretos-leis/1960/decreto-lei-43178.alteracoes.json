@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\nO Conselho Corporativo poderá alterar o número e a designação dos agrupamentos de actividades e interesses previstos nos artigos anteriores, nomeadamente para adoptar a organização da Câmara Corporativa às corporações que forem instituídas.\n\n§ único. À medida que forem instituídas novas corporações, os respectivos representantes substituir-se-ão aos que estiverem a representar na Câmara os mesmos interesses.",
+    "depois": "###### Artigo 5.º\n\nO Conselho Corporativo poderá alterar o número, a composição e a designação dos agrupamentos de actividades e interesses previstos nos artigos anteriores, independentemente da forma como os mesmos se encontram estruturados nas corporações, nomeadamente para permitir a melhor representatividade de tais agrupamentos na Câmara Corporativa ou para adaptar a organização desta às corporações que forem instituídas.\n\n§ único. À medida que forem instituídas novas corporações, os respectivos representantes substituir-se-ão aos que estiverem a representar na Câmara os mesmos interesses, nos termos a fixar pelo Conselho Corporativo.\n\n> Alterado pelo/a [Decreto-Lei n.º 46596](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46596-1965-510664), publicado em 1965-10-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514837:por",
+    "alterador": "pt:dre:510664:por"
+  }
+]

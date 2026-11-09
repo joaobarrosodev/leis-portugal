@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:513011:por",
+  "artigos": [
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "Na antiguidade e para efeitos de aposentação conta-se o tempo de serviço com os seguintes aumentos:\n\n1.º 20 por cento em Adem, Adis Abeba, Baçorá, Bagdade, Banguecoque, Bombaim, Brazzaville, Colombo, Jacatra, Elizabethville, Karachi, Lagos, Léopoldville, Manaus e Nova Deli;\n\n2.º 15 por cento em Baía, Cantão, Dacar, Dar-es-Salaam, Havana, Pará, Singapura, Tananarive e Trindade;\n\n3.º 10 por cento em Caracas, Hong-Kong, La Paz, Manila, México, Nairobi, Recife, Quito e Xangai.\n\n4.º 25 por cento em país em guerra civil ou guerra internacional com o território atacado por forças estrangeiras.\n\n§ 1.º Se o funcionário tiver servido em diferentes postos que dêem direito a aumentos de diversa percentagem, são estes contados integralmente relativamente a cada posto, segundo a percentagem para eles estabelecida pela lei vigente à data da contagem.\n\n§ 2.º A percentagem contada no n.º 4.º não é acumulável com as dos n.os 1.º a 3.º, mas prevalece sobre elas.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 2.º: extingue no Gabinete do Ministro o lugar de director dos Serviços dos Organismos Económicos Internacionais (criado pelo artigo 4.º do original e referido nos artigos 6.º e 8.º), sem dar nova redação a esses artigos; alteração não textual.",
+  "instrucoes": [
+    "Alterador 1, art. 6.º: nova redação do n.º 3.º do artigo 16.º; aplicada.",
+    "Alterador 1, art. 2.º: extinção do lugar de director dos Serviços dos Organismos Económicos Internacionais; não textual, não aplicada.",
+    "Alterador 1, restantes artigos (1.º, 3.º a 5.º, 7.º a 11.º): não se dirigem ao texto do original (art. 7.º altera o Decreto n.º 29970); ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:312227:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "O prazo estabelecido no corpo do artigo 27.º do [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803), de 2 de Setembro de 1963, é prorrogado até 30 de Setembro de 1968.\n\n§ único. O disposto no artigo 6.º deste diploma é aplicável às importâncias pagas pelos mutuários a partir de 1 de Junho de 1966, relativas à primeira prestação da dívida a que se referem os artigos 25.º e 27.º do citado [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803).",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Arts. 2.º a 4.º do DL 48018 são normas autónomas (dispensa da dedução do n.º 2.º do artigo 8.º para a campanha de 1966-1967, restituições, dedução na campanha de 1967-1968) que não dão nova redação ao original: não aplicadas ao texto.",
+  "instrucoes": [
+    "Art. 1.º do DL 48018: nova redação do corpo do artigo 7.º; § único mantém-se",
+    "Arts. 2.º a 4.º: normas autónomas, não textuais"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

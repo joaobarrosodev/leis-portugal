@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nEm conformidade com o disposto na alínea e) do artigo 6.º do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), o quadro ora instituído ficará a cargo do Fundo de Desenvolvimento da Mão-de-Obra e a sua composição poderá ser alterada por despacho conjunto dos Ministros das Finanças e das Corporações e Previdência Social.",
+    "depois": "###### Artigo 3.º\n\nEm conformidade com o disposto na alínea c) do artigo 6.º do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), o quadro ora instituído ficará a cargo do Fundo de Desenvolvimento da Mão-de-Obra, podendo ser aumentado por despacho conjunto dos Ministros das Finanças e das Corporações e Previdência Social.\n\n> Alterado pelo/a [Decreto-Lei n.º 44885](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44885-1963-193430), publicado em 1963-02-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:155194:por",
+    "alterador": "pt:dre:193430:por"
+  }
+]

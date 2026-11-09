@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\nSem prejuízo do disposto no artigo anterior, ao provimento e recrutamento dos assistentes e dos assistentes eventuais são aplicáveis as disposições previstas no [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, para idênticas categorias.",
+    "depois": "###### Artigo 5.º\n\nSem prejuízo do disposto no artigo anterior, ao provimento e recrutamento dos assistentes, assistentes eventuais e assistentes especialmente contratados são aplicáveis as disposições previstas no [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.\n\n> Alterado pelo/a [Decreto-Lei n.º 447/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1979-363280), publicado em 1979-11-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:419785:por",
+    "alterador": "pt:dre:363280:por"
+  }
+]

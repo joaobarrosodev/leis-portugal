@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:382669:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1 - Ao presidente do conselho de gestão cabe, em geral, a coordenação dos vários pelouros, os quais serão distribuídos pelos restantes membros do conselho, por despacho do Ministro das Finanças e do Plano.\n\n2 - A distribuição de pelouros não poderá dispensar o dever, que a todos os membros incumbe, de fiscalizar e tomar conhecimento da generalidade dos assuntos do Gabinete da Área de Sines e de propor providências relativas a qualquer deles.",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º-A",
+      "epigrafe": "",
+      "texto": "O conselho de gestão poderá delegar o exercício de parte da sua competência em qualquer dos seus membros, nas condições que considerar convenientes, especificando as matérias e os poderes abrangidos na delegação.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 39/80, art. 1.º: nova redação do n.º 1 do art. 4.º; aplicada.",
+    "DL 39/80, art. 2.º: aditado o art. 6.º-A; aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

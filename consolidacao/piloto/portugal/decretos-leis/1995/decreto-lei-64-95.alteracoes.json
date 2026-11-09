@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:230523:por",
     "alterador": "pt:dre:424698:por"
+  },
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1 - As despesas comuns resultantes da exploração, pela Santa Casa da Misericórdia de Lisboa, dos jogos do Totobola, do Totoloto, do Totogolo, da Lotaria Nacional, do JOKER e da Lotaria Instantânea são repartidas, respectivamente, na proporção das receitas anualmente arrecadadas em cada uma das modalidades de jogo.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 225/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1998-424698), publicado em 1998-07-17.",
+    "depois": "###### Artigo 1.º\n\n1 - As despesas comuns resultantes da exploração, pelo Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, dos jogos do Totobola, do Totoloto, do Totogolo, da Lotaria Nacional, do JOKER, da Lotaria Instantânea e do EUROMILHÕES são repartidas, respectivamente, na proporção das receitas anualmente arrecadadas em cada uma das modalidades de jogo.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 225/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1998-424698), publicado em 1998-07-17.\n\n> Alterado pelo/a [Decreto-Lei n.º 210/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2004-480286), publicado em 2004-08-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:230523:por",
+    "alterador": "pt:dre:480286:por"
   }
 ]

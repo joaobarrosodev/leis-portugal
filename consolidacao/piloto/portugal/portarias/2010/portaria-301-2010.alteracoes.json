@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Período de paragem\n\n1 - A paragem decorre entre 1 de Fevereiro de 2010 e 31 de Janeiro de 2011, durante um período máximo de 35 dias, a cumprir em um ou dois períodos, conforme estabelecido na candidatura, um dos quais com a duração mínima de 15 dias seguidos.\n\n2 - A cessação temporária de actividade é decidida pelos armadores que, para tanto, devem comunicar à Direcção-Geral das Pescas e Aquicultura (DGPA) a data e o período de paragem da respectiva actividade.\n\n3 - A cessação temporária de actividade é comprovada através da entrega da licença de pesca na capitania até ao 1.º dia da mesma, sendo dispensada desta entrega sempre que a embarcação objecto de cessação esteja equipada com o sistema de VMS.\n\n4 - Sempre que, por razões não imputáveis ao promotor, não seja possível efectuar a comprovação da paragem pela entrega da licença na capitania, nos termos do número anterior, para os casos em que a embarcação não dispõe de VMS, a paragem poderá ser validada pela DGPA mediante declaração da capitania em que se consigne os dias efectivos de paragem da embarcação.\n\n5 - Nos casos de paragens ocorridas antes da data de entrada em vigor do presente regime, a comunicação referida no n.º 2 deve ser efectuada no prazo máximo de 25 dias, a contar da data de entrada em vigor do presente Regulamento.",
+    "depois": "###### Artigo 4.º — Período de paragem\n\n1 - A paragem decorre entre 1 de Fevereiro de 2010 e 31 de Janeiro de 2011, durante um período máximo de 35 dias, a cumprir em um ou dois períodos, conforme estabelecido na candidatura, um dos quais com a duração mínima de 15 dias seguidos.\n\n2 - A cessação temporária de actividade é decidida pelos armadores que, para tanto, devem comunicar à Direcção-Geral das Pescas e Aquicultura (DGPA) a data e o período de paragem da respectiva actividade.\n\n3 - A cessação temporária de actividade é comprovada através da entrega da licença de pesca na capitania até ao 1.º dia da mesma, sendo dispensada desta entrega sempre que a embarcação objecto de cessação esteja equipada com o sistema de VMS.\n\n4 - No caso das embarcações equipadas com sistema VMS, sempre que, por alguma razão, não seja possível efectuar a comprovação da paragem através desse sistema, a cessação temporária da actividade é comprovada através da entrega da licença na capitania até ao 1.º dia da paragem.\n\n5 - Quando o promotor constate a impossibilidade de comprovação da cessação temporária da actividade através do VMS depois de iniciada a paragem, entregará de imediato a licença, sendo o período de cessação, neste caso, comprovado em parte através do VMS e no remanescente mediante a entrega da licença na capitania.\n\n6 - Sempre que, por razões não imputáveis ao promotor, não seja possível efectuar a comprovação da paragem pela entrega da licença na capitania, nos termos previstos nos n.os 3, 4 e 5, a paragem poderá ser validada pela DGPA mediante declaração da capitania em que se consigne os dias efectivos de paragem da embarcação.\n\n7 - Nos casos de paragens ocorridas antes da data de entrada em vigor do presente regime, a comunicação referida no n.º 2 deve ser efectuada no prazo máximo de 90 dias, a contar da data de entrada em vigor do presente Regulamento.\n\n> Alterado pelo/a [Portaria n.º 1053/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1053-2010-307674), publicado em 2010-10-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:332472:por",
+    "alterador": "pt:dre:307674:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º — Natureza e montante do apoio\n\n1 - Os apoios a conceder são sempre pagos aos armadores das embarcações, revestem a forma de subsídio a fundo perdido e são fixados nos seguintes termos:\n\na) Uma compensação financeira cujo beneficiário é o armador, atribuída em função da arqueação bruta da embarcação de pesca, nos termos do quadro I do anexo do presente Regulamento;\n\nb) Uma compensação salarial destinada aos tripulantes durante o período de imobilização temporária da actividade da embarcação, nos termos do quadro ii do anexo do presente Regulamento.\n\n2 - O pagamento da compensação salarial referida na alínea b) é efectuado aos armadores, após comprovação de estes terem pago o montante correspondente aos tripulantes respectivos, mediante transferência bancária, nos termos referidos na alínea b) do artigo 9.º, e não prejudica o pagamento de quaisquer prestações com natureza remuneratória que sejam contratualmente devidas, sempre que a embarcação se encontre em porto.",
+    "depois": "###### Artigo 5.º — Natureza e montante do apoio\n\n1 - Os apoios a conceder são sempre pagos aos armadores das embarcações, revestem a forma de subsídio a fundo perdido e são fixados nos seguintes termos:\n\na) Uma compensação financeira cujo beneficiário é o armador, atribuída em função da arqueação bruta da embarcação de pesca, nos termos do quadro I do anexo do presente Regulamento;\n\nb) Uma compensação salarial destinada aos tripulantes durante o período de imobilização temporária da actividade da embarcação, nos termos do quadro ii do anexo do presente Regulamento.\n\n2 - O pagamento da compensação salarial referida na alínea b) é efectuado aos armadores, mediante transferência bancária, nos termos referidos no artigo 9.º, e não prejudica o pagamento de quaisquer prestações com natureza remuneratória que sejam contratualmente devidas, sempre que a embarcação se encontre em porto.\n\n> Alterado pelo/a [Portaria n.º 1053/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1053-2010-307674), publicado em 2010-10-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:332472:por",
+    "alterador": "pt:dre:307674:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º — Candidaturas\n\n1 - As candidaturas são apresentadas pelos armadores nas direcções regionais de agricultura e pescas, adiante designadas por DRAP, no prazo de 25 dias, contados a partir do último dia de paragem previsto no artigo 4.º\n\n2 - Tratando-se de paragens integralmente verificadas antes da data de entrada em vigor do presente regime, a candidatura deve ser efectuada no prazo máximo de 25 dias, a contar da data de entrada em vigor do presente Regulamento.\n\n3 - Após a recepção da candidatura, podem ser solicitados pelas DRAP quaisquer esclarecimentos ou documentos que se entendam necessários, devendo o promotor responder no prazo máximo de 10 dias, se outro prazo não for fixado, findo o qual, na ausência de resposta, o processo será arquivado.",
+    "depois": "###### Artigo 7.º — Candidaturas\n\n1 - As candidaturas são apresentadas pelos armadores nas direcções regionais de agricultura e pescas, adiante designadas por DRAP, no prazo de 90 dias, contados a partir do último dia do último período de paragem previsto no artigo 4.º\n\n2 - Tratando-se de paragens integralmente verificada antes da data de entrada em vigor do presente regime, a candidatura deve ser efectuada no prazo máximo de 90 dias, a contar da data de entrada em vigor do presente Regulamento.\n\n3 - Após a recepção da candidatura, podem ser solicitados pelas DRAP quaisquer esclarecimentos ou documentos que se entendam necessários, devendo o promotor responder no prazo máximo de 10 dias, se outro prazo não for fixado, findo o qual, na ausência de resposta, o processo será arquivado.\n\n> Alterado pelo/a [Portaria n.º 1053/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1053-2010-307674), publicado em 2010-10-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:332472:por",
+    "alterador": "pt:dre:307674:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º — Decisão e contratação\n\n1 - A decisão das candidaturas compete ao gestor.\n\n2 - As candidaturas devem estar decididas no prazo máximo de 25 dias a contar da data da sua apresentação nas DRAP, desde que o processo esteja completo, considerando-se aquele prazo suspenso sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos.\n\n3 - O Instituto de Financiamento da Agricultura e Pescas, I. P., adiante designado por IFAP, I. P., notifica o promotor, no prazo de 10 dias, após o seu conhecimento, da decisão final de concessão do apoio, remetendo o contrato para assinatura, ou informando o local onde o mesmo pode ser assinado.",
+    "depois": "###### Artigo 8.º — Decisão e contratação\n\n1 - A decisão das candidaturas compete ao gestor.\n\n2 - As candidaturas devem estar decididas no prazo máximo de 25 dias a contar da data da sua apresentação nas DRAP, desde que o processo esteja completo, considerando-se aquele prazo suspenso sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos.\n\n3 - O Instituto de Financiamento da Agricultura e Pescas, I. P., adiante designado por IFAP, I. P., notifica o promotor, no prazo de 10 dias, após o seu conhecimento, da decisão final de concessão do apoio, encontrando-se dispensada a celebração formal do contrato.\n\n> Alterado pelo/a [Portaria n.º 1053/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1053-2010-307674), publicado em 2010-10-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:332472:por",
+    "alterador": "pt:dre:307674:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º — Pagamento dos apoios\n\nO pagamento dos apoios é efectuado pelo IFAP, I. P., em duas prestações:\n\na) A primeira correspondente a 75 % do montante do apoio calculado nos termos do previsto na alínea a) do n.º 1 do artigo 5.º, a que acresce o valor da compensação prevista na alínea b) do n.º 1 do artigo 5.º, que deve ser paga no prazo de 30 dias a contar da data de celebração do respectivo contrato;\n\nb) A segunda, correspondente aos restantes 25 % do montante do apoio calculado nos termos do previsto na alínea a) do n.º 1 do artigo 5.º, após a apresentação pelo armador de documento da transferência bancária comprovativo do pagamento das compensações salariais aos tripulantes respectivos;\n\nc) Caso o promotor não cumpra na íntegra o número de dias de actividade a que se refere o artigo 10.º, deve repor a percentagem do apoio igual à percentagem dos dias de actividade em falta, sem prejuízo das situações de força maior.",
+    "depois": "###### Artigo 9.º — Pagamento dos apoios\n\nO pagamento dos apoios é efectuado pelo IFAP, I. P., em duas prestações:\n\na) A primeira correspondente a 75 % do montante do apoio calculado nos termos previstos na alínea a) do n.º 1 do artigo 5.º, a que acresce o valor da compensação prevista na alínea b) do n.º 1 do artigo 5.º, no prazo de 30 dias a contar da data da notificação prevista no n.º 3 do artigo 8.º;\n\nb) A segunda, correspondente aos restantes 25 % do montante do apoio calculado nos termos do previsto na alínea a) do n.º 1 do artigo 5.º, após a apresentação pelo armador de documento da transferência bancária comprovativo do pagamento das compensações salariais aos tripulantes respectivos;\n\nc) Caso o promotor não cumpra na íntegra o número de dias de actividade a que se refere o artigo 10.º, deve repor a percentagem do apoio referido na alínea a) do n.º 1 do artigo 5.º igual à percentagem dos dias de actividade em falta, sem prejuízo das situações de força maior.\n\n> Alterado pelo/a [Portaria n.º 1053/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1053-2010-307674), publicado em 2010-10-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:332472:por",
+    "alterador": "pt:dre:307674:por"
+  }
+]

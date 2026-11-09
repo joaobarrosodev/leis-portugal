@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:602477:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Concessão de Serviço Público",
+      "texto": "1 - Na data de entrada em vigor do Contrato de Concessão Alterado passam a constituir o objeto do contrato de concessão outorgado entre a Região Autónoma da Madeira e a Concessionária de Estradas VIAEXPRESSO da Madeira, S. A., a VE1, entre Machico e Ribeira de S. Jorge, a VE2, entre São Vicente e Porto Moniz, a VE3, entre Ribeira Brava e Madalena do Mar e entre Arco da Calheta e Raposeira do Lugarinho, e a VE4, entre Ribeira Brava e Meia Légua e entre Serra de Água e São Vicente, na extensão total de cerca de 69 km, em regime de exclusivo e sem cobrança direta aos utilizadores (SCUT).\n\n2 - Em consequência do disposto no número anterior, são excluídos do âmbito da concessão, da ER101, os troços associados entre São Vicente e Porto Moniz, com a extensão de 10,5 km, da ER101, o troço associado entre Madalena do Mar e o túnel da banda D'Além e entre este e a rotunda do Arco da Calheta, com a extensão de 2,5 km, da ER101, o troço principal do túnel da banda D'Além, com a extensão de 0,6 km, e da ER216, o troço principal, nó de Machico Norte com a ER236, com a extensão de 0,6 km, que haviam sido desclassificados para o domínio público municipal pelo [Decreto Legislativo Regional n.º 1/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2013-588855), de 2 de janeiro, e bem assim o troço da VE5, Cancela-Camacha, com a extensão de 4,0 km, o troço da VE6, Ribeira da Lapa-Curral das Freiras, com a extensão de 2,62 km, e o troço da VE7, Ribeira Funda-Paúl do Mar, com a extensão de 2,85 km.\n\n3 - A concessionária prestará à concedente, relativamente aos troços da VE5, VE6 e VE7, estritamente serviços de monitorização e informação a partir do seu sistema de controlo e vigilância.\n\n4 - A concessão poderá ser estendida a outras estradas regionais ou a troços que digam respeito a extensões das identificadas no n.º 1, até ao limite da quilometragem inicialmente identificada, por simples alteração do contrato e respeitado o processo previsto nos n.os 4 e 5 do artigo 4.º.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "As alterações às bases XIV e XXVII (DLR 36/2008/M, art. 10.º, n.os 2 e 3) e às bases I, III, VII, XII, XIII, XXIV e XXVII (DLR 9/2016/M, art. 2.º) e a republicação das bases (art. 4.º) incidem sobre o anexo II, que não consta do texto atual recebido por artigos.",
+  "instrucoes": [
+    "DLR 36/2008/M art. 10.º n.º 1: nova redacção do art. 8.º — já aplicada no texto atual, sem mudança",
+    "DLR 36/2008/M art. 10.º n.os 2 e 3: bases XIV e XXVII do anexo II — anexo não recebido, não aplicado",
+    "DLR 36/2008/M art. 10.º n.º 4: norma de aplicação ao procedimento em curso — não textual",
+    "DLR 9/2016/M art. 1.º: nova redacção do art. 1.º (com epígrafe) — aplicada",
+    "DLR 9/2016/M art. 2.º e 4.º: alteração e republicação das bases do anexo II — não aplicadas (anexo não recebido)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

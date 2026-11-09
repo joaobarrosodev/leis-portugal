@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º\n\n1 - Ao pessoal técnico de inspecção será abonada uma gratificação mensal de 5000$00.\n\n2 - A gratificação referida no n.º 1 será actualizada sempre que se verifiquem aumentos da função pública, sendo a percentagem do aumento idêntica àquela que se verifique para a letra C da tabela de vencimentos da função pública.",
+    "depois": "###### Artigo 9.º\n\nAo pessoal técnico de inspecção é atribuída uma gratificação mensal no valor correspondente a 20% do respectivo vencimento.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 3/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1985-327653), publicado em 1985-02-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:400040:por",
+    "alterador": "pt:dre:327653:por"
+  }
+]

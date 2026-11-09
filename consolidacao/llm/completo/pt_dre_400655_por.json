@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:400655:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "N.º 1.º da Portaria n.º 72/2003 dá nova redação ao anexo (plano de estudos), cujos quadros só vêm em imagem e que não consta do texto atual dos artigos; não aplicado.",
+  "instrucoes": [
+    "N.º 1.º da Portaria 72/2003: nova redação do anexo — não aplicado (quadros só em imagem).",
+    "N.os 2.º a 5.º da Portaria 72/2003: opções, número máximo de alunos, transição e aplicação — normas próprias, sem alteração aos artigos do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

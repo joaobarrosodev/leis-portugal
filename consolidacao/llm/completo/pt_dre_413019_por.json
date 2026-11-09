@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:413019:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 197/74), art. 2.º: acrescenta dois lugares ao quadro de pessoal da delegação de Paris no mapa anexo, que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: cria novas delegações com mapa próprio - norma autónoma, não altera os artigos do original",
+    "Alterador 1, art. 2.º: acréscimo de lugares no mapa anexo (imagem) - não aplicado",
+    "Alterador 1, art. 3.º: entrada em vigor - não textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

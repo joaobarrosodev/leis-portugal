@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:272798:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Sempre que o número de alunos dos cursos da Escola Central de Sargentos faça prever grande demora na realização dos exames finais, poderá o Ministro do Exército, por proposta do comandante da Escola, autorizar que os exames finais sejam apenas escritos para todas as disciplinas dos diferentes cursos e constituídos por duas provas em cada disciplina, tomando-se para classificação do exame final de cada disciplina a média das classificações obtidas nas duas provas.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Arts. 1.º e 2.º do Decreto 206/70: dirigidos ao Decreto 40423; ignorados.",
+    "Art. 3.º do Decreto 206/70: nova redação do artigo 1.º; feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

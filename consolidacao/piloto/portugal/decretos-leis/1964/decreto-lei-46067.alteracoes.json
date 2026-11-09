@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nÉ fixado em 25 o número de assistentes do quadro do pessoal contratado do Instituto de Medicina Tropical, assim distribuídos:\n\n8 primeiros-assistentes;\n\n17 segundos-assistentes.\n\n§ 1.º Os primeiros-assistentes referidos no corpo do artigo consideram-se incluídos no grupo J a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.\n\n§ 2.º Os segundos-assistentes, candidatos a primeiros-assistentes, receberão os vencimentos do seu actual cargo pelas sobras das verbas destinadas a primeiros-assistentes, enquanto não tiverem nomeação nesta categoria.",
+    "depois": "###### Artigo 3.º\n\nÉ fixado em 25 o número total de primeiros e segundos-assistentes do quadro do pessoal do Instituto de Medicina Tropical.\n\n§ 1.º Os primeiros-assistentes referidos no corpo do artigo consideram-se incluídos no grupo J a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.\n\n§ 2.º Quando o número de segundos-assistentes for superior ao orçamentado, as unidades excedentes receberão os seus vencimentos pelas sobras das verbas destinadas a primeiros-assistentes.\n\n> Alterado pelo/a [Decreto-Lei n.º 46727](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46727-1965-508011), publicado em 1965-12-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:517411:por",
+    "alterador": "pt:dre:508011:por"
+  }
+]

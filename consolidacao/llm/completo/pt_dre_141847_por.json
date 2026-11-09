@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:141847:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 77/2005 corrige apenas o nome do signatário português no final das versões portuguesa, inglesa e romena do Acordo; as assinaturas não fazem parte do corpo de nenhum artigo (aparecem só como texto final a seguir ao art. 10.º) e a versão romena só existe em imagem, pelo que não foi aplicada a nenhum artigo.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: signatário da versão portuguesa - fora dos artigos, não aplicado",
+    "Alterador 1, n.º 2: signatário da versão inglesa - fora dos artigos, não aplicado",
+    "Alterador 1, n.º 3: signatário da versão romena - só em imagem, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:473162:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "(Montantes e aplicações)",
+      "texto": "1 - O apoio selectivo previsto neste despacho normativo será concedido a fundo perdido e o seu montante será função das necessidades avaliadas pelos serviços do IEFP, não podendo, no entanto, ultrapassar por trabalhador o equivalente ao montante máximo do subsídio de desemprego multiplicado por catorze.\n\n2 - Em princípio, o montante da ajuda destinar-se-á a contribuir para o pagamento de salários, correspondentes sobretudo a períodos de desocupação e ou subocupação, e para acções de formação profissional.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação do n.º 1 do artigo 4.º; aplicada, n.º 2 mantido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

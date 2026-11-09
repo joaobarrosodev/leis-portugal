@@ -1,0 +1,38 @@
+{
+  "id": "pt:dre:400061:por",
+  "artigos": [
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "Salvo caso de força maior, o processo deverá estar concluído no prazo de vinte dias após a data do acidente.",
+      "alterador": 1
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "O processo instaurado em conformidade com a secção II do presente Regulamento será enviado à Chefia do Serviço de Justiça para que, dentro do prazo de vinte dias, se pronuncie acerca da sua elaboração.",
+      "alterador": 1
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "",
+      "texto": "A organização do processo ficará a cargo do oficial que for nomeado para instruir o processo disciplinar, com observância do mesmo prazo estabelecido no n.º 14.º",
+      "alterador": 1
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "",
+      "texto": "O processo assim instaurado será enviado à Chefia do Serviço de Justiça para que, dentro do mesmo prazo estabelecido no n.º 16.º, se pronuncie acerca da sua elaboração.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "N.º 1.º da Portaria 306/79: nova redação dos n.os 14.º, 16.º, 35.º e 39.º — aplicada aos quatro artigos.",
+    "N.º 2.º da Portaria 306/79: entrada em vigor — norma própria, sem alteração ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:666548:por",
+  "artigos": [
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "O pessoal que, sendo agente, desempenhe funções em regime de tempo completo, se encontre sujeito à disciplina, hierarquia e horário da Direcção Regional da Segurança Social ou serviços dependentes, conte, pelo menos, três anos de serviço ininterrupto e foi admitido com observância dos requisitos habilitacionais pode ser integrado, directamente, em lugares do quadro, em categoria correspondente às funções que desempenha actualmente.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (DRR 12/89/A), art. 2.º: considera automaticamente alterados os quadros anexos (letra de vencimento do chefe de centro de informática); os quadros só vêm em imagem e a alteração não é textual, por isso não foi aplicada.",
+  "instrucoes": [
+    "Alterador 1 (DRR 26/88/A), artigo único: aditado o artigo 12.º com o texto do alterador.",
+    "Alterador 2 (DRR 12/89/A): art. 1.º e 3.º são normas autónomas sem alteração textual ao original; art. 2.º altera os quadros anexos (em imagem), não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:141587:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto n.º 50/71): o pedido não traz nenhum texto deste diploma, pelo que não há instrução que se possa aplicar.",
+  "instrucoes": [
+    "Alterador 1: texto vazio no pedido; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

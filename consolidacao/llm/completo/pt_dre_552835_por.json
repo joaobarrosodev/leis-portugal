@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:552835:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — REGULAMENTO DE APLICAÇÃO DA MEDIDA 4 - GESTÃO E INFRA-ESTRUTURAS HIDRO-AGRÍCOLAS::3.º",
+      "epigrafe": "Beneficiários",
+      "texto": "1 - Podem beneficiar das ajudas previstas neste Regulamento os titulares de prédios rústicos ou parcelas de prédios rústicos, organizados em associações de beneficiários ou juntas de agricultores, através dos competentes organismos da administração central, e estes últimos, quando se trate de elaboração de estudos e projectos de execução, bem como a EDIA - Empresa de Desenvolvimento das Infra-Estruturas do Alqueva, S. A.\n\n2 - Em casos excepcionais, as associações de beneficiários e as juntas de agricultores podem beneficiar de ajudas para a elaboração de estudos de emparcelamento necessários à realização dos projectos a que se refere o artigo 2.º, desde que sejam objecto de parecer prévio favorável do IHERA.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do art. 3.º (n.º 1 e novo n.º 2) — aplicada.",
+    "Alterador 2: nova redação do n.º 1 do art. 3.º, mantendo o n.º 2 — aplicada sobre a redação do alterador 1."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

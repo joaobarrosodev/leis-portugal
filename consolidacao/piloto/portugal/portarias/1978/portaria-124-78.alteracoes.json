@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nO Prémio Escolar Distrito de Aveiro, criado pelo pessoal administrativo e auxiliar dos estabelecimentos de ensino oficial dependentes do Ministério da Educação e Cultura situados nos actuais concelhos de Águeda, Albergaria-a-Velha, Anadia, Arouca, Aveiro, Castelo de Paiva, Espinho, Estarreja, Feira, Ílhavo, Mealhada, Murtosa, Oliveira de Azeméis, Oliveira do Bairro, Ovar, S. João da Madeira, Sever do Vouga, Vagos e Vale de Cambra, é destinado a filhos de funcionários administrativos e auxiliares dos estabelecimentos de ensino oficial daqueles concelhos.",
+    "depois": "###### Artigo 1.º\n\nO Prémio Escolar Distrito de Aveiro, criado pelo pessoal administrativo e auxiliar da respectiva Direcção Escolar e dos estabelecimentos de ensino oficial dependentes do Ministério da Educação e Investigação Científica situados nos actuais concelhos de Águeda, Albergaria-a-Velha, Anadia, Arouca, Aveiro, Castelo de Paiva, Espinho, Estarreja, Feira, Ílhavo, Mealhada, Murtosa, Oliveira de Azeméis, Oliveira do Bairro, Ovar, S. João da Madeira, Sever do Vouga, Vagos e Vale de Cambra, é destinado a filhos de funcionários administrativos e auxiliares da Direcção Escolar do distrito e dos estabelecimentos de ensino oficial daqueles concelhos.\n\n> Alterado pelo/a [Portaria n.º 33/79](https://diariodarepublica.pt/dr/detalhe/portaria/33-1979-392246), publicado em 1979-01-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:445964:por",
+    "alterador": "pt:dre:392246:por"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:142171:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DL 102/2004 art. 1.º substitui a planta anexa ao contrato (só em imagem) e não altera o texto do art. 5.º; art. 3.º altera as bases XXV e XXXV do anexo, cujo texto não vem no texto atual.",
+  "instrucoes": [
+    "DL 102/2004 art. 1.º: substitui a planta da zona dominial — não textual, não aplicada",
+    "DL 102/2004 art. 2.º: nova redação do art. 4.º — já igual ao texto atual, sem mudança",
+    "DL 102/2004 art. 3.º: altera bases XXV e XXXV — texto das bases ausente, não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

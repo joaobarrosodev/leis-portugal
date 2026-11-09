@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:291920:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1 (DR 1/93) e 2 (DR 18/95) aditam mapas anexos que só vêm em imagem; alterador 4 (Declaração de Rectificação 49/2008, mapa viii do DL 121/2008) revoga o diploma com excepção das disposições relativas às categorias subsistentes, revogação parcial não delimitada no texto; alterador 3 sem texto.",
+  "instrucoes": [
+    "Alterador 1: adita mapa anexo (imagem): não aplicado.",
+    "Alterador 2: adita mapa ao mapa do n.º 2 do artigo 1.º (imagem): não aplicado.",
+    "Alterador 3: sem artigos transcritos.",
+    "Alterador 4: rectifica o mapa viii do DL 121/2008; revogação do DR 51/91 com excepção das categorias subsistentes: não aplicada ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

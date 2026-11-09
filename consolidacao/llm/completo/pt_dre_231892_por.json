@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:231892:por",
+  "artigos": [
+    {
+      "chave": "9.º",
+      "epigrafe": "Incentivo",
+      "texto": "1 - O incentivo a conceder assumirá a forma de um subsídio financeiro a fundo perdido, determinado pela aplicação de uma percentagem sobre o total das aplicações relevantes que cada projecto envolve, nos termos constantes das alíneas seguintes:\n\na) No que se refere à acção A, 70%, até ao limite máximo de 3000 contos;\n\nb) No que se refere à acção B e para projectos com incentivos superiores a 40000 contos, as taxas de incentivos a atribuir são as seguintes:\n\n55% para pequenas e médias empresas que se insiram na definição constante do n.º 5 deste artigo e 45% para as restantes, até ao limite de 130000 contos;\n\nEm casos muito excepcionais, as percentagens acima referidas poderão atingir 75% para projectos apresentados por pequenas e médias empresas que se insiram na definição constante do n.º 5 deste artigo ou 65% para projectos apresentados por outras empresas, para as componentes autónomas reconhecidamente consideradas como investigação de base e subcontratadas a entidades especialmente vocacionadas para este tipo de investigação.\n\n2 - As taxas referidas no primeiro parágrafo da alínea b) do número anterior poderão ser majoradas em 10% para projectos de elevado risco, desde que previamente notificados à comissão.\n\n3 - Serão objecto de tratamento específico, a definir por despacho do Ministro da Indústria e Energia, pequenos projectos de I&DT que envolvam incentivos inferiores a 40000 contos.\n\n4 - Os montantes totais do incentivo por projecto não poderão ser superiores aos referidos no disposto no n.º 1, salvo em casos de projectos de relevância reconhecida por despacho do Ministro da Indústria e Energia.\n\n5 - Para os efeitos do disposto na alínea b) do n.º 1, será considerada a definição de \"pequena e média empresa\" constante do Jornal Oficial das Comunidades Europeias, n.º C 213, de 19 de Agosto de 1992.\n\n6 - O montante total do incentivo a conceder não poderá exceder dois terços do custo total do investimento.\n\n7 - Para os efeitos do n.º 2 do artigo 19.º do [Decreto-Lei n.º 177/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1994-290635), de 27 de Junho, o equivalente de subvenção bruta não poderá ser superior às percentagens referidas na alínea b) do n.º 1, em cada um dos casos nela referidos.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Decl. Ret. 152/94): rectificação do artigo 2.º, n.º 1, alínea a); já aplicada no texto atual.",
+    "Alterador 1: rectificação do artigo 7.º; já aplicada no texto atual.",
+    "Alterador 1: rectificação do artigo 9.º, n.º 1, alínea b) ('as percentagens referidas na alínea anterior' -> 'as percentagens acima referidas'; 'excepcionais' já estava correcto); aplicada.",
+    "Alterador 2 (Desp. Norm. 66/95): regime excepcional autónomo de comprovação da autonomia financeira, sem alteração textual do original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "9.º: parágrafo que não está no alterador nem no original: Em casos muito excepcionais, as percentagens acima referidas poderão atingir 75%"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:327872:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DR 75/79 art. 2.º extingue a licenciatura em Ciências Sociais e Decreto 141/81 art. 2.º extingue as licenciaturas em Ciências Agrárias e Extensão Rural criadas pelo art. 1.º; são extinções materiais, sem instrução textual de alteração ou revogação das alíneas do art. 1.º, pelo que não se alterou o texto.",
+  "instrucoes": [
+    "DR 75/79: cria novos cursos (autónomo) e extingue o curso de Ciências Sociais; não textual, não aplicado",
+    "Decreto 141/81: cria novos cursos e extingue Ciências Agrárias e Extensão Rural; não textual, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

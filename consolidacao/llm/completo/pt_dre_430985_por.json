@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:430985:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto n.º 99-A/77), art. 1.º: substitui o mapa anexo, que só vem em imagem; não aplicado. Alterador 1, art. 2.º, alterador 2 (Decreto n.º 65/78) e alterador 3 (Despacho Normativo n.º 136/79): prorrogam o prazo do art. 3.º sem lhe dar nova redação; alterações não textuais, não aplicadas.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: substituição do mapa (imagem) - não aplicada",
+    "Alterador 1, art. 2.º: prorrogação do prazo - não textual",
+    "Alterador 2: prorrogação do prazo do art. 3.º e faculdade de novas prorrogações por despacho - não textual",
+    "Alterador 3: prorrogação do prazo do art. 3.º - não textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -30,5 +30,47 @@
     ],
     "diploma": "pt:dre:283681:por",
     "alterador": "pt:dre:490394:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º — Forma de pagamento\n\n1 - O pagamento será feito nas tesourarias da Fazenda Pública ou no Banco de Portugal no prazo de 30 dias após o envio ao requerente pelo serviço competente das respectivas guias de pagamento em quintuplicado.\n\n2 - O requerente, após o pagamento, deve enviar ao serviço competente uma cópia da guia.\n\n3 - (Revogado.)\n\n4 - Os montantes das taxas que não forem pagos nos prazos indicados no n.º 1 serão cobrados coercivamente através dos serviços de justiça fiscal, servindo de título executivo a certidão emitida pelo serviço processador competente.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22.",
+    "depois": "###### Artigo 5.º — Forma de pagamento\n\n1 - As taxas são pagas, no prazo de 30 dias, mediante documento a emitir pelas entidades competentes, privilegiando o pagamento através de meios electrónicos, nomeadamente através de terminal Multibanco, de sistema de homebanking na Internet.\n\n2 - As taxas previstas no presente decreto-lei, quando sejam cobradas no âmbito da administração central, constituem receita, na sua totalidade, das entidades competentes.\n\n3 - (Revogado.)\n\n4 - A cobrança coerciva das dívidas provenientes da falta de pagamento das taxas faz-se pelo processo de execução fiscal, servindo de título executivo a certidão passada pela entidade que prestar os serviços.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22.\n\n> Alterado pelo/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:283681:por",
+    "alterador": "pt:dre:490394:por"
+  },
+  {
+    "artigo": "24.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 24.º — Âmbito e valores\n\n1 - As taxas diversas são devidas por serviços prestados nos seguintes casos:\n\na) Apreciação do projecto de instalações eléctricas de abastecimento público que não carecem de licença de estabelecimento;\n\nb) Vistoria de instalações eléctricas de serviço particular que não carecem de licença de estabelecimento;\n\nc) Revistoria para verificação de cláusulas impostas;\n\nd) Aprovação de projectos de instalações eléctricas tipo ou elementos tipo de instalações eléctricas.\n\n2 - (Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22.",
+    "depois": "###### Artigo 24.º — Âmbito e valores\n\n1 - As taxas diversas são devidas por serviços prestados nos seguintes casos:\n\na) Apreciação do projecto de instalações eléctricas de abastecimento público que não carecem de licença de estabelecimento;\n\nb) Vistoria de instalações eléctricas de serviço particular que não carecem de licença de estabelecimento;\n\nc) Revistoria para verificação de cláusulas impostas;\n\nd) Aprovação de projectos de instalações eléctricas tipo ou elementos tipo de instalações eléctricas.\n\ne) Apreciação de projecto de instalações eléctricas de serviço particular;\n\nf) Averbamentos e emissão de segunda via de licenças;\n\ng) Transferência de titularidade de licenças.\n\n2 - (Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22.\n\n> Alterado pelo/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:283681:por",
+    "alterador": "pt:dre:490394:por"
+  },
+  {
+    "artigo": "26.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 26.º — Contra-ordenações\n\n1 - Constituem contra-ordenação punível com coima:\n\na) De 10000$00 a 50000$00, a falta da comunicação prevista no artigo 13.º;\n\nb) De 10000$00 a 50000$00, a falta dos registos permanentes actualizados nos termos do artigo 21.º;\n\nc) De 10000$00 a 60000$00, o não envio dos boletins referidos nos artigos 11.º e 20.º;\n\nd) De 10000$00 a 70000$00, a falta de participação prevista no artigo 17.º;\n\ne) De 10000$00 a 100000$00, a desmontagem de uma instalação do 1.º grupo com infracção do disposto no artigo 14.º;\n\nf) De 50000$00 a 500000$00, o preenchimento errado dos boletins previstos nos artigos 11.º e 20.º com prejuízos para o Estado.\n\n2 - A negligência e a tentativa são puníveis.\n\n3 - Simultaneamente com a coima e a título de sanção acessória poderá ser ordenada a suspensão do fornecimento de energia, que se manterá enquanto não for reparada a situação que lhe deu origem.",
+    "depois": "###### Artigo 26.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima de (euro) 100 a (euro) 1000, no caso de pessoas singulares, e de (euro) 500 a (euro) 5000, no caso de pessoas colectivas:\n\na) A falta de comunicação prevista no artigo 13.º;\n\nb) A falta dos registos permanentes actualizados nos termos do artigo 21.º;\n\nc) O não envio dos boletins referidos nos artigos 11.º e 20.º;\n\nd) A falta de participação prevista no artigo 17.º;\n\ne) A desmontagem de uma instalação do 1.º grupo com infracção do disposto no artigo 14.º;\n\nf) O preenchimento errado dos boletins previstos nos artigos 11.º e 20.º com prejuízos para o Estado.\n\n2 - A negligência e a tentativa são puníveis, sendo os limites mínimos e máximos das coimas aplicáveis reduzidos a metade.\n\n3 - Simultaneamente com a coima e a título de sanção acessória poderá ser ordenada a suspensão do fornecimento de energia, que se manterá enquanto não for reparada a situação que lhe deu origem.\n\n> Alterado pelo/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:283681:por",
+    "alterador": "pt:dre:490394:por"
   }
 ]

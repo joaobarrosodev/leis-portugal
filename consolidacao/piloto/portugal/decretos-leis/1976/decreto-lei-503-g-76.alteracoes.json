@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º — (Composição)\n\n1. O conselho de gerência é composto por um mínimo de cinco e um máximo de sete administradores, nomeados por três anos, renováveis.\n\n2. Os administradores, e de entre eles o presidente e o vice-presidente, são nomeados, reconduzidos, demitidos ou exonerados pelo Conselho de Ministros, mediante proposta do Ministro da Indústria e Tecnologia.\n\n3. As propostas de nomeação dos administradores serão elaboradas com a prévia audiência dos trabalhadores da empresa.\n\n4. Consideram-se ouvidos os trabalhadores da empresa se não se pronunciarem nos quinze dias seguintes ao da recepção da lista nominal que, para os efeitos do número precedente, lhes for entregue.",
+    "depois": "###### Artigo 14.º — (Composição)\n\n1 - O conselho de gerência é composto por um mínimo de três e um máximo de cinco administradores, nomeados por três anos, renováveis.\n\n2. Os administradores, e de entre eles o presidente e o vice-presidente, são nomeados, reconduzidos, demitidos ou exonerados pelo Conselho de Ministros, mediante proposta do Ministro da Indústria e Tecnologia.\n\n3. As propostas de nomeação dos administradores serão elaboradas com a prévia audiência dos trabalhadores da empresa.\n\n4. Consideram-se ouvidos os trabalhadores da empresa se não se pronunciarem nos quinze dias seguintes ao da recepção da lista nominal que, para os efeitos do número precedente, lhes for entregue.\n\n> Alterado pelo/a [Decreto-Lei n.º 82/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1980-681613), publicado em 1980-04-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:232942:por",
+    "alterador": "pt:dre:681613:por"
+  }
+]

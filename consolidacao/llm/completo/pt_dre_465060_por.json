@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:465060:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "Reserva Ecológica Nacional",
+      "texto": "Sem embargo de outra legislação igualmente aplicável a Reserva Ecológica Nacional rege-se nos precisos termos do novo Regime Jurídico da Reserva Ecológica Nacional, na sua redação vigente.",
+      "alterador": 6
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1 e 6: as alterações ao quadro regulamentar (só em imagem) e às notas escritas e explicativas dos anexos I e II não estão no texto por artigos. Alteradores 2 a 5: planos de pormenor que alteram/revogam o PDM apenas na respetiva área de intervenção (alteração não textual). Alterador 7 altera os artigos 3.º e 4.º do PDM de Vagos, não deste diploma.",
+  "instrucoes": [
+    "Alterador 1 (RCM 29/2000): altera quadro regulamentar e notas dos anexos; nada aplicado aos artigos",
+    "Alteradores 2-5 (planos de pormenor): alteração territorial do PDM; não aplicada",
+    "Alterador 6 (Aviso 9021/2014): nova redação do artigo 6.º (epígrafe e corpo); aplicada. Alterações aos anexos I e II não aplicáveis",
+    "Alterador 7 (Aviso 8230/2018): respeita ao PDM de Vagos; ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

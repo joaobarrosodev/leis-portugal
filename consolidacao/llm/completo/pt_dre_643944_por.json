@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:643944:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Os actuais fundos da farmácia e de transportes são integrados com o seu activo e passivo nos Serviços Sociais da Guarda Fiscal, criados pelo [Decreto-Lei n.º 48802](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48802-1968-256604), de 27 de Dezembro de 1968.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 30/85 art. 1.º: nova redacção do art. 2.º — aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

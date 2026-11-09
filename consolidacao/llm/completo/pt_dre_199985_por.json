@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:199985:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Decreto-Lei n.º 384/75, arts. 5.º e 8.º: transfere para o conselho administrativo do EMGFA as responsabilidades do conselho administrativo do Instituto Hidrográfico e revoga as disposições do original «no que se refere à competência» desse conselho — revogação/alteração não textual, sem alvo literal; não aplicada.",
+  "instrucoes": [
+    "Arts. 1.º a 4.º, 6.º e 7.º: quadro de pessoal, nomeações, fardamento, receitas, comissão consultiva — normas próprias; não alteram o texto.",
+    "Art. 5.º: transferência de competências do conselho administrativo do Instituto Hidrográfico — não textual; não aplicada.",
+    "Art. 8.º: revogação das disposições do original quanto à competência do conselho administrativo do Instituto Hidrográfico — revogação genérica, não textual; não aplicada. A parte relativa ao Decreto-Lei n.º 444/72 é de outro diploma; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

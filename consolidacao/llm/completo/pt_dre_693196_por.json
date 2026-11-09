@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:693196:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto Regulamentar Regional n.º 17/2008/M), artigo 15.º: revoga o Decreto Regulamentar Regional n.º 23/2005/M no seu todo, com excepção dos quadros de pessoal anexos e da estrutura de cargos de direcção intermédia até à sua regulamentação; revogação global com ressalvas por matéria, não aplicável com segurança artigo a artigo.",
+  "instrucoes": [
+    "Alterador 1, artigos 1.º a 14.º e 16.º: nova orgânica própria; não alteram o original.",
+    "Alterador 1, artigo 15.º: revogação global com ressalvas; não aplicada (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

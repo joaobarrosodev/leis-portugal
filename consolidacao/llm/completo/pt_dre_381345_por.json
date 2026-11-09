@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:381345:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Portarias n.º 183/80 e n.º 481/81 alteram o quadro anexo ao DL 261/79, com as alterações só em imagem (ver documento original); não aplicadas.",
+  "instrucoes": [
+    "Portaria n.º 183/80: altera o quadro anexo (pessoal da Biblioteca), alteração só em imagem; não aplicável.",
+    "Portaria n.º 481/81: altera a designação de um lugar no quadro anexo, alteração só em imagem; não aplicável.",
+    "DL 154-A/2009 (Lei Orgânica do MDN): não contém instrução de alteração, revogação ou aditamento dirigida ao texto do DL 261/79; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

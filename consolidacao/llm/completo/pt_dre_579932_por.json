@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:579932:por",
+  "artigos": [
+    {
+      "chave": "27.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: dá nova redação ao artigo 27.º do Decreto n.º 44220 (outro diploma); ignorado como alteração textual do original.",
+    "Alterador 1, art. 2.º: revoga o Decreto n.º 45864 na parte que se refere ao artigo 27.º do Decreto n.º 44220, isto é, a unidade '27.º' do texto atual; marcada como (Revogado.).",
+    "Alterador 1, art. 3.º: entrada em vigor, não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

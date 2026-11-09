@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:238223:por",
+  "artigos": [
+    {
+      "chave": "24.º",
+      "epigrafe": "",
+      "texto": "1. O provimento dos lugares de bibliotecário dos institutos superiores de engenharia será feito nos termos da legislação aplicável.\n\n2. Podem, contudo, ser providos naqueles licenciados em Engenharia, quando se verifique a ausência de candidatos habilitados com o respectivo título.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 3 e 4 (Portarias n.os 849/81 e 850/81) dão nova composição aos quadros de pessoal do Instituto Superior de Engenharia de Lisboa e do Porto (mapas anexos ao decreto-lei), mas tanto os quadros atuais como os novos só existem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (DL 326/75): nova redação do artigo 24.º; aplicado.",
+    "Alterador 2 (DL 427-B/77): institui o ensino superior de curta duração; só refere o original no preâmbulo; nada feito.",
+    "Alterador 3 (Portaria 849/81): novo quadro de pessoal do ISEL, em imagem; não aplicado.",
+    "Alterador 4 (Portaria 850/81): novo quadro de pessoal do ISEP, em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

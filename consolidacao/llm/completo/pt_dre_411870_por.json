@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:411870:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "São desafectados do domínio público marítimo os terrenos do estuário do Sado representados na planta anexa e delimitados por uma linha poligonal com nove vértices, designados pelos n.os 1, 2, 3.2, 3.1, 3, 4, 4.1, 4.2 e 5, com as seguintes coordenadas rectangulares, tendo como origem o Castelo de São Jorge, e o sistema de projecção Hayford, Gauss:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/16800/18281829.pdf)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "O quadro de coordenadas da nova redação do artigo 1.º e a planta só vêm em imagem; foi mantida a referência ao documento original em vez do quadro.",
+  "instrucoes": [
+    "Artigo único do Decreto do Governo 8/86: nova redação do artigo 1.º — aplicada ao texto; o quadro de coordenadas fica como referência à imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

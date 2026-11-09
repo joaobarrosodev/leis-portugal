@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:689026:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "1. O director do Gabinete será coadjuvado por ambos os subdirectores, que os substituirão nas suas faltas e impedimentos, incluindo na presidência dos órgãos colegiais, conforme aquele o determinar.\n\n2. Na falta ou impedimento simultâneo dos três, substituí-los-á o director de serviços designado pelo director do Gabinete.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "O director do Gabinete poderá delegar o exercício de parte da sua competência em qualquer dos subdirectores ou noutro funcionário dirigente do Gabinete de categoria igual ou superior à letra F, nas condições que considerar convenientes, especificando as matérias e os poderes abrangidos na delegação.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 11/77), artigo 1.º: cria outro lugar de subdirector no quadro de pessoal (mapa anexo), que não vem no texto atual; não aplicado. Alterador 2 (Portaria n.º 241/83): equipara o cargo de director de serviços-adjunto a chefe de divisão, sem alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, artigo 1.º: criação de lugar de subdirector no quadro anexo; não aplicada (quadro ausente).",
+    "Alterador 1, artigo 2.º: nova redação dos artigos 7.º e 8.º. Aplicada.",
+    "Alterador 2, n.º 1.º: equiparação de cargo, não textual; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

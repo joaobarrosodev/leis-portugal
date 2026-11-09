@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:643293:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1. O Fundo será gerido por uma comissão administrativa, constituída pelo presidente, que será escolhido pelos Ministros das Finanças e da Marinha, e por dois vogais, que representarão, respectivamente, o Ministro das Finanças e o Ministro da Marinha.\n\n2. A forma de substituição do presidente da comissão será determinada por despacho conjunto dos Ministros das Finanças e da Marinha e a de cada um dos vogais por despacho do Ministro que representar.",
+      "alterador": 1
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "",
+      "texto": "1 - Os empréstimos e avales a conceder pelo Fundo não poderão exceder 75% do valor dos empreendimentos ou do custo de aquisição ou construção de navios.\n\n2 - Os empréstimos poderão, no entanto, atingir o valor total dos empreendimentos ou da aquisição ou construção de navios quando os mutuários sejam cooperativas ou empresas cuja actividade seja exercida directamente pelos financiados e satisfaçam os requisitos referidos nas Portarias n.os [9/73](https://diariodarepublica.pt/dr/detalhe/portaria/9-1973-288626) e [51/73](https://diariodarepublica.pt/dr/detalhe/portaria/51-1973-683268), respectivamente, de 6 e 25 de Janeiro.\n\n3 - Na determinação do montante dos empréstimos e avales a conceder deve ser tomado em consideração serem ou não de origem nacional os navios a adquirir ou a construir.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1 do artigo 3.º; aplicado, n.º 2 mantido.",
+    "Alterador 2: nova redação do artigo 19.º; substituída depois pelo alterador 3.",
+    "Alterador 3, art. 1.º: nova redação do artigo 19.º (n.os 1 a 3); aplicada. Art. 2.º revoga o DL 545/77, não o original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

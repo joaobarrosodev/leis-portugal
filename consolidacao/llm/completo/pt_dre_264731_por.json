@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:264731:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "alterador": 1,
+      "texto": "1. As câmaras municipais são compostas por um presidente e um vice-presidente, nomeados pelo Governador da respectiva província, e por vereadores eleitos.\n\n2. Quando as circunstâncias o justifiquem, o número de vice-presidentes das câmaras municipais a que se refere o presente diploma poderá ser elevado, mediante portaria, sob proposta do Governador."
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único: nova redação do artigo 4.º — aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

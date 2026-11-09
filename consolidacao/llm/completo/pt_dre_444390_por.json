@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:444390:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 121.º, n.º 1, g), do DL 299/2009: extingue a gratificação na parte aplicável à PSP; não textual.",
+    "Art. 124.º, n.º 1, e): revoga o DL 455/83 'na parte aplicável à PSP'; revogação parcial por âmbito subjetivo, não se aplica ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

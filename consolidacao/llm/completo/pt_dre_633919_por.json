@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:633919:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 171/74, art. 4.º: extingue o Secretariado para a Juventude; não altera o texto de nenhum artigo do original; nada a fazer. Os restantes artigos não se dirigem ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

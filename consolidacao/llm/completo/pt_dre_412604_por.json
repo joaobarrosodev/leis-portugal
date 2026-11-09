@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:412604:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alt.1 (Decreto n.º 24/76, art. 1.º) substitui os quadros anexos pelos quadros anexos ao Decreto n.º 24/76, que só vêm em imagem; não aplicado. Alt.2 (Decreto-Lei n.º 769-C/76) integra a JICU no Ministério da Educação e Investigação Científica sem dar nova redação a nenhum artigo: alteração não textual.",
+  "instrucoes": [
+    "Alt.1 art.1.º: substituição dos quadros anexos (imagem); não aplicável. Arts. 2.º e 3.º do alt.1 são disposições próprias; sem efeito no texto.",
+    "Alt.2: mudança de tutela não textual; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

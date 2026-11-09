@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:412655:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Artigo único, n.º 1, do DL 123/85: revoga o artigo 7.º apenas 'na parte em que isentou de desconto' os abonos do pessoal navegante, com efeitos retroativos; revogação parcial não textual, não se sabe que palavras do artigo caem, pelo que não se aplicou ao texto.",
+  "instrucoes": [
+    "Art. único n.º 1: revogação parcial do artigo 7.º na parte da isenção; não aplicada (não textual).",
+    "Art. único n.º 2: retificação de pensões; não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

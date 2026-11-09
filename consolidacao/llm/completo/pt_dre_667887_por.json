@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:667887:por",
+  "artigos": [
+    {
+      "chave": "12.º",
+      "epigrafe": "Situações especiais de pré-reforma antecipada",
+      "texto": "1 - Sempre que o acordo de pré-reforma se enquadre em medidas de recuperação de empresas declaradas em situação económica difícil ao abrigo do [Decreto-Lei n.º 353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853), de 29 de Agosto, em projectos de reestruturação desenvolvidos ao abrigo do [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto, ou do n.º 2 do artigo 5.º do [Decreto-Lei n.º 206/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1987-421454), de 16 de Maio, e, bem assim, em processos de recuperação de empresas nos termos do [Decreto-Lei n.º 177/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1986-228619), de 2 de Julho, e se verifique o desequilíbrio económico-financeiro da entidade empregadora, esta pode requerer:\n\na) A equivalência, pelo prazo de 1 ano, prorrogável pelo período máximo de 12 meses, à entrada de contribuições para os trabalhadores pré-reformados;\n\nb) Uma comparticipação do Instituto do Emprego e Formação Profissional no pagamento da prestação de pré-reforma até metade do valor desta, pelo prazo de 6 meses, prorrogável pelo período máximo de 12 meses, salvo se, em relação ao mesmo trabalhador, a empresa já tiver beneficiado da comparticipação financeira prevista no artigo 13.º do [Decreto-Lei n.º 398/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1983-443683), de 2 de Novembro;\n\nc) Relativamente aos trabalhadores que tenham completado 62 anos e possuam 40 anos civis com registo de remunerações relevantes para a taxa de formação da pensão, a possibilidade de requererem pensão antecipada nas condições legais aplicáveis.\n\n2 - A comparticipação prevista na alínea b) do número anterior não pode, em qualquer caso, exceder a remuneração mínima mensal garantida por lei, sendo deduzida dos rendimentos de trabalho auferidos pelo trabalhador no exercício de actividade profissional após passagem à situação de pré-reforma, independentemente do estipulado no acordo de pré-reforma.\n\n3 - A prorrogação dos benefícios é concedida mediante requerimento da entidade empregadora em que se prove a manutenção das condições que fundamentaram a sua concessão inicial.\n\n4 - O disposto no n.º 1 é igualmente aplicável às actividades ou empresas afectadas pelo impacte económico e social das referidas reestruturações, cuja situação seja expressamente reconhecida por portaria conjunta dos Ministros das Finanças, do Planeamento e da Administração do Território e do Emprego e da Segurança Social e responsável pelo respectivo sector de actividade, ouvido o Conselho Permanente de Concertação Social.",
+      "alterador": 6
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Contra-ordenações",
+      "texto": "1 - A violação das obrigações decorrentes do presente diploma em matéria de segurança social é punida nos termos do estabelecido no [Decreto-Lei n.º 64/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1989-612243), de 25 de Fevereiro.\n\n2 - Comete contra-ordenação leve o trabalhador que não informe o centro de emprego da área do seu domicílio, no prazo de 15 dias, de que iniciou outra actividade profissional, sendo a aplicação da coima da competência do director do referido centro.\n\n3 - A falta de pagamento pontual da prestação de pré-reforma é punida nos termos estabelecidos na regulamentação geral do contrato individual de trabalho para a falta de pagamento pontual da retribuição.\n\n4 - A aplicação das sanções pela infracção referida no número anterior compete à Inspecção-Geral do Trabalho.\n\n5 - O produto das multas reverte para o Instituto de Gestão Financeira da Segurança Social.\n\n6 - Sem prejuízo do disposto nos artigos 181.º e seguintes do Código de Processo do Trabalho, as multas pela violação do disposto no presente diploma serão aplicadas na sentença proferida nas acções cíveis em que se provem tais violações, tendo a propositura da acção o efeito interruptivo previsto no n.º 2 do artigo 184.º do mesmo Código.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (DL 199/99): art. 42.º, n.º 3, mantém as taxas do art. 9.º; não textual.",
+    "Alt. 2 (Lei 118/99, art. 21.º): n.º 4 do art. 4.º (já aplicado); epígrafe e n.º 2 do art. 14.º aplicados, restantes números mantidos.",
+    "Alt. 3 (DL 87/2004): repristina arts. 8.º, 9.º, 12.º e 15.º; já constam do texto.",
+    "Alt. 4 (DL 187/2007, art. 95.º): nova alínea c) do art. 12.º; substituída pelo alt. 6. A instrução põe as alíneas sob o n.º 2, mas a alínea c) só existe no n.º 1: aplicada ao n.º 1.",
+    "Alt. 5 (DL 167-E/2013, art. 10.º): repristina o art. 12.º; já consta.",
+    "Alt. 6 (DL 16-A/2021, art. 95.º): nova alínea c) do n.º 1 do art. 12.º, aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

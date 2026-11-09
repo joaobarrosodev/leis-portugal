@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nA Direcção Regional de Turismo é integrada pelos seguintes serviços:\n\na) Direcção dos Serviços de Promoção, Relações Públicas, Publicidade, Propaganda e Animação;\n\nb) Direcção dos Serviços de Empresas e Actividades Turísticas, de Património, Estudos, Planeamento, Inspecção e de Utilidade Turística;\n\nc) Direcção dos Serviços de Formação Profissional;\n\nd) Repartição Administrativa.",
+    "depois": "###### Artigo 2.º\n\nA Direcção Regional de Turismo é integrada pelos seguintes serviços:\n\na) Direcção dos Serviços de Promoção, Relações Públicas, Publicidade e Propaganda;\n\nb) Direcção dos Serviços de Animação e Ocupação de Tempos Livres;\n\nc) Direcção dos Serviços de Empresas e Actividades Turísticas, de Património, Estudos, Planeamento, Inspecção e de Utilidade Turística;\n\nd) Direcção dos Serviços de Formação Profissional;\n\ne) Repartição Administrativa.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 9/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1981-580576), publicado em 1981-07-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:388054:por",
+    "alterador": "pt:dre:580576:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1 - A Direcção dos Serviços de Promoção, Relações Públicas, Publicidade, Propaganda e Animação é integrada pela Divisão de Marketing, Relações Públicas, Promoção, Publicidade, Propaganda, Animação e Ocupação de Tempos Livres.\n\n2 - A Divisão acima mencionada compreende ainda os serviços que se vierem a revelar necessários ao cabal desempenho das actividades da Direcção Regional de Turismo.",
+    "depois": "###### Artigo 3.º\n\n1 - As Direcções de Serviços de Promoção, Relações Públicas, Publicidade e Propaganda e a de Animação e Ocupação de Tempos Livres são integradas, respectivamente, pela Divisão de Marketing, Relações Públicas, Promoção, Publicidade e Propaganda e pela Divisão de Animação e Ocupação de Tempos Livres.\n\n2 - As divisões acima mencionadas compreendem ainda os serviços que se vierem a revelar necessários ao cabal desempenho das actividades da Direcção Regional de Turismo.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 9/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1981-580576), publicado em 1981-07-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:388054:por",
+    "alterador": "pt:dre:580576:por"
+  }
+]

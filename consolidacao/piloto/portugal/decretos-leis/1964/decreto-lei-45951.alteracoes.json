@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nO pessoal civil, a que se refere o artigo anterior, será provido nos respectivos cargos, desde que satisfaça às condições legais estabelecidas, por proposta fundamentada do comandante da Escola, aprovada pelo Ministro do Exército.",
+    "depois": "###### Artigo 2.º\n\nA admissão e demissão do pessoal civil contratado serão feitas pelo Ministro do Exército, mediante proposta da Escola Prática de Engenharia, nos termos da legislação em vigor.\n\nO pessoal civil assalariado é admitido e despedido pelo comandante da Escola Prática de Engenharia, cumpridas as disposições legais em vigor e depois de ouvida a Direcção do Serviço de Pessoal, no que respeita à admissão do pessoal civil assalariado permanente.\n\n> Alterado pelo/a [Decreto-Lei n.º 46537](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46537-1965-509817), publicado em 1965-09-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:536860:por",
+    "alterador": "pt:dre:509817:por"
+  }
+]

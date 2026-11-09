@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:381106:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Portaria n.º 39/81, n.º 6.º: substitui o quadro de pessoal da DGERU (anexo ao DL 189/79) pelo quadro anexo VI, que só existe em imagem (ver documento original); não aplicado.",
+  "instrucoes": [
+    "Portaria n.º 39/81, n.º 6.º: substituição do quadro de pessoal anexo pelo anexo VI (imagem); não aplicável.",
+    "Portaria n.º 39/81, n.os 1.º a 5.º e 7.º: quadros de outros serviços, não do original; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

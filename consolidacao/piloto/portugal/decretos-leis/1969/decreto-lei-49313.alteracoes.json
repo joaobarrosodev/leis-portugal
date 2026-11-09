@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nFora dos casos de consultas e visitas domiciliárias ou de assistência medicamentosa, os encargos com a assistência serão satisfeitos através da Assistência na Doença aos Servidores Civis do Estado (A. D. S. E.) , competindo, porém, aos corpos administrativos, seus serviços municipalizados ou federações de municípios reembolsá-la directamente das importâncias pagas, na parte que exceda a participação dos beneficiários, dentro dos sessenta dias seguintes àquele em que for recebida a comunicação respectiva.",
+    "depois": "###### Artigo 2.º\n\nFora dos casos de consultas e visitas domiciliárias, de meios auxiliares de diagnóstico e terapêutica e de internamentos em clínicas particulares, os encargos com a assistência serão satisfeitos através da Assistência na Doença aos Servidores Civis do Estado (A. D. S. E.), competindo, porém, aos corpos administrativos, seus serviços municipalizados ou federações de municípios reembolsá-la directamente das importâncias pagas, na parte que exceda a participação dos beneficiários, dentro dos sessenta dias seguintes àquele em que for recebida a comunicação respectiva.\n\n> Alterado pelo/a [Decreto-Lei n.º 372/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1973-421834), publicado em 1973-07-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:216145:por",
+    "alterador": "pt:dre:421834:por;pt:dre:327346:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nAs importâncias a que se refere o artigo 6.º serão escrituradas em verba própria do Orçamento Geral do Estado, subordinada à rubrica «Participação das autarquias locais nos encargos com a A. D. S. E.».\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.\n\nPromulgado, em 15 de Outubro de 1969.\n\nPublique-se.\n\nPresidência da República, 23 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.",
+    "depois": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 324/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1978-327346), publicado em 1978-11-08.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.\n\nPromulgado, em 15 de Outubro de 1969.\n\nPublique-se.\n\nPresidência da República, 23 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:216145:por",
+    "alterador": "pt:dre:421834:por;pt:dre:327346:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nFica a Câmara Municipal de Lisboa autorizada a contrair um empréstimo externo, em dólares dos Estados Unidos da América, até ao montante equivalente a 320000 contos, e a celebrar os contratos que forem necessários para a realização desta operação.",
+    "depois": "###### Artigo 1.º\n\nFica a Câmara Municipal de Lisboa autorizada a contrair um empréstimo externo, de montante não superior a 320000 contos, e a celebrar os contratos que forem necessários para a realização desta operação.\n\n> Alterado pelo/a [Decreto-Lei n.º 48651](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48651-1968-263912), publicado em 1968-11-02.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:272274:por",
+    "alterador": "pt:dre:263912:por"
+  }
+]

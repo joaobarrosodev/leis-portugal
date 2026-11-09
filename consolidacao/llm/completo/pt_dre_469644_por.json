@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:469644:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "O pessoal civil oriundo do funcionalismo público manterá, quando em serviço nas infra-estruturas N. A. T. O., todos os seus direitos como se estivesse em serviço nos respectivos quadros, nomeadamente no que se refere à contagem de tempo de serviço, desconto para a Caixa Geral de Aposentações e organismos de previdência ou quaisquer outros de que por imposição legal sejam contribuintes.\n\n§ único. Os lugares deixados vagos nos quadros de origem por este pessoal poderão ser preenchidos, até terminar o impedimento dos titulares respectivos, por funcionários de nomeação provisória ou interina que possuam idêntica aptidão profissional, devendo ser dada preferência a indivíduos já classificados em concurso a aguardar vacatura.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único: aditado § único ao artigo 4.º: aplicado (a parte relativa ao DL 45842 não é do original)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

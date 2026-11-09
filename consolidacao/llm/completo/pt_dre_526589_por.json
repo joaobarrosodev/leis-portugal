@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:526589:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "Com o acordo do governador-geral respectivo e dentro dos limites por este fixados, a competência conferida aos secretários provinciais de Angola e de Moçambique pelo artigo 15.º, n.º 2, do Estatuto Político-Administrativo das mesmas províncias, para a execução dos orçamentos dos serviços integrados na suas secretarias provinciais, poderá por eles ser atribuída aos directores e chefes dos respectivos serviços e, por estes, aos agentes de categoria imediatamente inferior.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 5.º: nova redação integral do artigo 5.º (sem o § único, que a nova redação não reproduz) — aplicada.",
+    "Alterador 1, arts. 1.º-4.º e 6.º: disposições autónomas, não alteram o texto do original — ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

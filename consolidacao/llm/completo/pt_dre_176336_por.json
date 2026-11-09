@@ -1,0 +1,68 @@
+{
+  "id": "pt:dre:176336:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Natureza e regime jurídico",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Estatutos da Autoridade",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Período de instalação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Conselho da Concorrência e Direcção-Geral do Comércio e da Concorrência",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Articulação com autoridades reguladoras sectoriais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Transmissão de processos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Operações de concentração",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Recursos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Norma revogatória",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "O art. 5.º, n.º 1, do DL 125/2014 revoga o DL 10/2003 com exceção dos artigos 1.º e 7.º; a revogação abrange também os Estatutos anexos (artigos 1.º a 39.º), mas as suas chaves no texto atual ('1.º' a '39.º', sem prefixo de anexo) coincidem com as do articulado do decreto-lei, pelo que não é possível identificá-los com segurança; só se aplicou a revogação aos artigos 2.º a 6.º e 8.º a 11.º do articulado (primeira ocorrência de cada chave), e os artigos dos Estatutos ficam por marcar como revogados.",
+  "instrucoes": [
+    "Alterador 1 (DL 125/2014), art. 5.º, n.º 1: revoga o DL 10/2003 salvo arts. 1.º e 7.º; artigos 2.º-6.º e 8.º-11.º do articulado ficam '(Revogado.)'; Estatutos anexos não marcados por ambiguidade de chave.",
+    "Alterador 1, art. 5.º, n.º 2: revoga o DL 30/2004, outro diploma; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

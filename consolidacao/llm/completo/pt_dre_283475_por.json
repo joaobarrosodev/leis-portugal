@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:283475:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - Os presidentes e vice-presidentes em exercício efectivo de funções nas direcções ou comissões administrativas de caixas de previdência e da direcção da Caixa Nacional de Seguros e Doenças Profissionais sujeitos ao regime da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, bem como aqueles que, encontrando-se sujeitos a regime diverso e não possuam vínculo à função pública, podem ser nomeados para o quadro de pessoal da instituição, até à data da respectiva integração, desde que contém nesta data mais de três anos no exercício das referidas funções.\n\n2 - A cessação das funções referidas no número anterior, e nas condições nele previstas, por parte de pessoal com vínculo à função pública confere-lhe o direito à promoção na carreira, no seu quadro de origem, nos termos constantes do artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - As nomeações previstas no n.º 1 do artigo anterior são feitas por despacho do membro do Governo que tiver a seu cargo a área da segurança social, com respeito pelas habilitações literárias exigidas por lei, na categoria que a normal promoção na carreira determinar.\n\n2 - As nomeações referidas no número anterior não podem efectuar-se em categoria superior à de técnico superior principal, constante das diversas carreiras de pessoal previstas na [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, e legislação complementar, quando recaiam em pessoal não abrangido pelo regime fixado por este último diploma.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 1.º do DL 111/92: nova redação integral dos artigos 1.º e 2.º; feito.",
+    "Art. 2.º do DL 111/92: norma de aplicação retroativa; sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:337069:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "1. O primeiro provimento dos lugares do quadro técnico, sempre que seja possível, e do quadro administrativo, em todos os casos, será feito, por ordem de prioridade, com pessoal proveniente dos serviços do extinto Ministério da Economia, cuja extinção se prevê no artigo 25.º do [Decreto-Lei n.º 539/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1974-585845), de 12 de Outubro, nos termos do disposto no artigo 26.º do mesmo diploma, com pessoal de outros serviços e organismos daquele Ministério e outro pessoal que, à data da publicação deste diploma, preste serviço, a qualquer título, na Direcção-Geral de Preços ou em serviços e organismos do Ministério do Comércio Interno.\n\n2. O pessoal referido no número anterior ingressará nos quadros da Direcção-Geral, mediante lista ou listas nominativas aprovadas pelo Secretário de Estado do Abastecimento e Preços, anotadas pela Direcção-Geral do Tribunal de Contas e publicadas no Diário do Governo, considerando-se investido nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de quaisquer outros requisitos ou formalidades.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto 134/76, art. 1.º: nova redação do n.º 1 do art. 8.º aplicada; n.º 2 mantido.",
+    "Decreto 134/76, art. 2.º: altera o Decreto n.º 317/75 (outro diploma); ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:25343992:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Art. 1.º do DLR 18/2018/M adita o ponto 5 (Plano de Financiamento) ao Plano «Compromisso Madeira@2020», que é o anexo do original e não consta do texto por artigos; o ponto inclui ainda um quadro só em imagem. Não aplicado.",
+  "instrucoes": [
+    "Art. 1.º do DLR 18/2018/M: aditamento do ponto 5 ao anexo (Plano) - não aplicado, anexo fora do texto por artigos e com quadro em imagem"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

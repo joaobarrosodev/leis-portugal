@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:308691:por",
+  "artigos": [
+    {
+      "chave": "115.º",
+      "epigrafe": "",
+      "texto": "O serviço desempenhado na Escola Prática de Polícia nas funções de instrutor ou de adjunto de instrutor durante, pelo menos, um ano lectivo é considerado, para efeitos de admissão aos cursos de promoção, como equivalente ao desempenho de funções de instrutor ou monitor de uma escola de alistados.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 209/79 n.º 1: nova redação do art. 115.º; aplicada",
+    "Portaria 209/79 n.º 2: entrada em vigor; ignorada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

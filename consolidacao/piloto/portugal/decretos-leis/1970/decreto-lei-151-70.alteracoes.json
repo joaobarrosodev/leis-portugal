@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1. O pessoal médico que participe nas escalas de urgência (banco) e nas escalas de enfermaria receberá, pelas horas que trabalhar além do serviço normal em tempo parcial ou em tempo completo, uma remuneração proporcional ao seu vencimento-hora.\n\n2. O pessoal de enfermagem e outro pessoal técnico e administrativo que for escalado para prestar serviço no período compreendido entre as 0 e as 8 horas receberá uma remuneração complementar a fixar por despacho conjunto dos Ministros das Finanças e da Saúde e Assistência.",
+    "depois": "###### Artigo 1.º\n\n1. O pessoal médico que participe nas escalas de urgência (banco) e nas escalas de enfermaria receberá, pelas horas que trabalhar além do serviço normal em tempo parcial ou em tempo completo, uma remuneração proporcional ao seu vencimento-hora.\n\n2. O pessoal de enfermagem e outro pessoal técnico, o pessoal administrativo, menor, auxiliar e oficinal que for escalado para prestar serviço no período compreendido entre as 0 e as 8 horas receberá uma remuneração complementar a fixar por despacho conjunto dos Ministros das Finanças e da Saúde e Assistência.\n\n> Alterado pelo/a [Decreto-Lei n.º 87/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1971-445479), publicado em 1971-03-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:225854:por",
+    "alterador": "pt:dre:445479:por"
+  }
+]

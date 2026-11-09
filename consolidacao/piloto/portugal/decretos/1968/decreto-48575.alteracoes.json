@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\nAs câmaras municipais são compostas por um presidente e um vice-presidente, nomeados pelo governador da respectiva província, e por vereadores eleitos.",
+    "depois": "###### Artigo 4.º\n\n1. As câmaras municipais são compostas por um presidente e um vice-presidente, nomeados pelo Governador da respectiva província, e por vereadores eleitos.\n\n2. Quando as circunstâncias o justifiquem, o número de vice-presidentes das câmaras municipais a que se refere o presente diploma poderá ser elevado, mediante portaria, sob proposta do Governador.\n\n> Alterado pelo/a [Decreto n.º 339/73](https://diariodarepublica.pt/dr/detalhe/decreto/339-1973-421381), publicado em 1973-07-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:264731:por",
+    "alterador": "pt:dre:421381:por"
+  }
+]

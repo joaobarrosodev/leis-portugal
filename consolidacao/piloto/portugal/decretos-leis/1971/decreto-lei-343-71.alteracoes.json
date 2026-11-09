@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nOs terrenos a ocupar peles obras a que se refere o artigo anterior ficam situados nas freguesias de Barreiro de Besteiros, Parada, Currelos, Papízios, Ázere, Tábua, Póvoa de Midões, Ovoa, Pinheiro de Ázere, S. João das Areias, Santa Comba Dão, Vimieiro, Treixedo, Couto do Mosteiro, S. Joaninho, Mortágua, Sobral, Almaça, Travanca, S. Pedro de Alva, S. Paio e Oliveira do Mondego, dos concelhos de Tondela, Carregal do Sal, Tábua, Santa Comba Dão, Mortágua e Penacova, e constarão de plantas parcelares a aprovar pelo Ministério das Obras Públicas.",
+    "depois": "###### Artigo 2.º\n\nOs terrenos a ocupar pelas obras a que se refere o artigo anterior ficam situados nas freguesias de Barreiro de Besteiros e Dardavaz, do concelho de Tondela, nas freguesias de Parada, Currelos, Papízios e Oliveira do Conde, do concelho de Carregal do Sal, nas freguesias de Ázere, Tábua, Póvoa de Midões e Covelo, do concelho de Tábua, nas freguesias de Ovoa, Pinheiro de Ázere, S. João das Areias, Santa Comba Dão, Vimeiro, Treixedo, Couto do Mosteiro e S. Joaninho, do concelho de Santa Comba Dão, nas freguesias de Mortágua, Sobral, Almaça e Cercosa, do concelho de Mortágua, e nas freguesias de Travanca, Penacova, S. Pedro de Alva, S. Paio e Oliveira do Mondego, do concelho de Penacova, e constarão de plantas parcelares a aprovar pelo Ministério da Habitação e Obras Públicas.\n\n> Alterado pelo/a [Decreto-Lei n.º 196/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1978-297416), publicado em 1978-07-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:635586:por",
+    "alterador": "pt:dre:297416:por"
+  }
+]

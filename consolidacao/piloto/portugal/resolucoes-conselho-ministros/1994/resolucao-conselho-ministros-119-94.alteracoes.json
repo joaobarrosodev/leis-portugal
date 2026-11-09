@@ -40,5 +40,33 @@
     "unidade": [],
     "diploma": "pt:dre:549200:por",
     "alterador": "pt:dre:160516:por"
+  },
+  {
+    "artigo": "41.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 41.º — Regime de edificabilidade\n\nOs espaços urbanos estão sujeitos aos seguintes condicionamentos:\n\na) As construções novas deverão integrar-se harmoniosamente no tecido urbano construído, mantendo as características de alinhamento, cércea, volumetria e ocupação do lote tradicionais do aglomerado em que se inserem;\n\nb) Sem prejuízo do disposto no Regulamento Geral das Edificações Urbanas (RGEU), a profundidade das edificações habitacionais não excederá os 12 m, medidos a partir do plano marginal à via pública.",
+    "depois": "###### Artigo 41.º — Regime de edificabilidade\n\nOs espaços urbanos estão sujeitos aos seguintes condicionamentos:\n\na) As construções novas deverão integrar-se harmoniosamente no tecido urbano construído, mantendo as características de alinhamento, cércea, volumetria e ocupação do lote tradicionais do aglomerado em que se inserem;\n\nb) Sem prejuízo do disposto no Regulamento Geral das Edificações Urbanas (RGEU), a profundidade das edificações habitacionais não excederá os 15 m, medidos a partir do plano marginal da via pública.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 101/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-1997-160516), publicado em 1997-07-01.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:549200:por",
+    "alterador": "pt:dre:160516:por"
+  },
+  {
+    "artigo": "43.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 43.º — Aglomerados rurais\n\n1 - Os aglomerados rurais representam uma forma de povoamento originariamente ligada à exploração agrícola.\n\n2 - Os aglomerados rurais estão sujeitos aos seguintes condicionamentos:\n\na) As construções novas deverão integrar-se harmoniosamente no tecido urbano construído, mantendo as características de alinhamento, cércea, volumetria e ocupação do lote tradicionais do aglomerado em que se inserem;\n\nb) Sem prejuízo do disposto no RGEU, a profundidade das edificações habitacionais não excederá os 12 m, medidos a partir do plano marginal à via pública.",
+    "depois": "###### Artigo 43.º — Aglomerados rurais\n\n1 - Os aglomerados rurais representam uma forma de povoamento originariamente ligada à exploração agrícola.\n\n2 - Os aglomerados rurais estão sujeitos aos seguintes condicionamentos:\n\na) As construções novas deverão integrar-se harmoniosamente no tecido urbano construído, mantendo as características de alinhamento, cércea, volumetria e ocupação do lote tradicionais do aglomerado em que se inserem;\n\nb) Sem prejuízo do disposto no RGEU, a profundidade das edificações habitacionais não excederá os 15 m, medidos a partir do plano marginal da via pública.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 101/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-1997-160516), publicado em 1997-07-01.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:549200:por",
+    "alterador": "pt:dre:160516:por"
   }
 ]

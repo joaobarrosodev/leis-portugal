@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nÉ criado o Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas (C. A. F. M. O. P.), dotado de personalidade jurídica, o qual tem por fim facilitar a todos os servidores do Ministério das Obras Públicas o preenchimento de necessidades de ordem económica e social, de modo a contribuir para a melhoria das suas condições de existência e para o estreitamento dos laços de solidariedade entre eles.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:490391:por",
+    "alterador": "pt:dre:445691:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nO Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas poderá, mediante autorização do Ministro das Obras Públicas, aceitar doações e subsídios, adquirir e alienar, a título gratuito e oneroso, bens mobiliários e imobiliários e ainda praticar actos de registo e todos os restantes necessários à administração dos mesmos bens.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:490391:por",
+    "alterador": "pt:dre:445691:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nO Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas poderá aproveitar da organização e bens do Cofre de Auxílio Mútuo do Comissariado do Desemprego, sem prejuízo dos direitos e regalias dos subscritores do mesmo Cofre, nos termos que forem fixados pelo Ministro das Obras Públicas.",
+    "depois": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:490391:por",
+    "alterador": "pt:dre:445691:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\nA gerência do Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas é exercida por uma comissão administrativa, composta de cinco membros nomeados pelo Ministro das Obras Públicas.\n\n§ único. A competência e atribuições da comissão administrativa, bem como as normas necessárias à prossecução dos fins do Cofre, serão definidas, em regulamento, pelo Ministro das Obras Públicas.",
+    "depois": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:490391:por",
+    "alterador": "pt:dre:445691:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\nAs contas de gerência serão anualmente submetidas à aprovação do Ministro das Obras Públicas, juntamente com o parecer de uma comissão especialmente nomeada para esse fim. A aprovação das contas de gerência pelo Ministro das Obras Públicas legitima, para todos os efeitos, as respectivas receitas e despesas.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 9 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Nacional.",
+    "depois": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 9 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Nacional.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:490391:por",
+    "alterador": "pt:dre:445691:por"
+  }
+]

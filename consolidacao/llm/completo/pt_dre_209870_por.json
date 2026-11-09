@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:209870:por",
+  "artigos": [
+    {
+      "chave": "14.º-A",
+      "epigrafe": "",
+      "texto": "1 - O lugar de chefe de repartição será provido de entre chefes de secção com 3 anos de bom e efectivo serviço na categoria ou de entre indivíduos habilitados com curso superior e experiência profissional adequada.\n\n2 - O lugar de chefe de secção será provido de entre indivíduos habilitados com o curso superior e experiência profissional adequada ao exercício das correspondentes funções ou de entre primeiros-oficiais e técnicos auxiliares principais com 3 anos de bom e efectivo serviço nas respectivas categorias.",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º-B",
+      "epigrafe": "",
+      "texto": "Os lugares de técnico superior, técnico, oficial administrativo, escriturário-dactilógrafo, telefonista, contínuo e motorista serão providos nos termos da lei geral.",
+      "alterador": 2
+    },
+    {
+      "chave": "16.º-A",
+      "epigrafe": "",
+      "texto": "Ao lugar de técnico de enfermagem é aplicável o regime estabelecido pelo [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro, e legislação complementar.",
+      "alterador": 2
+    },
+    {
+      "chave": "16.º-B",
+      "epigrafe": "",
+      "texto": "1 - Os lugares de técnico de serviço social principal e de técnico de serviço social de 1.ª classe, serão providos de entre, respectivamente, técnicos de serviço social de 1.ª classe e técnicos de serviço social de 2.ª classe com o mínimo de 3 anos de bom e efectivo serviço na categoria e habilitados com o curso superior de Serviço Social.\n\n2 - Os lugares de técnico de serviço social de 2.ª classe serão providos de entre indivíduos habilitados com o curso superior de Serviço Social.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1 (Portaria 246/84), 3 (Portaria 307/86) e 4 (Portaria 461/87, n.º 9.º) alteram ou substituem o quadro de pessoal (mapas A e B), que só existe em imagem; não aplicados.",
+  "instrucoes": [
+    "Alt. 1: aumenta o quadro de pessoal com lugar em mapa (imagem); não aplicado",
+    "Alt. 2 (DR 44/84): aditados arts. 14.º-A, 14.º-B, 16.º-A e 16.º-B; aplicado",
+    "Alt. 3: aumenta o quadro (mapa em imagem); não aplicado",
+    "Alt. 4, n.º 9.º: novo quadro de pessoal no anexo IX (imagem); não aplicado; restantes números referem-se a outros serviços"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

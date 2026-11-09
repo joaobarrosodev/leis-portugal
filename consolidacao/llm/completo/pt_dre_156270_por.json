@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:156270:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 359/72), n.os 1.º e 2.º: alteram as designações do quadro I e substituem o quadro II anexos; os quadros só vêm em imagem e não há texto de artigo a mudar, por isso não foi aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: alterações de designações no quadro I (anexo em imagem); não aplicado.",
+    "Alterador 1, n.º 2.º: substituição do quadro II (vem só em imagem); não aplicado.",
+    "Alterador 1, n.º 3.º: norma de encargos autónoma, sem alteração ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

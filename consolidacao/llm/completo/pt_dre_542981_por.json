@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:542981:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto Regulamentar Regional n.º 8/2014/A), artigo 1.º: substitui os anexos I, II e III (plantas da área suspensa), que só vêm em imagem; não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1 art. 1.º: altera a área da suspensão substituindo as plantas dos anexos I a III; só em imagem, não aplicada (ver nao_aplicavel).",
+    "Alterador 2: novo diploma de suspensão parcial do PDM de Ponta Delgada que apenas cita o original; sem instruções dirigidas ao original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

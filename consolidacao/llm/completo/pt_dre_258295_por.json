@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:258295:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "N.º 2 do art. 1.º da Portaria 233/2013 revoga as zonas do perímetro de proteção das captações JK1 e JK2 constantes dos anexos II, III e IV da Portaria 43/2013; os anexos não constam do texto por artigos (quadros), e a alteração não incide sobre o texto dos artigos. Não aplicado.",
+  "instrucoes": [
+    "Art. 1.º, n.º 2, da Portaria 233/2013: revogação das zonas JK1/JK2 nos anexos II a IV - não aplicada (anexos fora do texto)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:651685:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 224/93 retifica o quadro anexo (Gabinete de Estudos e Pareceres Jurídicos, Gabinete de Gestão e Controle Orçamental, Serviços de Informática), cujo texto só existe em imagem (ver documento original); não aplicada.",
+  "instrucoes": [
+    "Rectificação n.º 224/93: correções ao quadro anexo, só em imagem: não aplicada.",
+    "Decreto Regulamentar Regional n.º 6/97/M (alteradores 2 e 3): nova orgânica da SRE; o art. 15.º mantém o original em vigor transitoriamente; sem alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

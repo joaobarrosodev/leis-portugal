@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1. O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as quantias seguintes:\n\nEm 1976 ... 3200000$00\n\nEm 1977 ... 7766000$00\n\nEm 1978 ... 12014000$00\n\n2. À importância a despender nos anos de 1977 e 1978 acrescerá o saldo que, eventualmente, se apurar no ano anterior.\n\nMário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Alberto José dos Santos Ramalheira - Emílio Rui da Veiga Peixoto Vilar.\n\nPromulgado em 30 de Dezembro de 1976.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.",
+    "depois": "###### Artigo 2.º\n\n1 - O encargo resultante do contrato referido no artigo anterior não poderá, em cada ano, exceder as quantias seguintes:\n\nEm 1976 ... 3200000$00\n\nEm 1977 ... 7766000$00\n\nEm 1978 ... 6600000$00\n\nEm 1979 ... 5414000$00\n\n2 - À importância a despender nos anos de 1977, 1978 e 1979 acrescerá o saldo que eventualmente se apurar no ano anterior.\n\n> Alterado pelo/a [Decreto n.º 159/78](https://diariodarepublica.pt/dr/detalhe/decreto/159-1978-325174), publicado em 1978-12-19.\n\nMário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Alberto José dos Santos Ramalheira - Emílio Rui da Veiga Peixoto Vilar.\n\nPromulgado em 30 de Dezembro de 1976.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:391227:por",
+    "alterador": "pt:dre:325174:por"
+  }
+]

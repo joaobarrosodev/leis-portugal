@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1. A nomeação dos directores das escolas oficiais do magistério primário será de futuro feita por livre escolha do Ministro entre os professores efectivos dos ensinos liceal e técnico profissional ou inspectores-orientadores do ensino primário.\n\n2. Os directores desempenharão as suas funções em comissão de serviço por prazo indeterminado, que o Ministro a todo o tempo pode dar por finda, e perceberão, além dos vencimentos que lhes são devidos como professores ou inspectores-orientadores, a gratificação mensal de 800$00.",
+    "depois": "###### Artigo 1.º\n\n1. A nomeação dos directores das escolas oficiais do magistério primário será de futuro feita por livre escolha do Ministro da Educação Nacional de entre os professores dos quadros do ciclo preparatório, de qualquer ramo de ensino secundário ou do magistério primário, desde que uns e outros possuam como habilitação mínima o grau de bacharel, podendo ainda recair em inspectores orientadores do ensino primário ou directores de distrito escolar.\n\n2. Os directores desempenharão as suas funções em comissão de serviço por prazo indeterminado, que o Ministro a todo o tempo pode dar por finda, e perceberão, além dos vencimentos que lhes são devidos como professores ou inspectores-orientadores, a gratificação mensal de 800$00.\n\n> Alterado pelo/a [Decreto-Lei n.º 389/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1972-691619), publicado em 1972-10-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:513012:por",
+    "alterador": "pt:dre:691619:por"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:263558:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Os boletins de condução de que sejam titulares os oficiais, sargentos e praças dos quadros permanentes das forças armadas continuam a ser válidos quando aqueles militares se encontrem nas situações de reserva ou reforma.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, artigo único: nova redação do art. 1.º (inclui situação de reserva); aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

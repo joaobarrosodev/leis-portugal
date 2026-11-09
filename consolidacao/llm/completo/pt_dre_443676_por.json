@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:443676:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Art. 1.º do DRR 17/87/A: substitui o quadro de pessoal anexo por mapa que só vem em imagem ('ver documento original'); não aplicado.",
+  "instrucoes": [
+    "Art. 1.º: substituição do quadro de pessoal (anexo em imagem); não aplicada.",
+    "Arts. 2.º a 4.º: normas próprias de ingresso, recrutamento e transição; sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

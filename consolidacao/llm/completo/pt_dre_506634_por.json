@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:506634:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (n.º 3.º, alínea b)) apenas declara a caducidade da autorização de funcionamento do curso, sem alteração textual; alterador 2 substitui o plano de estudos publicado em anexo, que não consta do texto atual e só vem em quadros em imagem; não aplicados.",
+  "instrucoes": [
+    "Alterador 1: caducidade da autorização do curso findo o processo de transição; não é alteração textual, não aplicada.",
+    "Alterador 2, 1.º: novo plano de estudos (anexo em imagem, não incluído no texto atual); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

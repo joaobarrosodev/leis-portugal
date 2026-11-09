@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:161891:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (DL 282/76): não altera artigos do DL 190/75 — é um diploma novo que o substitui por inteiro (art. 31.º: 'O presente diploma substitui o Decreto-Lei n.º 190/75'), com numeração e conteúdo próprios; não há instruções textuais de alteração aplicáveis ao original. Alterador 2 (Portaria 395/76): altera o Regulamento de Uniformes (Portaria 650/71), não o original.",
+  "instrucoes": [
+    "Alterador 1: substituição integral do DL 190/75 pelo DL 282/76 (renomeação do QPSPTM para QPMM e novo articulado) — não aplicada como alteração textual (nao_aplicavel).",
+    "Alterador 2: acrescenta n.º 7 ao art. 22.º da Portaria 650/71 — outro diploma; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:296233:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "As instituições de crédito mencionadas na alínea c) do corpo do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387) poderão subscrever, sem qualquer limite, promissórias de fomento ultramarino emitidas nas províncias onde exercerem a sua actividade, mas só lhes será permitido incluir, nas respectivas disponibilidades de caixa, o quantitativo correspondente à percentagem que for fixada de harmonia com o disposto no artigo 7.º, alínea a), do [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), de 6 de Maio de 1968.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "Por contrato entre o Estado, representado pelo Ministro do Ultramar, e os bancos emissores das províncias ultramarinas, serão fixados os quantitativos das promissórias a subscrever directamente pelas referidas instituições de crédito, bem como estabelecidas as condições em que as mesmas se obrigarão a adquirir, aos bancos comerciais das respectivas províncias, as promissórias que, para o efeito, por estes lhes vierem a ser oferecidas.",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "1. Enquanto os bancos emissores ultramarinos não assumirem, por contrato com o Estado. as obrigações previstas na parte final do artigo anterior, os governos das províncias emitentes das promissórias, quando solicitados pelos bancos comerciais detentores dos referidos títulos, deverão promover a sua transferência para outras entidades ou, se necessário, proceder ao reembolso antecipado das mesmas.\n\n2. Com vista à consecução das finalidades procuradas no n.º 1 do presente artigo, o Ministro do Ultramar poderá, nomeadamente, fazer uso da faculdade conferida na parte final do artigo 77.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 49296 artigo único: nova redação dos arts. 7.º e 8.º e do n.º 1 do art. 9.º; n.º 2 do art. 9.º mantido"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

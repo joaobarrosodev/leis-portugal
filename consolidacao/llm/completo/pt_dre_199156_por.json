@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:199156:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A RAR 230/2016 revoga a alínea b) do artigo 2.º da própria Resolução n.º 7/95 (reserva à alínea g) do artigo 10.º); o texto atual só contém os artigos do Protocolo, cujo artigo 2.º não tem alíneas, pelo que o alvo não existe no texto atual.",
+  "instrucoes": [
+    "Art. 1.º RAR 230/2016: aprova retirada da reserva — não textual.",
+    "Art. 2.º: revoga a alínea b) do artigo 2.º da Resolução (não do Protocolo) — alvo ausente no texto atual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

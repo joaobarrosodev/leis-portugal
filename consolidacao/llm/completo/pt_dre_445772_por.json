@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:445772:por",
+  "artigos": [
+    {
+      "chave": "30.º",
+      "epigrafe": "",
+      "texto": "O subdirector dos Portos é designado pelo Ministro do Ultramar por escolha entre os engenheiros-chefes e os engenheiros de 1.ª classe do quadro comum dos Serviços de Portos, Caminhos de Ferro e Transportes ou entre diplomados em Engenharia Civil com reconhecida competência em assuntos portuários.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto 253/73, art. 1.º: nova redação do artigo 30.º - aplicado",
+    "Decreto 253/73, arts. 2.º e 3.º: normas autónomas (categoria do subdirector, gratificação do director) - não alteram o texto do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

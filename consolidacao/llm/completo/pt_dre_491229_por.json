@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:491229:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 art. 11.º altera notas técnicas e formato de campos da estrutura de dados do anexo (campos 4.1.4.3 e 4.1.4.4), que não está no texto por artigos; alterador 2 art. 1.º substitui a estrutura de dados (anexo, quadros em imagem). Nenhum artigo muda.",
+  "instrucoes": [
+    "Alterador 1 art. 11.º: alteração do anexo (estrutura de dados) - não aplicável ao texto dos artigos.",
+    "Alterador 1 restantes artigos: regime próprio de certificação, não altera o original.",
+    "Alterador 2 art. 1.º: nova estrutura de dados do ficheiro (anexo em imagem) - não aplicado; art. 2.º: entrada em vigor própria."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

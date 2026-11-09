@@ -1,0 +1,48 @@
+{
+  "id": "pt:dre:166809:por",
+  "artigos": [
+    {
+      "chave": "ANEXO I — Regulamento da Contribuição Especial::2.º",
+      "epigrafe": "",
+      "texto": "1 - Constitui valor sujeito a contribuição a diferença entre o valor do prédio à data em que for requerido o licenciamento de construção ou de obra, ou apresentação da comunicação prévia e o seu valor à data de 1 de Janeiro de 1992, corrigido por aplicação dos coeficientes de desvalorização da moeda constantes da portaria a que se refere o artigo 47.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, correspondendo, para o efeito, à data de aquisição a data de 1 de Janeiro de 1992 e à de realização a data da emissão do alvará de licença de construção ou de obra, ou do recibo de apresentação da comunicação prévia daquelas operações urbanísticas, acompanhado do comprovativo da sua admissão nos termos do artigo 36.º-A do Regime Jurídico da Urbanização e da Edificação (RJUE).\n\n2 - Os valores que servem para determinar a diferença são determinados por avaliação nos termos do presente Regulamento.",
+      "alterador": 5
+    },
+    {
+      "chave": "ANEXO I — Regulamento da Contribuição Especial::3.º",
+      "epigrafe": "",
+      "texto": "A contribuição é devida pelos titulares do direito de construir em cujo nome seja emitido o alvará de licença de construção ou de obra e, ainda, pelos titulares do recibo de apresentação da comunicação prévia daquelas operações urbanísticas, acompanhado do comprovativo da sua admissão nos termos do artigo 36.º-A do RJUE.",
+      "alterador": 5
+    },
+    {
+      "chave": "ANEXO I — Regulamento da Contribuição Especial::7.º",
+      "epigrafe": "",
+      "texto": "1 - Os titulares de alvará de licença de construção ou de obra, ou do recibo de apresentação da comunicação prévia daquelas operações urbanísticas, acompanhado do comprovativo da sua admissão nos termos do artigo 36.º-A do RJUE, deverão apresentar até ao fim do mês imediato àquele em que tenha sido emitido a referida licença, na repartição de finanças da área da situação do prédio, declaração do modelo aprovado.\n\n2 - Com a apresentação da declaração deverá ser exibido o alvará de licença de construção ou de obra, ou do recibo de apresentação da comunicação prévia daquelas operações urbanísticas, acompanhado do comprovativo da sua admissão nos termos do artigo 36.º-A do RJUE a fim de ser extraída pela repartição de finanças fotocópia destinada a documentar o processo.",
+      "alterador": 5
+    },
+    {
+      "chave": "ANEXO I — Regulamento da Contribuição Especial::26.º",
+      "epigrafe": "",
+      "texto": "1 - Anulada a liquidação, quer oficiosamente, quer por decisão judicial da entidade ou tribunal competente, com trânsito em julgado, efectuar-se-á o respectivo reembolso se a contribuição se encontrar paga.\n\n2 - Não haverá lugar a anulação quando o seu quantitativo seja inferior a 2000$00.\n\n3 - São devidos juros indemnizatórios nos termos do artigo 43.º da lei geral tributária e são liquidados e pagos nos termos do Código de Processo Tributário.\n\n4 - Os juros serão contados dia a dia desde a data do pagamento da contribuição até à data da emissão da respectiva nota de crédito.",
+      "alterador": 4
+    },
+    {
+      "chave": "ANEXO I — Regulamento da Contribuição Especial::28.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 6
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Lei 10-B/96, art. 32.º n.º 2): nova redação dos arts. 2.º e 5.º do Regulamento; já refletida no texto atual (o 2.º volta a mudar pelo alterador 5). O n.º 1 refere-se ao DL 51/95: ignorado.",
+    "Alterador 2 (DL 27/97, art. 2.º): adita o art. 5.º do DL 54/95; já no texto atual.",
+    "Alterador 3 (DL 43/98, arts. 6.º e 7.º): nova redação do art. 4.º do DL e dos arts. 1.º e 10.º do Regulamento; já no texto atual. Restantes artigos são do novo regulamento do DL 43/98: ignorados.",
+    "Alterador 4 (DL 472/99, art. 6.º n.º 2): arts. 12.º, 14.º e 23.º já no texto atual; art. 26.º: substituído o n.º 3, mantidos n.os 1, 2 e 4; art. 28.º alterado (quatro anos) mas depois revogado pelo alterador 6. Art. 9.º (disposição transitória) não é textual.",
+    "Alterador 5 (Lei 64-B/2011, art. 167.º n.º 2): nova redação dos arts. 2.º (n.º 1; n.º 2 mantido), 3.º e 7.º do Regulamento. N.os 1 e 3 referem-se a outros diplomas: ignorados.",
+    "Alterador 6 (Lei 66-B/2012, art. 236.º): revoga o art. 28.º do Regulamento."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

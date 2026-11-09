@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:161173:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (DL 131/76), artigo único: altera categorias no quadro anexo ao original, que só vem em imagem; não aplicado. Alterador 2 (DL 628/76), artigo 3.º: altera o quadro de pessoal do DL 427/73 (alterado pelo artigo 1.º do original) acrescentando e suprimindo lugares, sem redação nova para o original e com o quadro só em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, artigo único: alteração ao quadro anexo (imagem); não aplicada.",
+    "Alterador 2, art. 1.º, 2.º, 4.º e 5.º: dirigem-se ao DL 427/73, ao DL 297/74 e ao Decreto 218/75; ignorados. Art. 3.º: alteração ao quadro de pessoal (imagem, não textual); não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

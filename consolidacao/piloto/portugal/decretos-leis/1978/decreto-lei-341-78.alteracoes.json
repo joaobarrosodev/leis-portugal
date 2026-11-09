@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\nAs verbas da dotação de «Despesas com a descolonização», inscrita no orçamento do Ministério da Reforma Administrativa (Direcção-Geral de Fazenda) para o corrente ano, destinadas aos encargos com pensões de aposentação e de sobrevivência, serão transferidas para o orçamento do Ministério das Finanças e do Plano, para reforço das rubricas que venham a suportar as despesas resultantes da execução deste decreto-lei.",
+    "depois": "###### Artigo 6.º\n\nAs verbas da dotação de «Despesas com a descolonização» inscritas no orçamento da Secretaria de Estado da Administração Pública (Direcção-Geral de Fazenda) para o ano de 1979, destinadas aos encargos com pensões de aposentação e de sobrevivência, serão transferidas para o orçamento do Ministério das Finanças e do Plano para reforço das rubricas que venham a suportar as despesas resultantes da execução deste decreto-lei.\n\n> Alterado pelo/a [Decreto-Lei n.º 60/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1979-383011), publicado em 1979-03-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:325954:por",
+    "alterador": "pt:dre:383011:por"
+  }
+]

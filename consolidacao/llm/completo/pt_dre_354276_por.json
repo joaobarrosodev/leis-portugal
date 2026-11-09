@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:354276:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1 a 5: alteram o quadro de pessoal do Centro de Saúde de São Roque do Pico (mapa anexo) por quadros/mapas que só vêm em imagem; nenhum artigo do original é alterado.",
+  "instrucoes": [
+    "Alterador 1: quadros de pessoal de informática (em imagem) - não aplicado.",
+    "Alterador 2: quadros de serviço social (em imagem) - não aplicado.",
+    "Alterador 3: aditado lugar de dietista e extinto lugar de técnico de radiologia no mapa (em imagem) - não aplicado.",
+    "Alterador 4: quadros de técnicos de diagnóstico e terapêutica (em imagem) - não aplicado.",
+    "Alterador 5: pessoal médico de clínica geral (mapa em imagem) - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

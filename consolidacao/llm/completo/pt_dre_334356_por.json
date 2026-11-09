@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:334356:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 27/2010 corrige o título e o texto da própria resolução ('Acordo entre a República Portuguesa e a Ucrânia no Domínio do Combate à Criminalidade' -> 'Relativo à Cooperação Militar'); essa expressão não existe no texto atual (só constam os artigos do Acordo), pelo que não há onde aplicar.",
+  "instrucoes": [
+    "Decreto do PR n.º 68/2010: ratificação do Acordo; sem alteração textual.",
+    "Rectificação n.º 27/2010: correção da designação do Acordo no título/texto da resolução; texto inexistente no texto atual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

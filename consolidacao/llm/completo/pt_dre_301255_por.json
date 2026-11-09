@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:301255:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "As retificações do ponto 3.2.9 dizem respeito a um símbolo que só vem em imagem (ligações); a do exemplo da marca de homologação (108R - 002439) refere texto que não existe no texto atual, que já tem 109R002439 e só traz a versão inglesa; a do ponto 3 do anexo n.º 7 vem truncada, sem o «deve ler-se». Nenhuma aplicada.",
+  "instrucoes": [
+    "Retificação do símbolo no ponto 3.2.9 (versões inglesa e portuguesa): só em imagem, não aplicada.",
+    "Retificação 108R - 002439 por 109R - 002439 no anexo n.º 2: texto a substituir não existe, não aplicada.",
+    "Retificação no ponto 3 do anexo n.º 7: instrução truncada, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

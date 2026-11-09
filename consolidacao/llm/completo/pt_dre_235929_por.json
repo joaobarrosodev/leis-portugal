@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:235929:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Regime",
+      "texto": "1 - Fica o Governo Regional dos Açores excepcionalmente autorizado, por um período de um ano a contar da publicação do presente diploma, a proceder a ajuste directo, bem como à dispensa de contrato escrito, em trabalhos cuja estimativa de custo global, não considerando o IVA, seja inferior a:\n\na) 130000000$00, quando se trate de construção e reparação de edifícios, equipamentos colectivos e caminhos agrícolas, com consulta obrigatória a, pelo menos, cinco entidades;\n\nb) 750000000$00, quando se trate de construção, reabilitação ou reparação de habitações, com consulta obrigatória a, pelo menos, cinco entidades;\n\nc) 380000000$00, quando se trate de obras respeitantes a estradas, portos, aeroportos e intervenções no âmbito dos recursos hídricos, com consulta obrigatória a, pelo menos, cinco entidades.\n\n2 - Os valores referidos em cada uma das alíneas do número anterior são também os aplicáveis às aquisições de bens e às prestações de serviços necessárias a complementar as respectivas obras.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 2.º do DL 200/2000, artigo 1.º: nova alínea b) e anterior b) passa a c) - já constava do texto atual, sem mudança",
+    "Art. 2.º do DL 200/2000, artigo 2.º: nova redação (n.os 1 e 2) - aplicada",
+    "Art. 1.º: prorrogação do regime por um ano - norma autónoma, não textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

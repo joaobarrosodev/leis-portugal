@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:179566:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Os alteradores 1 (Portaria 328/2013) e 2 (Portaria 271/2015) revogam zonas de proteção de captações nos anexos II a IV da Portaria 209/2012 (anexos que não constam do texto atual e só existem em imagem) e aprovam perímetros novos em texto próprio, sem alterar a redação de qualquer artigo; nada aplicado.",
+  "instrucoes": [
+    "Alt. 1, art. 1.º n.º 2: revoga as zonas da captação P1 nos anexos II-IV; anexos ausentes/só imagem, não aplicado",
+    "Alt. 1, arts. 1.º n.º 3 a 5.º: aprovação autónoma de novo perímetro (P1 e RA5); não altera artigos do original",
+    "Alt. 2, art. 1.º n.º 2: revoga as zonas das captações F1 e F2 nos anexos II-IV; não aplicado",
+    "Alt. 2, arts. 1.º n.º 3 a 3.º: aprovação autónoma do perímetro da CBR1; não altera artigos do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:274219:por",
+  "artigos": [
+    {
+      "chave": "18.º",
+      "epigrafe": "(Natureza e extinção do quadro)",
+      "texto": "1 - O quadro tem natureza temporária e será extinto assim que o Gabinete realize os objectivos para que foi criado.\n\n2 - O pessoal do Gabinete terá, no momento da respectiva extinção, o seguinte destino, sem prejuízo do disposto no n.º 3:\n\na) O pessoal pertencente a outros quadros regressará aos lugares e serviços de origem;\n\nb) O restante pessoal terá o destino fixado na lei geral sobre excedentes de pessoal.\n\n3 - Para preenchimento das vagas do mapa ou do quadro do pessoal do novo hospital central de Coimbra, terá preferência o pessoal do Gabinete, sem prejuízo dos direitos adquiridos pelo pessoal do quadro dos Hospitais da Universidade de Coimbra.\n\n4 - O pessoal referido no n.º 3 será provido nas vagas das categorias que, no mapa ou quadro do novo hospital, correspondam às que vinha ocupando no Gabinete, ou, não sendo isso possível, nas que melhor se lhes ajustarem, desde que possuam, num ou outro caso, as necessárias condições legais de ingresso, designadamente as habilitações literárias exigíveis.",
+      "alterador": 1
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "(Recrutamento)",
+      "texto": "O recrutamento do pessoal do Gabinete será feito por escolha do conselho director de entre os funcionários ou outras pessoas com os requisitos de ingresso na função pública para a respectiva categoria e as qualificações adequadas ao desempenho das funções.",
+      "alterador": 1
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "(Provimento)",
+      "texto": "1 - O pessoal não vinculado a outros serviços públicos será contratado por períodos de um ano automaticamente renováveis ou assalariado até ao termo da existência do Gabinete.\n\n2 - O pessoal já vinculado a outros serviços será nomeado em comissão, nos termos do artigo anterior, pelo período de existência do Gabinete, sem prejuízo de tais situações poderem ser dadas por findas em qualquer momento.",
+      "alterador": 1
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "(Pessoal além do quadro)",
+      "texto": "1 - Poderá ser contratado pessoal além dos quadros quando tal venha a revelar-se necessário.\n\n2 - O pessoal já vinculado a outros serviços poderá também, se assim o preferir, ser contratado além do quadro, desvinculando-se, neste caso, do lugar de origem, mas conservando o direito à antiguidade pelo tempo nele prestado.\n\n3 - Quando se mostre conveniente, o conselho directivo poderá promover a requisição ou pedir o destacamento do pessoal de outros serviços públicos.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do proémio e da alínea a) do n.º 2 do artigo 18.º, mantendo o restante ('...') — aplicada.",
+    "Alterador 1, art. 1.º: nova redação do artigo 20.º, agora com corpo único sem números — aplicada (o antigo n.º 2 desaparece).",
+    "Alterador 1, art. 1.º: nova redação dos n.os 1 e 2 do artigo 21.º — aplicada.",
+    "Alterador 1, art. 1.º: nova redação do artigo 22.º, com nova epígrafe e três números — aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

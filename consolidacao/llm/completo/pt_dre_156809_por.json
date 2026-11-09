@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:156809:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Extinção",
+      "texto": "1 - É extinta a Empresa Pública do Jornal O Século.\n\n2 - A EPJS mantém a personalidade jurídica para efeitos de liquidação até aprovação das contas.\n\n3 - O Estado, representado pela Direcção-Geral da Comunicação Social, constitui-se liquidatário da EPJS, cumprindo-lhe exercer todos os poderes necessários à liquidação do património da Empresa extinta.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (DL 123/86), art. 2.º: regra interpretativa (as referências à comissão liquidatária entendem-se feitas ao Estado através da Direcção-Geral da Comunicação Social); não é alteração textual, os artigos 4.º, 5.º, 6.º, 8.º e 9.º ficam com o texto atual.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do artigo 1.º; n.º 1 '...' mantém o texto atual, n.º 2 substituído e n.º 3 aditado com o texto do alterador.",
+    "Alterador 1, art. 2.º: remissão interpretativa, não textual; não aplicada.",
+    "Alterador 1, art. 3.º: cessação de funções, norma autónoma sem alteração ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

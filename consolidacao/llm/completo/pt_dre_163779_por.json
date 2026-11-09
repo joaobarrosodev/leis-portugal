@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:163779:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O art. 2.º do Decreto-Lei n.º 46/74 elimina parte da anotação inserida na Pauta dos Direitos de Importação por força do art. 5.º do Decreto-Lei n.º 600/72 (lista II, só em imagem); altera a Pauta, não o texto do art. 5.º do original.",
+  "instrucoes": [
+    "Art. 1.º: altera a nota ao artigo 87.02.09 da Pauta, outro diploma: ignorado",
+    "Art. 2.º: elimina anotação na Pauta (lista II em imagem), não é alteração textual do original: não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

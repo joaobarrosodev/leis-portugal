@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:239377:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "alterador": 2,
+      "texto": "É autorizada a General Instrument Luzitana, S. A. R. L., a estabelecer um depósito franco na sua fábrica situada em Arruda dos Vinhos, Quinta de S. João.\n\n§ 1.º A instalação referida no corpo deste artigo será exteriormente resguardada por uma vedação, de conformidade com o artigo 144.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965.\n\n§ 2.º Neste depósito franco a empresa propõe-se fabricar, construir e montar sistemas electrónicos e suas peças, tais como aparelhos de rádio e televisão, forquetas de desvio, transformadores de saída horizontal, conjuntos de bobina de convergência, transformadores intermédios de frequência e outros componentes electrónicos, compreendendo bobinas, semicondutores, condensadores e sintonizadores, gravadores de som e imagem, fita para gravação de som e imagem, cassettes de vídeo e som, computadores electrónicos, nomeadamente unidades periféricas, impressores e terminais vídeo, conjuntos electrónicos, incluindo designadamente fontes de alimentação, reguladores de tensão, ignições electrónicas, alternadores electrónicos, aparelhos de radiodifusão acopulados com gira-discos e gravador de som (music-center), gira-discos, stereo, bem como fabricar cilindros, válvulas, centrais e comandos hidráulicos e pneumáticos, elevadores hidráulicos e seus sobresselentes, peças hidráulicas em geral e componentes hidráulicos e pneumáticos para a indústria automóvel, e ainda sapatos de alta qualidade para senhora."
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "alterador": 1,
+      "texto": "Os materiais e peças vindo do estrangeiro entrarão no recinto do depósito franco mediante bilhetes de entrada referidos no § 5.º do artigo 146.º da Reforma Aduaneira, bilhetes esses que devem ser processados separadamente por grupos de produtos das inerentes áreas de actividade.\n\n§ 1.º A alfândega verificará a qualidade dessas mercadorias, que se devem destinar à fabricação, construção e montagem dos instrumentos e peças indicados no § 2.º do artigo 1.º\n\n§ 2.º Quando pela documentação se verifique estar algum material ou peça sujeito à pauta máxima, será esse artefacto identificado para a hipótese de algum deles ter de voltar a sair do recinto, isolado, para entrar no consumo.\n\n§ 3.º A simplificação de formalidades do despacho de entrada no depósito franco de materiais e peças estrangeiros não dispensa o cumprimento das disposições relativas ao registo na Repartição do Comércio Externo e bem assim dos derivados das obrigações do âmbito da CEE, da EFTA, ou outras associações de idêntica natureza."
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do § 2.º do artigo 1.º (depois substituída pelo alterador 2) e do corpo e § 3.º do artigo 6.º — aplicado.",
+    "Alterador 1, art. 2.º: linhas de produção separadas e nova denominação da empresa — não altera o texto de nenhum artigo.",
+    "Alterador 2, artigo único: nova redação do § 2.º do artigo 1.º — aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

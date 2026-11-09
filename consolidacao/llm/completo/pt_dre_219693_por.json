@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:219693:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Os trabalhadores a qualquer título vinculados à Região Autónoma da Madeira ou outras pessoas coletivas de direito público, que, isoladamente ou integrados em grupos, participem em atividades de cariz cultural, na Região ou fora dela, e consideradas pelo Governo Regional como de interesse para a Região, têm direito a que o tempo disponibilizado nessas atividades seja considerado como tempo de serviço, para efeitos de antiguidade, sendo as faltas ao trabalho daí decorrentes havidas como justificadas.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 74.º do DLR 26/2022/M: nova redação do art. 1.º; aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

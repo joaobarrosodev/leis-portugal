@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:396301:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1 a 7: todos alteram o quadro de pessoal (mapa anexo, só em imagem), extinguindo e criando lugares; não há alteração textual aos artigos 1.º a 5.º.",
+  "instrucoes": [
+    "Alterador 1: altera o quadro anexo (em imagem) e norma autónoma de provimento; não aplicado.",
+    "Alterador 2: extingue e cria lugares no quadro anexo (mapas em imagem); restantes artigos autónomos; não aplicado.",
+    "Alterador 3: altera o quadro anexo, pessoal técnico (mapa em imagem); não aplicado.",
+    "Alterador 4: extingue e cria lugares no quadro anexo; não aplicado ao articulado.",
+    "Alterador 5: altera o quadro anexo (serviços administrativos); não aplicado ao articulado.",
+    "Alterador 6: extingue e cria lugares (mapas em imagem); não aplicado.",
+    "Alterador 7: extingue e cria lugares no quadro anexo; não aplicado ao articulado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:475291:por",
+  "artigos": [
+    {
+      "chave": "23.º",
+      "epigrafe": "",
+      "texto": "Os primeiros provimentos de pessoal depois da entrada em vigor do presente diploma obedecerão às seguintes regras:\n\n1.º O primeiro director da Escola será nomeado por despacho conjunto dos Ministros do Ultramar e da Saúde e Assistência de entre os diplomados em Medicina de reconhecido mérito e capacidade para o exercício das funções e servirá por um período de cinco anos;\n\n2.º Os primeiros subdirectores serão nomeados nos termos do número anterior;\n\n3.ª O pessoal docente do actual curso de Medicina Sanitária que o requerer até 30 de Junho de 1967 poderá ingressar nos lugares constantes do mapa anexo referente ao ramo da saúde pública por despacho conjunto dos Ministros do Ultramar e da Saúde e Assistência, sem outras formalidades além da sua publicação. A apreciação do mérito dos professores a que se refere a presente regra, para ingresso no novo quadro, será feita perante o respectivo curriculum por um júri constituído pelo director da escola, que presidirá, pelo subdirector do ramo respectivo, pelo director do Instituto Superior de Higiene do Dr. Ricardo Jorge e, se for julgado conveniente, por um ou mais dos professores a que se refere o § 1.º do artigo 17.º e regra 5.ª deste artigo. Ao referido júri é extensivo o disposto no § 3.º do artigo 18.º;\n\n4.º Todo o pessoal, quer docente, quer administrativo, técnico, auxiliar e menor, do Instituto de Medicina Tropical, transitará, nas suas actuais categorias, para os lugares constantes do mapa anexo mediante despacho conjunto dos Ministros do Ultramar e da Saúde e Assistência, sem outras formalidades além da sua publicação;\n\n5.º Enquanto não estiver constituído o conselho escolar, os professores de nacionalidade estrangeira que se julgue necessário admitir serão propostos pelo director da Escola;\n\n6. Os lugares de professor que ficarem vagos depois do movimento a que se referem as regras anteriores serão preenchidos nos termos do artigo 18.º Enquanto não puder funcionar o júri a que se refere o § 1.º do mesmo artigo, o júri para estes concursos será constituído pela forma prevista na segunda parte da regra 3.ª",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 3 (DL n.º 47784) substitui o mapa do pessoal anexo, que só vem em imagem; alterador 1 (DL n.º 47366, art. 4.º e 5.º) e alterador 4 (DL n.º 504/71) alteram o quadro/mapa de pessoal e vencimentos sem dar nova redação a artigos; alterador 5 (DL n.º 372/72) substitui a Escola por duas instituições, alteração não textual.",
+  "instrucoes": [
+    "Alterador 1 (DL n.º 47366), art. 4.º e 5.º: alteram o quadro de pessoal da Escola (mapa anexo); não textual",
+    "Alterador 2 (DL n.º 47755): nova redação da regra 3.ª do artigo 23.º; substituída, restantes regras mantidas",
+    "Alterador 3 (DL n.º 47784): novo mapa do pessoal (só em imagem); não aplicado",
+    "Alterador 4 (DL n.º 504/71): vencimentos e equivalências do pessoal docente (tabela em imagem); não textual",
+    "Alterador 5 (DL n.º 372/72): substitui a Escola por duas instituições; não textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\nAs comissões venatórias de ilha têm a seguinte composição:\n\n1 - Nas ilhas de São Miguei, Terceira, Faial e Pico:\n\na) 4 caçadores efectivos e 2 suplentes;\n\nb) 2 representantes dos agricultores e 1 suplente;\n\nc) 2 representantes dos serviços florestais.\n\n2 - Nas ilhas de Santa Maria, Graciosa, São Jorge e Flores, incluindo a ilha do Corvo:\n\na) 3 caçadores efectivos e 1 suplente;\n\nb) 2 representantes dos agricultores e 1 suplente;\n\nc) 1 representante dos serviços florestais.\n\n3 - As comissões venatórias têm 1 presidente e 1 secretário, que serão sempre caçadores, eleitos pelos membros das respectivas comissões.",
+    "depois": "###### Artigo 5.º\n\n1 - As comissões venatórias de ilha têm a seguinte composição:\n\nTrês caçadores efectivos e dois suplentes;\n\nTrês representantes dos agricultores e dois suplentes;\n\nUm representante dos serviços florestais.\n\n2 - As comissões venatórias têm um presidente e um secretário, que serão sempre caçadores, eleitos pelos membros das respectivas comissões.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 36/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/36-1986-222448), publicado em 1986-10-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:399205:por",
+    "alterador": "pt:dre:222448:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\n1 - As comissões reúnem ordinariamente por trimestre e extraordinariamente quando convocadas pelos respectivos presidentes, por iniciativa destes ou a solicitação da maioria dos seus membros.\n\n2 - Na convocatória para as reuniões extraordinárias deverão ser indicados expressamente os assuntos a tratar.\n\n3 - As reuniões só poderão efectuar-se quando estiver presente a maioria dos seus membros, sendo as deliberações tomadas por maioria de votos dos presentes.\n\n4 - Em caso de empate o presidente tem voto de qualidade.\n\n5 - De cada reunião será lavrada acta, que é assinada pelo presidente e pelo secretário.\n\n6 - Das decisões das comissões venatórias poderão os representantes dos agricultores ou dos serviços florestais apresentar recursos com efeito suspensivo ao Secretário Regional da Agricultura e Pescas, sempre que considerem lesados os interesses que representem.\n\n7 - Poderão participar nas reuniões das comissões venatórias, a solicitação destas, representantes de outros serviços que possuam ligações com os assuntos a debater.\n\n8 - As comissões venatórias ficam na dependência dos serviços florestais existentes nas respectivas ilhas, garantindo a Direcção Regional dos Recursos Florestais, através das direcções de serviços e administrações florestais, apoio administrativo ao seu funcionamento, bem como o pagamento das senhas de presença.",
+    "depois": "###### Artigo 7.º\n\n1 - As comissões reúnem ordinariamente por trimestre e extraordinariamente quando convocadas pelos respectivos presidentes, por iniciativa destes ou a solicitação da maioria dos seus membros.\n\n2 - Na convocatória para as reuniões extraordinárias deverão ser indicados expressamente os assuntos a tratar.\n\n3 - As reuniões só poderão efectuar-se quando esteja presente a maioria dos membros das comissões, incluindo o presidente ou o vogal que este designar para o substituir, sendo as deliberações tomadas por maioria de votos dos presentes.\n\n4 - Em caso de empate, o presidente ou o vogal que o substituir têm voto de qualidade.\n\n5 - De cada reunião será lavrada acta, que é assinada pelo presidente e pelo secretário.\n\n6 - Das decisões das comissões venatórias poderão os representantes dos agricultores ou dos serviços florestais apresentar recursos com efeito suspensivo ao Secretário Regional da Agricultura e Pescas, sempre que considerem lesados os interesses que representem.\n\n7 - Poderão participar nas reuniões das comissões venatórias, a solicitação destas, representantes de outros serviços que possuam ligações com os assuntos a debater.\n\n8 - As comissões venatórias ficam na dependência dos serviços florestais existentes nas respectivas ilhas, garantindo a Direcção Regional dos Recursos Florestais, através das direcções de serviços e administrações florestais, apoio administrativo ao seu funcionamento, bem como o pagamento das senhas de presença.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 36/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/36-1986-222448), publicado em 1986-10-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:399205:por",
+    "alterador": "pt:dre:222448:por"
+  },
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º\n\nOs representantes dos agricultores serão indicados pelos conselhos de ilha ou pelas assembleias municipais, sendo para o efeito ouvidas, quando existam, as associações de agricultores.",
+    "depois": "###### Artigo 13.º\n\nOs representantes dos agricultores serão designados pelas respectivas associações de agricultores ou, na falta destas, pelos conselhos de ilha ou assembleias municipais territorialmente competentes.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 36/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/36-1986-222448), publicado em 1986-10-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:399205:por",
+    "alterador": "pt:dre:222448:por"
+  }
+]

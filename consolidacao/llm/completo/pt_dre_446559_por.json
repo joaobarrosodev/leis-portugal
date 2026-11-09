@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:446559:por",
+  "artigos": [
+    {
+      "chave": "14.º",
+      "epigrafe": "(Avaliação do exercício de funções operacionais)",
+      "texto": "1 - O exercício de funções de combate a incêndio e salvamento fica condicionado ao resultado apurado em exames médicos periódicos.\n\n2 - Se, em resultado dos exames referidos no número anterior, se verificar a existência de pessoal que não possua as capacidades físicas e psíquicas necessárias ao desempenho daquelas funções ficará o mesmo exercendo no serviço quaisquer outras inerentes à respectiva carreira para as quais possua a necessária formação.\n\n3 - As características, extensão, frequência e comunicação dos resultados dos exames médicos referidos no n.º 1, bem como o seu âmbito de aplicação, serão propostas pelas entidades às quais caiba a gestão das infra-estruturas aeroportuárias e aprovadas por despacho do Ministro do Equipamento Social.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DR 44/85), art. 1.º: nova redação do artigo 14.º, com nova epígrafe; aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

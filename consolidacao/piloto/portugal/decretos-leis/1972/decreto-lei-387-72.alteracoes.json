@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1. As Oficinas Gerais de Material Aeronáutico são uma organização industrial a cuja actividade se aplicam os princípios e normas que regulam a actividade das empresas privadas, nomeadamente em matéria de capacidade jurídica, competência dos órgãos de gestão, regime de operações comerciais e responsabilidade civil, salvo o disposto especialmente por lei ou regulamento.\n\n2. Como organismo da Secretaria de Estado da Aeronáutica, tem personalidade jurídica e goza de autonomia administrativa e financeira.\n\n3. A organização interna das Oficinas Gerais de Material Aeronáutico será regulada por decreto, a fim de poder corresponder às necessidades da gestão técnica, comercial e financeira de carácter empresarial.",
+    "depois": "###### Artigo 1.º\n\n1. As Oficinas Gerais de Material Aeronáutico são uma organização industrial a cuja actividade se aplicam os princípios e normas que regulam a actividade das empresas privadas, nomeadamente em matéria de capacidade jurídica, competência dos órgãos de gestão, regime de operações comerciais e responsabilidade civil, salvo o disposto especialmente por lei ou regulamento.\n\n2. Como organismo da Secretaria de Estado da Aeronáutica, tem personalidade jurídica e goza de autonomia administrativa e financeira.\n\n3 - A organização interna das Oficinas Gerais de Material Aeronáutico será regulada por despacho do Chefe do Estado-Maior da Força Aérea, a fim de poder corresponder às necessidades de gestão técnica, comercial e financeira de carácter empresarial.\n\n4 - O Chefe do Estado-Maior da Força Aérea poderá delegar no director das Oficinas Gerais de Material Aeronáutico a competência para alterar a organização interna daquele estabelecimento fabril.\n\n> Alterado pelo/a [Decreto-Lei n.º 352/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1978-326358), publicado em 1978-11-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:691623:por",
+    "alterador": "pt:dre:326358:por"
+  }
+]

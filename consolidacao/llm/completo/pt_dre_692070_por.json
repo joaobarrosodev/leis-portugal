@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:692070:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1, 3, 4 e 5 (RCM 68/2013, 130/2018, 84-A/2020, 136-A/2021): suspensão parcial/territorial da aplicação ou eficácia do Plano e medidas preventivas — não são alterações textuais. Alterador 2 (Portaria 121/2014): reclassificação das praias da Galé-Fontainhas e Aberta Nova (planta/anexo III, não em artigos) — não textual. Alterador 6 (RCM 87-A/2022): sem texto que mencione o original.",
+  "instrucoes": [
+    "Alterador 1: suspensão de normas dos arts. 5.º, 7.º, 9.º, 10.º e 23.º em áreas de Grândola e medidas preventivas — não textual; nada aplicado.",
+    "Alterador 2: reclassificação de praias ao abrigo do art. 6.º, n.º 3 — não altera o texto dos artigos; nada aplicado.",
+    "Alteradores 3, 4 e 5: medidas preventivas e suspensão de eficácia do Plano nas áreas abrangidas, e sua prorrogação — não textuais; nada aplicado.",
+    "Alterador 6: sem instruções no texto fornecido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

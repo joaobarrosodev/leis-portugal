@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:436985:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1 (DLR n.º 27/2000/A) e 2 (DLR n.º 2/2001/A) alteram os mapas I, II, III, IV e IX anexos, que só vêm em imagem ('ver mapa no documento original'); não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: altera os mapas I, II, III, IV e IX (só em imagem); não aplicado",
+    "Alterador 2, art. 1.º: altera os mesmos mapas (só em imagem); não aplicado",
+    "Alterador 3 (DLR n.º 3/2004/A), art. 16.º: altera o artigo 5.º do DLR n.º 2/99/A, outro diploma; ignorado",
+    "Alterador 4 (DLR n.º 2/2014/A), art. 31.º: altera artigos do DLR n.º 2/99/A, outro diploma; ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

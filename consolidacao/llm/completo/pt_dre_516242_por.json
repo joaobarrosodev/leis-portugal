@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:516242:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 46873), art. 1.º: substitui o mapa n.º 1 (quadro do serviço médico) por novo mapa que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: novo mapa do quadro do serviço médico (anexo em imagem) - não aplicável.",
+    "Alterador 1, art. 2.º: salário do cozinheiro da Cadeia do Forte de Peniche, não altera o original - ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

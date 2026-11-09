@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:453809:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Portaria 647/88 substitui o mapa de pessoal anexo (só em imagem) e junta anexo de conteúdo funcional do técnico auxiliar que não é texto de artigo do original; Portarias 1247/93 e 747/96 aditam lugares ao quadro (mapa só em imagem / alteração não textual); DL 139/2008 transfere competências do INETI para o Instituto, sem alterar texto do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 647/88): substitui o mapa de pessoal anexo, só em imagem: não aplicado.",
+    "Alterador 2 (Portaria 1247/93): adita um lugar ao quadro do Instituto (mapa em imagem): não aplicado.",
+    "Alterador 3 (Portaria 747/96): cria dois lugares no quadro, alteração não textual: não aplicado.",
+    "Alterador 4 (DL 139/2008): transferência de competências, sem instrução textual sobre o original: nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

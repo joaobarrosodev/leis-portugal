@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:566595:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O alterador extingue a ESTIG e cria duas novas escolas (arts. 1.º a 6.º), sem revogar nem alterar textualmente qualquer artigo do Decreto-Lei n.º 355/90; a extinção não é uma alteração textual.",
+  "instrucoes": [
+    "Arts. 1.º a 5.º: criação, integração, instalação, afectação de cursos e transição — disposições autónomas, ignoradas.",
+    "Art. 6.º: extinção da ESTIG — não é revogação textual; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

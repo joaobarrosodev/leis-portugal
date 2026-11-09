@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:552503:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DL 306/2001, art. 1.º, altera regras do anexo I (texto consolidado das regras de Torremolinos: cap. I regra 2 n.º 18, caps. III e IV, cap. VII regra 17), que não vem no texto atual por artigos; não aplicado.",
+  "instrucoes": [
+    "DL 306/2001, art. 1.º: alterações ao anexo I, não aplicadas (anexo ausente do texto atual); art. 2.º: norma interpretativa, sem alteração textual.",
+    "DL 9/2011: altera o DL 191/98 (só menciona o DL 248/2000); ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

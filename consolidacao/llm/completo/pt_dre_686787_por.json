@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:686787:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DL 46862, art. 1.º: novos vencimentos do mapa anexo (só em imagem) e nova categoria de contramestre de 3.ª classe; alteração do mapa, não aplicada aos artigos. Art. 2.º: regra autónoma de recrutamento, sem alteração textual do original.",
+  "instrucoes": [
+    "DL 46862, art. 1.º: altera vencimentos do mapa anexo; mapa em imagem, não aplicado.",
+    "DL 46862, art. 2.º: norma autónoma de recrutamento; não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

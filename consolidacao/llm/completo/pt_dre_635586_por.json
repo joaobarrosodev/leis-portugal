@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:635586:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Os terrenos a ocupar pelas obras a que se refere o artigo anterior ficam situados nas freguesias de Barreiro de Besteiros e Dardavaz, do concelho de Tondela, nas freguesias de Parada, Currelos, Papízios e Oliveira do Conde, do concelho de Carregal do Sal, nas freguesias de Ázere, Tábua, Póvoa de Midões e Covelo, do concelho de Tábua, nas freguesias de Ovoa, Pinheiro de Ázere, S. João das Areias, Santa Comba Dão, Vimeiro, Treixedo, Couto do Mosteiro e S. Joaninho, do concelho de Santa Comba Dão, nas freguesias de Mortágua, Sobral, Almaça e Cercosa, do concelho de Mortágua, e nas freguesias de Travanca, Penacova, S. Pedro de Alva, S. Paio e Oliveira do Mondego, do concelho de Penacova, e constarão de plantas parcelares a aprovar pelo Ministério da Habitação e Obras Públicas.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do artigo 2.º — aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

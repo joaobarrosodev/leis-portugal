@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:372636:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1. As companhias de seguros são obrigadas a comunicar à Conservatória do Registo Automóvel, à Direcção-Geral de Viação e aos Comandos-Gerais da Guarda Nacional Republicana, da Guarda Fiscal e da Polícia de Segurança Pública todas as vendas de salvados de veículos automóveis.\n\n2. A comunicação será efectuada por carta registada até ao dia 5 do mês seguinte àquele em que a transacção se tenha efectuado, referindo a identidade do comprador, preço de venda e os demais elementos identificadores do veículo.\n\n3. Em igual prazo, deverão as companhias de seguros enviar à Direcção-Geral de Viação os documentos referentes aos veículos vendidos, desde que se não haja levantado processo criminal ou de transgressão.\n\n4. A infracção ao disposto neste artigo é punida com a multa de 5000$00 a 100000$00.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "As prorrogações da vigência dos artigos 1.º a 3.º (DL 322-A/75 por mais seis meses; DL 88/76 até à entrada em funcionamento da Assembleia Legislativa) não dão nova redação ao n.º 2 do artigo 6.º nem a outro artigo; alterações não textuais, não aplicadas.",
+  "instrucoes": [
+    "Alterador 1 (DL 303/75), art. 1.º: nova redação do art. 4.º (n.º 2 'preço de venda', novo n.º 3, antigo n.º 3 passa a n.º 4); aplicada.",
+    "Alterador 2 (DL 322-A/75): prorroga por seis meses os arts. 1.º a 3.º; não textual, não aplicada.",
+    "Alterador 3 (DL 88/76): prorroga os arts. 1.º a 3.º até à entrada em funcionamento da Assembleia Legislativa; não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

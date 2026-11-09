@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:300811:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - Os bancos de investimento financiarão as suas operações com o respectivo capital social e reservas e, ainda, com recursos provenientes de:\n\na) Emissão de obrigações a médio e a longo prazo;\n\nb) Depósitos a prazo e com pré-aviso;\n\nc) Fundos obtidos mediante operações efectuadas com o banco emissor, institutos de crédito do Estado, bancos comerciais, estabelecimentos especiais de crédito e, ainda, com institutos de crédito estrangeiros ou internacionais.\n\n2 - Os depósitos a que se refere a alínea b) do número anterior poderão assumir qualquer das formas, modalidades e prazos previstos na lei.\n\n3. As operações com institutos de crédito estrangeiros ou internacionais a que alude a alínea c) do n.º 1 deste artigo ficam sujeitas aos condicionalismos legais que regem as importações de capitais privados.",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 282/80 artigo único: nova redação dos n.os 1 e 2 do art. 1.º; aplicada",
+    "DL 227/83 art. 49.º n.º 2: revoga o art. 4.º; aplicado como (Revogado.)",
+    "DL 227/83 restantes artigos: regime cambial autónomo ou revogação de outros diplomas; ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

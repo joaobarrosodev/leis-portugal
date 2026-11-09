@@ -1,0 +1,62 @@
+{
+  "id": "pt:dre:548423:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO::1.º",
+      "epigrafe": "Natureza",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO::2.º",
+      "epigrafe": "Missão",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO::3.º",
+      "epigrafe": "Competências do director regional",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO::6.º",
+      "epigrafe": "Natureza e atribuições",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO::34.º",
+      "epigrafe": "Concursos e estágios pendentes",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO::35.º",
+      "epigrafe": "Transição de pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "DRR 1/2008/M (art. 28.º) apenas mantém transitoriamente em vigor o DRR 16/2005/M, sem o alterar. A ressalva do mapa de quadro de pessoal no art. 13.º do DRR 14/2008/M diz respeito a um mapa que não está no texto.",
+  "instrucoes": [
+    "DRR 1/2008/M: norma transitória que mantém em vigor o diploma — nada aplicado",
+    "DRR 14/2008/M, art. 13.º: revogado o DRR 16/2005/M, exceto os arts. 4.º, 5.º e 7.º a 33.º da orgânica anexa — ficam (Revogado.) os arts. 1.º e 2.º do diploma e os arts. 1.º, 2.º, 3.º, 6.º, 34.º e 35.º do anexo"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

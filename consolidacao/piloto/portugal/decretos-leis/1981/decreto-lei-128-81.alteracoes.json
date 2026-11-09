@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nO Ministro das Finanças e do Plano pode, com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos, depois de ouvidos os serviços competentes dos Ministérios que superintendam nas respectivas actividades, conceder isenção de contribuições, impostos, taxas, emolumentos e outros encargos legais, relativamente às cisões de sociedades que se revistam de superior interesse para o desenvolvimento nacional ou das regiões economicamente desfavorecidas.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:574699:por",
+    "alterador": "pt:dre:401901:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nOs requerimentos, solicitando a concessão dos benefícios previstos no artigo anterior, devem ser apresentados, antes de efectuada a cisão, na Direcção-Geral das Contribuições e Impostos, sem o que serão indeferidos.\n\nVisto e aprovado em Conselho de Ministros de 30 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 14 de Maio de 1981.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30.\n\nVisto e aprovado em Conselho de Ministros de 30 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 14 de Maio de 1981.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:574699:por",
+    "alterador": "pt:dre:401901:por"
+  }
+]

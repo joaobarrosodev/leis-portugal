@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:434601:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - A base de incidência das contribuições é o subsídio atribuído pelo exercício do mandato, devendo o encargo respeitante ao beneficiário ser deduzido no respectivo subsídio.\n\n2 - Se a remuneração da actividade profissional, passível de contribuição para a Previdência, for de valor superior ao do subsídio devido pelo exercício do mandato de Deputado, a diferença, até à concorrência do salário máximo nacional, será equiparada, para efeitos de previdência, a remuneração com entrada de contribuições.\n\n3 - Os subsídios extraordinários de valor igual ao do subsídio mensal pagos aos Deputados em Junho e Dezembro são passíveis de contribuição para a Previdência.",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - Quando se verifique a opção prevista no n.º 2 do artigo 1.º, a Assembleia da República assume o encargo relativo à parte patronal das contribuições.\n\n2 - Os Deputados que optem pelo regime de previdência da sua actividade profissional anterior mantém a inscrição na instituição que os abrangia.\n\n3 - Os Deputados que, pela sua actividade profissional, estejam abrangidos pela regulamentação colectiva de trabalho aplicável à actividade bancária e não optem pelo regime de protecção social aplicável ao funcionalismo público mantêm a inscrição na Caixa de Abono de Família dos Empregados Bancários.\n\n4 - Para execução do presente diploma, a secretaria da Assembleia da República pode, sempre que o considere necessário, solicitar apoio técnico e administrativo à Caixa de Previdência e Abono de Família dos Serviços do Distrito de Lisboa.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DR 45/80, art. 1.º: nova redação do artigo 2.º - aplicado",
+    "DR 45/80, art. 2.º: nova redação do n.º 2 do artigo 3.º - aplicado",
+    "DR 45/80, art. 3.º: aditados n.os 3 e 4 ao artigo 3.º - aplicado",
+    "DR 45/80, art. 4.º: norma de regularização própria - não altera o texto do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

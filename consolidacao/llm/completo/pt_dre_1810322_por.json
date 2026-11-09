@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:1810322:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, artigo 1.º: altera a delimitação (plantas em imagem), revê e redenomina a classificação do conjunto, mas não dá nova redação ao artigo único do original; alteração não textual, não aplicada. Os artigos 2.º e 3.º fixam restrições e ZEP como normas próprias.",
+  "instrucoes": [
+    "Alterador 1, artigo 1.º: alteração da delimitação e redenominação da classificação; sem nova redação do artigo único, não aplicada.",
+    "Alterador 1, artigos 2.º e 3.º: restrições e zona especial de proteção; normas próprias, não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:400984:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DL 107/86, art. 22.º, n.º 1: extingue o quadro de pessoal de saúde escolar aprovado pelo DL 48079, sem alterar nem revogar textualmente nenhum artigo deste; alteração não textual, não aplicada.",
+  "instrucoes": [
+    "DL 107/86, arts. 1.º a 21.º: estruturação dos CMP e alterações a outros diplomas (DL 81/83); não dirigidos ao original.",
+    "DL 107/86, art. 22.º, n.º 1: extinção do quadro de pessoal de saúde escolar; não textual, não aplicada.",
+    "DL 107/86, art. 22.º, n.º 2: regime transitório próprio; não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:216289:por",
+  "artigos": [
+    {
+      "chave": "49.º",
+      "epigrafe": "",
+      "texto": "1. Enquanto persistirem as circunstâncias a que alude o artigo 22.º, na província de Macau as funções atribuídas aos fundos cambiais pelos artigos 34.º, 37.º, 38.º e 39.º serão exercidas pelo banco emissor da mesma província.\n\n2. O Governo de Macau poderá, por despacho, aumentar a representação das actividades económicas da província no Conselho de Câmbios até três unidades, elevando simultâneamente do mesmo número a representação dos serviços provinciais referida na alínea b) do n.º 1 do artigo 25.º",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (DL 229/71), art. 54.º: revoga todo o Decreto-Lei n.º 49304 'a partir da data da publicação da portaria a que se refere o n.º 2 do artigo 7.º' do próprio alterador; a produção de efeitos depende de um facto exterior (publicação dessa portaria) que o pedido não permite confirmar, e a instrução não identifica artigos, por isso não foi aplicada com segurança.",
+  "instrucoes": [
+    "Alterador 1 (DL 641/70), artigo único: nova redação do artigo 49.º (n.os 1 e 2).",
+    "Alterador 2 (DL 229/71), arts. 1.º a 53.º: novo regime autónomo, não altera textualmente o original.",
+    "Alterador 2, art. 54.º: revogação integral do original com efeitos diferidos à publicação de uma portaria; não aplicada (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

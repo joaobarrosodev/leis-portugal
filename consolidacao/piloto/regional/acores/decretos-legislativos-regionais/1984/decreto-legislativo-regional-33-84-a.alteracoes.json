@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 6.º\n\nO disposto no artigo anterior não exclui a intervenção da administração central da realização na Região Autónoma dos Açores de investimentos públicos, mediante acordos de colaboração a celebrar pelo Governo da República com o Governo Regional e as autarquias locais.\n\n> Aditado pelo/a [Decreto Legislativo Regional n.º 4/95/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1995-173684), publicado em 1995-03-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:400423:por",
+    "alterador": "pt:dre:173684:por"
+  }
+]

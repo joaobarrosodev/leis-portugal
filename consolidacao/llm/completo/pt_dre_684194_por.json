@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:684194:por",
+  "artigos": [
+    {
+      "chave": "85.º",
+      "epigrafe": "Crachá",
+      "texto": "1 - O crachá, conforme figura n.º 76, é composto por um escudo nacional numa esfera armilar sobre duas âncoras cruzadas, bordeladas por dois círculos com o interior em esmalte azul escuro, com a inscrição «POLÍCIA MARÍTIMA», tudo sobre uma estrela de seis pontas em metal, de forma côncava; têm 0,060 m de diâmetro.\n\n2 - O crachá é dourado para os titulares dos órgãos de comando da Polícia Marítima, para os inspectores, subinspectores e chefes, e é prateado para os subchefes e agentes.\n\n3 - É usado, em regra, à frente do lado esquerdo, sobre o peito, fixado através de alfinete com mola ou aposto em presilha para colocação no botão do bolso.\n\n4 - Nas peças de vestuário, em que for aplicável por estampagem, o crachá é azul ou branco, consoante o fundo do artigo de forma a criar contraste.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Portaria 122/2011, art. 1.º: aditamento de um n.º 2.º à própria Portaria n.º 484/2003 (com renumeração do antigo 2.º para 3.º); os números do articulado da portaria não estão no texto atual (só o Regulamento), não aplicado.",
+  "instrucoes": [
+    "Portaria 122/2011, art. 1.º: aditado n.º 2.º à Portaria (texto preambular não presente); não aplicado.",
+    "Portaria 122/2011, art. 2.º: nova redação do n.º 2 do artigo 85.º do Regulamento; aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

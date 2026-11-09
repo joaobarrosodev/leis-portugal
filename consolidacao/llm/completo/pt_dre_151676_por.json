@@ -1,0 +1,226 @@
+{
+  "id": "pt:dre:151676:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "(Objecto)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "(Designações)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "(Características técnicas e modo de utilização)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "(Âmbito)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "(Acesso)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "(Fronteira física)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "(Instalação)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "(Desistência)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "(Equipamento fornecido pelo TRANSDATA)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "(Equipamento fornecido pelo assinante)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "(Casos de força maior)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "(Instalação de energia eléctrica)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "(Acesso do pessoal do TRANSDATA)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "(Utilização)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "(Mudança de local)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "(Código de endereço)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "(Código de identificação)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "(Sigilo)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "(Interrupção de serviço)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "(Reembolso da taxa)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "(Suspensão do serviço)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "(Duração)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "(Contrato temporário)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "(Cessão da posição contratual)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "(Alteração de nome)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "(Extinção do contrato)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "(Desmontagem do equipamento e material)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "(Renovação do contrato)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "(Taxação)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "(Facturação)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "(Cobrança)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "(Garantia)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "(Normas técnicas e de exploração)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "(Reclamações)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "(Direito subsidiário)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 327/87 dá nova redação ao n.º 5.º do articulado da própria Portaria n.º 291/85, que não consta do texto atual (só os artigos do Regulamento, anexo I), pelo que não foi aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 5.º da Portaria (fora do Regulamento) - não está no texto atual, não aplicado",
+    "Alterador 1, n.º 2.º: nova redação dos arts. 2.º, 6.º, 10.º e 20.º do anexo I - suplantada pela revogação de todo o anexo I pelo alterador 2",
+    "Alterador 1, n.º 3.º: adapta a tarifa n.º 8 de outra portaria - ignorado",
+    "Alterador 2, n.º 3.º: revoga o anexo I (Regulamento, arts. 1.º a 35.º) - todos revogados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

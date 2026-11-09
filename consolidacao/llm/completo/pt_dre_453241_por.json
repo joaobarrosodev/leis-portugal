@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:453241:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1 - Para circularem ao abrigo do regime de trânsito previsto no presente diploma deverão as mercadorias ser objecto de uma declaração T, entendendo-se como tal a declaração feita em formulários correspondentes aos modelos constantes dos anexos I e II do Regulamento (CEE) n.º [679/85](http://data.europa.eu/eli/reg/1985/679/oj?locale=pt), do Conselho, de 18 de Fevereiro.\n\n2 - O formulário T mencionado no n.º 1 pode ser completado, se necessário, por um ou mais formulários TBIS correspondentes aos modelos de formulários complementares constantes dos anexos III e IV do Regulamento (CEE) n.º [679/85](http://data.europa.eu/eli/reg/1985/679/oj?locale=pt), do Conselho, de 18 de Fevereiro, ou por uma ou mais listas de carga correspondentes ao modelo previsto no n.º 2 do artigo 1.º do Regulamento (CEE) n.º [1062/87](http://data.europa.eu/eli/reg/1987/1062/oj?locale=pt), da Comissão, de 27 de Março.\n\n3 - Um formulário T não pode ser completado simultaneamente por formulário TBIS e por listas de carga.\n\n4 - A declaração T é assinada por quem pedir a realização de uma operação de trânsito ou pelo seu representante habilitado e é apresentada na estância aduaneira de partida nos seguintes três exemplares:\n\na) O exemplar n.º 1, que será conservado pela estância aduaneira de partida;\n\nb) O exemplar n.º 4, que será conservado pela estância aduaneira de destino;\n\nc) O exemplar n.º 5, que constitui o exemplar de devolução.\n\n5 - A declaração T poderá, em condições a definir pelo Ministro das Finanças, revestir a forma de documento comercial para efeitos de aplicação do regime simplificado de desalfandegamento no domicílio.",
+      "alterador": 1
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "",
+      "texto": "O prazo de validade do certificado de caução não poderá exceder dois anos.",
+      "alterador": 1
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "",
+      "texto": "1 - A garantia global será prestada por um período não superior a dois anos, podendo ser cancelada pelas autoridades aduaneiras sempre que não se encontrem reunidas as condições observadas aquando da sua prestação.\n\n2 - Quando uma garantia global for cancelada nos termos da parte final do número anterior, deixará de produzir efeitos a partir da data do seu cancelamento e a sede da alfândega onde a mesma tiver lugar informará do facto, para os devidos efeitos, as estâncias aduaneiras dela dependentes e as restantes alfândegas.\n\n3 - Os certificados de caução relativos às garantias globais canceladas serão restituídos sem demora pelos responsáveis principais às estâncias aduaneiras de garantia que os emitiram.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "DL 16/91, art. 26.º, n.º 3, elimina os anexos I e II do DL 329/83, que não constam do texto atual por artigos; não há artigo a alterar.",
+  "instrucoes": [
+    "DL 16/91, art. 26.º n.º 2: nova redação dos artigos 4.º, 20.º e 21.º (n.os 2 e 3 do 21.º mantidos) - aplicado",
+    "DL 16/91, art. 26.º n.º 3: eliminação dos anexos I e II - fora dos artigos, não aplicada",
+    "DL 16/91, art. 26.º n.º 1 e art. 27.º: alteram/revogam outros diplomas - ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

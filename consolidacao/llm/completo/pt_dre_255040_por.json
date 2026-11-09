@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:255040:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O Decreto-Lei n.º 5/93 altera apenas a Pauta dos Direitos de Importação (anexo do original), cujo texto e o mapa anexo do alterador só existem em imagem; as notas dos capítulos 12, 15 e 20 referem-se a essa pauta, que não consta do texto atual. Nenhum artigo do original é alterado.",
+  "instrucoes": [
+    "Alt. 1, art. 1.º: altera a Pauta conforme mapa anexo (imagem); não aplicado.",
+    "Alt. 1, arts. 2.º a 4.º: regime de direitos, manutenção das disposições preliminares e efeitos; não alteram texto dos artigos.",
+    "Alt. 1, alteração das notas dos capítulos 12, 15 e 20 da Pauta: anexo não disponível em texto; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

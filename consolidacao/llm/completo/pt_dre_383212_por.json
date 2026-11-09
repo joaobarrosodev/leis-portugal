@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:383212:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 683/81), n.º 1.º: substitui o quadro do pessoal de inspecção do mapa anexo, que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição do quadro de pessoal de inspecção (mapa anexo, só em imagem) - não aplicada",
+    "Alterador 1, 2.º: produção de efeitos - não textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

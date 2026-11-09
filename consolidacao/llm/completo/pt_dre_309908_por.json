@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:309908:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Não são eleitores da Assembleia Constituinte os que, entre 28 de Maio de 1926 e 25 de Abril de 1974, tenham sido designados para desempenhar as funções de:\n\na) Presidente da República, Presidente do Conselho de Ministros, Ministro e membro do Conselho de Estado;\n\nb) Presidente e Vice-Presidente da Assembleia Nacional ou da Câmara Corporativa e leader na primeira;\n\nc) Juiz presidente do Supremo Tribunal de Justiça, do Supremo Tribunal Administrativo ou do Supremo Tribunal Militar;\n\nd) Juiz e acusador dos tribunais militar especial e plenários criminais.\n\ne) Chefe do Estado-Maior-General das Forças Armadas e chefe do estado-maior dos três ramos das forças armadas;\n\nf) Governador civil e governador de distrito autónomo;\n\ng) Comandante-geral da Polícia de Segurança Pública ou da Guarda Nacional Republicana;\n\nh) Presidente e membro da junta consultiva e das comissões central e executiva das extintas União Nacional e Acção Nacional Popular;\n\ni) Presidente e membro da junta central, comandante-geral, 2.º comandante-geral, chefe e adjunto do estado-maior, comandante distrital, comandante distrital-adjunto e comandante de batalhão da ex-Legião Portuguesa e comandante, 2.º comandante e adjunto do Comando da Brigada Naval;\n\nj) Membro comprovado dos grupos de intervenção da frente automóvel de choque ou dos serviços secretos da ex-Legião Portuguesa;\n\nl) Dirigente da Liga 28 de Maio ou da Liga dos Antigos Graduados da Mocidade Portuguesa;\n\nm) Dirigente ou funcionário do quadro ou prestador de serviços das extintas Polícia de Informações, Polícia de Defesa Social, Polícia de Vigilância de Defesa do Estado, Polícia Internacional e de Defesa do Estado e da Direcção-Geral de Segurança;\n\nn) Comissário nacional e comissário nacional-adjunto das extintas Mocidade Portuguesa e Mocidade Portuguesa Feminina;\n\no) Presidente das comissões de censura ou exame prévio à imprensa, espectáculos, rádio e televisão.\n\np) Procurador-geral da República.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 814-A/74): torna o decreto-lei extensivo aos territórios ultramarinos com redação adaptada das alíneas f) e n) do artigo 1.º e do n.º 1 do artigo 4.º; é uma adaptação de aplicação territorial, não uma alteração do texto do original, pelo que não foi aplicada.",
+  "instrucoes": [
+    "Alt. 1: extensão ao ultramar com adaptação das alíneas f) e n) do art. 1.º e n.º 1 do art. 4.º: não aplicada (ver nao_aplicavel).",
+    "Alt. 2, art. 1.º: nova redação da alínea d) do artigo 1.º: aplicada.",
+    "Alt. 2, art. 2.º: aditada a alínea p) ao artigo 1.º: aplicada.",
+    "Alt. 3: altera o Decreto-Lei n.º 390/75, não o original: ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

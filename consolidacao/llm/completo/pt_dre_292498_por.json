@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:292498:por",
+  "artigos": [
+    {
+      "chave": "21.º",
+      "epigrafe": "Direcção de Serviços Jurídicos, Contencioso e de Contra-Ordenações",
+      "texto": "A Direcção de Serviços Jurídicos, Contencioso e de Contra-Ordenações compreende a Divisão de Assuntos Jurídicos e Contencioso e o Serviço de Contra-Ordenações.",
+      "alterador": 6
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Divisão de Assuntos Jurídicos e Contencioso",
+      "texto": "Compete à Divisão de Assuntos Jurídicos e Contencioso:\n\na) Representar o CNP em juízo sempre que de tal seja incumbido pelo conselho directivo;\n\nb) Proceder ao estudo dos diplomas legais com incidência na actividade do CNP e promover a sua divulgação pelos serviços;\n\nc) Emitir pareceres e informações, satisfazer consultas e elaborar estudos de natureza jurídica;\n\nd) Instruir processos de inquérito, disciplinares ou outros na sequência de determinações do conselho directivo;\n\ne) Elaborar minutas de escrituras, contratos e outros documentos de natureza legal;\n\nf) Manter actualizados os ficheiros de legislação, jurisprudência e doutrina com interesse para o CNP.",
+      "alterador": 6
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 6, art. 1.º: nova alínea g) do art. 19.º com as alíneas a) a f) em '...', mas o texto atual do art. 19.º está vazio; não aplicado. Alteradores 1 a 5 e 7 a 10: criam lugares ou alteram o quadro de pessoal (anexo I, em parte só em imagem), sem texto de artigos a mudar; não aplicados.",
+  "instrucoes": [
+    "Alterador 6, art. 1.º: nova redacção dos arts. 2.º, 9.º, 10.º, 11.º, 12.º e 17.º; o texto atual já a reflete.",
+    "Alterador 6, art. 1.º: art. 19.º, nova alínea g); texto atual do artigo inexistente, não aplicado.",
+    "Alterador 6, art. 1.º: art. 21.º passa a referir a Divisão de Assuntos Jurídicos e Contencioso; aplicado.",
+    "Alterador 6, art. 1.º: art. 22.º com nova epígrafe e proémio (Divisão), alíneas a) a f) mantidas; aplicado.",
+    "Alterador 6, art. 2.º: aditamento do art. 17.º-A; já consta do texto atual.",
+    "Alterador 6, art. 4.º: revogação do art. 29.º; já consta do texto atual.",
+    "Alteradores 1-5, 7-10: alterações ao quadro de pessoal (anexo); não aplicadas ao articulado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

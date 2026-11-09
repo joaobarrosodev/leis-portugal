@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º — Reserva Ecológica Nacional (REN)\n\nSem embargo de outra legislação igualmente aplicável, a REN rege-se nos precisos termos do [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 213/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1992-226005), de 12 de Outubro.",
+    "depois": "###### Artigo 6.º — Reserva Ecológica Nacional\n\nSem embargo de outra legislação igualmente aplicável a Reserva Ecológica Nacional rege-se nos precisos termos do novo Regime Jurídico da Reserva Ecológica Nacional, na sua redação vigente.\n\n> Alterado pelo/a [Aviso (extrato) n.º 9021/2014](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/9021-2014-55076492), publicado em 2014-08-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:465060:por",
+    "alterador": "pt:dre:55076492:por"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:391004:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 774/74) extingue o 2.º Tribunal Militar Territorial de Moçambique e altera designação e jurisdição por normas próprias, sem dar nova redação nem revogar expressamente artigos do original; não é uma alteração textual.",
+  "instrucoes": [
+    "Art. 1.º do DL 774/74: extingue o 2.º Tribunal Militar Territorial de Moçambique e muda a designação do 1.º — norma autónoma, não aplicada ao texto.",
+    "Art. 2.º do DL 774/74: fixa a jurisdição do Tribunal Militar Territorial de Moçambique e o destino dos processos — norma autónoma, não aplicada ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

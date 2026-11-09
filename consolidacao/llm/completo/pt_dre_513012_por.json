@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:513012:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1. A nomeação dos directores das escolas oficiais do magistério primário será de futuro feita por livre escolha do Ministro da Educação Nacional de entre os professores dos quadros do ciclo preparatório, de qualquer ramo de ensino secundário ou do magistério primário, desde que uns e outros possuam como habilitação mínima o grau de bacharel, podendo ainda recair em inspectores orientadores do ensino primário ou directores de distrito escolar.\n\n2. Os directores desempenharão as suas funções em comissão de serviço por prazo indeterminado, que o Ministro a todo o tempo pode dar por finda, e perceberão, além dos vencimentos que lhes são devidos como professores ou inspectores-orientadores, a gratificação mensal de 800$00.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do n.º 1 do art. 1.º; aplicada, n.º 2 mantido.",
+    "Alterador 1, art. 2.º: altera o Estatuto do Ciclo Preparatório (outro diploma); ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:195800:por",
+  "artigos": [
+    {
+      "chave": "11.º",
+      "epigrafe": "Serviços de apoio técnico e administrativo",
+      "texto": "1 - O Conselho dispõe de uma assessoria técnica e administrativa, assegurada com o apoio da Secretaria-Geral do Ministério das Cidades, Ordenamento do Território e Ambiente e coordenada pelo secretário executivo.\n\n2 - Compete à assessoria o apoio às actividades do Conselho, designadamente as de natureza técnica, informação, documentação, secretariado, expediente e arquivo.",
+      "alterador": 1
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Encargos financeiros e instalações",
+      "texto": "1 - Os encargos com o funcionamento do Conselho são cobertos por dotação orçamental inscrita no orçamento do Ministério das Cidades, Ordenamento do Território e Ambiente.\n\n2 - Constituem, entre outros, encargos de funcionamento do Conselho os seguintes:\n\na) Remuneração do presidente;\n\nb) Remuneração do secretário executivo;\n\nc) Senhas de presença;\n\nd) Aquisição de serviços, pareceres e assessoria técnica;\n\ne) Os que resultem do seu normal funcionamento e das actividades dos seus membros.\n\n3 - As instalações necessárias ao funcionamento do Conselho serão asseguradas pelo Ministério do Ambiente.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 136/2004), artigo 1.º: nova redação dos artigos 1.º, 3.º, 8.º, 9.º e 10.º já presente no texto atual; sem mudança.",
+    "Alterador 1, artigo 1.º, artigo 11.º: novo n.º 1, n.º 2 mantido; a nova redação só tem n.os 1 e 2 e a republicação confirma que o n.º 3 desaparece, por isso o n.º 3 foi retirado; epígrafe mantida ([...]).",
+    "Alterador 1, artigo 1.º, artigo 17.º: novo n.º 1; n.os 2 e 3 mantidos (...) do texto atual.",
+    "Alterador 1, artigo 2.º: revoga os artigos 18.º, 19.º e 20.º; já constam como (Revogado.).",
+    "Alterador 2 (DL 215-A/2004): orgânica do Governo; só refere o Conselho; nada feito.",
+    "Alteradores 3 a 5 (DL 119/2013, 32/2024, 87-A/2025): sem texto que mencione o original; nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

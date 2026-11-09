@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\nOs cheques referidos no artigo 1.º serão transferidos, nos mesmos prazos e com as formalidades estabelecidas para as passagens de fundos em moeda corrente, para o Banco de Portugal, sede, filial ou agências, como caixa geral do Tesouro, que procederá ao recebimento da respectiva importância das entidades que os tenham emitido ou das que forem responsáveis, nos termos do artigo 2.º deste decreto-lei, por compensação ou cobrança.\n\n§ único. Exceptuam-se do disposto neste artigo os cheques da Caixa Geral de Depósitos, Crédito e Previdência, sacados para o mesmo fim sobre as suas delegações que funcionem nas repartições de finanças concelhias, os quais seguirão a mesma forma de contabilização, cobrança e transferência dos demais cheques sobre o País.",
+    "depois": "###### Artigo 5.º\n\nOs cheques referidos no artigo 1.º serão transferidos, no prazo de vinte e quatro horas, e com as formalidades estabelecidas para as passagens de fundos em moeda corrente, para o Banco de Portugal, sede, filial ou agências como caixa geral do Tesouro, que procederá ao recebimento da respectiva importância das entidades que os tenham emitido ou das que foram responsáveis, nos termos do artigo 2.º deste decreto-lei, por compensação ou cobrança.\n\n§ único. Exceptuam-se do disposto neste artigo os cheques da Caixa Geral de Depósitos, Crédito e Previdência, sacados para o mesmo fim sobre as suas delegações que funcionem nas repartições de finanças concelhias, os quais seguirão a mesma forma de contabilização, cobrança e transferência dos demais cheques sobre o País.\n\n> Alterado pelo/a [Decreto-Lei n.º 233/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1971-643950), publicado em 1971-05-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:292336:por",
+    "alterador": "pt:dre:643950:por"
+  }
+]

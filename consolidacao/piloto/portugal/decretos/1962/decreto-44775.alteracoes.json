@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nAo director técnico do Laboratório de Análises Químicas é atribuída a gratificação anual especial de 3000$00.",
+    "depois": "###### Artigo 7.º\n\nAo director técnico do Laboratório de Análises Clínicas é atribuída a gratificação especial anual de 3000$00.\n\n> Alterado pelo/a [Decreto n.º 45083](https://diariodarepublica.pt/dr/detalhe/decreto/45083-1963-627387), publicado em 1963-06-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:155210:por",
+    "alterador": "pt:dre:627387:por"
+  }
+]

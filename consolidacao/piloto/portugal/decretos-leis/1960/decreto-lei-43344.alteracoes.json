@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "16.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 16.º\n\nNa antiguidade e para efeitos de aposentação conta-se o tempo de serviço com os seguintes aumentos:\n\n1.º 20 por cento em Adem, Adis Abeba, Baçorá, Bagdade, Banguecoque, Bombaim, Brazzaville, Colombo, Jacatra, Elizabethville, Karachi, Lagos, Léopoldville, Manaus e Nova Deli;\n\n2.º 15 por cento em Baía, Cantão, Dacar, Dar-es-Salaam, Havana, Pará, Singapura, Tananarive e Trindade;\n\n3.º 10 por cento em Pernambuco, Santos, Hong-Kong, Xangai e Naimbi;\n\n4.º 25 por cento em país em guerra civil ou guerra internacional com o território atacado por forças estrangeiras.\n\n§ 1.º Se o funcionário tiver servido em diferentes postos que dêem direito a aumentos de diversa percentagem, são estes contados integralmente relativamente a cada posto, segundo a percentagem para eles estabelecida pela lei vigente à data da contagem.\n\n§ 2.º A percentagem contada no n.º 4.º não é acumulável com as dos n.os 1.º a 3.º, mas prevalece sobre elas.",
+    "depois": "###### Artigo 16.º\n\nNa antiguidade e para efeitos de aposentação conta-se o tempo de serviço com os seguintes aumentos:\n\n1.º 20 por cento em Adem, Adis Abeba, Baçorá, Bagdade, Banguecoque, Bombaim, Brazzaville, Colombo, Jacatra, Elizabethville, Karachi, Lagos, Léopoldville, Manaus e Nova Deli;\n\n2.º 15 por cento em Baía, Cantão, Dacar, Dar-es-Salaam, Havana, Pará, Singapura, Tananarive e Trindade;\n\n3.º 10 por cento em Caracas, Hong-Kong, La Paz, Manila, México, Nairobi, Recife, Quito e Xangai.\n\n4.º 25 por cento em país em guerra civil ou guerra internacional com o território atacado por forças estrangeiras.\n\n§ 1.º Se o funcionário tiver servido em diferentes postos que dêem direito a aumentos de diversa percentagem, são estes contados integralmente relativamente a cada posto, segundo a percentagem para eles estabelecida pela lei vigente à data da contagem.\n\n§ 2.º A percentagem contada no n.º 4.º não é acumulável com as dos n.os 1.º a 3.º, mas prevalece sobre elas.\n\n> Alterado pelo/a [Decreto-Lei n.º 46030](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46030-1964-536407), publicado em 1964-11-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:513011:por",
+    "alterador": "pt:dre:536407:por"
+  }
+]

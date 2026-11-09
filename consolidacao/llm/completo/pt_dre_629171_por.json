@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:629171:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DRR n.º 23/2008/A, art. 1.º: substitui os quadros regionais dos anexos I a IX, que só vêm em imagem (ver documento original); o artigo 1.º do original não muda.",
+  "instrucoes": [
+    "DRR 23/2008/A, art. 1.º: substitui os anexos I a IX (quadros só em imagem); não aplicado.",
+    "Declaração de rectificação 6/2011/A: retifica um aviso de lista de classificação, não o original; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

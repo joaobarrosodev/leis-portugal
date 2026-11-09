@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:585181:por",
+  "artigos": [
+    {
+      "chave": "12.º",
+      "epigrafe": "Candidaturas",
+      "texto": "1 - As candidaturas ao presente regime são apresentadas na sede ou nas direcções regionais da Direcção-Geral das Pescas e Aquicultura (DGPA) ou nos serviços regionais do Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).\n\n2 - Os processos de candidatura são apresentados em triplicado, mediante o preenchimento de formulários próprios, devendo ser obrigatoriamente acompanhados dos documentos referidos nos anexos a esses formulários.\n\n3 - Após a recepção das candidaturas, podem ser solicitados pela DGPA ou pelo IFADAP quaisquer esclarecimentos ou documentos que se entenda necessários, devendo o promotor responder no prazo máximo de 15 dias se outro não for fixado.\n\n4 - A ausência de resposta do promotor equivale à desistência da candidatura a que se refere, excepto se o interessado demonstrar que a causa não lhe é imputável.\n\n5 - O fecho das candidaturas ocorre em 30 de Setembro de 2006.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 2.º: nova redação do n.º 5 do artigo 12.º (fecho em 30 de Setembro de 2006); n.os 1 a 4 '...' mantidos.",
+    "Alterador 1, arts. 1.º, 3.º e 4.º: dirigidos a outros regulamentos (Portarias 476/2001, 1080/2000, 1072/2000, 1079/2000, 1261/2001, 1271/2001); ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

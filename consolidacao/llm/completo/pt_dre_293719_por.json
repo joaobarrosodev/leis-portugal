@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:293719:por",
+  "artigos": [
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "1 - Para constituição de novas sociedades criadas na execução do disposto no artigo 9.º em que a INDEP, S. A., detenha a totalidade ou a maioria do capital social, bem como para as alterações dos estatutos desta até à sua constituição em sociedade gestora de participações sociais, incluindo a própria transformação, serão título bastante as actas das referidas deliberações, que, para todos os efeitos legais, substituem a respectiva escritura notarial e são título suficiente para os necessários registos, averbamentos e publicações.\n\n2 - Até que seja efectivada a alteração a que se refere o n.º 1 do artigo 13.º, são isentos de taxas e emolumentos devidos aos cartórios notariais, ao Registo Nacional de Pessoas Colectivas e às conservatórias dos registos predial, comercial e de automóveis todos os actos a praticar pela INDEP, S. A., para a execução do disposto no presente diploma.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Art. 1.º, n.º 1, do DL 221/93 prorroga até 31/12/1993 o prazo de opção do n.º 3 do art. 8.º sem alterar o seu texto; art. 10.º do DL 235-B/96 manda considerar feitas ao conselho de administração da EMPORDEF as referências aos Ministros no art. 7.º, sem nova redação. Nenhuma das duas é alteração textual.",
+  "instrucoes": [
+    "DL 221/93, art. 1.º: prorrogação do prazo de opção do art. 8.º, n.º 3; não textual, não aplicada.",
+    "DL 221/93, art. 2.º: nova redação do art. 14.º; aplicada.",
+    "DL 235-B/96, art. 8.º, n.º 2: transferência de participações; não altera o texto.",
+    "DL 235-B/96, art. 10.º: referências do art. 7.º consideradas feitas ao CA da EMPORDEF; remissão não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

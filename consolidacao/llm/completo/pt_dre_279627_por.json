@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:279627:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Portaria n.º 1038/80, n.º 2.º, substitui o quadro de pessoal anexo ao Decreto Regulamentar n.º 84/77 pelo quadro II, que só vem em imagem; não há texto a aplicar. Os n.os 1.º e 3.º respeitam a outros diplomas.",
+  "instrucoes": [
+    "N.º 2.º substitui o mapa anexo (imagem): não aplicado.",
+    "N.os 1.º e 3.º (Decretos Regulamentares 83/77 e 85/77): ignorados.",
+    "N.os 4.º a 8.º: disposições próprias da portaria, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

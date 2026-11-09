@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:1091720:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 1148/2010 retifica uma frase sobre o culto de Nossa Senhora da Atalaia que não existe no texto atual dos artigos (pertence a texto fora do articulado, provavelmente o anexo); não aplicada.",
+  "instrucoes": [
+    "Alterador 1: retificação de frase (Século XVI / Círios) que não consta dos artigos 1.º e 2.º; nada alterado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

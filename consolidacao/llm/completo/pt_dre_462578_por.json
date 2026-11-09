@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:462578:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "Do Conselho Regional",
+      "texto": "1 - O Conselho Regional tem a seguinte composição:\n\na) O presidente da Comissão Regional de Turismo, que presidirá;\n\nb) Um representante do Ministério da Habitação e Obras Públicas;\n\nc) Um representante da Secretaria de Estado do Turismo;\n\nd) Um representante da Secretaria de Estado dos Transportes;\n\ne) Um representante da Secretaria de Estado da Cultura;\n\nf) Um representante da Secretaria de Estado do Ordenamento e Ambiente;\n\ng) Um representante da Direcção-Geral da Aviação Civil;\n\nh) O delegado distrital de Saúde de Viseu;\n\ni) Um representante de cada uma das câmaras municipais que integram a Região;\n\nj) Um representante da Comissão de Coordenação Regional do Norte;\n\nl) Um representante das associações da indústria hoteleira e similares, residente na área da Região;\n\nm) Um representante da Associação Portuguesa das Agências de Viagens e Turismo, residente na área da Região;\n\nn) Representantes dos sindicatos dos trabalhadores da indústria hoteleira, das agências de viagens e da informação turística, em número de três e residentes na área da Região.\n\n2 - O Conselho Regional, quando julgar conveniente, poderá convocar para assistir às suas reuniões pessoas ou entidades a ele estranhas, para nelas participarem sem direito a voto.\n\n3 - A designação dos vogais do Conselho Regional é feita sem limitação de tempo, podendo, no entanto, o respectivo mandato ser revogado em qualquer momento pela entidade representada.\n\n4 - O Conselho na sua primeira reunião elegerá o vogal que substituirá o presidente nas reuniões do Conselho, nas suas faltas e impedimentos.\n\n5 - Por cada reunião a que assistirem, os vogais do Conselho Regional poderão ter direito a senhas de presença, de montante a fixar pelo Conselho, nos termos legais.\n\n6 - Por decisão do Conselho Regional, os seus vogais poderão ter igualmente direito a abono para transportes e ajudas de custo, nos termos estabelecidos para os funcionários públicos de categoria correspondente à letra E.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 207/85) alarga a área da Região ao Município de Meda ao abrigo do n.º 2 do artigo 1.º, sem alterar textualmente o artigo 1.º; não se acrescenta Meda à lista por não ser alteração textual.",
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação da alínea j) do n.º 1 do artigo 7.º: aplicado",
+    "Alterador 2: alargamento da área a Meda: não aplicado ao texto (não textual)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

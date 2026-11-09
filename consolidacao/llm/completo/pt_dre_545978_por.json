@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:545978:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Os alteradores 1 a 9 (DRR 19/96/A, 3/2000/A, 5/2000/A, 3/2004/A, 22/2004/A, 31/2004/A, 33/2004/A, 4/2005/A, 15/2006/A) só alteram o mapa anexo do quadro de pessoal, que vem apenas em imagem/PDF; nenhum altera o texto dos artigos 1.º a 5.º.",
+  "instrucoes": [
+    "Alteradores 1-9: alterações ao quadro de pessoal (mapa anexo) em imagem; não aplicadas; artigos sem mudança."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

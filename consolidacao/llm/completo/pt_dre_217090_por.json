@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:217090:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1. Constarão de diploma regulamentar, a publicar pelos Governos-Gerais de Angola e de Moçambique, as receitas do Fundo, a composição dos quadros de pessoal técnico, técnico auxiliar, assalariado e administrativo da sua secretaria privativa e a composição e atribuição do conselho administrativo, que poderá ter a participação do sector privado com interesses nas actividades pecuárias.\n\n2. No diploma a que se refere o número anterior pode ser prevista a criação de comissões e subcomissões com fins específicos de estudo ou orientação de problemas ligados ao fomento da produção, comercialização e industrialização pecuárias, e também fixada a remuneração mensal dos membros do conselho administrativo e o quantitativo de senhas de presença aos membros das comissões e subcomissões, as quais serão acumuláveis com quaisquer vencimentos ou remunerações, sem limite legal.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "O conselho administrativo pode subsidiar, nos termos que forem objecto de prévio acordo, com os serviços de veterinária:\n\na) A colaboração dos especialistas dos diversos órgãos da administração;\n\nb) O contrato de técnicos nacionais ou estrangeiros;",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 1.º: nova redação do n.º 1 do art. 5.º; aplicada.",
+    "Art. 2.º: eliminação da alínea c) do art. 8.º — o texto atual tinha «c) (Revogada.)»; a alínea foi retirada por completo, por ser eliminação e não revogação."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

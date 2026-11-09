@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:326156:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "As Portarias n.os 461/86 e 750/88 extinguem e criam lugares no quadro de pessoal do mapa II anexo ao original, que só vem em imagem; não alteram nenhum artigo.",
+  "instrucoes": [
+    "Portaria 461/86, n.os 1.º e 2.º: extinção e criação de lugares no mapa II (imagem); não aplicado.",
+    "Portaria 750/88 (alteradores 2 e 3, idênticos), n.º 1.º, alínea c), e n.º 2.º: extinção dos lugares do mapa II e criação de novo quadro em mapas anexos (imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

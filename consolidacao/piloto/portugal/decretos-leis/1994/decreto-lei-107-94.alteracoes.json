@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1 - As contas de liquidação do GAPA, a apresentar pela comissão liquidatária, serão aprovadas até 31 de Dezembro de 1994, por despacho conjunto dos Ministros das Finanças e do Mar.\n\n2 - É fixado em um mês, contado da data da entrada em vigor do presente diploma, o prazo durante o qual os credores do GAPA residentes no País podem reclamar os seus créditos, sendo tal prazo, para os credores não residentes no País, de três meses.",
+    "depois": "###### Artigo 3.º\n\n1 - As contas de liquidação do GAPA, a apresentar pela comissão liquidatária, serão aprovadas até 31 de Dezembro de 1995, por despacho conjunto dos Ministros das Finanças e do Mar.\n\n2 - É fixado em um mês, contado da data da entrada em vigor do presente diploma, o prazo durante o qual os credores do GAPA residentes no País podem reclamar os seus créditos, sendo tal prazo, para os credores não residentes no País, de três meses.\n\n> Alterado pelo/a [Decreto-Lei n.º 281/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1995-668116), publicado em 1995-10-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:265561:por",
+    "alterador": "pt:dre:668116:por"
+  }
+]

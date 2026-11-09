@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:486774:por",
+  "artigos": [
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "Os Serviços de Planeamento são chefiados por um director com a categoria de inspector superior, que coadjuvará o director-geral no exercício das suas funções e o substituirá nas suas faltas e impedimentos. O Gabinete de Estudos e os Serviços de Integração Económica Nacional são chefiados por directores de serviços, que coadjuvarão igualmente o director-geral e, no caso de impedimento simultâneo deste e do director do planeamento, os substituirão pela ordem que for superiormente determinada.",
+      "alterador": 1
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "",
+      "texto": "As divisões da Direcção de Serviços de Planeamento são dirigidas por chefes de divisão, aos quais incumbe coadjuvar o respectivo director no exercício das suas funções e substituí-lo, nos casos de falta ou impedimento, pela ordem que for determinada pelo director-geral.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (DL 48301), art. 11.º: extingue o Gabinete de Estudos referido na alínea a) do artigo 2.º e redistribui as funções do artigo 4.º, sem dar nova redação nem revogar expressamente esses artigos; alteração não textual. Alterador 3 (DL 49132), art. 9.º: extingue os grupos de trabalho da Comissão Interministerial (artigo 19.º e seguintes), sem instrução textual sobre o original; alteração não textual.",
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação dos artigos 14.º e 15.º; aplicada.",
+    "Alterador 2, art. 11.º: extinção do Gabinete de Estudos (art. 2.º, a), e art. 4.º) sem alteração textual; não aplicada.",
+    "Alterador 3, art. 9.º: extinção dos grupos de trabalho da Comissão Interministerial sem alteração textual; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

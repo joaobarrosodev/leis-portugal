@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nFica autorizada na Região Autónoma da Madeira a caça ao coelho bravo, dentro dos terrenos cultivados, durante todo o ano.",
+    "depois": "###### Artigo 1.º\n\n1 - Fica autorizada na Região Autónoma da Madeira a caça ao coelho bravo, dentro dos terrenos cultivados, durante todo o ano, do nascer ao pôr do Sol.\n\n2 - Os animais abatidos ou capturados nestas circunstâncias não poderão ser transportados em terrenos de caça em período de defeso, só podendo fazê-lo na via pública entre o nascer e o pôr do Sol.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 24/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1986-222443), publicado em 1986-10-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:448480:por",
+    "alterador": "pt:dre:222443:por"
+  }
+]

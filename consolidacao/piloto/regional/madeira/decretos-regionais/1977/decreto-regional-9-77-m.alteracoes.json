@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nÉ proibida a plantação ou sementeira de pinheiros a menos de 15 m de terrenos cultivados e terras de cultura de regadio e a 25 m de prédios urbanos.\n\n§ único. Exceptuam-se do disposto neste artigo as plantações e sementeiras de pinheiros se entre estes e os terrenos, terras de regadio e prédios urbanos mediar estrada nacional ou municipal ou desnível de 4 m ou no caso de se reconhecer que a forma mais conveniente de aproveitamento do terreno em que estiverem radicadas e os terrenos dos vizinhos é a arborização com esta espécie.",
+    "depois": "###### Artigo 1.º\n\nÉ proibida a plantação ou sementeira de pinheiros a menos de 15 m de terrenos cultivados e terras de cultura de regadio e a 25 m de prédios urbanos.\n\n§ único. Exceptuam-se do disposto neste artigo as plantações e sementeiras no caso de se reconhecer que a forma mais conveniente de aproveitamento do terreno em que estiveram radicadas e dos terrenos dos vizinhos é a arborização com aquela espécie.\n\n> Alterado pelo/a [Decreto Regional n.º 14/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1979-378565), publicado em 1979-08-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:250780:por",
+    "alterador": "pt:dre:378565:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nQuando se trate de plantações ou sementeiras de pinheiros feitas anteriormente à vigência do presente diploma que estejam em contradição com o artigo 1.º é reconhecido ao lesado o direito de requerer o arranque, mediante indemnização, caso a sementeira ou plantação tenha sido feita há menos de seis anos.",
+    "depois": "###### Artigo 3.º\n\n1 - Quando se trate de plantações ou sementeiras de pinheiros feitas anteriormente à vigência do presente diploma e que à data da sua entrada em vigor estejam em contradição com o artigo 1.º, é reconhecido ao lesado o direito de requerer o arranque.\n\n2 - O exercício do direito previsto no número anterior dá lugar a indemnização, nos termos da legislação em vigor.\n\n> Alterado pelo/a [Decreto Regional n.º 14/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1979-378565), publicado em 1979-08-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:250780:por",
+    "alterador": "pt:dre:378565:por"
+  }
+]

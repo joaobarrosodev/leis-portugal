@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:279456:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - Os quadros permanentes de sargentos e praças da Armada do activo das classes de artilheiros, electrotécnicos, maquinistas navais, condutores de máquinas, comunicações, radaristas, electricistas, torpedeiros-detectores, manobra, enfermeiros e paramédicos, músicos, abastecimento, mergulhadores, condutores mecânicos de automóveis e taifa são os constantes do mapa n.º 1 anexo ao presente diploma.\n\n2 - O mapa n.º 1 e o mapa n.º 3 a que se refere o artigo 4.º são substituídos pelos que se anexam ao presente diploma.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Os novos mapas n.os 1 e 3 do Decreto-Lei n.º 203/85 só existem em imagem (ver documento original); não foram aplicados.",
+  "instrucoes": [
+    "Alterador 1, arts. 1.º a 3.º: criação da classe de enfermeiros e paramédicos e compensações; não textuais.",
+    "Alterador 1, art. 4.º: nova redação do artigo 1.º; aplicada.",
+    "Alterador 1, art. 4.º: substituição dos mapas n.os 1 e 3; só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

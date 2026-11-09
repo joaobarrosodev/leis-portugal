@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1 - Para circularem ao abrigo do regime de trânsito previsto neste decreto-lei, deverão as mercadorias ser objecto de uma declaração T, conforme modelo reproduzido no anexo I.\n\n2 - A declaração T será assinada pela pessoa que tiver pedido para efectuar uma operação de trânsito ou pelo seu representante habilitado e deverá ser apresentada em 3 exemplares, pela ordem da sua numeração, na estância aduaneira de partida:\n\n1) Exemplar para a estância aduaneira de partida;\n\n2) Exemplar para a estância aduaneira de destino;\n\n3) Exemplar para devolução.\n\n3 - Quando na declaração T não houver espaço suficiente para inscrever todas as mercadorias transportadas, poderão juntar-se folhas suplementares, do modelo constante do anexo II, mencionando-se na declaração o número de folhas anexas.",
+    "depois": "###### Artigo 4.º\n\n1 - Para circularem ao abrigo do regime de trânsito previsto no presente diploma deverão as mercadorias ser objecto de uma declaração T, entendendo-se como tal a declaração feita em formulários correspondentes aos modelos constantes dos anexos I e II do Regulamento (CEE) n.º [679/85](http://data.europa.eu/eli/reg/1985/679/oj?locale=pt), do Conselho, de 18 de Fevereiro.\n\n2 - O formulário T mencionado no n.º 1 pode ser completado, se necessário, por um ou mais formulários TBIS correspondentes aos modelos de formulários complementares constantes dos anexos III e IV do Regulamento (CEE) n.º [679/85](http://data.europa.eu/eli/reg/1985/679/oj?locale=pt), do Conselho, de 18 de Fevereiro, ou por uma ou mais listas de carga correspondentes ao modelo previsto no n.º 2 do artigo 1.º do Regulamento (CEE) n.º [1062/87](http://data.europa.eu/eli/reg/1987/1062/oj?locale=pt), da Comissão, de 27 de Março.\n\n3 - Um formulário T não pode ser completado simultaneamente por formulário TBIS e por listas de carga.\n\n4 - A declaração T é assinada por quem pedir a realização de uma operação de trânsito ou pelo seu representante habilitado e é apresentada na estância aduaneira de partida nos seguintes três exemplares:\n\na) O exemplar n.º 1, que será conservado pela estância aduaneira de partida;\n\nb) O exemplar n.º 4, que será conservado pela estância aduaneira de destino;\n\nc) O exemplar n.º 5, que constitui o exemplar de devolução.\n\n5 - A declaração T poderá, em condições a definir pelo Ministro das Finanças, revestir a forma de documento comercial para efeitos de aplicação do regime simplificado de desalfandegamento no domicílio.\n\n> Alterado pelo/a [Decreto-Lei n.º 16/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1991-694041), publicado em 1991-01-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:453241:por",
+    "alterador": "pt:dre:694041:por"
+  },
+  {
+    "artigo": "20.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 20.º\n\nO prazo de validade do certificado de caução não poderá exceder 1 ano.",
+    "depois": "###### Artigo 20.º\n\nO prazo de validade do certificado de caução não poderá exceder dois anos.\n\n> Alterado pelo/a [Decreto-Lei n.º 16/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1991-694041), publicado em 1991-01-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:453241:por",
+    "alterador": "pt:dre:694041:por"
+  },
+  {
+    "artigo": "21.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 21.º\n\n1 - A garantia global será prestada por um período não superior a 1 ano, podendo ser cancelada pelas autoridades aduaneiras sempre que não se encontrem reunidas as condições observadas quando da sua prestação.\n\n2 - Quando uma garantia global for cancelada nos termos da parte final do número anterior, deixará de produzir efeitos a partir da data do seu cancelamento e a sede da alfândega onde a mesma tiver lugar informará do facto, para os devidos efeitos, as estâncias aduaneiras dela dependentes e as restantes alfândegas.\n\n3 - Os certificados de caução relativos às garantias globais canceladas serão restituídos sem demora pelos responsáveis principais às estâncias aduaneiras de garantia que os emitiram.",
+    "depois": "###### Artigo 21.º\n\n1 - A garantia global será prestada por um período não superior a dois anos, podendo ser cancelada pelas autoridades aduaneiras sempre que não se encontrem reunidas as condições observadas aquando da sua prestação.\n\n2 - Quando uma garantia global for cancelada nos termos da parte final do número anterior, deixará de produzir efeitos a partir da data do seu cancelamento e a sede da alfândega onde a mesma tiver lugar informará do facto, para os devidos efeitos, as estâncias aduaneiras dela dependentes e as restantes alfândegas.\n\n3 - Os certificados de caução relativos às garantias globais canceladas serão restituídos sem demora pelos responsáveis principais às estâncias aduaneiras de garantia que os emitiram.\n\n> Alterado pelo/a [Decreto-Lei n.º 16/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1991-694041), publicado em 1991-01-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:453241:por",
+    "alterador": "pt:dre:694041:por"
+  }
+]

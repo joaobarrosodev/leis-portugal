@@ -1,0 +1,49 @@
+{
+  "id": "pt:dre:455430:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Disposições gerais sobre o formulário dos diplomas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Formulário dos diplomas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Início da vigência",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Publicação no «Jornal Oficial da Região Autónoma da Madeira»",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Identificação e rectificação dos diplomas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Entrada em vigor",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DLR 11/2022/M, art. 13.º: revoga o DLR 14/83/M (com aplicação transitória pelo art. 14.º) — todos os artigos ficam (Revogado.)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

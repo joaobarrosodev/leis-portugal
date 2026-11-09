@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:275597:por",
+  "artigos": [
+    {
+      "chave": "único",
+      "epigrafe": "",
+      "texto": "1 - Os auxiliares de educação dos serviços e estabelecimentos do sector da segurança social que realizaram, com aproveitamento, o curso de promoção a educadores de infância e que desempenhem as correspondentes funções há mais de 10 anos transitam para lugares de educador de infância dos respectivos quadros de pessoal, a extinguir quando vagarem.\n\n2 - No caso de inexistência de vagas, serão criados, nos respectivos quadros de pessoal, através de portaria conjunta dos Ministros das Finanças e do Emprego e da Segurança Social, os lugares necessários à execução do presente diploma, a extinguir quando vagarem.\n\n3 - São extintos os lugares de auxiliar de educação que vagarem por motivo das transições previstas no presente diploma.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, art. 1.º: altera a Lei n.º 5/2001; não é do original, ignorado.",
+    "Alt. 1, art. 2.º: nova redação do n.º 1 do artigo único; n.os 2 e 3 mantidos; aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

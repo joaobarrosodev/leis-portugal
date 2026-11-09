@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nOs limites da nova freguesia, conforme representação cartográfica anexa, são:\n\nA norte, com a freguesia de Santa Clara-a-Velha (desde o primeiro marco da Corte Sevilha do Meio, junto à estrada nacional e a sul do restante terreno da Corte Sevilha do Meio, seguindo por partilhas do terreno da Corte Sevilha do Meio com terreno da Tramagueira de Baixo, partindo de seguida com terreno do Monte Velho e da Referta, continuando por partilhas do Montinho com Fitos de Baixo, avançando por partilhas da Fonte do Corcho com terrenos do ribeiro, seguindo pela vertente partindo com terreno dos Fitos Grandes e do Gavião, chegando ao serro do Olival, continuando pela partilha do Gavião com o Gavianito até à Portela da Cruz);\n\nA sul, com a freguesia de São Marcos de Ser;\n\nA nascente, com a freguesia de Santana da Serra;\n\nA poente, com a freguesia de Sabóia.",
+    "depois": "###### Artigo 2.º\n\nOs limites da nova freguesia de Pereiras-Gare, no concelho de Odemira, conforme representação topográfica, que se anexa, são:\n\nA norte: com a freguesia de Santa Clara-a-Velha, desde o primeiro marco da Corte Sevilha, junto à estrada nacional, a sul do referido marco com terreno de Inácio João e a norte do referido marco com terreno de Joaquim Gonçalves Cabrita, chegando à ribeira, seguindo pela linha de água até ao porto da Fragura, seguindo pelo barranco da Casa Branca, partindo com terras de José António Cabrita, seguindo por partilhas com terras de Anastácio da Silva Cabrita, chegando até à partilha com a foz da Reboja, partindo de seguida com terreno do Monte Velho e da Referta, continuando por partilhas do Montinho com Fitos de Baixo, avançando por partilhas da Fonte do Corcho com terreno do ribeiro, seguindo pela vertente, partindo com terreno dos Fitos Grandes e do Gavião, chegando ao serro do Olival, continuando pelas partilhas do Gavião com o Gavianito até à Portela da Cruz;\n\nA sul: com a freguesia de São Marcos da Serra;\n\nA nascente: com a freguesia de Santana da Serra;\n\nA poente: com a freguesia de Sabóia.\n\n> Alterado pelo/a [Lei n.º 36/89](https://diariodarepublica.pt/dr/detalhe/lei/36-1989-618477), publicado em 1989-08-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:261716:por",
+    "alterador": "pt:dre:618477:por"
+  }
+]

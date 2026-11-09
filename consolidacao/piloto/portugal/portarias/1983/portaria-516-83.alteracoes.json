@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º — (Júri)\n\n1 - O júri dos concursos de admissão ao estágio da carreira de técnicos superiores de saúde é constituído por um presidente e dois vogais.\n\n2 - O presidente será um funcionário dirigente do serviço que na Secretaria de Estado da Saúde for competente em matéria de recursos humanos, com funções relacionadas com a carreira dos técnicos superiores de saúde.\n\n3 - Um dos vogais será técnico superior de saúde, de categoria não inferior a 1.ª classe, integrado em cada um dos ramos previstos no artigo 2.º n.º 1, do [Decreto Regulamentar n.º 29/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1981-578332), de 24 de Junho.\n\n4 - O outro vogal será um psicólogo licenciado, de preferência técnico superior de serviço ou estabelecimento da Secretaria de Estado da Saúde.",
+    "depois": "###### Artigo 7.º — (Júri)\n\n1 - O júri dos concursos de admissão ao estágio da carreira de técnicos superiores de saúde é constituído por um presidente e dois vogais efectivos.\n\n2 - O presidente será um funcionário com categoria não inferior a técnico superior de saúde principal, integrado num dos ramos previstos no artigo 2.º, n.º 1, do [Decreto Regulamentar n.º 29/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1981-578332), de 24 de Junho.\n\n3 - Os dois vogais efectivos serão funcionários com categorias não inferiores a técnico superior de saúde de 1.ª classe e integrados num dos ramos previstos no artigo 2.º, n.º 1, do [Decreto Regulamentar n.º 29/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1981-578332), de 24 de Junho.\n\n4 - O despacho constitutivo do júri designará ainda, para as situações de falta e impedimento, dois vogais suplentes, escolhidos de entre os funcionários integrados na carreira institucionalizada pelo [Decreto Regulamentar n.º 29/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1981-578332), de 24 de Junho.\n\n> Alterado pelo/a [Portaria n.º 706/86](https://diariodarepublica.pt/dr/detalhe/portaria/706-1986-221496), publicado em 1986-11-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:451038:por",
+    "alterador": "pt:dre:221496:por"
+  }
+]

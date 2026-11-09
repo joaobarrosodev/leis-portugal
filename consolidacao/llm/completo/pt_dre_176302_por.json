@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:176302:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1. Os aspirantes a oficial dos quadros permanentes serão abonados do soldo mensal de 4600$00.\n\n2. Os aspirantes a oficial milicianos e os das reservas da Armada, durante o período da sua prestação obrigatória de serviço militar, terão a remuneração mensal especial de 3400$00.",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "Os subsargentos dos quadros de complemento da Armada, a que se refere o artigo 1.º do [Decreto-Lei n.º 48730](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48730-1968-262808), de 4 de Dezembro de 1968, terão o ordenado mensal de 3400$00.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 3.º, e alterador 2, art. 1.º, n.º 5: substituem a tabela do n.º 1 do artigo 6.º, que só vem em imagem ('ver documento original'); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, art. 3.º: nova tabela do n.º 1 do art. 6.º, só em imagem; não aplicada.",
+    "Alterador 2, art. 1.º, n.os 1 a 4: tabelas de soldos, ordenados e prés fixadas autonomamente, sem alterar expressamente o original; nada aplicado.",
+    "Alterador 2, art. 1.º, n.º 5: substitui a tabela do n.º 1 do art. 6.º (alterada pelo DL 298/72), só em imagem; não aplicada (o parágrafo seguinte sobre arredondamento integra o diploma alterador).",
+    "Alterador 2, art. 1.º, n.º 6: valores dos n.os 1 e 2 do art. 2.º e do art. 4.º passam a 4600$00, 3400$00 e 3400$00; aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "2.º: parágrafo que não está no alterador nem no original: 1. Os aspirantes a oficial dos quadros permanentes serão abonados do soldo mensa",
+    "2.º: parágrafo que não está no alterador nem no original: 2. Os aspirantes a oficial milicianos e os das reservas da Armada, durante o per",
+    "4.º: parágrafo que não está no alterador nem no original: Os subsargentos dos quadros de complemento da Armada, a que se refere o artigo 1"
+  ]
+}

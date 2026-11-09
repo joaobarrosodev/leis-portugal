@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:171082:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O artigo 2.º do Decreto Regulamentar n.º 4/80 dá nova redação ao n.º 1 do capítulo I do caderno de encargos anexo ao Decreto n.º 43683; esse caderno de encargos não consta do texto atual (só aparece o título), pelo que não há unidade onde aplicar a alteração.",
+  "instrucoes": [
+    "Art. 1.º altera o caderno de encargos do Decreto n.º 40870: outro diploma, ignorado.",
+    "Art. 2.º nova redação do n.º 1 do capítulo I do caderno de encargos do cimento pozolânico: texto do caderno ausente do texto atual, não aplicado (nao_aplicavel).",
+    "Art. 3.º altera o caderno de encargos do Decreto n.º 49371: outro diploma, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

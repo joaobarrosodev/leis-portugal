@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1 - A faculdade de requerer os meios suspensivos da falência poderá ser exercida nos termos previstos no artigo 1266.º do Código de Processo Civil ou nos noventa dias subsequentes à entrada em vigor do presente diploma ou à declaração de falência, se for posterior.\n\n2 - Se, ao tempo do requerimento, ainda não houver sido proferida sentença de verificação de créditos em primeira instância, será aplicável, com as necessárias adaptações, o disposto no Código de Processo Civil para os meios preventivos da falência.\n\n3 - No caso de, antes do requerimento, haver sido proferida sentença de verificação de créditos em primeira instância, poderá o Ministro das Finanças e do Plano prorrogar o prazo de noventa dias acima referido por período de igual duração, para o efeito de poder ser aplicado o regime previsto no n.º 1 do artigo 5.\n\n4 - Nos casos de falência em que tenham sido deduzidos embargos, não rejeitados por decisão transitada em julgado, poderá ser autorizada a confissão do pedido, desde que não tenha sido proferida sentença de verificação e graduação de créditos, não tenha o Estado efectuado a reserva de bens ou direitos prevista nos diplomas legais referidos no artigo 1.º e não haja ofensa de caso julgado.",
+    "depois": "###### Artigo 2.º\n\n1 - A faculdade de requerer os meios suspensivos da falência poderá ser exercida nos termos previstos no artigo 1266.º do Código de Processo Civil ou nos noventa dias subsequentes à entrada em vigor do presente diploma ou à declaração de falência, se for posterior.\n\n2 - Se, ao tempo do requerimento, ainda não houver sido proferida sentença de verificação de créditos em primeira instância, será aplicável, com as necessárias adaptações, o disposto no Código de Processo Civil para os meios preventivos da falência.\n\n3 - O Ministro das Finanças e do Plano poderá prorrogar o prazo previsto no n.º 1, ou renová-lo, por dois períodos de 90 dias.\n\n4 - Nos casos de falência em que tenham sido deduzidos embargos, não rejeitados por decisão transitada em julgado, poderá ser autorizada a confissão do pedido, desde que não tenha sido proferida sentença de verificação e graduação de créditos, não tenha o Estado efectuado a reserva de bens ou direitos prevista nos diplomas legais referidos no artigo 1.º e não haja ofensa de caso julgado.\n\n5 - Os prazos referidos no presente artigo têm natureza processual.\n\n> Alterado pelo/a [Decreto-Lei n.º 473/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1982-379555), publicado em 1982-12-17.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:564047:por",
+    "alterador": "pt:dre:379555:por"
+  }
+]

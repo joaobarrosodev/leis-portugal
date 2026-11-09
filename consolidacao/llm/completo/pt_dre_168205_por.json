@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:168205:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, artigo único: altera os limites da área crítica, que passam a ser os da planta anexa ao alterador; a planta só vem em imagem e a alteração não é textual (o artigo 1.º remete para a planta), pelo que nada foi mudado no texto.",
+  "instrucoes": [
+    "Alterador 1, artigo único: nova delimitação da área crítica por planta anexa (imagem); sem alteração textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

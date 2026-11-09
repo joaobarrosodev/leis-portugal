@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º — Validade dos bilhetes e assinaturas\n\n1 - ...\n\n2 - Os passageiros munidos de bilhete de ida e volta devem iniciar a viagem de regresso até às 3 horas do dia seguinte ao indicado no título comboios tranvias ou de bilhetes para os restantes de transporte, quando se tratar de bilhete para comboios até à distância de 150 km, e até às 24 horas do décimo dia seguinte ao neles indicado, nos outros casos.\n\n3 - ...",
+    "depois": "###### Artigo 9.º — Validade dos bilhetes e assinatura\n\n1 - ...\n\n2 - Os passageiros munidos de bilhetes de ida e volta devem iniciar a viagem de regresso até às 3 horas do dia seguinte ao indicado no título de transporte, quando se tratar de bilhetes para comboios transvias ou de bilhetes para os restantes comboios até à distância de 75 km e até às 24 horas do décimo dia seguinte ao neles indicado nos outros casos.\n\n3 - ...\n\n> Alterado pelo/a [Portaria n.º 31-R/85](https://diariodarepublica.pt/dr/detalhe/portaria/31-r-1985-162795), publicado em 1985-01-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:273584:por",
+    "alterador": "pt:dre:162795:por"
+  },
+  {
+    "artigo": "20.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 20.º — Cálculo de preços\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - Os preços são arredondados para os 5$00 imediatamente superiores.",
+    "depois": "###### Artigo 20.º — Cálculo dos preços\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - Com excepção dos comboios transvias (preços zonais), os preços são calculados por escalão indivisível de 2 km para percursos até 50 km e de 5 km para percursos de 51 km a 100 km; para percursos entre 101 km a 250 km, os preços são calculados sobre a distância média de cada escalão de 10 km; para percursos entre 251 km a 490 km, sobre a distância média de cada escalão de 20 km; para percursos entre 491 km a 700 Km, sobre a distância média de cada escalão de 40 Km, e para percursos além de 700 km; sobre a distância média de cada escalão de 60 km.\n\n7 - Os preços são arredondados para os 5$00 imediatamente superiores.\n\n> Alterado pelo/a [Portaria n.º 31-R/85](https://diariodarepublica.pt/dr/detalhe/portaria/31-r-1985-162795), publicado em 1985-01-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:273584:por",
+    "alterador": "pt:dre:162795:por"
+  },
+  {
+    "artigo": "42.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 42.º — Bilhetes de ida e volta\n\n1 - Consideram-se bilhetes de ida e volta aqueles que permitem aos seus portadores a realização de uma viagem de ida no dia e percurso neles indicados e o respectivo regresso a iniciar até às 3 horas do dia seguinte ao do início da sua validade, quando se tratar de bilhetes para comboios tranvias ou de bilhetes para os restantes comboios até à distância de 150 km, e até às 24 horas do décimo dia seguinte ao neles indicado, nos restantes casos.\n\n2 - ...",
+    "depois": "###### Artigo 42.º — Bilhetes de ida e volta\n\n1 - Consideram-se bilhetes de ida e volta aqueles que permitem aos seus portadores a realização de uma viagem de ida no dia e percurso neles indicados e o respectivo regresso a iniciar até às 3 horas do dia seguinte ao do início da sua validade, quando se tratar de bilhete para comboios transvias ou de bilhetes para os restantes comboios até à distância de 75 km, e às 24 horas do décimo dia seguinte ao neles indicado, nos restantes casos.\n\n2 - ...\n\n> Alterado pelo/a [Portaria n.º 31-R/85](https://diariodarepublica.pt/dr/detalhe/portaria/31-r-1985-162795), publicado em 1985-01-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:273584:por",
+    "alterador": "pt:dre:162795:por"
+  },
+  {
+    "artigo": "51.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 51.º — Assinaturas para estudantes\n\n1 - Qualquer estudante até aos 18 anos e os estudantes com menos de 25 anos de idade que frequentem o curso médio ou complementar ou os cursos que habilitem aos graus de bacharelato e licenciatura podem, nos termos dos artigos seguintes, requerer o cartão de identidade para os percursos entre as estações do caminho de ferro que sirvam as suas residências e os locais dos estabelecimentos de ensino.\n\n2 - Para efeitos do número anterior, devem os interessados comprovar a sua idade através da cédula pessoal (para os menores de 10 anos) ou do bilhete de identidade, do arquivo de identificação, bem como a sua qualidade de estudante, mediante declaração ou certificado emitido pelo estabelecimento de ensino, nos quais conste o grau de ensino que é ministrado nesse estabelecimento (médio ou complementar, bacharelato ou licenciatura).",
+    "depois": "###### Artigo 51.º — Assinaturas para estudantes\n\n1 - Qualquer estudante até aos 18 anos e os estudantes com menos de 25 anos de idade que frequentem o curso médio ou complementar ou os cursos que habilitem aos graus de bacharelato e licenciatura podem, nos termos dos artigos seguintes, requerer o cartão de identidade para os percursos entre as estações do caminho de ferro que sirvam as suas residências e os locais dos estabelecimentos de ensino.\n\n2 - Para efeitos do número anterior, devem os interessados comprovar a sua idade através da cédula pessoal (para os menores de 10 anos) ou do bilhete de identidade, do arquivo de identificação, bem como a sua qualidade de estudante, mediante declaração ou certificado emitido pelo estabelecimento de ensino, nos quais conste o grau de ensino que é ministrado nesse estabelecimento (médio ou complementar, bacharelato ou licenciatura).\n\n3 - Podem igualmente ser adquiridas assinaturas de estudantes para crianças até aos 6 anos de idade.\n\n> Alterado pelo/a [Portaria n.º 31-R/85](https://diariodarepublica.pt/dr/detalhe/portaria/31-r-1985-162795), publicado em 1985-01-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:273584:por",
+    "alterador": "pt:dre:162795:por"
+  },
+  {
+    "artigo": "54.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 54.º — Validade e aquisição de bilhetes\n\n1 - ...\n\n2 - Todos os bilhetes, sempre de igual percurso, são adquiridos directamente em qualquer estação ou apeadeiro com venda de bilhetes desse percurso, mediante a apresentação do cartão de identidade e entrega do bilhete anterior e a inscrição, a efectuar pela estação, no novo bilhete, da validade deste e do número do cartão de identidade.\n\nOs estudantes devem também apresentar uma declaração ou certificado idênticos aos previstos no artigo 51.º para requisição do cartão de identidade.",
+    "depois": "###### Artigo 54.º — Validade e aquisição de bilhetes\n\n1 - ...\n\n2 - Todos os bilhetes, sempre de igual percurso, são adquiridos directamente em qualquer estação ou apeadeiro com venda de bilhetes desse percurso, mediante a apresentação do cartão de identidade e entrega do bilhete anterior e a inscrição, a efectuar pela estação, no novo bilhete, da validade deste e do número do cartão de identidade.\n\nPara a aquisição deste bilhete deverá ser apresentada uma vez por ano declaração ou certificado idênticos aos previstos no n.º 2 do artigo 51.º para aquisição do cartão de identidade.\n\n> Alterado pelo/a [Portaria n.º 31-R/85](https://diariodarepublica.pt/dr/detalhe/portaria/31-r-1985-162795), publicado em 1985-01-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:273584:por",
+    "alterador": "pt:dre:162795:por"
+  }
+]

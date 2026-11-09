@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nA gratificação referida no artigo anterior é extensiva aos inspectores da Direcção-Geral do Ensino Superior.",
+    "depois": "###### Artigo 2.º\n\nA gratificação referida no artigo anterior é extensiva aos inspectores da Direcção-Geral do Ensino Superior e ao inspector do Gabinete Coordenador do Ingresso no Ensino Superior.\n\n> Alterado pelo/a [Decreto-Lei n.º 79/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1986-227423), publicado em 1986-05-02.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:400201:por",
+    "alterador": "pt:dre:227423:por"
+  }
+]

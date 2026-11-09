@@ -1,0 +1,74 @@
+{
+  "id": "pt:dre:493027:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::1.º",
+      "epigrafe": "Natureza",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::2.º",
+      "epigrafe": "Missão e atribuições",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::3.º",
+      "epigrafe": "Director regional",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::4.º",
+      "epigrafe": "Tipo de organização interna",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::5.º",
+      "epigrafe": "Quadro de cargos de direcção",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::6.º",
+      "epigrafe": "Estrutura",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::7.º",
+      "epigrafe": "Pessoal com funções de fiscalização",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, art. 2.º: revoga o Decreto Regulamentar Regional n.º 7/2009/M (com exceção da estrutura das unidades orgânicas até à sua regulamentação, que não consta dos artigos): todos os artigos ficam (Revogado.)",
+    "Alt. 1, arts. 1.º e anexo: aprova nova orgânica em diploma próprio: não altera o texto do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,532 @@
+{"id": "pt:dre:176283:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Art. 1.º e 2.º do DL 614/73: n.º 1 substituído, novo n.º 2, aditados n.os 5 e 6, antigo n.º 4 passa a 7; restantes números renumerados 3 e 4 com texto original.", "texto_esperado": ""}
+{"id": "pt:dre:176283:por", "artigo": "Artigo 3.º", "veredicto": "errado", "motivo": "A instrução (art. 3.º do DL 614/73) só adita o n.º 5 e renumera o antigo n.º 5 para 6. O consolidado alterou sem base os n.os 3 e 4 (inseriu 'período da' e trocou 'ser-lhe-á' por 'ser-lhes-á').", "texto_esperado": "3. Os Deputados do ultramar e das ilhas adjacentes, quando aí tenham a sua residência habitual, poderão usar da faculdade prevista no número antecedente até três vezes por cada sessão legislativa, desde que as deslocações possam realizar-se sem prejuízo da sua comparência aos trabalhos da Assembleia.\n\n4. No entanto, ser-lhe-á permitido optarem, também por cada sessão legislativa, pela utilização de duas passagens, tanto para a viagem de vinda, no início da sessão, como para a viagem de regresso, após o respectivo encerramento, desde que uma delas se destine à respectiva esposa.\n\n(n.os 1 e 2 como no original; n.º 5 novo: 'Os Deputados pelo ultramar que aí não tenham a sua residência habitual podem requisitar transporte para a província respectiva até duas passagens anuais, sem prejuízo do disposto na parte finas do n.º 3 deste artigo.'; n.º 6 = antigo n.º 5)"}
+{"id": "pt:dre:176283:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "N.º 2 substituído (2000$00) conforme art. 4.º do DL 614/73; n.os 1 e 3 iguais ao original.", "texto_esperado": ""}
+{"id": "pt:dre:176283:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "N.os 1, 2 e 3 substituídos letra a letra conforme art. 5.º do DL 614/73.", "texto_esperado": ""}
+{"id": "pt:dre:176283:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176283:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176283:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176283:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176283:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176283:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Revogado pelo art. 5.º, n.º 1, do DL 125/2014 (revoga o DL 10/2003 salvo os artigos 1.º e 7.º); epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Revogado pelo art. 5.º, n.º 1, do DL 125/2014.", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Revogado pelo art. 5.º, n.º 1, do DL 125/2014.", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Revogado pelo art. 5.º, n.º 1, do DL 125/2014.", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Revogado pelo art. 5.º, n.º 1, do DL 125/2014.", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Revogado pelo art. 5.º, n.º 1, do DL 125/2014.", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Revogado pelo art. 5.º, n.º 1, do DL 125/2014.", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Revogado pelo art. 5.º, n.º 1, do DL 125/2014.", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Revogado pelo art. 5.º, n.º 1, do DL 125/2014; mas o texto de fecho (Visto e aprovado... ESTATUTOS DA AUTORIDADE DA CONCORRÊNCIA) saiu do artigo e foi parar ao Artigo 39.º.", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 39.º", "veredicto": "errado", "motivo": "O artigo em si não muda, mas o consolidado acrescentou-lhe no fim o texto de fecho do decreto-lei (Visto e aprovado..., Promulgado..., ESTATUTOS DA AUTORIDADE DA CONCORRÊNCIA) que no original pertence ao fim do Artigo 11.º; foi realocado para o último artigo dos Estatutos.", "texto_esperado": "A Autoridade deve disponibilizar um sítio na Internet, com todos os dados relevantes, nomeadamente os diplomas legislativos que lhe dizem respeito, os Estatutos e regulamentos internos, a composição dos seus órgãos, incluindo os correspondentes elementos biográficos, os planos, orçamentos, relatórios e contas dos últimos dois anos, bem como os principais instrumentos regulatórios em vigor."}
+{"id": "pt:dre:176336:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "CAPÍTULO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "CAPÍTULO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "CAPÍTULO I #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 1.º #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 2.º #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 3.º #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 4.º #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 5.º #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 6.º #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 7.º #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 8.º #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 9.º #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "CAPÍTULO II #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "SECÇÃO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 10.º #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "SECÇÃO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 11.º #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 19.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 21.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "SECÇÃO III", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 23.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 24.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 25.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "SECÇÃO IV", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 26.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 27.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 28.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "CAPÍTULO III", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 29.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 30.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 31.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 32.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "CAPÍTULO IV", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 33.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 34.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 35.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 36.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 37.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "artigo": "Artigo 38.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176336:por", "instrucoes_em_falta": ["Art. 5.º, n.º 1, do DL 125/2014: revoga o DL 10/2003 com exceção dos 'respetivos artigos 1.º e 7.º'. O consolidado interpretou a exceção como arts. 1.º e 7.º do DL e revogou os arts. 2.º-6.º e 8.º-11.º, mas deixou intactos todos os artigos dos Estatutos anexos (arts. 1.º a 38.º, que constam da lista dos IGUAIS e o art. 39.º). Se a exceção se refere ao DL, os Estatutos deviam estar revogados; se se refere aos Estatutos, os arts. 1.º e 7.º do DL e os restantes artigos dos Estatutos é que mudam. Em qualquer leitura há inconsistência (dúvida de interpretação).", "Art. 5.º, n.º 2, do DL 125/2014: revoga o DL 30/2004, que é outro diploma (não se aplica a este)."], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "O texto de fecho (Visto e aprovado, Promulgado, Referendado, ESTATUTOS DA AUTORIDADE DA CONCORRÊNCIA) mudou de lugar: saiu do Artigo 11.º do DL e foi anexado ao Artigo 39.º dos Estatutos."}
+{"id": "pt:dre:176482:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Substituído letra a letra pelo artigo único da Lei 41/79 (taxa de juro que não poderá exceder a taxa básica de desconto).", "texto_esperado": ""}
+{"id": "pt:dre:176482:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176482:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:176482:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:177019:por", "artigo": "Artigo II", "veredicto": "certo", "motivo": "Parágrafo b) substituído letra a letra pelo Decreto 29/97; a epígrafe perdeu os parênteses (forma da epígrafe no diploma alterador).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo X", "veredicto": "certo", "motivo": "Parágrafos a) e b) substituídos letra a letra pelo Decreto 29/97.", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo XI", "veredicto": "certo", "motivo": "Parágrafo f) e primeiro travessão de g) i) substituídos conforme o Decreto 29/97 (incluindo '[tal como definido no parágrafo a) do artigo X]'); restante igual ao original.", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo XVIII", "veredicto": "certo", "motivo": "a) iii), b) ii) B), b) iii) B) e c) substituídos conforme o Decreto 29/97, com os segundos parágrafos de b) ii) B) e iii) B) também substituídos; resto igual.", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo XIX", "veredicto": "certo", "motivo": "Parágrafo c) eliminado pelo art. 2.º do Decreto 36/96.", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Texto igual aos novos parágrafos a) e b) do Decreto 29/97 (que substituem na íntegra a), b), c) do artigo 15 do Acordo de Exploração). Diferença só de chave: 'Artigo 15' passou a 'Artigo 15.º'.", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "Parágrafo e) eliminado pelo art. 2.º do Decreto 36/96; a)-d) iguais ao original. Diferença de chave: 'Artigo 22' passou a 'Artigo 22.º'.", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo III", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo IV", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo V", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo VI", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo VII", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo VIII", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo IX", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo XII", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo XIII", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo XIV", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo XV", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo XVII", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo XX", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo XXI", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo XXII", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo XXIII", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo XXIV", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo XXV", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo XXVI", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "ANEXO A", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "ANEXO B", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 1", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 3", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 4", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 5", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 6", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 7", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 8", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 9", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 10", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 11", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 12", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 13", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 14", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 16", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 17", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 18", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 19", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 20", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 21", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 23", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 24", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "ANEXO A #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "ANEXO B #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "ARTIGO 1", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "ARTIGO 2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo XVI", "veredicto": "certo", "motivo": "Artigo eliminado pelo Decreto 29/97 ('Este artigo é eliminado'); removido do consolidado.", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 15", "veredicto": "certo", "motivo": "Não está em falta: o conteúdo substituído está no 'Artigo 15.º' do consolidado (apenas mudou a chave).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "artigo": "Artigo 22", "veredicto": "certo", "motivo": "Não está em falta: o conteúdo (sem o parágrafo e)) está no 'Artigo 22.º' do consolidado (apenas mudou a chave).", "texto_esperado": ""}
+{"id": "pt:dre:177019:por", "instrucoes_em_falta": [], "artigos_a_mais": ["Artigo 15.º (mesmo artigo do original 'Artigo 15', só renomeado)", "Artigo 22.º (mesmo artigo do original 'Artigo 22', só renomeado)"], "artigos_em_falta": ["Artigo 15 (presente como 'Artigo 15.º')", "Artigo 22 (presente como 'Artigo 22.º')"], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:177853:por", "artigo": "Artigo 31.º", "veredicto": "dúvida", "motivo": "O art. 3.º do DR 59/86 revoga o art. 1.º do DR 69/85 na parte referente aos artigos 31.º e 38.º do Código da Estrada, o que justifica '(Revogado.)'. Mas o art. 4.º diz que o diploma só entra em vigor seis meses após a publicação de despachos do director-geral de Viação (não constam da vista), repondo-se entretanto a redação anterior; a revogação depende pois desse facto.", "texto_esperado": ""}
+{"id": "pt:dre:177853:por", "artigo": "Artigo 38.º", "veredicto": "dúvida", "motivo": "Mesmo fundamento: revogação parcial do art. 1.º do DR 69/85 quanto ao art. 38.º do CE (art. 3.º do DR 59/86), mas sujeita ao art. 4.º (entrada em vigor seis meses após os despachos, não verificável na vista).", "texto_esperado": ""}
+{"id": "pt:dre:177853:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177853:por", "artigo": "Artigo 54.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:177853:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:178373:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Art. 1.º do DR 17/86: n.º 1 mantém o texto original ('...'), n.º 2 novo com o texto do alterador.", "texto_esperado": ""}
+{"id": "pt:dre:178373:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:178373:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:178373:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:178503:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "N.º 2 substituído letra a letra pelo art. 3.º do DL 28/2015; n.º 1 igual ao original.", "texto_esperado": ""}
+{"id": "pt:dre:178503:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "N.º 2 substituído conforme o art. 3.º do DL 28/2015; n.os 1, 3 e 4 iguais.", "texto_esperado": ""}
+{"id": "pt:dre:178503:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Alínea d) do n.º 1 substituída conforme o art. 3.º do DL 28/2015.", "texto_esperado": ""}
+{"id": "pt:dre:178503:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Alíneas f) e g) novas e antiga g) passa a h), conforme o art. 3.º do DL 28/2015.", "texto_esperado": ""}
+{"id": "pt:dre:178503:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "N.º 2 substituído letra a letra conforme o art. 3.º do DL 28/2015.", "texto_esperado": ""}
+{"id": "pt:dre:178503:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "N.os 1 e 2 substituídos letra a letra conforme o art. 3.º do DL 28/2015.", "texto_esperado": ""}
+{"id": "pt:dre:178503:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:178503:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:178503:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:178503:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:178503:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:178503:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:178503:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:178503:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:178503:por", "artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:178503:por", "artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:178503:por", "artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:178503:por", "artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:178503:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:178853:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Artigo e § único substituídos letra a letra pelo artigo único do DL 472/71.", "texto_esperado": ""}
+{"id": "pt:dre:178853:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:178853:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:178853:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:1794107:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "n.º 3 substituído (doze); n.os 1 e 2 mantidos", "texto_esperado": ""}
+{"id": "pt:dre:1794107:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "n.os 7 e 8 substituídos; restantes mantidos", "texto_esperado": ""}
+{"id": "pt:dre:1794107:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "n.º 1 substituído sem o final sobre boletins de jogo; n.º 2 mantido", "texto_esperado": ""}
+{"id": "pt:dre:1794107:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1794107:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1794107:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1794107:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1794107:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1794107:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1794107:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1794107:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1794107:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1794107:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1794107:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1794107:por", "artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1794107:por", "artigo": "ANEXO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1794107:por", "artigo": "ANEXO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1794107:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "substituído pela Portaria 324/86", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "substituído pela Portaria 345/93", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 19.º-A", "veredicto": "certo", "motivo": "aditado pela Portaria 345/93", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "CAPÍTULO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "CAPÍTULO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "CAPÍTULO III", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 19.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 21.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "CAPÍTULO IV", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 23.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 24.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 25.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 26.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "CAPÍTULO V", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 27.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "artigo": "Artigo 28.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180006:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 1.º", "veredicto": "dúvida", "motivo": "n.º 3 certo (DL 229-A/88). Mas o n.º 4 do consolidado ('preço de emissão ... prémio de emissão') difere do original e a instrução diz '4 - ...' (mantém); só pode vir de outro diploma (p. ex. DL 311/89) que não está na vista.", "texto_esperado": "n.º 4 igual ao original: Os títulos de participação são emitidos pelo seu valor nominal. (se não houver outro alterador)"}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 4.º", "veredicto": "dúvida", "motivo": "n.os 7 e 8 certos (DL 213/91). Os n.os 3 a 6 não constam do original nem do texto alterador ('3 - ...' a '6 - ...' remetem para a redação do DL 311/89, que não está na vista); não verificável.", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 19.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 21.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 23.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 24.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 25.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 26.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 27.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 28.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 29.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 30.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 31.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 32.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "artigo": "Artigo 33.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180193:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "redação final da Portaria 348/93", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "substituído pela Portaria 982/89", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "substituído pela Portaria 982/89", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 9.º-A", "veredicto": "certo", "motivo": "aditado pela Portaria 982/89", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 9.º-B", "veredicto": "certo", "motivo": "aditado pela Portaria 982/89", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 19.º-A", "veredicto": "certo", "motivo": "aditado pela Portaria 348/93", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 28.º", "veredicto": "certo", "motivo": "substituído pela Portaria 982/89", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "CAPÍTULO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "CAPÍTULO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "CAPÍTULO III", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 19.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 21.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "CAPÍTULO IV", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 23.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 24.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 25.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 26.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 27.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "CAPÍTULO V", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "artigo": "Artigo 29.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:180205:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:181190:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "substituído pelo DL 68/2001", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "artigo": "CAPÍTULO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "artigo": "CAPÍTULO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "artigo": "CAPÍTULO III", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "artigo": "CAPÍTULO IV", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:181190:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:182056:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "substituído pelo DLR 6/92/M (inclui '1- A' tal como no alterador)", "texto_esperado": ""}
+{"id": "pt:dre:182056:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182056:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182056:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182056:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182056:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182056:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182056:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182056:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182056:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182056:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182056:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182056:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182056:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:182239:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "n.º 1 substituído; n.os 2 a 4 mantidos", "texto_esperado": ""}
+{"id": "pt:dre:182239:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "n.º 1 substituído; n.os 2 a 5 mantidos", "texto_esperado": ""}
+{"id": "pt:dre:182239:por", "artigo": "Artigo 2.º-A", "veredicto": "certo", "motivo": "aditado pelo DL 491/88", "texto_esperado": ""}
+{"id": "pt:dre:182239:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182239:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182239:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182239:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182239:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:182576:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "substituído pelo DLR 25/90/M", "texto_esperado": ""}
+{"id": "pt:dre:182576:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182576:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182576:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182576:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182576:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182576:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182576:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182576:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182576:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182576:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182576:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182576:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182576:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:182576:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "Art. 1.º do alterador substitui os mapas I a IV e V-I a V-IV; a vista não mostra mapas, não verificável."}
+{"id": "pt:dre:183004:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "n.º 1 substituído pelo DL 80/86; n.º 2 mantido", "texto_esperado": ""}
+{"id": "pt:dre:183004:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:183004:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:183004:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:183004:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:183004:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:183004:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:183004:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Art. 15.º revoga tudo exceto 8.º n.º 1: n.os 2 e 3 revogados, n.º 1 mantido.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "Art. 15.º ressalva 17.º n.os 3, 4 e 5: n.os 1 e 2 revogados, 3 a 5 mantidos.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 19.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 21.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "Revogado pelo art. 15.º do DL 39/89; epígrafe mantida.", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:183049:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:1834928:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Nova redação aplicada.", "texto_esperado": ""}
+{"id": "pt:dre:1834928:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Nova redação aplicada, com epígrafe nova.", "texto_esperado": ""}
+{"id": "pt:dre:1834928:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1834928:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1834928:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1834928:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:184496:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Corpo, §1.º e §2.º com nova redação; §3.º mantido.", "texto_esperado": ""}
+{"id": "pt:dre:184496:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Nova redação; assinatura final passou para o novo art. 4.º.", "texto_esperado": ""}
+{"id": "pt:dre:184496:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Aditado pelo DL 535/71; texto conforme.", "texto_esperado": ""}
+{"id": "pt:dre:184496:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:184496:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:184496:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:184543:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Nova redação aplicada.", "texto_esperado": ""}
+{"id": "pt:dre:184543:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Nova redação aplicada.", "texto_esperado": ""}
+{"id": "pt:dre:184543:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Só o § único alterado; corpo mantido.", "texto_esperado": ""}
+{"id": "pt:dre:184543:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Só o § único alterado; corpo mantido.", "texto_esperado": ""}
+{"id": "pt:dre:184543:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:184543:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:184543:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:1859036:por", "artigo": "Artigo 2.º", "veredicto": "errado", "motivo": "Alínea b) corretamente retificada, mas o consolidado termina com o delimitador » da citação (artefacto) e perdeu a linha de data/assinatura do original, que a retificação não altera.", "texto_esperado": "b) É fixada a zona especial de protecção (ZEP) conjunta do Paço da Loba, imóvel identificado na alínea c) do artigo anterior, da igreja matriz de Fonte da Arcada, classificada como imóvel de interesse público pelo [Decreto n.º 40361](https://diariodarepublica.pt/dr/detalhe/decreto/40361-1955-245491), publicado no Diário do Governo, n.º 228, de 20 de Outubro de 1955, e do Pelourinho de Fonte da Arcada, classificado como imóvel de interesse público pelo Decreto n.º 23 122, publicado no Diário do Governo, n.º 231, de 11 de Outubro de 1933, conforme planta de delimitação constante do anexo ii à presente portaria, da qual faz parte integrante.\n\n11 de Janeiro de 2011. - O Secretário de Estado da Cultura, Elísio Costa Santos Summavielle."}
+{"id": "pt:dre:1859036:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1859036:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1859036:por", "artigo": "ANEXO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1859036:por", "artigo": "ANEXO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1859036:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 14.º-A", "veredicto": "certo", "motivo": "Aditado pelo art. 3.º da Portaria 156/2013.", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 1.º #2", "veredicto": "certo", "motivo": "N.º 5 a) revogada (art. 2.º e 4.º).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "N.os 1 e 2 com nova redação; 3 a 5 mantidos.", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "N.º 2 com nova redação (cinco estágios).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Doze meses.", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "N.os 1, 2 e 5 novos; 3 e 4 renumerados do anterior 2 e 3.", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Alínea e) do n.º 2 (18 meses) e n.º 5 com nova redação.", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Nova alínea a); anteriores a) e b) passam a b) e c).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "Nova redação por níveis do QNQ.", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "N.º 2 b) revogada; n.º 4 c) nova redação.", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "N.º 1 ii. nova redação.", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 32.º", "veredicto": "certo", "motivo": "Nova redação.", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Anexo", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 2.º #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 3.º #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 4.º #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 19.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 21.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 23.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 24.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 25.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 26.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 27.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 28.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 29.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 30.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 31.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "artigo": "Artigo 33.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:189953:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 19.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 21.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 23.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 25.º", "veredicto": "certo", "motivo": "Art. 26.º do DRR 12/2014/A revoga o DRR 24/2012/A, exceto o artigo 24.º; corpo '(Revogado.)'", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "artigo": "Artigo 24.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:191142:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:192855:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Substituição do corpo do artigo 1.º; o § único não é mencionado nem repetido, mantém-se (refere 'corpo do artigo').", "texto_esperado": ""}
+{"id": "pt:dre:192855:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:192855:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:192855:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:194018:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Corpo e § único substituídos letra a letra", "texto_esperado": ""}
+{"id": "pt:dre:194018:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:194018:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:194018:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:194018:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:195072:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Montantes das alíneas a) a e) substituídos conforme o artigo 1.º do Decreto 23/89", "texto_esperado": ""}
+{"id": "pt:dre:195072:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195072:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195072:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195072:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:195421:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Aditada alínea c) ao n.º 4.º", "texto_esperado": ""}
+{"id": "pt:dre:195421:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195421:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195421:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195421:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195421:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195421:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195421:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195421:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "n.º 3 substituído", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "alíneas b), g), m), n), o), p) conforme instrução; restantes mantidas", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "alíneas b) a i) do n.º 1 conforme instrução", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "n.º 1 substituído", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "n.º 1 substituído e n.º 4 aditado", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "n.º 1 substituído; n.º 3 não consta da nova redação (confirmado pela republicação)", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "n.º 1 substituído", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "revogado pelo artigo 2.º", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 19.º", "veredicto": "certo", "motivo": "revogado pelo artigo 2.º", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "revogado pelo artigo 2.º; assinaturas mantidas", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:195800:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:196241:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Artigo 2.º substituído integralmente", "texto_esperado": ""}
+{"id": "pt:dre:196241:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:196241:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:196241:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:196241:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:196241:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:196241:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:196241:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}

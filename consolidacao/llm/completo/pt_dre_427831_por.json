@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:427831:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "O presente diploma produz efeitos a partir de 1 de Setembro de 1975, data a partir da qual terão eficácia os direitos que reconhece aos deficientes.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 532/76, artigo único: aditado o art. 3.º."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

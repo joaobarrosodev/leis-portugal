@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "64.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 64.º\n\n1. O lugar de director-geral de Administração Local será provido, por escolha do Presidente do Conselho e do Ministro do Interior, de entre licenciados em Direito com reconhecida capacidade para o desempenho das respectivas funções.\n\n2. O director-geral de Administração Local desempenhará, por inerência, as funções de secretário-geral do Ministério.",
+    "depois": "###### Artigo 64.º\n\n1. Os lugares de secretário-geral e de director-geral de Administração Local serão providos, por nomeação do Primeiro-Ministro e do Ministro da Administração Interna, de entre licenciados em Direito com reconhecida capacidade para o desempenho das respectivas funções.\n\n2. Sempre que a nomeação recaia em quem já seja funcionário público ou administrativo, os lugares serão exercidos em comissão de serviço, pelo período de três anos, renovável, sem prejuízo das remunerações e regalias atribuídas ao cargo de origem, e contando-se, para todos os efeitos legais, como se neste fora prestado, todo o tempo em que o funcionário se mantiver no desempenho dos referidos lugares.\n\n> Alterado pelo/a [Decreto n.º 707/74](https://diariodarepublica.pt/dr/detalhe/decreto/707-1974-467069), publicado em 1974-12-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:421599:por",
+    "alterador": "pt:dre:467069:por"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:262672:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: n.º 7 do artigo 50.º do Código da Estrada — instrução dirigida ao Código da Estrada (DL 39672), na redação dada pelo original; ignorada.",
+    "Alterador 2, art. 1.º: altera artigos do Código da Estrada aprovado pelo DL 39672 — não é dirigido ao original; ignorado.",
+    "Alterador 3, arts. 1.º a 3.º: alteram artigos do Código da Estrada (o art. 2.º o n.º 4 do artigo 50.º «no texto dado pelo» DL 48745) — dirigidos ao Código; ignorados.",
+    "Alterador 4, art. 1.º: altera artigos do Código da Estrada aprovado pelo DL 39672 — não é dirigido ao original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

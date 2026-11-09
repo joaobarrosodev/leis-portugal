@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:486300:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 618/75): estende a aplicação dos artigos 1.º a 7.º aos hospitais concelhios; não altera o texto do original.",
+    "Alterador 2 (DL 232/95): devolve o Hospital do Conde de Ferreira à Misericórdia; sem instrução textual sobre o original.",
+    "Alterador 3 (Portaria 40/2012): extingue o Hospital Distrital de Braga; sem instrução textual sobre o original.",
+    "Alterador 4 (DL 219/2012): extingue o Hospital de Reynaldo dos Santos; sem instrução textual sobre o original.",
+    "Alterador 5 (RCM 11/2026): altera a RCM 207/2021, não o original; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

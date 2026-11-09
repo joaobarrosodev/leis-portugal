@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:154449:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O Decreto-Lei n.º 600/72 só altera a numeração de um artigo pautal na lista B anexa (anexo que não consta do texto atual) e restringe a aplicação do diploma a certos artigos pautais dos anexos (art. 7.º), sem dar nova redação a nenhum artigo do original; não há alteração textual a aplicar.",
+  "instrucoes": [
+    "Alterador 1, art. 6.º: renumeração do artigo pautal 56.01.02 na lista B - anexo fora do texto atual, não aplicado",
+    "Alterador 1, art. 7.º: restrição da aplicação do diploma - não é alteração textual, não aplicado",
+    "Alterador 1, restantes artigos: alteram a Pauta dos Direitos de Importação e outros diplomas - ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

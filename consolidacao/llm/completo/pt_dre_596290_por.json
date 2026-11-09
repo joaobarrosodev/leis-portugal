@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:596290:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 503/2005), n.os 2.º, 3.º e 4.º: alteram os anexos I, IV e V do Regulamento, que só vêm em imagem; não aplicáveis.",
+  "instrucoes": [
+    "Alterador 1 n.º 1.º: nova redacção de unidades dos artigos 4.º, 8.º, 11.º, 12.º, 14.º, 17.º, 18.º, 20.º, 23.º, 24.º, 25.º e 26.º do Regulamento; o texto atual já contém todas essas redacções, sem mudança.",
+    "Alterador 1 n.os 2.º a 4.º: anexos I, IV e V em imagem; não aplicados (ver nao_aplicavel).",
+    "Alterador 1 n.º 5.º: aplicação às candidaturas; não altera o texto.",
+    "Alterador 2 (Portaria n.º 143/2006): prorroga candidaturas ao abrigo da Portaria n.º 1212/2003 e só cita o original; sem instruções dirigidas ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

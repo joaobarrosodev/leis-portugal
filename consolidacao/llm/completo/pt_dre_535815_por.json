@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:535815:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "A reintegração poderá ser autorizada por despacho do Ministro da Saúde e Assistência, quando se verifiquem cumulativamente as seguintes condições:\n\n1.ª Haver vaga na categoria respectiva;\n\n2.ª Ter decorrido, pelo menos, um ano sobre a saída do serviço;\n\n3.ª Não haver pessoal concursado para a respectiva categoria, nem aguardando provimento, ao abrigo da parte final do § 1.º do artigo 14.º do [Decreto n.º 19478](https://diariodarepublica.pt/dr/detalhe/decreto/19478-1931-211983);\n\n4.ª Haver o requerente demonstrado, após a prestação de provas, que tem actualizados os conhecimentos necessários ao exercício das funções, sempre que o Ministro da Saúde e Assistência o julgar necessário;\n\n5.ª Resultar do deferimento conveniência para o serviço;\n\n6.ª Não haver no cadastro do requerente pena superior à de multa;\n\n7.ª Manter o requerente a robustez física indispensável ao exercício do cargo, comprovada nos termos da legislação em vigor;\n\n8.ª (Revogada.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 199/71): acrescenta às categorias do artigo 1.º as de pessoal técnico auxiliar e de pessoal auxiliar dos serviços farmacêuticos hospitalares sem dar nova redacção nem indicar onde inserir o texto; alteração não textual, não aplicada ao texto.",
+  "instrucoes": [
+    "Alterador 1: alarga as categorias do artigo 1.º sem nova redacção; não aplicada (ver nao_aplicavel).",
+    "Alterador 2 alínea a): revoga a condição 8.ª do artigo 2.º; aplicada.",
+    "Alterador 2 alíneas b) e c): revogam disposições de outros diplomas; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "2.º: parágrafo que não está no alterador nem no original: 8.ª (Revogada.)"
+  ]
+}

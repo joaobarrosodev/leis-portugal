@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:195072:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Os dirigentes, o pessoal de investigação criminal e os demais funcionários que exercem funções nos serviços da Polícia Judiciária que têm a seu cargo a prevenção e a investigação da criminalidade de alta violência praticada por grupos armados e dos crimes referidos nas alíneas f) a m) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 458/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1982-380091), de 24 de Novembro, têm direito, doze vezes por ano, a um subsídio mensal pelo risco acrescido dos montantes seguintes:\n\na) Pessoal dirigente - 13690$00;\n\nb) Inspector-coordenador e inspector - 12880$00;\n\nc) Subinspector - 12080$00;\n\nd) Agente ou agente-motorista - 11270$00;\n\ne) Restante pessoal - 8050$00.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto 23/89, art. 1.º: novos montantes das alíneas a) a e) do art. 1.º: substituídas as alíneas, mantido o corpo",
+    "Arts. 2.º e 3.º: normas autónomas"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

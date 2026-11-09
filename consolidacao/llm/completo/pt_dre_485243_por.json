@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:485243:por",
+  "artigos": [
+    {
+      "chave": "19.º",
+      "epigrafe": "Autorização de despesas",
+      "texto": "1 - As competências das entidades referidas no artigo 8.º do [Decreto Legislativo Regional n.º 26-B/97/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-b-1997-581377) para autorizar despesas com empreitadas de obras públicas ou aquisição de bens e serviços podem ser delegadas, ao abrigo do n.º 2 desse mesmo artigo, nos seguintes termos:\n\na) O Conselho do Governo Regional pode delegar competência para autorizar despesas com empreitadas de obras públicas ou aquisição de bens e serviços em qualquer dos membros do Governo Regional;\n\nb) O Presidente do Governo Regional pode delegar, até ao respectivo limite, a competência para autorizar despesas com empreitadas de obras públicas ou aquisição de bens e serviços em um ou mais secretários regionais;\n\nc) Os membros do Governo Regional podem delegar nos chefes de gabinete, nos adjuntos exercendo funções de coordenação de direcções regionais e nos delegados das secretarias regionais nas ilhas onde estas não tenham sede ou, noutros casos, desde que devidamente justificados do ponto de vista funcional, competência para a autorização de despesas com obras ou aquisição de bens e serviços até ao limite de 10000 contos;\n\nd) Os directores regionais e os órgãos máximos dos serviços com autonomia administrativa ou administrativa e financeira podem delegar nos dirigentes, sob a sua imediata dependência, competência para a autorização de despesas com obras ou aquisição de bens e serviços até ao limite de 500 contos e, bem assim, no responsável directo dos serviços dependentes daquelas entidades nas ilhas onde não se encontrem sediadas.\n\n2 - As despesas com a aquisição de mobiliário e equipamento de escritório ou informático, de valor superior a 800 contos, bem como as que respeitem a representação, carecem de autorização do respectivo membro do Governo Regional.\n\n3 - As delegações permanecem válidas por mais de um ano económico e enquanto se mantiverem em funções o respectivo delegante e delegado, salvo disposição contrária e expressa no acto de delegação.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 1.º: nova alínea a) do n.º 1 do artigo 19.º e antigas a) a c) passam a b) a d): aplicado",
+    "Art. 2.º: produção de efeitos: sem alteração textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

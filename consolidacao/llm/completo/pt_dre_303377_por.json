@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:303377:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "RCM 47/2004 apenas prorroga por mais um ano o prazo de vigência das medidas preventivas (alteração não textual) e exclui de ratificação o artigo 1.º do seu texto (alteração do âmbito territorial por planta); nada a aplicar ao texto.",
+  "instrucoes": [
+    "n.º 1/art. 2.º: prorrogação do prazo de vigência, não textual; não aplicada",
+    "n.º 2 e 3: exclusões de ratificação (Odiáxere, art. 1.º do texto anexo); não aplicadas"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

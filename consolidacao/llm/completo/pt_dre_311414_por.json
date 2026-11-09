@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:311414:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria n.º 537/87: todas as instruções (n.os 1.º a 4.º) alteram, derrogam ou aditam anexos à Portaria n.º 617/83, não ao Decreto do Governo n.º 15/83; nada aplicado ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

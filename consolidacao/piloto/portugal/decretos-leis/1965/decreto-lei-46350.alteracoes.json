@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "15.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 15.º\n\nOs bibliotecários e conservadores das bibliotecas e arquivos do Ministério da Educação Nacional e dos restantes arquivos distritais constituem um único quadro para efeito de ingresso, transferência e promoção, sendo inteiramente livre a passagem de uma para outra daquelas categorias.\n\n§ único. Exceptuam-se do disposto neste artigo os professores providos nos lugares a que se refere a alínea b) do artigo 12.º e os funcionários das bibliotecas privativas das Faculdades e escolas e institutos universitários.",
+    "depois": "###### Artigo 15.º\n\nOs bibliotecários e conservadores das bibliotecas e arquivos do Ministério da Educação Nacional e dos restantes arquivos distritais constituem um único quadro para efeito de ingresso, transferência e promoção, sendo inteiramente livre a passagem de uma para outra daquelas categorias.\n\n§ único. Exceptuam-se do disposto neste artigo os professores providos nos lugares a que se refere a alínea b) do artigo 12.º\n\n> Alterado pelo/a [Decreto-Lei n.º 48489](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48489-1968-272629), publicado em 1968-07-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:294971:por",
+    "alterador": "pt:dre:272629:por"
+  }
+]

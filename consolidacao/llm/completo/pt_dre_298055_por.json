@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:298055:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "A fotografia a inserir no bilhete de identidade é do tipo passe, tirada a três quartos, da linha do ombro para cima, com uniforme do tipo D constante da [Portaria n.º 140/70](https://diariodarepublica.pt/dr/detalhe/portaria/140-1970-228387), de 11 de Março, para o pessoal do activo ou equiparado e em traje civil para os aposentados.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 643/78): determina as cores do bilhete por categoria ao abrigo do artigo 8.º, sem dar nova redação ao n.º 1 do artigo 2.º; não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1: fixa cores por categoria ao abrigo do art. 8.º; não textual, não aplicada",
+    "Alterador 2: nova redação do art. 3.º; aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

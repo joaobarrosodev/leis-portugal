@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:234113:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (art. 10.º) e alterador 2 (art. 28.º) substituem o mapa «Centros emissores - A)» do anexo II pelo mapa anexo, que só vem em imagem (ver documento original); o anexo II não consta do texto atual.",
+  "instrucoes": [
+    "Alterador 1, art. 10.º: substitui o mapa «Centros emissores - A)» do anexo II — não aplicado (mapa só em imagem).",
+    "Alterador 2, art. 28.º: substitui de novo o mesmo mapa — não aplicado (mapa só em imagem).",
+    "Alterador 2, art. 26.º: revoga os DL 292/91, 157/95 e 239/95 — não é dirigido ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

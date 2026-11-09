@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "18.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 18.º\n\n1 - Os cartões de mariscador e as licenças para a utilização de embarcações passadas obrigatoriamente para os indivíduos quando na apanha e exploração de moluscos testáceos marinhos e reciprocamente.\n\n2 - No exercício das suas funções os mariscadores devem estar mundos dos respectivos cartões, actualizados quanto ao pagamento da licença.\n\n3 - As embarcações que possuem licença para o exercício de outras actividades marítimas estão isentas do encargo referido no n.º 1 se a licença que possuam for de custo igual ou superior à que é exigida para o exercício de actividades ligadas à exploração de minhocão e casulo. No caso contrário, terão de obter licença para a prática daquelas actividades.",
+    "depois": "###### Artigo 18.º\n\n1 - Os cartões de mariscador e as licenças para a utilização de embarcações passadas obrigatoriamente para os indivíduos quando na apanha e exploração de poliquetas são válidos para a apanha e exploração de moluscos testáceos marinhos, e reciprocamente.\n\n2 - No exercício das suas funções os mariscadores devem estar mundos dos respectivos cartões, actualizados quanto ao pagamento da licença.\n\n3 - As embarcações que possuem licença para o exercício de outras actividades marítimas estão isentas do encargo referido no n.º 1 se a licença que possuam for de custo igual ou superior à que é exigida para o exercício de actividades ligadas à exploração de minhocão e casulo. No caso contrário, terão de obter licença para a prática daquelas actividades.\n\n> Alterado pelo/a [Portaria n.º 674/79](https://diariodarepublica.pt/dr/detalhe/portaria/674-1979-366436), publicado em 1979-12-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:383856:por",
+    "alterador": "pt:dre:366436:por"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:242879:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 35.º, n.º 3 e art. 46.º, n.º 1: refere e mantém em vigor o Decreto-Lei n.º 699/74; sem alteração textual.",
+    "Alterador 2, art. 1.º: prorroga o regime durante 1977; sem alteração textual.",
+    "Alterador 2, art. 5.º: revogação do Decreto-Lei n.º 699/74 na parte em que contrarie o diploma; revogação condicional, não aplicada ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

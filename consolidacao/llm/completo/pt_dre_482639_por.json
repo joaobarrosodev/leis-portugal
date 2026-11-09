@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:482639:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O Decreto Legislativo Regional n.º 11/2012/M extingue o IDRAM, IP-RAM (com efeitos diferidos), mas não altera nem revoga expressamente artigos do original; não há alteração textual a aplicar.",
+  "instrucoes": [
+    "Art. 1.º: extinção do Instituto: sem alteração textual do original",
+    "Arts. 2.º a 4.º: transferência de responsabilidades e património e produção de efeitos: não se dirigem ao texto do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "27.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 27.º\n\nÉ proibida a abertura de caixões de chumbo ou zinco, salvo no caso de mandado judicial.\n\n§ único. Exceptua-se do disposto neste artigo a abertura, ordenada pela autoridade sanitária competente, para efeito de inumação, em sepulturas temporárias, de cadáveres trasladados após o falecimento. Os caixões de chumbo utilizados em tais trasladações deverão ter sòmente a espessura de 1 mm.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 12 de Agosto de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - Alfredo Rodrigues dos Santos Júnior - Eduardo de Arantes e Oliveira - Francisco Pereira Neto de Carvalho.",
+    "depois": "###### Artigo 27.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 857/76](https://diariodarepublica.pt/dr/detalhe/decreto/857-1976-407714), publicado em 1976-12-20.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 12 de Agosto de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - Alfredo Rodrigues dos Santos Júnior - Eduardo de Arantes e Oliveira - Francisco Pereira Neto de Carvalho.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:579932:por",
+    "alterador": "pt:dre:407714:por"
+  }
+]

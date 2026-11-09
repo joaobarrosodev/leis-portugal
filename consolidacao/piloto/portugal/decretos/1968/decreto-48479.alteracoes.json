@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nSempre que o número de alunos dos cursos da Escola Central de Sargentos faça prever grande demora na realização dos exames finais, poderá o Ministro do Exército, por proposta do comandante da Escola, autorizar que os exames finais sejam apenas escritos para todas as disciplinas dos diferentes cursos, e constituídos por duas provas em cada disciplina, prevalecendo para a classificação a que obtiver cota mais elevada.",
+    "depois": "###### Artigo 1.º\n\nSempre que o número de alunos dos cursos da Escola Central de Sargentos faça prever grande demora na realização dos exames finais, poderá o Ministro do Exército, por proposta do comandante da Escola, autorizar que os exames finais sejam apenas escritos para todas as disciplinas dos diferentes cursos e constituídos por duas provas em cada disciplina, tomando-se para classificação do exame final de cada disciplina a média das classificações obtidas nas duas provas.\n\n> Alterado pelo/a [Decreto n.º 206/70](https://diariodarepublica.pt/dr/detalhe/decreto/206-1970-142294), publicado em 1970-05-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:272798:por",
+    "alterador": "pt:dre:142294:por"
+  }
+]

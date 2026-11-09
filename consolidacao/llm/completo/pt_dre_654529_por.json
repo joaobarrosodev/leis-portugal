@@ -1,0 +1,97 @@
+{
+  "id": "pt:dre:654529:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Natureza e competências",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Estrutura",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Director",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Conselho Administrativo",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Departamento Médico",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Serviços Clínicos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Serviços Complementares de Diagnóstico e Terapêutica",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Serviços de Urgência e Apoio Médico",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Internato Médico e Ensino Pós-Graduado",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Departamento Farmacêutico",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Departamento Administrativo e Financeiro",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Departamento de Apoio",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Receitas do HM",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Norma revogatória",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 187/2012, art. 14.º: revoga o DR 37/94 com exceção dos artigos 13.º a 18.º; artigos 1.º a 12.º, 19.º e 20.º revogados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

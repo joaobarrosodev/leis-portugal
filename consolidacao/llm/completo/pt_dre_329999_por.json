@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:329999:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A Portaria n.º 718/81 substitui o quadro de pessoal anexo ao Decreto n.º 89/78 por outro que só vem em imagem; nenhum artigo é alterado.",
+  "instrucoes": [
+    "Portaria 718/81, n.º 1.º: substituição do quadro anexo (imagem); não aplicado.",
+    "Portaria 718/81, n.os 2.º e 3.º: transição do pessoal e produção de efeitos, sem alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

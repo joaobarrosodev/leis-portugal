@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:297624:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Art. 22.º do DL 513-T/79 muda a designação do Gabinete Coordenador (passa a Gabinete Coordenador das Actividades do Ensino Superior Politécnico) sem alterar textualmente nenhum artigo do DL 180/78: alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Art. 22.º: mudança de designação do Gabinete, não textual; não aplicada",
+    "Art. 23.º: revogação genérica de legislação em contrário e de outros diplomas; não se aplica ao texto"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

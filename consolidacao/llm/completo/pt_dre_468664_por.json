@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:468664:por",
+  "artigos": [
+    {
+      "chave": "12.º",
+      "epigrafe": "Entrega das propostas",
+      "texto": "1 - As propostas a apresentar no âmbito do presente concurso têm de ser entregues na Inspecção-Geral de Finanças, sita na Rua de Angelina Vidal, 41, em Lisboa, até às 17 horas do dia 22 de Janeiro de 2004.\n\n2 - Contra a entrega da proposta é passado recibo, do qual constam a identificação e a morada da pessoa que a entrega, a data e a hora em que a mesma é recebida, bem como o número de ordem de apresentação, devendo iguais anotações ser feitas no sobrescrito exterior que a contém.",
+      "alterador": 1
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Relatório final do júri",
+      "texto": "1 - Concluída a apreciação final das propostas e respectivas alterações, o júri deverá elaborar um relatório circunstanciado, procedendo à ordenação das mesmas, segundo o seu mérito relativo, com a devida fundamentação, submetendo-o à aprovação do Conselho de Ministros, desde que já lhe tenham sido apresentados os documentos comprovativos da decisão proferida pela entidade competente, relativamente aos concorrentes que, nos termos do artigo 21.º, tenham procedido à notificação prévia de operação de concentração de empresas.\n\n2 - O júri, antes da apresentação do seu relatório final ao Conselho de Ministros, deverá assegurar aos concorrentes envolvidos o cumprimento do direito de audiência prévia, mediante audiências separadas com cada um deles, onde lhes será dado conhecimento da decisão proposta sobre a qual os mesmos se poderão pronunciar.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação dos artigos 12.º (n.º 1; n.º 2 e epígrafe mantidos) e 30.º (n.º 1; n.º 2 e epígrafe mantidos) do caderno de encargos - aplicado.",
+    "Alterador 1, n.º 2: torna sem efeito esclarecimento do júri, não textual - ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

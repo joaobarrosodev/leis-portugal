@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nO técnico especialista mencionado do artigo 1.º vencerá, quando em serviço com residência permanente em território canadiano, uma ajuda de custo e um subsídio mensal para transportes, idênticos ao de um oficial superior, adido naval nos Estados Unidos, tendo também direito aos subsídios de instalação correspondentes.\n\nJosé Baptista Pinheiro de Azevedo - Rui Alberto Barradas do Amaral - Francisco Salgado Zenha - António Poppe Lopes Cardoso.\n\nPromulgado em 24 de Abril de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.",
+    "depois": "###### Artigo 3.º\n\n1 - O técnico especialista mencionado no artigo 1.º vencerá, quando em serviço, com residência permanente em território canadiano, um abono único em tudo semelhante ao do oficial superior adido naval nos Estados Unidos da América, nos termos do n.º 1 do despacho conjunto do Estado-Maior-General das Forças Armadas e do Ministério das Finanças e do Plano de 14 de Agosto de 1978.\n\n2. A forma normal de provimento do cargo mencionado no número anterior é a comissão de serviço por tempo indeterminado.\n\n3. Quando os providos sejam servidores civis ou militares do Estado, das administrações local e regional ou de institutos públicos, exercerão os seus cargos em comissão de serviço por tempo indeterminado, com a faculdade de optarem pelas remunerações correspondentes aos cargos de origem. O tempo de serviço prestado em comissão contará, para todos os efeitos legais, como se prestado no quadro e lugar de origem.\n\n4. A tomada de posse pode ser feita por promoção quando, por despacho fundamentado, se reconheça a inconveniência da deslocação do provido.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 7/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1982-600123), publicado em 1982-02-20.\n\nJosé Baptista Pinheiro de Azevedo - Rui Alberto Barradas do Amaral - Francisco Salgado Zenha - António Poppe Lopes Cardoso.\n\nPromulgado em 24 de Abril de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:427816:por",
+    "alterador": "pt:dre:600123:por"
+  }
+]

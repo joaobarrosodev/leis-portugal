@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:611728:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alt. 1, art. 3.º: nova redação do artigo 2.º do DL 150/89 (n.os 3 a 5), mas o artigo 2.º não consta do texto atual por artigos; não aplicado. Alt. 2, art. 33.º c): revoga o artigo 15.º do DL 150/89, cujo texto ('Art. 15.º - 1 - ...') está embutido no corpo da chave '28.º' (que reúne o artigo 28.º alterado e os artigos 6.º a 18.º do decreto-lei) e não tem chave própria; não aplicado por o alvo não ser um artigo autónomo do texto atual.",
+  "instrucoes": [
+    "Alt. 1, arts. 1.º e 2.º: tabela de remunerações e compensações — não textual",
+    "Alt. 1, art. 3.º: artigo 2.º — alvo ausente; não aplicado",
+    "Alt. 1, art. 4.º: revoga norma do DL 310/82 — outro diploma, ignorado",
+    "Alt. 2, art. 33.º: alíneas a), b) e d) dizem respeito a outros diplomas — ignoradas; alínea c) (artigo 15.º) — não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

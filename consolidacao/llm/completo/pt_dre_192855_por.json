@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:192855:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "É autorizado o Governo-Geral de Moçambique a dar o aval da província, até ao montante de 10000000$00, para uma operação de empréstimo, amortizável em dez anos, a contrair num estabelecimento de crédito pela Organização de Turismo Estorial, Lda., da cidade da Beira.\n\n§ único. Além de o Governo-Geral dever sancionar a indicação do estabelecimento de crédito escolhido para a operação, aprovará também prèviamente as cláusulas e condições que forem ajustadas para a concessão do empréstimo referido no corpo do artigo.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único do Decreto n.º 66/71: nova redação do corpo do art. 1.º (beneficiário passa a Organização de Turismo Estorial, Lda.); aplicada, mantendo o § único do texto atual, que a nova redação não menciona."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:210059:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Decreto Regulamentar n.º 69/77: extingue o regime de livre escolha a partir de 31 de Dezembro de 1977 e veda novas inscrições, sem revogar nem dar nova redação a artigos do original; alteração não textual.",
+  "instrucoes": [
+    "Artigo único, n.os 1 e 2: extinção do regime de livre escolha e fim das inscrições — não textual; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

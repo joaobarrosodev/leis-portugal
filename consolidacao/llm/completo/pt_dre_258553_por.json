@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:258553:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 176/92 corrige o preâmbulo ('prazo de deferimento' -> 'prazo de diferimento'), que não consta do texto por artigos; nada a aplicar aos artigos.",
+  "instrucoes": [
+    "Retificação do penúltimo parágrafo do preâmbulo - fora do texto por artigos, não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:219555:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 256/78 n.º 1.º: altera artigos da Tarifa Geral de Transportes - Parte I (aprovada pela Portaria 403/75) na redação dada pela Portaria 170/78; instrução dirigida à Tarifa, não ao original; ignorada. Os n.os 2.º a 4.º dizem respeito à Tarifa (art. 47.º da Parte II, tabelas e anexo II); ignorados.",
+    "Portaria 526/79: altera artigos, quadros, tabelas e anexo II da Tarifa aprovada pela Portaria 403/75 e modificada pela Portaria 170/78; dirigida à Tarifa; ignorada.",
+    "Portaria 1116/80: altera artigos, tabelas e anexo II da Tarifa (Portaria 403/75); dirigida à Tarifa; ignorada.",
+    "Decreto-Lei 124-A/2018: não traz instruções dirigidas ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

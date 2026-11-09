@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:196241:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - Metade do produto das coimas aplicadas em processos cuja instrução esteja cometida à Inspecção Regional do Trabalho reverterá para esta, a título de compensação de custos de funcionamento e despesas processuais.\n\n2 - O remanescente terá o seguinte destino:\n\na) Entidade gestora do Fundo de Garantia e Actualização de Pensões, quanto ao produto das coimas aplicadas em matéria de higiene, segurança e medicina do trabalho e de protecção contra acidentes de trabalho e doenças profissionais;\n\nb) 35% para a Segurança Social e 15% para o orçamento da Região, quanto ao produto das coimas que por lei lhes não seja dado outro destino.\n\n3 - O produto das coimas será depositado, mediante guias, em conta corrente à ordem da Região Autónoma da Madeira, competindo à entidade gestora daquela proceder às respectivas transferências.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 1.º do DRR 22/89/M: nova redação do art. 2.º; aplicada.",
+    "Art. 2.º: entrada em vigor; não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

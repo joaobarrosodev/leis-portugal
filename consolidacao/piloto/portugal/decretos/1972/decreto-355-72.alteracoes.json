@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\n1. O director do Gabinete será coadjuvado por um subdirector, que o substituirá nas suas faltas e impedimentos, incluindo na presidência dos órgãos colegiais.\n\n2. Na falta ou impedimento simultâneo de ambos, substituí-los-á o director de serviços designado pelo director do Gabinete.",
+    "depois": "###### Artigo 7.º\n\n1. O director do Gabinete será coadjuvado por ambos os subdirectores, que os substituirão nas suas faltas e impedimentos, incluindo na presidência dos órgãos colegiais, conforme aquele o determinar.\n\n2. Na falta ou impedimento simultâneo dos três, substituí-los-á o director de serviços designado pelo director do Gabinete.\n\n> Alterado pelo/a [Decreto-Lei n.º 11/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1977-492710), publicado em 1977-01-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:689026:por",
+    "alterador": "pt:dre:492710:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º\n\nO director do Gabinete poderá delegar o exercício de parte da sua competência no subdirector ou em qualquer funcionário dirigente do Gabinete de categoria igual ou superior à letra F, nas condições que considerar convenientes, especificando as matérias e os poderes abrangidos na delegação.",
+    "depois": "###### Artigo 8.º\n\nO director do Gabinete poderá delegar o exercício de parte da sua competência em qualquer dos subdirectores ou noutro funcionário dirigente do Gabinete de categoria igual ou superior à letra F, nas condições que considerar convenientes, especificando as matérias e os poderes abrangidos na delegação.\n\n> Alterado pelo/a [Decreto-Lei n.º 11/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1977-492710), publicado em 1977-01-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:689026:por",
+    "alterador": "pt:dre:492710:por"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:506795:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 art. 34.º: revoga o Decreto Regulamentar n.º 4/97 'em tudo o que disponham em sentido contrário à presente lei' - revogação condicional, não aplicada ao texto.",
+    "Restantes artigos do alterador 1: regime próprio, sem instruções textuais sobre o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

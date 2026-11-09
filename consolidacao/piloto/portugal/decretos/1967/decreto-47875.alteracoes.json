@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nFicam sujeitas ao regime de servidão militar as áreas confinantes com as instalações do Depósito de P. O. L.-N. A. T. O. de Lisboa, que constituem a sua zona de segurança e que são assim definidas:\n\na) Área A - confinante com a área de Deslastre e limitada exteriormente pelo polígono de lados paralelos à vedação daquelas instalações e distante de 20 m da mesma vedação;\n\nb) Área B - confinante com a área da estação de bombagem e limitada exteriormente pelo polígono de lados paralelos à vedação daquelas instalações e distante de 20 m da mesma vedação;\n\nc) Área C - confinante com a área dos reservatórios e limitada exteriormente pelo polígono de lados paralelos à vedação daquelas instalações e distante de 20 m da mesma vedarão.",
+    "depois": "###### Artigo 1.º\n\nFicam sujeitas ao regime de servidão militar as áreas confinantes com as instalações do Depósito de P. O. L.-N. A. T. O. de Lisboa, que constituem a sua zona de segurança e que são assim definidas:\n\na) Área A - confinante com a área de Deslastre e limitada exteriormente pelo polígono de lados paralelos à vedação daquelas instalações e distante de 20 m da mesma vedação;\n\nb) Área B - confinante com a área da estação de bombagem e limitada exteriormente pelo polígono de lados paralelos à vedação daquelas instalações e distante de 20 m da mesma vedação;\n\nc) Área C - confinante com a área dos reservatórios e limitada exteriormente pelo polígono de lados paralelos à vedação daquelas instalações e distante de 20 m da mesma vedarão.\n\nd) As faixas de terreno, com 6 m de largura, por onde passam as condutas de combustíveis líquidos do Depósito, as quais se encontram descritas na declaração publicada no Diário do Governo n.º 290, 2.ª série, de 11 de Dezembro de 1963.\n\n§ único. A servidão militar a que ficam sujeitas as faixas referidas na alínea d) deste artigo não substitui nem prejudica a servidão administrativa constituída nas mesmas faixas, conforme a declaração mencionada naquela alínea.\n\n> Alterado pelo/a [Decreto n.º 48848](https://diariodarepublica.pt/dr/detalhe/decreto/48848-1969-526848), publicado em 1969-01-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:390600:por",
+    "alterador": "pt:dre:526848:por"
+  }
+]

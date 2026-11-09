@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:233763:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (DRR 25/2008/A) aprova nova orgânica do X Governo Regional e, no art. 18.º, n.º 1, declara que a estrutura orgânica do original é substituída pela nele estabelecida; é substituição global por diploma novo, não alteração textual de artigos do original, pelo que não se aplicou ao texto.",
+  "instrucoes": [
+    "Alterador 1 (DRR 19/2006/A): nova redação dos arts. 5.º, 8.º, 9.º e 16.º; já consta do texto atual, sem mudança. Restantes artigos não alteram o original.",
+    "Alterador 2 (DRR 25/2008/A): diploma orgânico novo que substitui a estrutura do original; não contém instruções textuais dirigidas a artigos do original; não aplicado (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

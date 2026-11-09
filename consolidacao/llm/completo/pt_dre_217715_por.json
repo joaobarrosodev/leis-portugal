@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:217715:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Os alteradores 1 (art. 1.º), 2 (art. 1.º), 3, 4, 5, 6 (art. 1.º) e 7 (art. 1.º) alteram o quadro de pessoal anexo por mapas que só existem em imagem/documento original; não aplicável. O art. 2.º do alterador 1 estabelece uma nova equiparação para ingresso na carreira de secretário-recepcionista sem dar nova redação ao artigo 2.º do original (norma autónoma, não alteração textual); não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (DRR 36/92/A), art. 1.º: altera o quadro por mapa anexo em imagem; não aplicável.",
+    "Alterador 1, art. 2.º: norma autónoma sobre secretário-recepcionista, sem instrução textual sobre o artigo 2.º; não aplicada.",
+    "Alterador 2 (DRR 19/96/A), art. 1.º: altera o quadro do Hospital da Horta pelo mapa II em imagem; não aplicável. Arts. 2.º a 5.º respeitam a outros quadros; ignorados.",
+    "Alterador 3 (DRR 14/97/A): altera o quadro por mapa em imagem; não aplicável.",
+    "Alterador 4 (DRR 20/2000/A): altera o quadro por mapa em imagem; não aplicável.",
+    "Alterador 5 (DRR 22/2004/A): altera os quadros por mapa em imagem; não aplicável.",
+    "Alterador 6 (DRR 33/2004/A), art. 1.º: altera os quadros de enfermagem por mapas em imagem; não aplicável. Art. 2.º: entrada em vigor do próprio alterador.",
+    "Alterador 7 (DRR 17/2005/A), art. 1.º: altera o quadro por mapa em imagem; não aplicável. Art. 2.º: entrada em vigor do próprio alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:139389:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "O artigo 6.º do Decreto-Lei n.º 256/80 declara extinto o Conselho Técnico criado pelo artigo 7.º do original, mas não revoga nem dá nova redação a esse artigo; a extinção não é alteração textual, pelo que o art. 7.º fica como está.",
+  "instrucoes": [
+    "Alterador 1, arts. 1.º a 5.º: criam a Comissão Permanente - não alteram o original",
+    "Alterador 1, art. 6.º: extingue o Conselho Técnico do art. 7.º - sem alteração textual, não aplicado (ver nao_aplicavel)",
+    "Alterador 2, art. 3.º, n.º 8): revoga o art. 5.º (benefícios fiscais), sem prejuízo dos já concedidos - art. 5.º revogado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

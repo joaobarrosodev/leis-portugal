@@ -1,0 +1,36 @@
+{
+  "id": "pt:dre:180006:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "(Composição do conselho directivo)",
+      "texto": "O conselho directivo é composto por um presidente e três vogais.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "(Enunciação dos serviços)",
+      "texto": "O Centro dispõe dos seguintes serviços:\n\na) A Direcção de Serviços de Regimes de Segurança Social;\n\nb) A Direcção de Serviços de Acção Social;\n\nc) A Direcção de Serviços Administrativos;\n\nd) A Divisão de Gestão Financeira;\n\ne) A Divisão de Organização e Informática;\n\nf) A Divisão de Gestão de Pessoal e Apoio Técnico;\n\ng) A Divisão de Contra-Ordenações;\n\nh) O Centro de Relações Públicas e Documentação;\n\ni) O Serviço de Fiscalização;\n\nj) Os serviços locais.",
+      "alterador": 6
+    },
+    {
+      "chave": "19.º-A",
+      "epigrafe": "Divisão de Contra-Ordenações",
+      "texto": "Compete à Divisão de Contra-Ordenações:\n\na) Organizar e instruir os processos de contra-ordenações;\n\nb) Elaborar relação dos processos arquivados;\n\nc) Propor a nomeação de defensor oficioso nos casos legalmente previstos;\n\nd) Propor a aplicação de coimas nos termos regulamentares;\n\ne) Determinar o montante de custas dos processos;\n\nf) Preparar os processos para decisão final;\n\ng) Remeter os processos a tribunal, nas circunstâncias legalmente previstas;\n\nh) Representar a instituição de segurança social na fase judicial da contra-ordenação;\n\ni) Organizar e actualizar ficheiros relacionados com os processos de contra-ordenações;\n\nj) Promover a emissão de orientações para os serviços que procedam à averiguação de infracções ou que, de qualquer modo, sejam chamados a colaborar;\n\nl) Recolher e tratar os necessários dados estatísticos.",
+      "alterador": 6
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Portaria 558/86 e n.º 3.º da Portaria 345/93 alteram o quadro de pessoal por mapa que só vem em imagem (ver documento original); não aplicados.",
+  "instrucoes": [
+    "Portaria 324/86: nova redação do art. 4.º — aplicada",
+    "Portaria 558/86: altera quadro de pessoal (mapa em imagem) — não aplicada",
+    "Portarias 935/92 e 58/93: integração de caixas nos centros regionais — não alteram o texto",
+    "Portaria 345/93 1.º: nova redação do art. 5.º — aplicada",
+    "Portaria 345/93 2.º: adita art. 19.º-A — aplicado",
+    "Portaria 345/93 3.º e 4.º: quadro de pessoal em mapa — não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

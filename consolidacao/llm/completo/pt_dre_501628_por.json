@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:501628:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alt.1 art. 6.º dá nova redação ao § 2.º do art. 33.º e o art. 8.º revoga o § 1.º do art. 33.º; o texto atual do art. 33.º é só «(Revogado.)» (já tratado por um programa), sem o corpo nem os parágrafos, pelo que não é possível aplicar com segurança. Alt.1 art. 7.º substitui genericamente as referências a engenheiros/arquitectos de 2.ª classe por engenheiro-adjunto/arquitecto-adjunto, exigindo adaptação gramatical (ex.: art. 13.º, § 1.º, «de 1.ª e 2.ª classes»); não aplicado. Alt.1 art. 4.º altera os mapas I e II anexos, que só existem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alt.1 arts. 1.º-3.º: alteram o Decreto 45575 (outro diploma); ignorados.",
+    "Alt.1 art. 4.º: lugares nos mapas I e II anexos (imagem); não aplicado.",
+    "Alt.1 art. 5.º: transição de pessoal (autónoma).",
+    "Alt.1 art. 6.º: nova redação do § 2.º do art. 33.º; não aplicada (texto atual do art. 33.º não contém os parágrafos).",
+    "Alt.1 art. 7.º: substituição genérica de referências; não aplicada.",
+    "Alt.1 art. 8.º: revoga o § 1.º do art. 33.º; não aplicada pelo mesmo motivo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

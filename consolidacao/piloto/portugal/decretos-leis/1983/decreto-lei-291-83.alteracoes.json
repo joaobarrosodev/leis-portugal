@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\n1 - Nos serviços de apoio ao Gabinete do Ministro da República para a Região Autónoma da Madeira, os 2 funcionários que ocupam os lugares de operador de telecomunicações, que agora são extintos, serão providos nos lugares de técnico auxiliar, mediante despacho do Ministro da República, visado pelo Tribunal de Contas, em letra igual à que possuem, contando-se o tempo de serviço prestado no actual lugar para efeitos de progressão na referida carreira.\n\n2 - Salvo a alteração referida no número anterior, a transição do pessoal para os novos lugares do quadro far-se-á, na situação em que se encontre provido, sem necessidade de qualquer formalidade e com respeito pelas habilitações legais exigíveis:\n\na) Para categoria idêntica à que o funcionário já possui;\n\nb) Para categoria correspondente às funções que o funcionário ou agente actualmente desempenha, remunerada pela mesma letra de vencimento ou letra de vencimento imediatamente superior, quando não se verifique coincidência de remuneração.",
+    "depois": "###### Artigo 7.º\n\n1 - Nos serviços de apoio ao Gabinete do Ministro da República para a Região Autónoma da Madeira, os 2 funcionários que ocupam os lugares de operador de telecomunicações, que agora são extintos, serão providos nos lugares de técnico auxiliar, mediante despacho do Ministro da República, visado pelo Tribunal de Contas, em letra igual à que possuem, contando-se o tempo de serviço prestado no actual lugar para efeitos de progressão na referida carreira.\n\n2 - Salvo a alteração referida no número anterior, a transição do pessoal para os novos lugares do quadro far-se-á, na situação em que se encontre provido, sem necessidade de qualquer formalidade e com respeito pelas habilitações legais exigíveis:\n\na) Para categoria idêntica à que o funcionário já possui;\n\nb) Para categoria correspondente às funções que o funcionário ou agente actualmente desempenha, remunerada pela mesma letra de vencimento ou letra de vencimento imediatamente superior, quando não se verifique coincidência de remuneração.\n\n3 - Os funcionários já providos há mais de 5 anos nas categorias de encarregado das instalações e de mordomo, às quais são atribuídas novas letras de vencimento, transitam para o novo quadro por despacho do Ministro da República, visado pelo Tribunal de Contas, com dispensa das habilitações literárias exigíveis.\n\n> Alterado pelo/a [Decreto-Lei n.º 250/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1984-381568), publicado em 1984-07-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:452488:por",
+    "alterador": "pt:dre:381568:por"
+  }
+]

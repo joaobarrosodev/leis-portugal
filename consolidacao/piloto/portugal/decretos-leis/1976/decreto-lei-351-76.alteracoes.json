@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 3.º\n\nO presente diploma produz efeitos a partir de 1 de Setembro de 1975, data a partir da qual terão eficácia os direitos que reconhece aos deficientes.\n\n> Aditado pelo/a [Decreto-Lei n.º 532/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1976-431448), publicado em 1976-07-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:427831:por",
+    "alterador": "pt:dre:431448:por"
+  }
+]

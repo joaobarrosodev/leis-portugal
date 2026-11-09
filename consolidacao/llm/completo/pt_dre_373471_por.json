@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:373471:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Rect. 147/93: alínea e) do n.º 1 do artigo 3.º «desistência do pedido» -> «desistência da instância»; o texto atual já tem a redação retificada, sem mudança.",
+    "Rect. 147/93: n.º 2 do artigo 3.º «desistência do pedido.» -> «desistência da instância.»; o texto atual já está retificado, sem mudança."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

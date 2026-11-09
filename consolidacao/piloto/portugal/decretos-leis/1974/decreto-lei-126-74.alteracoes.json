@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1. A execução de cada um dos programas será confiada a uma administração de programa autónomo, dirigida por uma comissão executiva e dotada dos serviços administrativos e técnicos para o efeito necessários.\n\n2. As administrações dos programas autónomos gozam de personalidade jurídica e de autonomia administrativa e financeira.\n\n3. A administração de cada programa autónomo será assistida por um representante do Tribunal de Contas, a designar pelo Ministro das Finanças.",
+    "depois": "###### Artigo 2.º\n\n1. A execução de cada um dos programas será confiada a uma administração de programa autónomo, dirigida por uma comissão executiva e dotada dos serviços administrativos e técnicos para o efeito necessários.\n\n2. As administrações dos programas autónomos gozam de personalidade jurídica e de autonomia administrativa e financeira.\n\n3. Junto da comissão executiva de cada programa autónomo haverá um representante do Tribunal de Contas, a designar pelo Ministro de entre os conselheiros do mesmo Tribunal ou funcionários superiores da sua Direcção-Geral, podendo ainda a designação recair no agente do Ministério Público da respectiva comarca quando as sedes das administrações se situem fora de Lisboa.\n\n> Alterado pelo/a [Decreto-Lei n.º 739/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/739-1974-468274), publicado em 1974-12-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:412065:por",
+    "alterador": "pt:dre:468274:por"
+  }
+]

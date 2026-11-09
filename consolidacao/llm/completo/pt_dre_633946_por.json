@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:633946:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Lei 52-C/96, art. 7.º, e Lei 17/97, art. 1.º: alteram valores/coluna de 1997 do mapa anexo, que só vem em imagem; os restantes artigos da Lei 17/97 são normas autónomas. Nenhum artigo do original é alterado.",
+  "instrucoes": [
+    "Alterador 1 (Lei 52-C/96, art. 7.º): altera valor de 1997 no mapa anexo (imagem); não aplicado.",
+    "Alterador 2 (Lei 17/97): substitui a coluna de 1997 do mapa anexo (imagem) e contém autorizações autónomas; não aplicado ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

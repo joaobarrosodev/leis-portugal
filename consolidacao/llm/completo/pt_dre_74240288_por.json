@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:74240288:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O artigo 10.º do Decreto Regulamentar Regional n.º 32/2020/M revoga o original 'exceto no respeitante às normas que se prendam com as atribuições nas áreas do ordenamento do território, da informação geográfica, cartográfica e cadastral, do urbanismo e da paisagem', ficando essa parte dependente de outro diploma; a revogação é parcial e condicionada, sem identificar os artigos ou alíneas abrangidos (vários artigos misturam as duas áreas), pelo que não é possível aplicá-la com segurança ao texto.",
+  "instrucoes": [
+    "Alterador 1, art. 10.º: revogação do original com exceção das normas de ordenamento do território, informação geográfica, cartográfica e cadastral, urbanismo e paisagem - alvo ambíguo, não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

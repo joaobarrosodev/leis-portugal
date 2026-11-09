@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nOs lugares de chefe do serviço de saúde da Polícia de Segurança Pública e de oficiais médicos dos comandos de Lisboa e Porto, a que se referem os artigos 1.º e 2.º do [Decreto-Lei n.º 42942](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42942-1960-281470), de 25 de Abril de 1960, poderão ser desempenhados, em comissão, por oficiais das seguintes patentes:\n\nChefe do serviço de saúde: major ou tenente-coronel;\n\nComandos de Lisboa e Porto: capitão ou major;\n\nComando de Coimbra: tenente ou capitão.\n\n§ único. Os vencimentos inerentes a estes cargos são os já fixados no § 2.º do artigo 2.º do mencionado diploma.",
+    "depois": "###### Artigo 1.º\n\nOs lugares de chefe do serviço de saúde da Polícia de Segurança Pública e de inspector do serviço de saúde dos Comandos de Lisboa, Porto e Coimbra, a que se referem os artigos 1.º e 2.º do [Decreto-Lei n.º 42942](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42942-1960-281470), de 25 de Abril de 1960, poderão ser desempenhados, em comissão, por oficiais médicos do Exército, do activo ou da reserva, das seguintes patentes:\n\nChefe do serviço de saúde: tenente-coronel ou coronel;\n\nInspectores do serviço de saúde de Lisboa, Porto e Coimbra: capitão ou major.\n\n§ único. Os vencimentos destes cargos são os fixados no artigo 1.º do [Decreto-Lei n.º 49477](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49477-1969-213061), de 30 de Dezembro de 1969.\n\n> Alterado pelo/a [Decreto-Lei n.º 472/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1971-631389), publicado em 1971-11-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:178853:por",
+    "alterador": "pt:dre:631389:por"
+  }
+]

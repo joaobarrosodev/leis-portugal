@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:171567:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 46260), artigo 1.º: transfere para o Ministro da Economia a competência do artigo 1.º, § 1.º, n.º 1.º, alínea a); alterador 2 (Decreto-Lei n.º 48619), artigo 4.º, n.º 1: extingue um dos lugares de Ministro de Estado do artigo 1.º. Nenhuma das duas dá nova redação ao texto: alterações não textuais, não aplicadas.",
+  "instrucoes": [
+    "Alterador 1, artigo 1.º: transferência de competência, não textual: não aplicada.",
+    "Alterador 2, artigos 1.º a 3.º: normas próprias do alterador: não alteram o original.",
+    "Alterador 2, artigo 4.º, n.º 1: extinção de um lugar de Ministro de Estado, não textual: não aplicada; n.º 2: norma própria do alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

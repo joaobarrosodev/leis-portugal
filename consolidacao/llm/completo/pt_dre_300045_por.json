@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:300045:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Art. 3.º do DRR 39/2000/M altera o quadro de pessoal a que se refere o art. 3.º do DRR 32/2000/M (mapa I), que só existe em imagem; não aplicado.",
+  "instrucoes": [
+    "DRR 39/2000/M, arts. 1.º e 2.º: alteram e aditam artigos da Lei Orgânica do IHM (DRR 26/92/M), incluindo o art. 16.º na redação dada pelo original; instruções dirigidas a outro diploma, ignoradas.",
+    "DRR 39/2000/M, art. 3.º: altera o mapa I do original (imagem); não aplicado.",
+    "DRR 39/2000/M, art. 4.º, e DRR 12/2002/M, arts. 1.º a 5.º: dizem respeito à Lei Orgânica do IHM ou ao quadro do DRR 39/2000/M; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

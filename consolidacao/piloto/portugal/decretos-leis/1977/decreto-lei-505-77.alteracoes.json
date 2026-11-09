@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nOs quadros permanentes de sargentos e praças da Armada do activo das classes de artilheiros, electrotécnicos, maquinistas navais, condutores de máquinas, comunicações, radaristas, electricistas, torpedeiros-detectores, manobra, enfermeiros, músicos, abastecimento, mergulhadores, condutores mecânicos de automóveis e taifa são os constantes do mapa n.º 1 anexo ao presente diploma.",
+    "depois": "###### Artigo 1.º\n\n1 - Os quadros permanentes de sargentos e praças da Armada do activo das classes de artilheiros, electrotécnicos, maquinistas navais, condutores de máquinas, comunicações, radaristas, electricistas, torpedeiros-detectores, manobra, enfermeiros e paramédicos, músicos, abastecimento, mergulhadores, condutores mecânicos de automóveis e taifa são os constantes do mapa n.º 1 anexo ao presente diploma.\n\n2 - O mapa n.º 1 e o mapa n.º 3 a que se refere o artigo 4.º são substituídos pelos que se anexam ao presente diploma.\n\n> Alterado pelo/a [Decreto-Lei n.º 203/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1985-182013), publicado em 1985-06-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:279456:por",
+    "alterador": "pt:dre:182013:por"
+  }
+]

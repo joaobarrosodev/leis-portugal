@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:218554:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Todos os alteradores (DRR 38/86/A, 28/87/A, 71/88/A, 31/89/A, 35/90/A, 18/92/A) alteram ou substituem apenas o quadro de pessoal anexo, que só existe em imagem (ver documento original); nenhum altera o texto dos artigos 1.º e 2.º.",
+  "instrucoes": [
+    "DRR 38/86/A artigo único: altera o quadro anexo por mapa em imagem; não aplicável",
+    "DRR 28/87/A art. 1.º: substitui a parte de enfermagem do quadro por quadro em imagem; não aplicável; art. 2.º autónomo",
+    "DRR 71/88/A artigo único: altera o quadro por mapa em imagem; não aplicável",
+    "DRR 31/89/A arts. 1.º e 2.º: extingue/cria lugares no quadro e aprova mapa em imagem; não textual, não aplicável",
+    "DRR 35/90/A art. 2.º: adita dois lugares ao quadro por mapa em imagem; não aplicável",
+    "DRR 18/92/A art. 1.º: substitui o quadro por quadro anexo em imagem; não aplicável; art. 2.º autónomo"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

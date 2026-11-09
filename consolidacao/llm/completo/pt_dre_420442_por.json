@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:420442:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "As eleições para a Câmara Municipal do Fundão realizar-se-ão no dia 18 de Outubro de 1987.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único do Decreto do Governo 31/87: nova redação do artigo 3.º — aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

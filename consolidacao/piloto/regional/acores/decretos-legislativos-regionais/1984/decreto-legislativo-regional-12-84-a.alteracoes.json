@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1 - As declarações sobre o valor do património e rendimentos respeitantes aos titulares de cargos políticos na Região Autónoma dos Açores poderão também ser enviadas ao Tribunal Constitucional, com observância das regras do segredo de justiça, através das seguintes entidades:\n\na) Presidente da Mesa da Assembleia Regional, relativamente ao cargo de deputado regional;\n\nb) Presidente do Governo Regional, relativamente ao cargo de secretário regional;\n\nc) Secretário Regional da Administração Pública, relativamente aos restantes cargos.\n\n2 - As declarações serão pessoalmente entregues, contra recibo, no gabinete das entidades mencionadas no número anterior, que as remeterão ao Tribunal Constitucional.\n\nAprovado pela Assembleia Regional dos Açores em 6 de Dezembro de 1983.\n\nO Presidente da Assembleia Regional, Álvaro Monjardino.\n\nAssinado em Angra do Heroísmo em 2 de Fevereiro de 1984.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.",
+    "depois": "###### Artigo 2.º\n\n1 - As declarações sobre o valor do património e rendimentos respeitantes aos titulares de cargos políticos na Região Autónoma dos Açores poderão também ser enviadas ao Tribunal Constitucional, com observância das regras do segredo de justiça, através das seguintes entidades:\n\na) Presidente da Mesa da Assembleia Regional, relativamente ao cargo de deputado regional;\n\nb) Presidente do Governo Regional, relativamente ao cargo de secretário regional;\n\nc) Secretário Regional da Administração Pública, relativamente aos restantes cargos.\n\n2 - As declarações serão entregues, contra recibo, no gabinete das entidades mencionadas no número anterior, que as remeterão ao Tribunal Constitucional.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 2/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1986-616413), publicado em 1986-01-08.\n\nAssinado em Angra do Heroísmo em 2 de Fevereiro de 1984.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:661486:por",
+    "alterador": "pt:dre:616413:por"
+  }
+]

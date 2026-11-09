@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1 - O Estado, representado pelo membro do Governo que exerça a tutela do Instituto Português do património Cultural, e a Câmara Municipal de Lisboa, nos termos dos artigos 27.º e 28.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e pela ordem indicada, gozam do direito de preferência nas transmissões a título oneroso, entre particulares, de imóveis situados na zona prevista no artigo 1.º e delimitada na planta anexa.\n\n2 - Este direito é concedido pelo prazo de um ano a contar da data da entrada em vigor do presente diploma.",
+    "depois": "###### Artigo 4.º\n\n1 - O Estado, representado pelo membro do Governo que exerça a tutela do Instituto Português do Património Cultural, e a Câmara Municipal de Lisboa, nos termos dos artigos 27.º e 28.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e pela ordem indicada, gozam do direito de preferência nas transmissões a título oneroso entre particulares de imóveis situados na zona prevista no artigo 1.º e delimitada na planta anexa.\n\n2 - Este direito é concedido pelo prazo de dois anos a contar da data da entrada em vigor do presente diploma.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 27/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/27-1989-548183), publicado em 1989-09-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:354481:por",
+    "alterador": "pt:dre:548183:por"
+  }
+]

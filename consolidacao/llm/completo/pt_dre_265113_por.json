@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:265113:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Todas as alterações incidem sobre os quadros orgânicos dos mapas V a VII anexos, que só existem em imagem (DL 429/74 acrescenta lugares ao quadro da Manutenção Militar; Portaria 135/76 substitui parte do mapa VI; Portarias 642-C/78 e 642-F/78 substituem designações nos mapas VII e VI); não aplicadas. O artigo único não é alterado.",
+  "instrucoes": [
+    "DL 429/74: acrescenta lugares ao quadro orgânico da Manutenção Militar (mapa VI, imagem); não aplicável",
+    "Portaria 135/76: substitui mapa VI em I) Pessoal militar - Oficiais (imagem); não aplicável",
+    "Portaria 642-C/78: substitui designações do anexo VII (imagem); não aplicável",
+    "Portaria 642-F/78: substitui designações do mapa VI (imagem); não aplicável"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

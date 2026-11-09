@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:178511:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (DRR n.º 5/2019/M), artigo 2.º: revoga o diploma inteiro com exceção do n.º 3 do artigo 21.º do anexo I nas situações do n.º 3 do artigo 2.º do DLR n.º 29/2017/M (exceção condicional); essa norma revogatória foi por sua vez revogada pelo DRR n.º 3/2025/M. Revogação global com exceção condicional não aplicada artigo a artigo.",
+  "instrucoes": [
+    "Alterador 1, artigo 1.º: novas redações dos artigos 3.º, 5.º, 6.º, 9.º, 11.º, 12.º, 13.º, 14.º, 15.º e 17.º do anexo I; o texto atual já as contém, nada a mudar.",
+    "Alterador 1, artigo 2.º: revoga os artigos 7.º e 10.º, a alínea a) do n.º 2 do artigo 5.º e as alíneas b) e c) do n.º 1 do artigo 12.º do anexo I; já refletido no texto atual.",
+    "Alterador 1, artigo 3.º: republicação do anexo I; não é instrução de alteração, não usada (artigos 16.º e 18.º, vazios no texto atual, não são alterados por nenhuma instrução).",
+    "Alterador 2, artigo 2.º: revogação global do diploma com exceção condicional; não aplicada (ver nao_aplicavel).",
+    "Alterador 2, artigo 42.º: remete para o n.º 3 do artigo 21.º do original, não o altera; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

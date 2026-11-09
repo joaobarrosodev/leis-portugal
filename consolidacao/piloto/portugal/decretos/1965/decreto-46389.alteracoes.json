@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nÉ concedida isenção da taxa de salvação nacional na importação do óleo mineral de produção nacional, denominado «nafta alifática», sempre que o referido produto se destine a ser utilizado como dissolvente na indústria de tintas e vernizes.",
+    "depois": "###### Artigo 1.º\n\nÉ concedida a isenção da taxa de salvação nacional na importação do óleo mineral de produção nacional denominado «nafta alifática» sempre que o referido produto se destine a ser utilizado como dissolvente na indústria de tintas e vernizes e nas indústrias de colas e de pneus.\n\n> Alterado pelo/a [Decreto n.º 241/73](https://diariodarepublica.pt/dr/detalhe/decreto/241-1973-422067), publicado em 1973-05-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:296193:por",
+    "alterador": "pt:dre:422067:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nA importação, com isenção da taxa de salvação nacional, da nafta alifática referida no artigo 1.º deverá satisfazer às seguintes condições:\n\n1.ª O despacho só poderá fazer-se pelas sedes das Alfândegas e delegações urbanas de Lisboa e Porto;\n\n2.ª À nafta alifática importada ao abrigo deste decreto deverá ser adicionado, no acto da importação, 1 por cento de dibutilftalato;\n\n3.ª O importador deverá declarar, por escrito, que se compromete a não dar ao produto outro destino que não seja o consignado no artigo 1.º, lavrando perante a alfândega termo de responsabilidade para garantia do eventual pagamento da multa em que possa incorrer, nos termos do artigo 15.º e seu § único do [Decreto-Lei n.º 23801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23801-1934-673422), de 27 de Abril de 1934;\n\n4.ª O importador deverá ainda organizar e ter em dia uma conta corrente relativa à nafta alifática importada nestas condições, conta corrente que a alfândega fiscalizará sempre que o julgar conveniente.",
+    "depois": "###### Artigo 3.º\n\nA importação, com isenção da taxa de salvação nacional, da nafta alifática referida no artigo 1.º deverá satisfazer às seguintes condições:\n\n1.ª O despacho só poderá fazer-se pelas sedes das Alfândegas e delegações urbanas de Lisboa e Porto;\n\n2.º À nafta alifática importada ao abrigo deste decreto deverá ser adicionado, no acto da importação, 1% de dibutilftalato, quando se destinar à indústria de tinta e vernizes, ou 10% de uma solução composta de 20% de borracha natural em nafta alifática, quando se destinar à indústria de colas, ou uma solução composta de 700 g de resina Koreisina e 5 g de corante Waxoline purple AS por litro em nafta alifática como desnaturante a 2% em peso, quando se destinar à indústria de pneus.\n\n3.ª O importador deverá declarar, por escrito, que se compromete a não dar ao produto outro destino que não seja o consignado no artigo 1.º, lavrando perante a alfândega termo de responsabilidade para garantia do eventual pagamento da multa em que possa incorrer, nos termos do artigo 15.º e seu § único do [Decreto-Lei n.º 23801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23801-1934-673422), de 27 de Abril de 1934;\n\n4.ª O importador deverá ainda organizar e ter em dia uma conta corrente relativa à nafta alifática importada nestas condições, conta corrente que a alfândega fiscalizará sempre que o julgar conveniente.\n\n> Alterado pelo/a [Decreto n.º 241/73](https://diariodarepublica.pt/dr/detalhe/decreto/241-1973-422067), publicado em 1973-05-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:296193:por",
+    "alterador": "pt:dre:422067:por"
+  }
+]

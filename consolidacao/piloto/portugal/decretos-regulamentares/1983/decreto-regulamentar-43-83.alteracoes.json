@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\n1 - Nas lojas francas a que se refere o artigo 3.º do [Decreto-Lei n.º 542/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/542-1980-457423), de 10 de Novembro, só podem ser vendidas as seguintes mercadorias:\n\na) De origem estrangeira não nacionalizadas:\n\n1) Aparelhos de gravação e/ou de reprodução de som portáteis e respectivas fitas;\n\n2) Aparelhos radiorreceptores e de televisão portáteis;\n\n3) Artefactos de peles e marfim;\n\n4) Artigos de desporto portáteis;\n\n5) Bebidas alcoólicas;\n\n6) Binóculos e óculos;\n\n7) Calculadoras portáteis;\n\n8) Canetas, esferográficas ou quaisquer outros objectos de escrita;\n\n9) Chocolates;\n\n10) Despertadores de viagem;\n\n11) Gira-discos portáteis e discos;\n\n12) Instrumentos musicais portáteis;\n\n13) Máquinas de barbear;\n\n14) Máquinas de filmar e projectar portáteis e respectivas películas virgens ou impressionadas;\n\n15) Máquinas de escrever portáteis;\n\n16) Máquinas fotográficas portáteis e respectivas películas;\n\n17) Microfones, altifalantes, amplificadores e sintonizadores e respectivos suportes;\n\n18) Perfumarias e objectos de toucador;\n\n19) Relógios de uso pessoal;\n\n20) Tabacos manipulados, isqueiros e cachimbos;\n\n21) Vestuário para homem, senhora e criança;\n\nb) De origem nacional ou nacionalizadas:\n\n1) Todas as mercadorias constantes da alínea anterior;\n\n2) Artefactos de artesanato;\n\n3) Artigos de papelaria;\n\n4) Bijutarias;\n\n5) Bordados;\n\n6) Conservas alimentícias;\n\n7) Jóias e outros artefactos de metais preciosos:\n\n8 - Vinhos;\n\n9 - Outras mercadorias nacionais ou nacionalizadas que possam ser consideradas de interesse pessoal para os passageiros.\n\n2 - O Ministro de Estado e das Finanças e do Plano poderá alterar, por simples despacho, a relação das mercadorias constantes da alínea a) do número anterior.",
+    "depois": "###### Artigo 6.º\n\nNas lojas francas existentes nas salas de trânsito internacional dos aeroportos, a que se refere o Decreto-Lei n.º 542/80, de 10 de Novembro, só podem ser transaccionadas mercadorias que preencham as condições previstas nos artigos 9.º e 10.º do tratado que institui a Comunidade Económica Europeia.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 65/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/65-1987-406119), publicado em 1987-12-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:451456:por",
+    "alterador": "pt:dre:406119:por"
+  }
+]

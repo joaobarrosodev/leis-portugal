@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:142555:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1. Para o desempenho da competência conferida à G. N. R. em matéria de viação e trânsito, é criada no quadro das unidades da corporação a Brigada de Trânsito (B. T.).\n\n2. A B. T. da G. N. R. compreenderá, além de uma companhia de comando, quatro grupos regionais de trânsito (G. R. T.), que agruparão dezoito destacamentos de trânsito (D. T.), um por cada distrito do continente.\n\n3. Quando as necessidades do policiamento de certa zona o exijam, poderão ser constituídos, na directa dependência do comando de um G. R. T. ou da própria B. T., formações permanentes ou temporárias.\n\n4. A companhia de comando depende directamente do comandante da Brigada; os G. R. T. e os D. T. serão destacados e adidos, respectivamente, nos batalhões e nas companhias da G. N. R. afectos ao serviço rural.\n\n5. A subordinação às unidades territoriais da Guarda Nacional Republicana, a situação de adidos dos órgãos da BT destacados a que se refere o número anterior, bem como a cadeia de comando para transmissão de ordens, com vista ao emprego racional dos meios da BT no cumprimento da sua missão, serão estabelecidas por normas e regulamentação internas da competência do Comando da corporação.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "Cada GRT será comandado por um capitão e cada DT terá por comandante um tenente.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "DL 454/83 art. 3.º considera extintas as gratificações instituídas pelo DL 265/70 sem alterar o texto de nenhum artigo: alteração não textual.",
+  "instrucoes": [
+    "DL 300/76: adita n.º 5 ao artigo 3.º; aplicado.",
+    "DL 300/76: nova redação do artigo 5.º (texto único, sem os anteriores n.os 2 e 3); aplicada.",
+    "DL 454/83 art. 3.º: extingue as gratificações do DL 265/70; não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:687231:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Os candidatos a admitir na Academia Militar, com base no artigo anterior, deverão satisfazer às seguintes condições:\n\na) Ser cidadão português, filho de pais portugueses;\n\nb) Ter prestado uma comissão de serviço no ultramar de, pelo menos, dois anos, salva a impossibilidade de a completar por motivo de ferimento em combate ou doença adquirida em serviço;\n\nc) Não ter completado 28 anos até 1 de Janeiro do ano de admissão;\n\nd) Dar a garantia de cooperar na realização dos fins superiores do Estado e defender os princípios fundamentais da ordem política e social estabelecida na Constituição;\n\ne) Ter bom comportamento moral e civil;\n\nf) Possuir o 3.º ciclo liceal ou equivalente.\n\n§ 1.º Por despacho especial do Ministro do Exército pode ser autorizada, a título muito excepcional, a matrícula na Academia Militar, ao abrigo do presente decreto-lei, aos candidatos de idade superior à estabelecida neste artigo e que tenham demonstrado, em campanha ou no desempenho de missões que envolvam grave risco, qualidades excepcionais para a carreira das armas.\n\n§ 2.º Por despacho especial do Ministro do Exército pode ser autorizada a matrícula na Academia, ao abrigo do presente decreto-lei, aos candidatos filhos de pai ou mãe estrangeira, desde que o outro cônjuge seja cidadão português originário.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 46507, art. 1.º: acrescenta o § 1.º ao art. 2.º; aplicado.",
+    "DL 46507, art. 2.º: o § único do art. 2.º passa a § 2.º; aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "2.º: parágrafo que não está no alterador nem no original: § 2.º Por despacho especial do Ministro do Exército pode ser autorizada a matríc"
+  ]
+}

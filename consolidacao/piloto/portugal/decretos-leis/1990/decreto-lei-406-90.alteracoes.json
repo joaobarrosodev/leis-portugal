@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1 - As operações de alienação de participações sociais detidas pelo IPE - Investimentos e Participações, Empresariais, S. A., que hajam sido objecto de nacionalização directa obedecem aos princípios previstos na [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.\n\n2 - Enquanto a sociedade detiver as participações a que se refere o número anterior, o seu capital social deverá pertencer exclusivamente a entes públicos, competindo ao conselho de administração daquela propor ao Governo o processo, as modalidades e as condições específicas de cada operação de alienação.\n\n3 - O valor das participações sociais a alienar nos termos do n.º 1 será fixado com base na avaliação feita por duas entidades independentes.\n\n4 - O produto da alienação das participações sociais previstas no n.º 1 constitui receita própria da sociedade, devendo ser por esta aplicado em acções de fomento do investimento produtivo, de acordo com a alínea b) do artigo 296.º da Constituição.",
+    "depois": "###### Artigo 3.º\n\n1 - As operações de alienação de participações sociais detidas pelo IPE - Investimentos e Participações, Empresariais, S. A., que hajam sido objecto de nacionalização directa obedecem aos princípios previstos na [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.\n\n2 - Enquanto a sociedade detiver as participações a que se refere o número anterior, o seu capital social deverá pertencer exclusivamente a entes públicos, competindo ao conselho de administração daquela propor ao Governo o processo, as modalidades e as condições específicas de cada operação de alienação.\n\n3 - Para efeitos de aplicação do disposto no número anterior, consideram-se «entes públicos» as entidades indicadas na alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.\n\n4 - O valor das participações sociais a alienar nos termos do n.º 1 será fixado com base na avaliação feita por duas entidades independentes.\n\n5 - O produto da alienação das participações sociais previstas no n.º 1 constitui receita própria da sociedade, devendo ser por esta aplicado em acções de fomento do investimento produtivo, de acordo com a alínea b) do artigo 296.º da Constituição.\n\n> Alterado pelo/a [Decreto-Lei n.º 106/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1995-503649), publicado em 1995-05-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:242053:por",
+    "alterador": "pt:dre:503649:por"
+  }
+]

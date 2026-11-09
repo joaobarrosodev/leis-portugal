@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\nO fim da Caixa Económica é o de efectuar, com baixos juros, operações de recepção de depósitos e concessão de empréstimos.",
+    "depois": "###### Artigo 4.º\n\n1 - À Caixa Económica das Forças Armadas competem as seguintes funções, no âmbito das forças armadas:\n\na) Promoção com baixos juros de:\n\nOperações de depósitos;\n\nConcessão de empréstimos, incluindo os sujeitos a garantias especiais;\n\nFinanciamento de construções de carácter eminentemente social, sem prejuízo da concessão de empréstimos;\n\nb) Recepção e administração de legados ou doações, quer dos beneficiários dos Serviços Sociais das Forças Armadas, quer de entidades públicas ou privadas, que especificamente se destinem ao financiamento de instalações de carácter social, incluindo as importâncias destinadas a servir de contrapartida ao uso vitalício de uma fracção dos alojamentos dos complexos sociais, lares ou centros de repouso, nos moldes que vierem a ser fixados por despacho do Chefe do Estado-Maior-General das Forças Armadas.\n\n2 - A concessão de empréstimos é da competência da Comissão Directiva dos Serviços Sociais das Forças Armadas, que poderá delegar num dos seus membros ou no chefe da Caixa Económica das Forças Armadas.\n\n3 - O financiamento referido na alínea b) do n.º 1 carece de autorização prévia do Chefe do Estado-Maior-General das Forças Armadas.\n\n> Alterado pelo/a [Decreto-Lei n.º 92/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1980-681418), publicado em 1980-04-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:282136:por",
+    "alterador": "pt:dre:681418:por"
+  }
+]

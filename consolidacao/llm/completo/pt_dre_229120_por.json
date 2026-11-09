@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:229120:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 623/74) muda a designação do Hospital do Ultramar para Hospital de Egas Moniz sem dar nova redação a qualquer artigo; alterador 2 (Decreto 65/75), art. 9.º, adita lugares ao mapa IV, que só existe em imagem; alterador 3 (DL 506-B/75) define novo regime do hospital sem alteração textual de artigos do original. Nada aplicado.",
+  "instrucoes": [
+    "Alterador 1: mudança de designação do hospital; não textual, não aplicada.",
+    "Alterador 2, art. 9.º: aditamento de lugares ao mapa IV (em imagem); não aplicável. Outros artigos alteram outros diplomas; ignorados.",
+    "Alterador 3: integração do hospital e novas atribuições, sem alteração textual do original; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

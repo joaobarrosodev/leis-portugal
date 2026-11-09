@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:309313:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Artigo único da Portaria 9/2011 substitui a planta anexa, que só vem em imagem; nenhum artigo é alterado.",
+  "instrucoes": [
+    "Artigo único: substituição da planta anexa (imagem); não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

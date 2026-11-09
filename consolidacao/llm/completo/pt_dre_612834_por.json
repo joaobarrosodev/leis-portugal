@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:612834:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - Uma vez iniciado o processo conducente à atribuição de áreas de reserva ao abrigo da [Lei n.º 109/88](https://diariodarepublica.pt/dr/detalhe/lei/109-1988-355489), de 26 de Setembro, deverá a direcção regional de agricultura competente comunicar à Direcção-Geral das Florestas esse facto, a fim de serem sustados todos os processos de comercialização daquele arvoredo e anulados, na quota-parte que diz respeito à reserva, os respectivos contratos de adjudicação.\n\n2 - Os titulares das áreas de reserva serão indemnizados pela privação temporária dos rendimentos, nos termos do [Decreto-Lei n.º 199/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1988-374255), de 31 de Maio, decorrente dos cortes de arvoredo nelas efectuados em períodos anteriores à entrega efectiva das áreas reservadas.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 5/90 artigo único: nova redacção do art. 3.º — aplicada",
+    "DL 253/98 arts. 1.º e 2.º: alteram o DL 20/98 (outro diploma), não o original — ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

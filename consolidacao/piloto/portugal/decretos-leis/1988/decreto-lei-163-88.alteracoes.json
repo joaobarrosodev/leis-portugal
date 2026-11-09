@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nO curso de complemento de formação a que os mestres dos quadros dos institutos superiores de engenharia se têm de submeter deve ser concluído até 31 de Dezembro de 1989.\n\nVisto e aprovado em Conselho de Ministros de 14 de Abril de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.\n\nPromulgado em 29 de Abril de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 4 de Maio de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "depois": "###### Artigo 3.º\n\nO curso de complemento de formação a que os mestres dos quadros dos institutos superiores de engenharia se têm de submeter deve ser concluído até 31 de Dezembro de 1990.\n\n> Alterado pelo/a [Decreto-Lei n.º 242/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1990-573105), publicado em 1990-07-26.\n\nVisto e aprovado em Conselho de Ministros de 14 de Abril de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.\n\nPromulgado em 29 de Abril de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 4 de Maio de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:374830:por",
+    "alterador": "pt:dre:573105:por"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:576568:por",
+  "artigos": [
+    {
+      "chave": "29.º",
+      "epigrafe": "",
+      "texto": "Só poderão ser admitidos ao concurso os cabos auxiliares e os cabos auxiliares motoristas do Corpo de Polícia de Segurança Pública da Guiné e os guardas de outras polícias ou praças da Guarda Nacional Republicana, da Guarda Fiscal ou de qualquer ramo das forças armadas, no activo ou na disponibilidade, que reúnam as condições regulamentares.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do artigo 29.º do Estatuto; aplicada.",
+    "Alterador 1, arts. 2.º a 12.º: dirigidos a outros diplomas ou disposições autónomas (S. Tomé, Angola, Moçambique, Macau, disposições comuns); ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

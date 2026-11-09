@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:315567:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Declaração de Rectificação n.º 262/91 (alteradores 1 e 2, idênticos): no art. 13.º acrescentar 'e garantia da sua colocação'; o texto atual já contém esta redação, nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

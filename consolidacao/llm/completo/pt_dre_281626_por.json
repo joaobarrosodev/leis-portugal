@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:281626:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Art. 2.º do DL 44474 substitui, na parte respeitante a oficiais do Exército e da Força Aérea, o quadro orgânico (mapa anexo) a que se refere o artigo 4.º; o novo mapa só existe em imagem e o mapa não faz parte do texto dos artigos; não aplicado.",
+  "instrucoes": [
+    "Art. 1.º do DL 44474: norma autónoma sobre os postos para os cargos do Regulamento Interno, sem alteração textual de artigos do original; nada aplicado.",
+    "Art. 2.º: substituição parcial do mapa anexo do artigo 4.º; só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

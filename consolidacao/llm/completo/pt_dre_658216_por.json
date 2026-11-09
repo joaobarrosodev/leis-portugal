@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:658216:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1 a 8 alteram apenas o quadro de pessoal anexo (mapas só em imagem); nenhum artigo do original é alterado.",
+  "instrucoes": [
+    "Alteradores 1 a 8 (DRR 19/96/A, 13/97/A, 22/2000/A, 3/2004/A, 28/2004/A, 29/2004/A, 33/2004/A, 36/2004/A): alteram o quadro de pessoal anexo por mapas em imagem; não aplicados. Restantes artigos referem-se a outros quadros/diplomas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

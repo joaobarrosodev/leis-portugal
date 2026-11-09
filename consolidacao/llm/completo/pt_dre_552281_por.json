@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:552281:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1: substitui o anexo III (simbologia), cujo conteúdo só vem em imagem; nenhum artigo muda.",
+  "instrucoes": [
+    "Alterador 1: nova redação do anexo III do Despacho Normativo n.º 6/2006 (símbolos em imagem) - não aplicado; nenhum artigo alterado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

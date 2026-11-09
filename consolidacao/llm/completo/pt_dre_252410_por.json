@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:252410:por",
+  "artigos": [
+    {
+      "chave": "24.º",
+      "epigrafe": "",
+      "texto": "O sacador de cheque cujo não pagamento por falta de provisão tiver sido verificado nos termos e prazo prescritos nos artigos 28.º e 29.º da lei uniforme relativa aos cheques, a pedido do respectivo portador, será punido com prisão e multa ou com prisão maior de dois a oito anos, consoante o valor do cheque for igual ou inferior a 50000$00 ou superior a esta quantia.\n\n§ 1.º O sacador de cheque nas condições do corpo do artigo que efectuar voluntariamente o pagamento do respectivo montante e dos correspondentes juros moratórios, acrescidos, a título de indemnização, da diferença para o resultado da aplicação ao montante do cheque, e pelo tempo de mora, da mais alta taxa de juro praticada no momento do pagamento ou do depósito pela banca portuguesa para as operações activas de crédito, directamente ao respectivo credor, por depósito à ordem do juiz do processo ou, não existindo este, por consignação em depósito à ordem do credor, se este recusar receber ou dar quitação, em qualquer caso dentro do prazo de trinta dias a contar da respectiva apresentação a pagamento será isento de pena, com custas judiciais e imposto de justiça a seu cargo.\n\n§ 2.º Decorrido o prazo previsto no parágrafo anterior, o pagamento ou os depósitos ali previstos, efectuados até ao encerramento da discussão da causa, determinarão a suspensão da pena que no caso couber.\n\n§ 3.º O disposto nos parágrafos anteriores não se aplica aos reincidentes nem aos que já tiverem beneficiado do regime ali consagrado, nem prejudica o regime previsto para o perdão.\n\n§ 4.º A aplicação da pena prevista no corpo do artigo não isenta o sacador do cheque da responsabilidade civil ou de qualquer outra em que por disposição especial, possa incorrer.\n\n§ 5.º Em caso de reincidência, o tribunal aplicará ao sacador a medida de inibição do uso de cheque pelo período de seis meses a dois anos.\n\n§ 6.º A pessoa objecto da medida referida no parágrafo anterior só poderá movimentar contas de depósito durante o período da inibição mediante a utilização de cheques avulsos previamente visados pela instituição de crédito respectiva.\n\n§ 7.º Compete ao procurador-geral da República conceder o perdão nos casos em que o Estado seja lesado pela infracção prevista no corpo do artigo, ouvido o departamento respectivo.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (DL 182/74), art. 2.º, altera a pena do crime de emissão de cheque sem cobertura previsto no Decreto n.º 13005 (outro diploma) sem nova redação do original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1: multa por recusa de cheques e pena do crime do Decreto 13005; não textual quanto ao original.",
+    "Alterador 2 (Lei 25/81), art. 6.º: nova redação do artigo 24.º; aplicada. Restantes artigos alteram outros diplomas; ignorados.",
+    "Alterador 3 (DL 400/82): sem artigos transcritos; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

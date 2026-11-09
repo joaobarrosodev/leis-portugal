@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nÉ autorizado o Ministro das Finanças a actualizar, por despacho, a tabela de emolumentos especiais referida no [Decreto n.º 33023](https://diariodarepublica.pt/dr/detalhe/decreto/33023-1943-400235), de 6 de Setembro de 1943, e bem assim as gratificações de serviço aos oficiais e sargentos da Guarda Fiscal, dentro dos limites estabelecidos para a Guarda Nacional Republicana.",
+    "depois": "###### Artigo 1.º\n\nÉ autorizado o Ministro das Finanças a substituir, por despacho, a tabela de emolumentos especiais referida no [Decreto n.º 33023](https://diariodarepublica.pt/dr/detalhe/decreto/33023-1943-400235), de 6 de Setembro de 1943, e bem assim as gratificações de serviço aos oficiais e sargentos da Guarda Fiscal, dentro dos limites estabelecidos para a Guarda Nacional Republicana.\n\n> Alterado pelo/a [Decreto-Lei n.º 264/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1973-422440), publicado em 1973-05-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:405349:por",
+    "alterador": "pt:dre:422440:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nÉ autorizada a Guarda Fiscal a contratar, mediante aprovação do Ministro das Finanças, o pessoal civil necessário à boa execução dos seus serviços, dentro dos limites das verbas inscritas no Orçamento Geral do Estado para esse fim.",
+    "depois": "###### Artigo 2.º\n\nÉ autorizada a Guarda Fiscal a contratar ou assalariar, mediante aprovação do Ministro das Finanças, o pessoal civil necessário à boa execução dos seus serviços, dentro dos limites das verbas inscritas no Orçamento Geral do Estado para esses fins.\n\n> Alterado pelo/a [Decreto-Lei n.º 264/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1973-422440), publicado em 1973-05-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:405349:por",
+    "alterador": "pt:dre:422440:por"
+  }
+]

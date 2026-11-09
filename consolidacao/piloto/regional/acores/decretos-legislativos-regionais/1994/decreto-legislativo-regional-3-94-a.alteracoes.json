@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:497796:por",
     "alterador": "pt:dre:398279:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º — Excepção ao regime previsto neste diploma\n\nO regime previsto neste diploma não se aplica aos concursos abertos antes da sua entrada em vigor e até ao termo da sua validade.",
+    "depois": "###### Artigo 9.º — Excepção ao regime previsto neste diploma\n\nO regime previsto no n.º 3 do artigo anterior aplica-se aos concursos que se encontrem pendentes à data da entrada em vigor do presente diploma.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 5/97/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1997-398279), publicado em 1997-05-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:497796:por",
+    "alterador": "pt:dre:398279:por"
   }
 ]

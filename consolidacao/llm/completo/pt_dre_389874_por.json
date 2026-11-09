@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:389874:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - As mercadorias que sejam objecto de pequenas remessas sem carácter comercial expedidas do estrangeiro por um particular com destino a um outro particular que se encontre no território aduaneiro nacional beneficiam da franquia de direitos de importação nas condições previstas por este decreto-lei.\n\n2 - Para efeitos do n.º 1, entende-se por:\n\na) «Pequenas remessas sem carácter comercial» as remessas que simultaneamente:\n\nTenham um carácter ocasional;\n\nContenham exclusivamente mercadorias reservadas ao uso pessoal ou familiar dos destinatários, não representando essas mercadorias pela sua natureza ou quantidade qualquer preocupação de ordem comercial;\n\nSejam constituídas por mercadorias cujo valor global, incluindo o dos produtos visados no artigo 2.º, não ultrapasse 35 unidades de conta europeias;\n\nSejam enviadas pelo expedidor ao destinatário sem que este tenha de efectuar qualquer pagamento;\n\nb) «Direitos de importação», tanto os direitos aduaneiros como as taxas de efeito equivalente.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "A concessão de novas franquias e a alteração das existentes, no âmbito deste decreto-lei, serão objecto de portaria do Ministro de Estado e das Finanças e do Plano.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1 art.1.º: nova redação da alínea a) do n.º 2 do art. 1.º (35 unidades; 'tenha de'); aplicado.",
+    "Alt.1 art.2.º: aditado o art. 5.º; aplicado.",
+    "Alt.2: só altera o Decreto-Lei n.º 149-A/78 (menciona o original numa remissão); ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

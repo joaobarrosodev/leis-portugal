@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:386590:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, artigo único: dá nova redação ao 'n.º 3 do artigo 4.º do Decreto-Lei n.º 198/84', mas o original só tem artigos 1.º e 2.º; o artigo 4.º visado é o do Decreto-Lei n.º 47947 na redação dada pelo artigo 1.º do original, ou seja, uma alteração a outro diploma, não aplicada ao texto do original.",
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do n.º 3 do artigo 4.º (do DL 47947, na redação dada pelo original) - não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

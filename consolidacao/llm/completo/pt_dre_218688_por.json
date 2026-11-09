@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:218688:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Decreto Regulamentar n.º 54/97, artigo único: altera os limites das áreas críticas por remissão para nova planta anexa, que só vem em imagem; não há alteração textual ao artigo único do original.",
+  "instrucoes": [
+    "Artigo único: novos limites das áreas críticas definidos em planta anexa — só em imagem, não textual; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

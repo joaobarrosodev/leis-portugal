@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:336482:por",
+  "artigos": [
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "Da sentença final que condene qualquer dos indivíduos abrangidos por este diploma cabe recurso nos termos do Código de Justiça Militar.",
+      "alterador": 2
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "1. Compete aos tribunais militares o julgamento dos indivíduos abrangidos por este diploma, para apuramento dos factos criminosos nele assim definidos.\n\n2. Os mesmos tribunais militares serão também competentes para julgar os indivíduos abrangidos por este diploma pela prática das actividades criminosas, a que se refere o n.º 2 do artigo 6.º\n\n3. Nos casos mencionados no número anterior serão observadas as normas processuais que regulam o processo criminal militar.\n\n4. Os indivíduos abrangidos por este diploma pela prática das actividades criminosas previstas pelos artigos 1.º, 2.º, 3.º e 4.º poderão aguardar, em regime de liberdade provisória, o julgamento nos termos fixados nos artigos 269.º, 270.º, 274.º a 285.º e 291.º, todos do Código de Processo Penal.\n\n5. A decisão sobre a aplicação do regime de liberdade provisória regulada no número anterior, na fase do corpo de delito, compete ao Conselho da Revolução mediante proposta do presidente do Serviço de Coordenação da Extinção da PIDE/DGS e LP.\n\n6. Uma vez remetidos os processos ao tribunal miiltar competente, poderá este, oficiosamente ou a requerimento do promotor de Justiça, manter ou revogar o regime de liberdade provisória mencionado no número anterior, quer pela existência de circunstâncias supervenientes, quer pela ponderação das disposições legais aplicáveis.",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "A execução das sentenças proferidas nos termos deste diploma regula-se pelas disposições do Código de Justiça Militar.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Lei 16/75), art. 2.º: novas redações dos artigos 13.º e 14.º; aplicadas (o 13.º foi depois substituído pelo alterador 2).",
+    "Alterador 2 (Lei 18/75), art. 1.º: novas redações dos artigos 12.º e 13.º; aplicadas.",
+    "Alterador 3 (Decreto 24/82): prorroga prazo do Decreto 78/80; não é do original, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

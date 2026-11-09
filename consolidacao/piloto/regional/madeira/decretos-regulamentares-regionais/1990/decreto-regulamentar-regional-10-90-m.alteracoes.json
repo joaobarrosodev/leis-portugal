@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "17.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 17.º — Direcção de Serviços dos Assuntos Jurídicos\n\nCompete à Direcção de Serviços dos Assuntos Jurídicos:\n\na) Acompanhar e coordenar, a nível regional, os assuntos relativos às políticas comunitárias relacionados com o seu âmbito de competência;\n\nb) Coordenar, a nível regional, todas as acções de carácter jurídico, de adaptação e implementação relacionadas com a integração nas Comunidades Europeias;\n\nc) Elaborar estudos, formular pareceres e preparar informações sobre questões de natureza jurídica;\n\nd) Colaborar na preparação e emitir pareceres sobre propostas de diplomas legislativos.",
+    "depois": "###### Artigo 17.º — Direcção de Serviços dos Assuntos Jurídicos\n\n1 - A Direcção de Serviços dos Assuntos Jurídicos é composta por um director de serviços e por consultores jurídicos.\n\n2 - Ao director de serviços compete:\n\na) Superintender, acompanhar e coordenar, a nível regional, toda a actividade jurídica ligada aos assuntos comunitários relacionados com o seu âmbito de competência;\n\nb) Coordenar, a nível regional, todas as acções de carácter jurídico de adaptação e implementação relacionadas com a integração nas Comunidades Europeias;\n\nc) Colaborar na preparação de diplomas legislativos.\n\n3 - Aos consultores jurídicos compete exclusivamente exercer funções de mera consulta jurídica, nomeadamente:\n\na) Emitir pareceres e elaborar estudos jurídicos;\n\nb) Emitir pareceres sobre projectos e propostas de portarias, de decretos regulamentares regionais, decretos legislativos regionais e de outros diplomas legais.\n\n4 - Os técnicos superiores licenciados em Direito que, à data de entrada em vigor do presente diploma, estejam providos nos lugares da carreira técnica superior do quadro de pessoal da Direcção Regional para os Assuntos das Comunidades Europeias transitam para a carreira de consultor jurídico, sendo-lhes contado, para todos os efeitos legais, o tempo de serviço prestado na carreira e categoria anteriores.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 23/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1991-291922), publicado em 1991-09-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:574893:por",
+    "alterador": "pt:dre:291922:por"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:217111:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O DL 171/74 extingue a Direcção-Geral de Segurança criada pelo original, sem revogar nem alterar o texto dos seus artigos; alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Art. 1.º do DL 171/74: extinção da DGS; não textual, não aplicado",
+    "Arts. 2.º a 8.º: outras entidades e atribuições; não se dirigem ao original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

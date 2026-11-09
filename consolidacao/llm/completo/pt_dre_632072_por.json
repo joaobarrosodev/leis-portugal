@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:632072:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Serviços assistenciais de apoio",
+      "texto": "O hospital dispõe ainda dos seguintes serviços assistenciais de apoio:\n\na) Farmácia;\n\nb) Serviço social;\n\nc) Saúde ocupacional;\n\nd) Assistência religiosa;\n\ne) Nutrição clínica.",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Departamento de gestão operativa",
+      "texto": "1 - O hospital dispõe dos seguintes departamentos de gestão operativa:\n\na) Departamento de planeamento e apoio à gestão;\n\nb) Departamento de apoio logístico.\n\n2 - O departamento de planamento e apoio à gestão compreende as seguintes áreas:\n\na) Gestão de recursos humanos;\n\nb) Gestão financeira;\n\nc) Gestão de materiais;\n\nd) Arquivo clínico;\n\ne) Gestão de doentes;\n\nf) Informação para a gestão;\n\ng) Informática e estatística;\n\nh) Contencioso e apoio técnico jurídico.\n\n3 - O departamento de apoio logístico compreende as seguintes áreas:\n\na) Instalações e equipamentos;\n\nb) Transportes e comunicações;\n\nc) Alimentação e dietética;\n\nd) Segurança.",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Adjuntos do enfermeiro-director",
+      "texto": "Como órgão de direcção técnica, o enfermeiro-director é coadjuvado por cinco adjuntos, por si escolhidos e nomeados pelo conselho de administração.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "DL 50-A/2007 cria o Centro Hospitalar de Vila Nova de Gaia/Espinho, E. P. E., por fusão, e declara extintas as unidades de origem, sem dar nova redação nem revogar artigos do Regulamento — alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Portaria 500/2000: nova redação do artigo 14.º (cinco adjuntos).",
+    "Portaria 1038/2001, 1.º: artigo 4.º (proémio dado por extenso no alterador, alínea e) 'Nutrição clínica', a)-d) mantidas) e artigo 5.º (n.º 3, alínea c) 'Alimentação e dietética'; restante mantido).",
+    "DL 50-A/2007: arts. 6.º e 7.º alteram o DL 233/2005 e os seus Estatutos — ignorados; fusão/extinção do Centro Hospitalar não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

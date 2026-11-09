@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:478627:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "É o Ministro das Finanças autorizado a contrair empréstimos externos e internos para assegurar o financiamento de planos de fomento ou de despesas extraordinárias de reapetrechamento, aprovados por lei na qual se preveja o recurso ao crédito, com dispensa das formalidades exigidas pelos Decretos-Leis n.os 42900, de 5 de Abril de 1960, e 46152, de 11 de Janeiro de 1965.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do artigo 1.º - aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

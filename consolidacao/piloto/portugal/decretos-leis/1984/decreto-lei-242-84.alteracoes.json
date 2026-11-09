@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "único",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo único\n\nPela prestação de todos os serviços aduaneiros conducentes ao desalfandegamento das mercadorias importadas e verificadas nos terminais TIR cobrar-se-á, por cada bilhete de despacho, a taxa de serviço englobada de 0,4% sobre o valor CIF das mercadorias a importar, num mínimo de 2000$00.\n\nDa totalidade da receita proveniente desta taxa, 50% constituirá receita do Estado, 25% constituirá receita a repartir equitativamente pelos cofres de emolumentos referidos no artigo 319.º da Reforma Aduaneira e o remanescente reverterá a favor do cofre de subsídios de deslocação.\n\nTerminal Internacional Rodoviário de Alverca\n\nREGULAMENTO INTERNO",
+    "depois": "###### Artigo único\n\nPela prestação de todos os serviços aduaneiros conducentes ao desalfandegamento das mercadorias importadas e verificadas cobrar-se-á, por cada bilhete de despacho, a taxa de serviço englobada de 0,2% sobre o valor CIF das mercadorias importadas.\n\nDa totalidade da receita proveniente desta taxa 50% constituirá receita do Estado, 25% constituirá receita a repartir equitativamente pelos cofres de emolumentos referidos no artigo 319.º da Reforma Aduaneira e o remanescente reverterá a favor do cofre de subsídios de deslocação.\n\nTerminal Internacional Rodoviário de Alverca\n\nREGULAMENTO INTERNO\n\n> Alterado pelo/a [Decreto-Lei n.º 36/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1985-327824), publicado em 1985-02-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:385797:por",
+    "alterador": "pt:dre:327824:por"
+  }
+]

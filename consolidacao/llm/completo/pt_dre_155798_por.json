@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:155798:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1. As importâncias a cobrar pela concessão de títulos de residência e respectivos vistos e demais actos relacionados com a permanência de estrangeiros no País são as seguintes:\n\na) Por cada título de residência anual ou visto válido por um ano, 40$00 em estampilha fiscal e 400$00 de taxa;\n\nb) Por cada título de residência temporária ou respectivo visto, com validade por três meses, 20$00 em estampilha fiscal e 160$00 de taxa;\n\nc) Por cada visto aposto em passaporte para permanência de quinze a trinta dias, 30$00 de taxa;\n\nd) Por cada autorização de trabalho, a taxa de 400$00, a satisfazer pela empresa contratante;\n\ne) Por cada boletim de alojamento, a taxa de 5$00.\n\n2. Excepcionalmente, poderá o director-geral de Segurança consentir que a taxa referida na alínea a) seja reduzida a metade quando se trate de indivíduo que demonstre dificuldade em satisfazer o pagamento normal.",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1. A renovação dos títulos de residência anual e a concessão dos vistos válidos por um ano devem ser pedidas pelos interessados, durante os meses de Janeiro e Fevereiro de cada ano, nos departamentos respectivos da Direcção-Geral de Segurança e, nas localidades onde estes não existam, nos comandos da Polícia de Segurança Pública, onde os houver, ou nas secretarias das câmaras municipais.\n\n2. Às transgressões ao disposto no número anterior é aplicável a multa de 400$00 a 1000$00, a fixar pelo director-geral de Segurança, acrescida dos respectivos adicionais.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo 1.º: nova redação dos artigos 1.º e 2.º do original; aplicada.",
+    "Alterador 1, artigos 2.º a 4.º: normas próprias (taxas, receitas, encargos); não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:274241:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1 - Constituem critérios de preferência para a adjudicação dos terrenos postos a concurso, sem prejuízo de outros que sejam adoptados caso a caso, os seguintes:\n\na) A fixação na proposta dos mais baixos preços de venda por metro quadrado de construção das habitações, excluindo a área a que se refere o n.º 4;\n\nb) A apresentação de garantias de disponibilidade financeira, designadamente a de obtenção de financiamento, para a execução do projecto proposto;\n\nc) Menor índice de recurso ao crédito bonificado.\n\n2 - A ordem de indicação dos critérios constantes do número anterior não representa qualquer hierarquização valorativa dos mesmos.\n\n3 - Os preços máximos dos terrenos a afectar pelo IGAPHE ao Programa, bem como das habitações a neles construir, são estabelecidos por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.\n\n4 - Na apresentação da candidatura o concorrente pode, para além da área destinada a habitações económicas, propor a afectação de determinada área a outros fins habitacionais, de indústria, comércio ou serviços, alienável em regime livre, que não pode exceder uma percentagem da área de construção, a fixar no respectivo caderno de encargos para cada empreendimento, até ao limite de 35%.",
+      "alterador": 1
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "Constitui crime de especulação, nos termos do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro:\n\na) A venda de habitações económicas por preço superior ao que for estabelecido pela aplicação do disposto nos n.os 3 e 4 do artigo 5.º ou ao que resultar dos termos do concurso;\n\nb) A violação do regime de fixação de renda previsto no n.º 2 do artigo 12.º",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - Os empreendimentos desenvolvidos no âmbito do Programa devem ser certificados pelos respectivos promotores com a marca de qualidade LNEC, nos termos do [Decreto-Lei n.º 310/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1990-554609), de 1 de Outubro.\n\n2 - Para efeitos do disposto no número anterior, compete ao LNEC atestar:\n\na) O cumprimento das disposições contratuais, legais e regulamentares aplicáveis à construção de edifícios, bem como a prática das boas regras de arte na execução dos trabalhos;\n\nb) A qualidade dos materiais e componentes aplicados na construção;\n\nc) A funcionalidade, durabilidade e segurança dos edifícios.\n\n3 - A certificação de qualidade dos edifícios também pode ser atestada por entidades de reconhecida idoneidade e competência técnica, a designar por despacho do membro do Governo responsável pela área da habitação, de entre as classificadas nos termos do artigo 8.º do [Decreto-Lei n.º 310/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1990-554609), de 1 de Outubro.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto-Lei 181/94 art. 1.º: nova redação do n.º 4 do art. 5.º e do art. 14.º (com alíneas a) e b)); aplicadas.",
+    "Decreto-Lei 181/94 arts. 2.º e 3.º: normas próprias (contra-ordenação e alienação), não alteram o texto do original.",
+    "Decreto-Lei 63/95 artigo único: nova redação do art. 3.º (três números); aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

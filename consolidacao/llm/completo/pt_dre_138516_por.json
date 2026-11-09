@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:138516:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Os funcionários e agentes que forem designados como administradores por parte do Estado ou dos corpos administrativos junto de qualquer empresa mantêm o direito à inscrição como beneficiários da Assistência na Doença aos Servidores Civis do Estado (ADSE), sempre que optem pelo regime de aposentação do Estado e continuem, assim, a descontar as quotas devidas para a Caixa Geral de Aposentações.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 162/78, artigo único: nova redação do artigo 1.º; aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

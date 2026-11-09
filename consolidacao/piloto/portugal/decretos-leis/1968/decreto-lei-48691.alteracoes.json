@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nOs estagiários para especialistas terão direito aos vencimentos fixados para os segundos-assistentes dos Estudos Gerais Universitários da respectiva província.",
+    "depois": "###### Artigo 7.º\n\nOs estagiários para especialistas terão direito aos vencimentos fixados para os segundos-assistentes da Universidade da respectiva província.\n\n> Alterado pelo/a [Decreto-Lei n.º 48878](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48878-1969-527450), publicado em 1969-02-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:263200:por",
+    "alterador": "pt:dre:527450:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º\n\nOs especialistas terão direito aos vencimentos dos primeiros-assistentes dos Estudos Gerais Universitários da respectiva província.",
+    "depois": "###### Artigo 9.º\n\nOs especialistas terão direito ao vencimento dos professores extraordinários da Universidade da respectiva província.\n\n> Alterado pelo/a [Decreto-Lei n.º 48878](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48878-1969-527450), publicado em 1969-02-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:263200:por",
+    "alterador": "pt:dre:527450:por"
+  },
+  {
+    "artigo": "12.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º\n\nPara aplicação do disposto nos artigos 2.º, 3.º, 7.º, 9.º e 11.º deste diploma, considerar-se-á a equivalência aos Estudos Gerais Universitários das respectivas províncias, a qual abrangerá as categorias e vencimentos, sendo as gratificações fixadas em cada província por diploma legislativo, observando-se a hierarquia dos cargos.",
+    "depois": "###### Artigo 12.º\n\nPara aplicação do disposto nos artigos 2.º, 3.º, 7.º, 9.º e 11.º deste diploma, considerar-se-á a equivalência à Universidade da respectiva província, a qual abrangerá as categorias e vencimentos, sendo as gratificações fixadas em cada província por diploma legislativo, observando-se a hierarquia dos cargos.\n\n> Alterado pelo/a [Decreto-Lei n.º 48878](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48878-1969-527450), publicado em 1969-02-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:263200:por",
+    "alterador": "pt:dre:527450:por"
+  }
+]

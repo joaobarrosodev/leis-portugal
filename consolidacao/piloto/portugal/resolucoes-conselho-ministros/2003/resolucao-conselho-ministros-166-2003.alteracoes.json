@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "12.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º — Entrega das propostas\n\n1 - As propostas a apresentar no âmbito do presente concurso têm de ser entregues na Inspecção-Geral de Finanças, sita na Rua de Angelina Vidal, 41, em Lisboa, até às 17 horas do 30.º dia posterior ao da data da publicação do respectivo anúncio no Diário da República.\n\n2 - Contra a entrega da proposta é passado recibo, do qual constam a identificação e a morada da pessoa que a entrega, a data e a hora em que a mesma é recebida, bem como o número de ordem de apresentação, devendo iguais anotações ser feitas no sobrescrito exterior que a contém.",
+    "depois": "###### Artigo 12.º — Entrega das propostas\n\n1 - As propostas a apresentar no âmbito do presente concurso têm de ser entregues na Inspecção-Geral de Finanças, sita na Rua de Angelina Vidal, 41, em Lisboa, até às 17 horas do dia 22 de Janeiro de 2004.\n\n2 - Contra a entrega da proposta é passado recibo, do qual constam a identificação e a morada da pessoa que a entrega, a data e a hora em que a mesma é recebida, bem como o número de ordem de apresentação, devendo iguais anotações ser feitas no sobrescrito exterior que a contém.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-2004-603026), publicado em 2004-01-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:468664:por",
+    "alterador": "pt:dre:603026:por"
+  },
+  {
+    "artigo": "30.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 30.º — Relatório final do júri\n\n1 - Concluída a apreciação final das propostas e respectivas alterações o júri deverá elaborar um relatório circunstanciado, procedendo à ordenação das mesmas, segundo o seu mérito relativo, com a devida fundamentação, submetendo-o à aprovação do Conselho de Ministros.\n\n2 - O júri, antes da apresentação do seu relatório final ao Conselho de Ministros, deverá assegurar aos concorrentes envolvidos o cumprimento do direito de audiência prévia, mediante audiências separadas com cada um deles, onde lhes será dado conhecimento da decisão proposta sobre a qual os mesmos se poderão pronunciar.",
+    "depois": "###### Artigo 30.º — Relatório final do júri\n\n1 - Concluída a apreciação final das propostas e respectivas alterações, o júri deverá elaborar um relatório circunstanciado, procedendo à ordenação das mesmas, segundo o seu mérito relativo, com a devida fundamentação, submetendo-o à aprovação do Conselho de Ministros, desde que já lhe tenham sido apresentados os documentos comprovativos da decisão proferida pela entidade competente, relativamente aos concorrentes que, nos termos do artigo 21.º, tenham procedido à notificação prévia de operação de concentração de empresas.\n\n2 - O júri, antes da apresentação do seu relatório final ao Conselho de Ministros, deverá assegurar aos concorrentes envolvidos o cumprimento do direito de audiência prévia, mediante audiências separadas com cada um deles, onde lhes será dado conhecimento da decisão proposta sobre a qual os mesmos se poderão pronunciar.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-2004-603026), publicado em 2004-01-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:468664:por",
+    "alterador": "pt:dre:603026:por"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:618082:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1. Ficam isentas de sisa as primeiras transmissões de prédios ou suas fracções autónomas, destinados a habitação, quando operadas por contrato celebrado até 31 de Dezembro de 1974 ou posteriormente, mas, neste caso, em cumprimento de promessa de compra e venda com as assinaturas reconhecidas por notário até àquela data e do qual conste que o promitente comprador prestou sinal de importância não inferior a 40% do preço convencionado, desde que, num ou noutro caso, se verifiquem as seguintes condições:\n\na) O valor sobre que incidiria a sisa não seja superior a 1000000$00 e o valor por metro quadrado de área coberta, por habitação, não seja superior a 9000$00;\n\nb) O contrato de venda ser celebrado menos de dois anos após a data ou o momento fixado no artigo 20.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola.\n\n2. Depois de 1 de Janeiro de 1975, os notários só poderão realizar os contratos abrangidos pelo número anterior com dispensa do pagamento de sisa desde que lhes seja apresentado o título da promessa nele prevista para ficar arquivado no respectivo cartório.",
+      "alterador": 5
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Prorrogações do regime (alteradores 1 a 6, 'considerando-se reportadas ... todas as datas') não são alterações textuais; as elevações de limites dos artigos 1.º, alínea a), e 2.º (alterador 6, n.º 2 do art. 24.º, e alterador 7, art. 1.º) também não dão nova redação, apenas declaram os valores elevados; não aplicadas ao texto.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: prorrogação até 31-03-1975; não textual, não aplicada.",
+    "Alterador 1, art. 2.º: revoga o artigo 4.º; já está (Revogado.), sem mudança.",
+    "Alteradores 2, 3, 4: prorrogações; não textuais.",
+    "Alterador 5, art. 1.º: prorrogação; não textual.",
+    "Alterador 5, art. 2.º: nova redação da alínea b) do n.º 1 do artigo 1.º; aplicada.",
+    "Alterador 6, art. 24.º: prorrogação e elevação de limites; não textual, não aplicada.",
+    "Alterador 7, art. 1.º: elevação de limites dos artigos 1.º a) e 2.º; não textual, não aplicada. Art. 2.º altera o Código da Sisa; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

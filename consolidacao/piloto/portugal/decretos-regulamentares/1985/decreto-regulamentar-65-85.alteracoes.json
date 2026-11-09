@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nA Academia Internacional da Cultura Portuguesa é declarada instituição de índole cultural, dependente do Ministério da Cultura através do Instituto Português do Património Cultural, e incluída na lista anexa ao [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto.",
+    "depois": "###### Artigo 1.º\n\n1 - A Academia Internacional da Cultura Portuguesa é declarada instituição de índole cultural, dependente do Ministério da Cultura através do Instituto Português do Património Cultural, e incluída na lista anexa ao [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto.\n\n2 - A Academia Internacional da Cultura Portuguesa, sendo uma instituição de índole cultural, é considerada de utilidade pública, dotada de personalidade jurídica e de autonomia administrativa.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 17/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1986-227181), publicado em 1986-05-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:178373:por",
+    "alterador": "pt:dre:227181:por"
+  }
+]

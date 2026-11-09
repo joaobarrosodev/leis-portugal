@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:425523:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Declaração de Rectificação 13-A/98: rectifica apenas o sumário do diploma, que não é um artigo - nenhum artigo muda"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

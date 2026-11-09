@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:231882:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Entidades beneficiárias",
+      "texto": "1 - Os beneficiários do SINFRAPEDIP são:\n\na) Entidades de direito privado sem fins lucrativos que tenham como objecto social a realização de actividades de apoio técnico e I&DT industrialmente orientadas, bem como as que prossigam finalidades estatutárias no domínio do ensino e formação tecnologicamente direccionada nas áreas para as quais se encontram vocacionadas, nomeadamente as infra-estruturas tecnológicas e as escolas tecnológicas promovidas pelo PEDIP;\n\nb) Empresas, associações e entidades públicas ou equiparadas que possuam laboratórios de ensaio ou metrológicos acreditados no âmbito do SPQ, bem como entidades que tenham sido reconhecidas ou acreditadas pelo Instituto Português da Qualidade (IPQ) na qualidade de organismos de normalização, de organismos de certificação sectorial, de organismos de inspecção técnica e auditoria e de organismos de verificação metrológica;\n\n2 - As entidades a que se refere o n.º 1 podem candidatar-se conjuntamente sempre que a regulamentação específica não disponha em contrário.\n\n3 - Para efeitos do disposto no n.º 1, consideram-se ainda entidades beneficiárias os parques tecnológicos e os centros de incubação criados no âmbito do Programa Específico de Desenvolvimento da Indústria Portuguesa - PEDIP I.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DN 16/95: nova redação do art. 3.º com aditamento do n.º 3 (restante [...] mantido); aplicado",
+    "DN 40/98 art. 1.º: nova redação da alínea a) do n.º 1 do art. 3.º (restante ... mantido); aplicado; arts. 2.º-5.º autónomos ou dirigidos a outro diploma",
+    "DN 42/98: altera o Despacho Normativo n.º 556/94, outro diploma; ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

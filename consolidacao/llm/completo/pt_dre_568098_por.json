@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:568098:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 826/83, n.º 1.º: nova redação do art. 27.º do Regulamento da Pesca do Arrasto Costeiro aprovado pela Portaria 49/73 (alterado pela 1094-D/80) — instrução dirigida a outro diploma; ignorada.",
+    "Portaria 826/83, n.º 2.º: revogação do n.º 5.º da Portaria 1094-D/80 'em tudo o que contrarie' — revogação condicional; não aplicada ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

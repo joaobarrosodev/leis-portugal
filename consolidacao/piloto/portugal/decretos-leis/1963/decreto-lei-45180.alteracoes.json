@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\nOs senados dos Estatutos Gerais são constituídos:\n\na) Pelo reitor, que é presidente nato;\n\nb) Pelo vice-reitor;\n\nc) Pelo delegado dos professores catedráticos do curso de Ciências Pedagógicas;\n\nd) Pelo delegado dos professores catedráticos do curso Médico-Cirúrgico;\n\ne) Pelo delegado dos professores catedráticos dos cursos de Engenharia;\n\nf) Pelo delegado dos professores catedráticos dos cursos de Agronomia e de Silvicultura;\n\ng) Pelo delegado dos professores catedráticos do curso de Medicina Veterinária;\n\nh) Por um representante dos professores extraordinários, encarregados de curso e incumbidos de regência dos Estudos Gerais;\n\ni) Por um representante dos assistentes dos Estudos Gerais.\n\n§ único. Na falta de professores catedráticos, os vogais referidos nas alíneas c) a g) serão substituídos pelo elemento docente mais categorizado do respectivo curso e, havendo vários dessa categoria, pelo mais antigo.",
+    "depois": "###### Artigo 4.º\n\nOs senados dos Estudos Gerais são constituídos:\n\na) Pelo reitor, que é presidente nato;\n\nb) Pelo vice-reitor;\n\nc) Pelo delegado dos professores catedráticos do curso de Ciências Pedagógicas;\n\nd) Pelo delegado dos professores catedráticas dos cursos de professor adjunto do 8.º e 11.º grupos do ensino técnico profissional;\n\ne) Pelo delegado dos professores catedráticos do curso médico-cirúrgico;\n\nf) Pelo delegado dos professores catedráticas dos cursos de Engenharia;\n\ng) Pelo delegado dos professores catedráticos dos cursos de Agronomia e de Silvicultura;\n\nh) Pelo delegado dos professores catedráticos do curso de Medicina Veterinária;\n\ni) Por um representante dos professores extraordinários, encarregados de curso e incumbidos de regência dos Estudos Gerais;\n\nj) Por um representante dos assistentes dos Estudos Gerais.\n\n§ único. Na falta de professores catedráticos, os vogais referidos nas alíneas c) a h) serão substituídos pelo elemento docente mais categorizado do respectivo curso e, havendo vários dessa categoria, pelo mais antigo.\n\n> Alterado pelo/a [Decreto-Lei n.º 47002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47002-1966-472924), publicado em 1966-05-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:693413:por",
+    "alterador": "pt:dre:472924:por;pt:dre:214258:por"
+  },
+  {
+    "artigo": "11.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 11.º\n\nOs cargos docentes, técnicos e administrativos poderão ser desempenhados em comissão de serviço por pessoal das Universidades e das escolas superiores da metrópole.\n\n§ único. O serviço em comissão considera-se, para todos os efeitos legais, prestado na Universidade ou escola a que o funcionário pertencer.",
+    "depois": "###### Artigo 11.º\n\nOs cargos docentes, técnicos e administrativos poderão ser desempenhados, em comissão, por pessoal dos serviços do Ministério da Educação Nacional, em qualquer situação.\n\n§ 1.º Os cargos docentes e técnicos poderão ainda ser desempenhados, em comissão, por pessoal dos serviços de outros Ministérios, em qualquer situação.\n\n§ 2.º O serviço em comissão considera-se, para todos os efeitos legais, prestado nos serviços a que o pessoal pertencer.\n\n> Alterado pelo/a [Decreto-Lei n.º 49274](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49274-1969-214258), publicado em 1969-09-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:693413:por",
+    "alterador": "pt:dre:472924:por;pt:dre:214258:por"
+  }
+]

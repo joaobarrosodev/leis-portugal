@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1. Às pessoas singulares titulares de direitos sobre prédios rústicos expropriados ou nacionalizados ao abrigo do disposto nos Decretos-Leis n.os [406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075) e [407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 29 e 30 de Julho, respectivamente, ou que, sendo susceptíveis de expropriação ou nacionalização ao abrigo das mesmas disposições, tenham sido e se encontrem ocupados, e que retirassem predominantemente da exploração agrícola desses prédios os seus meios de subsistência, encontrando-se, em consequência daqueles actos, destituídos ou insuficientemente providos daqueles meios, é reconhecida a faculdade de requererem ao Centro Regional de Reforma Agrária ou à Comissão de Gestão Transitória da situação do prédio ou prédios expropriados, nacionalizados ou ocupados, a atribuição de um quantitativo mensal a deduzir nas indemnizações compensatórias que lhes vierem a ser atribuídas a título definitivo.\n\n2. Caso o prédio ou prédios expropriados, nacionalizados ou ocupados se situem na área de actuação de dois ou mais dos organismos mencionados no número anterior, é competente aquele em cuja circunscrição se situar a maior área expropriada, nacionalizada ou ocupada.",
+    "depois": "###### Artigo 1.º\n\n1. Às pessoas singulares titulares de direitos sobre prédios rústicos expropriados ou nacionalizados ao abrigo do disposto nos Decretos-Leis n.os [406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075) e [407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 29 e 30 de Julho, respectivamente, ou que, sendo susceptíveis de expropriação ou nacionalização ao abrigo das mesmas disposições, tenham sido e se encontrem ocupados, e que retirassem predominantemente da exploração agrícola desses prédios os seus meios de subsistência, encontrando-se, em consequência daqueles actos, destituídos ou insuficientemente providos daqueles meios, é reconhecida a faculdade de requererem ao Centro Regional de Reforma Agrária ou à Comissão de Gestão Transitória da situação do prédio ou prédios expropriados, nacionalizados ou ocupados, a atribuição de um quantitativo mensal a deduzir nas indemnizações compensatórias que lhes vierem a ser atribuídas a título definitivo.\n\n2. Caso o prédio ou prédios expropriados, nacionalizados ou ocupados se situem na área de actuação de dois ou mais dos organismos mencionados no número anterior, é competente aquele em cuja circunscrição se situar a maior área expropriada, nacionalizada ou ocupada.\n\n3. Aos rendeiros que estejam em condições de receber indemnizações por frutos pendentes ou armazenados, gados e outros bens ou benfeitorias e que reúnam as condições previstas no n.º 1 é reconhecida a faculdade de requererem um subsídio nas condições ali referidas.\n\n> Alterado pelo/a [Decreto-Lei n.º 64/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1977-141641), publicado em 1977-02-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:431054:por",
+    "alterador": "pt:dre:141641:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nO requerimento deverá ser apresentado nos trinta dias subsequentes à entrada em vigor do presente diploma.",
+    "depois": "###### Artigo 2.º\n\n1. O requerimento deverá ser apresentado nos trinta dias subsequentes à entrada em vigor do presente diploma.\n\n2. Quando, por motivos atendíveis, o requerimento for apresentado fora do prazo referido no número anterior, será submetido a despacho do Ministro da Agricultura e Pescas.\n\n> Alterado pelo/a [Decreto-Lei n.º 64/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1977-141641), publicado em 1977-02-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:431054:por",
+    "alterador": "pt:dre:141641:por"
+  }
+]

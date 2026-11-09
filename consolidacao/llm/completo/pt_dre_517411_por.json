@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:517411:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "É fixado em 25 o número total de primeiros e segundos-assistentes do quadro do pessoal do Instituto de Medicina Tropical.\n\n§ 1.º Os primeiros-assistentes referidos no corpo do artigo consideram-se incluídos no grupo J a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.\n\n§ 2.º Quando o número de segundos-assistentes for superior ao orçamentado, as unidades excedentes receberão os seus vencimentos pelas sobras das verbas destinadas a primeiros-assistentes.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 5.º: nova redação do corpo do art. 3.º e do seu § 2.º; aplicada (a lista de distribuição sai com o novo corpo), § 1.º mantido.",
+    "Alterador 1, restantes artigos: alteram outros quadros e diplomas; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

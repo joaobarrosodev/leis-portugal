@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:462196:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "A intervenção do sistema bancário, nos termos previstos neste diploma, fica limitada à cobrança dos impostos retidos na fonte e autoliquidados, desde que satisfeitos nos prazos legais, e, bem assim, à dos que forem debitados para cobrança virtual, neste caso desde que pagos dentro do prazo de cobrança à boca do cofre, devendo para o efeito os respectivos avisos indicar a natureza virtual da cobrança.",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1 - Os pagamentos de dívidas ao Estado através do sistema bancário, nos termos deste diploma, efectivam-se mediante ordem de pagamento dada ao banco ou através de depósitos bancários realizados para o efeito, sendo, em qualquer dos casos, um por contribuinte.\n\n2 - No caso de depósito bancário, o talão comprovativo deste não servirá de quitação, mas apenas de recibo provisório.\n\n3 - Para efeitos de quitação o tesoureiro-gerente da respectiva tesouraria da Fazenda Pública remeterá directamente ao contribuinte e pela via postal, em prazo não superior a dez dias após consumação das diligências referidas nos artigos 5.º e 6.º, o correspondente recibo definitivo.\n\n4 - Os pagamentos a que se refere o n.º 1 serão acompanhados das guias respeitantes aos impostos retidos na fonte, devidamente processadas, das declarações, no caso de impostos autoliquidados, bem como dos avisos de pagamento, no caso de receita virtual.\n\n5 - Tratando-se de autoliquidação, as declarações e os respectivos documentos, designadamente os comprovativos de despesas ou encargos, serão enviados à tesouraria da Fazenda Pública territorialmente competente, que dará cumprimento ao disposto no n.º 1 do artigo 8.º deste diploma, competindo às repartições de finanças processar os conhecimentos relativos aos pagamentos efectuados, os quais serão entregues ao tesoureiro da Fazenda Pública.",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "1 - Sempre que os pagamentos de dívidas ao Estado sejam efectuados em instituições de crédito, nos termos do presente diploma, mas fora dos prazos previstos no seu artigo 2.º, ou se verifique deficiência em qualquer documento que impeça a concretização da correspondente cobrança, ou seja arrecadada e remetida quantia inferior à devida, deverá o tesoureiro-gerente da tesouraria da Fazenda Pública territorialmente competente tomar as seguintes medidas:\n\na) Tratando-se de impostos retidos na fonte ou autoliquidados, excepto a contribuição industrial, grupo A, e o imposto complementar, secção A, quando o pagamento for efectuado fora dos prazos legais, a importância do cheque será aceite e contabilizada, sendo comunicado o facto ao chefe da repartição de finanças, para que este promova o procedimento legal que se mostrar adequado, perdendo-se o benefício que legalmente for concedido;\n\nb) Se a receita for virtual, dar-se-á entrada por conta ao montante do cheque, desde que igual ou superior aos limites mínimos previstos na lei, qualquer que seja o estado da cobrança;\n\nc) Havendo deficiências no preenchimento de qualquer documento relativo ao pagamento de impostos retidos na fonte ou autoliquidados, será comunicado à repartição de finanças competente, para que seja sanada a falta, não havendo lugar a qualquer agravamento ou pagamento de multa, se de tal deficiência não resultar prejuízo para o Estado;\n\nd) Dar conhecimento do facto, por ofício registado, ao contribuinte de que deve regularizar a sua situação tributária junto da tesouraria da Fazenda Pública ou da repartição de finanças, conforme os casos.\n\n2 - Quando a remessa dos cheques e documentos referidos nos artigos anteriores se houver realizado para tesouraria diferente daquela onde o pagamento devesse ser efectuado, o respectivo tesoureiro-gerente diligenciará no sentido de averiguar qual a tesouraria competente para o pagamento e creditará a respectiva conta bancária, no caso de o pagamento ter sido efectuado através da instituição de crédito onde a mesma tiver sido aberta, ou depositará o cheque cruzado que tiver recebido de harmonia com o disposto nos artigos anteriores.\n\n3 - Verificando-se a situação descrita no número anterior, o tesoureiro-gerente emitirá cheque cruzado, sacado sobre a respectiva conta bancária, a favor do tesoureiro da Fazenda Pública territorialmente competente, que lhe será remetido acompanhado da respectiva documentação, para que este efective a cobrança e proceda às devoluções dos correspondentes recibos.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação dos artigos 2.º, 4.º (n.os 1-3 mantidos, n.º 4 novo, n.º 5 aditado) e 9.º - aplicado.",
+    "Alterador 1, art. 2.º: regra de aplicação, não textual - ignorado.",
+    "Alterador 2: altera o Código do Imposto Complementar e o Decreto-Lei n.º 45399; art. 4.º só ressalva o original - nada aplicado ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

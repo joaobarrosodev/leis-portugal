@@ -1,0 +1,157 @@
+{
+  "id": "pt:dre:191142:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Constituição do Governo Regional",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Membros do Governo Regional",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Departamentos do Governo Regional",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Sede dos departamentos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Competência do Presidente do Governo Regional",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Substituição do Presidente do Governo Regional",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Competências dos membros do Governo Regional",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Competências do Vice-Presidente do Governo Regional",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Competências do Secretário Regional da Solidariedade Social",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Competências do Secretário Regional da Saúde",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Competências do Secretário Regional da Educação, Ciência e Cultura",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Competências do Secretário Regional do Turismo e Transportes",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Competências do Secretário Regional dos Recursos Naturais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Direções regionais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Alterações orgânicas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Reestruturações orgânicas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Movimentações de pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Reafetação de pessoal e património",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Comissões de serviço do pessoal dirigente e de chefia",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Transferência de competências, direitos e obrigações",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Atos financeiros",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Encargos orçamentais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Composição dos gabinetes dos membros do Governo Regional",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Entrada em vigor",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DRR 12/2014/A, art. 26.º): revoga o DRR 24/2012/A, com exceção do art. 24.º; arts. 1.º a 23.º e 25.º ficam (Revogado.). Os demais artigos do alterador constituem nova orgânica autónoma, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

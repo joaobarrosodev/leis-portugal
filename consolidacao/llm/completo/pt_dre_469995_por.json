@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:469995:por",
+  "artigos": [
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "1. Presidido pelo director, funciona um conselho administrativo, de que fazem parte:\n\na) O director clínico;\n\nb) O administrador;\n\nc) A enfermeira que chefiar os serviços de enfermagem,\n\nd) O chefe dos serviços administrativos.\n\n2. Podem ser convocados para assistir às reuniões do conselho, embora sem direito a voto, os funcionários cujos pareceres ou informações sejam considerados necessários ou convenientes para as decisões a tomar.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1 art. 1.º: prorroga o regime de instalação (disposição autónoma); sem alteração textual.",
+    "Alt.1 art. 2.º: integra a Maternidade no esquema hospitalar (autónoma); sem alteração textual.",
+    "Alt.1 art. 3.º: nova redação do art. 11.º; aplicada.",
+    "Alt.1 art. 4.º: revoga o art. 3.º do Decreto-Lei 45988 (outro diploma); ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

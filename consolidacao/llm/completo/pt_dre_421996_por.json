@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:421996:por",
+  "artigos": [
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "1. Os juízes dos Tribunais de Lisboa e do Porto serão nomeados pelo Ministro da Administração Interna de entre os juízes de direito de 3.ª ou de 2.ª classe, ouvido o Ministro da Justiça.\n\n2. A nomeação será feita em comissão de serviço nos períodos renováveis de três anos.",
+      "alterador": 2
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "",
+      "texto": "As funções de agente do Ministério Público junto dos Tribunais Municipais de Lisboa e do Porto são exercidas por delegados do procurador da República, nomeados, em comissão de serviço, pelo Ministro do Interior, ouvido o Ministro da Justiça.",
+      "alterador": 1
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "",
+      "texto": "Em tudo quanto não vem especialmente regulado neste capítulo é extensivo aos magistrados do Ministério Público, com as adaptações que se mostrem necessárias, o disposto nos artigos 3.º, n.º 2, e 16.º",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Lei n.º 82/77 (alterador 3): o artigo 84.º extingue a competência atribuída pela alínea a) do artigo 5.º e o artigo 83.º, n.º 2, alínea d), extingue os tribunais municipais; são extinções de competência/órgão, não alterações textuais nem revogações expressas do texto, pelo que não foram aplicadas.",
+  "instrucoes": [
+    "Alterador 1 (DL 29/74), art. 1.º: nova redação dos artigos 18.º e 23.º; aplicada.",
+    "Alterador 2 (DL 286/75), art. 1.º: nova redação do artigo 12.º (só n.os 1 e 2, o antigo n.º 3 desaparece); aplicada.",
+    "Alterador 3 (Lei 82/77), art. 84.º: extingue a competência da alínea a) do artigo 5.º; não textual, não aplicada.",
+    "Alterador 3 (Lei 82/77), art. 83.º, n.º 2, d): extingue os tribunais municipais; não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

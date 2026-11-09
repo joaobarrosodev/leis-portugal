@@ -1,0 +1,39 @@
+{
+  "id": "pt:dre:531396:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 3 (DL 80/97), art. 48.º, b): revoga os artigos 1.º a 4.º do original; aplicado, mas o texto atual está mal segmentado: os artigos 1.º, 2.º e 4.º do original não aparecem como chaves próprias, há duas chaves 3.º (a segunda é o artigo 3.º dos Estatutos da Fundação de São Carlos, inserido pelo art. 5.º) e as chaves 2.º e 8.º são os artigos do DL 278/91 inseridos pelo art. 6.º, que não é revogado. As chaves 2.º e 3.º revogadas referem-se aos artigos próprios do original; confirmar que não se sobrepõem às redações embutidas.",
+  "instrucoes": [
+    "Alterador 1 (DL 315/95), art. 48.º, n.º 5: altera os artigos 2.º e 16.º do DL 106-B/92 (outro diploma); ignorada.",
+    "Alterador 2 (DL 42/96): sem instruções dirigidas ao original; nada aplicado.",
+    "Alterador 3 (DL 80/97), art. 48.º, b): revogação dos artigos 1.º a 4.º do original; um elemento '(Revogado.)' por artigo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

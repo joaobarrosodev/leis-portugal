@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nAs gratificações mensais devidas aos cidadãos desalojados que integrem as brigadas itinerantes e as comissões regionais, distritais e concelhias são fixadas como se segue:\n\na) Quando seja aplicável regime de prestação de serviço a tempo completo equiparado ao da função pública:\n\n10000$00 aos membros das brigadas itinerantes;\n\n7000$00 aos membros vogais das comissões regionais e distritais;\n\nb) Quando não seja aplicável o regime de prestação de serviço referido na alínea a):\n\n4000$00 aos vogais das comissões concelhias;\n\n3000$00 aos vogais das comissões regionais e distritais.",
+    "depois": "###### Artigo 1.º\n\nAs gratificações mensais devidas aos cidadãos desalojados que integram as brigadas itinerantes e as comissões regionais, distritais e concelhias são fixadas como se segue:\n\na) Quando seja aplicável regime de prestação de serviço a tempo completo equiparado ao da função pública:\n\n10000$00 aos membros das brigadas itinerantes;\n\n8000$00 aos membros vogais das comissões regionais e distritais;\n\nb) Quando não seja aplicável o regime de prestação de serviço referido na alínea a):\n\n6000$00 aos vogais das comissões concelhias;\n\n4000$00 aos vogais das comissões regionais e distritais.\n\n> Alterado pelo/a [Decreto n.º 52/78](https://diariodarepublica.pt/dr/detalhe/decreto/52-1978-294542), publicado em 1978-05-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:139447:por",
+    "alterador": "pt:dre:294542:por"
+  }
+]

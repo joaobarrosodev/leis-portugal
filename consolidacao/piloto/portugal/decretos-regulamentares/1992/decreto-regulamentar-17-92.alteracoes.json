@@ -110,5 +110,33 @@
     "unidade": [],
     "diploma": "pt:dre:292498:por",
     "alterador": "pt:dre:239457:por"
+  },
+  {
+    "artigo": "21.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 21.º — Direcção de Serviços Jurídicos, Contencioso e de Contra-Ordenações\n\nA Direcção de Serviços Jurídicos, Contencioso e de Contra-Ordenações compreende o Gabinete de Assuntos Jurídicos e Contencioso e o Serviço de Contra-Ordenações.",
+    "depois": "###### Artigo 21.º — Direcção de Serviços Jurídicos, Contencioso e de Contra-Ordenações\n\nA Direcção de Serviços Jurídicos, Contencioso e de Contra-Ordenações compreende a Divisão de Assuntos Jurídicos e Contencioso e o Serviço de Contra-Ordenações.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 1/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1998-239457), publicado em 1998-01-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:292498:por",
+    "alterador": "pt:dre:239457:por"
+  },
+  {
+    "artigo": "22.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 22.º — Gabinete de Assuntos Jurídicos e Contencioso\n\nCompete ao Gabinete de Assuntos Jurídicos e Contencioso:\n\na) Representar o CNP em juízo sempre que de tal seja incumbido pelo conselho directivo;\n\nb) Proceder ao estudo dos diplomas legais com incidência na actividade do CNP e promover a sua divulgação pelos serviços;\n\nc) Emitir pareceres e informações, satisfazer consultas e elaborar estudos de natureza jurídica;\n\nd) Instruir processos de inquérito, disciplinares ou outros na sequência de determinações do conselho directivo;\n\ne) Elaborar minutas de escrituras, contratos e outros documentos de natureza legal;\n\nf) Manter actualizados os ficheiros de legislação, jurisprudência e doutrina com interesse para o CNP.",
+    "depois": "###### Artigo 22.º — Divisão de Assuntos Jurídicos e Contencioso\n\nCompete à Divisão de Assuntos Jurídicos e Contencioso:\n\na) Representar o CNP em juízo sempre que de tal seja incumbido pelo conselho directivo;\n\nb) Proceder ao estudo dos diplomas legais com incidência na actividade do CNP e promover a sua divulgação pelos serviços;\n\nc) Emitir pareceres e informações, satisfazer consultas e elaborar estudos de natureza jurídica;\n\nd) Instruir processos de inquérito, disciplinares ou outros na sequência de determinações do conselho directivo;\n\ne) Elaborar minutas de escrituras, contratos e outros documentos de natureza legal;\n\nf) Manter actualizados os ficheiros de legislação, jurisprudência e doutrina com interesse para o CNP.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 1/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1998-239457), publicado em 1998-01-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:292498:por",
+    "alterador": "pt:dre:239457:por"
   }
 ]

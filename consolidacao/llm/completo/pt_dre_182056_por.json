@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:182056:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "1- A competência atribuída ao Ministério da Administração Interna pelos artigos 11.º e 12.º do [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566) é cometida ao Governo Regional.\n\n2 - O limite a que se refere o n.º 2 do artigo 10.º do [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566), de 6 de Abril, na redacção dada pela [Lei n.º 44/85](https://diariodarepublica.pt/dr/detalhe/lei/44-1985-177394), de 13 de Setembro, é fixado em 40%.\n\n3 - Para efeitos do disposto no artigo 10.º do [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566), de 6 de Abril, não se consideram encargos com pessoal as despesas com incentivos para fixação estabelecidos ao abrigo do [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852), de 3 de Fevereiro.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DLR 6/92/M, art. 1.º: nova redação do art. 6.º (novo n.º 2, antigo n.º 2 passa a 3): aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

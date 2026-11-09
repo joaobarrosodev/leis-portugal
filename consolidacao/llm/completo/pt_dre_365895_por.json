@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:365895:por",
+  "artigos": [
+    {
+      "chave": "26.º",
+      "epigrafe": "",
+      "texto": "1 - Da classificação final dos candidatos, mediante requerimento fundamentado, cabe recurso para o presidente do Tribunal de Contas, a interpor no prazo de dez dias a partir da publicação da respectiva lista, contado nos termos do n.º 3 do artigo 4.º\n\n2 - O recurso só poderá ter por objecto a violação dos artigos 15.º, 17.º, n.os 2 e 3, 20.º, n.º 3, 21.º e 22.º\n\n3 - O presidente do Tribunal despachará no sentido de o júri se pronunciar sobre as alegações produzidas, após o que proferirá decisão final.\n\n4 - As decisões que neguem provimento aos recursos serão notificadas aos concorrentes e as que concedam provimento darão origem à publicação das rectificações havidas por indispensáveis.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DR 1/81, artigo único: nova redação do n.º 3 do artigo 26.º do regulamento; aplicada, n.os 1, 2 e 4 mantidos."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

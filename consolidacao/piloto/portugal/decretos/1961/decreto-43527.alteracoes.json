@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\nO provimento dos lugares constantes do quadro a que se refere o artigo 3.º será feito em comissão amovível, não renovável, de duração não superior a quatro anos e só poderá recair em oficiais, segundos-sargentos, primeiros-cabos, segundos-cabos e soldados da Guarda Nacional Republicana, de preferência em regime de voluntariado.\n\n§ 1.º A nomeação do pessoal da Guarda Nacional Republicana para serviço na Polícia Rural de S. Tomé e Príncipe será feita pelo Ministério do Ultramar, ouvido o Ministério do Interior, e, sempre que possível, por unidades constituídas devidamente enquadradas e comandadas.\n\n§ 2.º Finda a comissão de serviço o pessoal recolherá à Guarda Nacional Republicana, devendo ser imediatamente substituído por outro de igual categoria ou patente, por forma a dar vaga ao que regresse.\n\n§ 3.º Quando a substituição deixe de fazer-se ou seja dispensada, o pessoal que não puder ter imediato ingresso nos quadros da Guarda Nacional Republicana, por falta de vaga nos mesmos quadros, continuará, enquanto se não der a vacatura, a ser pago pela província de S. Tomé e Príncipe com os vencimentos que lhe competir no seu quadro, mas prestando o serviço que lhe for destinado pelo respectivo comando.",
+    "depois": "###### Artigo 4.º\n\nOs lugares constantes do quadro a que se refere o artigo anterior só poderão ser providos por oficiais, sargentos, cabos e soldados da Guarda Nacional Republicana em regime de comissão voluntária ou por imposição, com preferência para a primeira.\n\n§ 1.º A comissão voluntária terá a duração de quatro anos, podendo ser prorrogada por períodos de dois anos até ao limite fixado no Estatuto do Funcionalismo Ultramarino.\n\n§ 2.º A comissão por imposição terá a duração de dois anos e poderá, a pedido, passar ao regime de voluntariado nos termos do § 1.º\n\n§ 3.º A nomeação para comissão por imposição recairá sobre os militares mais modernos em cada um dos postos requeridos.\n\n> Alterado pelo/a [Decreto n.º 457/73](https://diariodarepublica.pt/dr/detalhe/decreto/457-1973-413603), publicado em 1973-09-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:561063:por",
+    "alterador": "pt:dre:413603:por"
+  }
+]

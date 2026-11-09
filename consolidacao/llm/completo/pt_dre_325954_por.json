@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:325954:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "As verbas da dotação de «Despesas com a descolonização» inscritas no orçamento da Secretaria de Estado da Administração Pública (Direcção-Geral de Fazenda) para o ano de 1979, destinadas aos encargos com pensões de aposentação e de sobrevivência, serão transferidas para o orçamento do Ministério das Finanças e do Plano para reforço das rubricas que venham a suportar as despesas resultantes da execução deste decreto-lei.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Decreto-Lei 60/79, art. 1.º (novo prazo de noventa dias para a publicação das listas do n.º 2 do art. 2.º) e art. 2.º (as datas dos n.os 1, 3 e 4 do art. 8.º são fixadas em 1 de Julho, 31 de Maio e 30 de Junho de 1979): fixam prazos e datas sem dar nova redação; não aplicadas ao texto.",
+  "instrucoes": [
+    "Decreto-Lei 60/79 art. 1.º: novo prazo para as listas do art. 2.º, n.º 2; sem redação; não aplicado.",
+    "Decreto-Lei 60/79 art. 2.º: novas datas para os n.os 1, 3 e 4 do art. 8.º; sem redação; não aplicado.",
+    "Decreto-Lei 60/79 art. 3.º: nova redação do art. 6.º; aplicada.",
+    "Portaria 26-B/80 n.º 6: substitui o quadro de pessoal da Direcção-Geral de Fazenda (diploma de outro serviço); não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

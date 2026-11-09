@@ -26,5 +26,19 @@
     "unidade": [],
     "diploma": "pt:dre:631841:por",
     "alterador": "pt:dre:642527:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Substituição\n\n1 - Quando não haja disponibilidade ou possibilidade por parte do conservador referido no n.º 2 do artigo anterior para celebrar o casamento, deve aquele designar o respectivo substituto para esse efeito, de acordo com a seguinte ordem de preferência:\n\na) Conservador auxiliar;\n\nb) Adjunto de conservador;\n\nc) Substitutos do conservador, pela ordem por que foram designados;\n\nd) Demais oficiais da conservatória, por ordem de categoria funcional e de classe pessoal.\n\n2 - Sempre que não haja disponibilidade para a celebração de casamento nos termos do número anterior, deve o conservador ou o seu substituto informar e remeter o pedido ao director-geral dos Registos e do Notariado, podendo ser designado, em regime de substituição, conservador, notário ou ajudante de serviços de registo civil do mesmo concelho ou concelho limítrofe.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 324/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2007-642527), publicado em 2007-09-28.",
+    "depois": "###### Artigo 3.º — Substituição\n\n1 - Quando não haja disponibilidade ou possibilidade por parte dos conservadores referidos no artigo anterior para celebrar o casamento, devem aqueles designar o respectivo substituto para esse efeito, de acordo com a seguinte ordem de preferência:\n\na) Conservador auxiliar;\n\nb) Adjunto de conservador;\n\nc) Substitutos do conservador, pela ordem por que foram designados;\n\nd) Demais oficiais da conservatória, por ordem de categoria funcional e de classe pessoal.\n\n2 - Sempre que não haja disponibilidade para a celebração de casamento nos termos do número anterior, deve o conservador ou o seu substituto informar e remeter o pedido ao director-geral dos Registos e do Notariado, podendo ser designado, em regime de substituição, conservador, notário ou ajudante de serviços de registo civil do mesmo concelho ou concelho limítrofe.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 324/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2007-642527), publicado em 2007-09-28.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 107/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/107-2007-628488), publicado em 2007-11-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:631841:por",
+    "alterador": "pt:dre:628488:por"
   }
 ]

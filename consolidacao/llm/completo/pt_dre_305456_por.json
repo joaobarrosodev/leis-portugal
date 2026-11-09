@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:305456:por",
+  "artigos": [
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "1 - (Revogado.)\n\n2 - O pessoal docente que exerça funções de chefia noutras unidades hospitalares e cuja permanência à frente dos mesmos serviços seja considerada necessária ou conveniente, por despacho do Secretário de Estado da Saúde, poderá manter-se transitoriamente e não para além do período de instalação da FCM, em acumulação, no exercício de ambos os cargos, sendo-lhe aplicável, em tal caso, o regime do artigo 12.º do [Decreto-Lei n.º 182/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1977-301226).\n\n3 - O pessoal de outros estabelecimentos que, nos termos de acordos previstos no artigo 6.º, venha a exercer funções docentes terá direito a 30% do vencimento da sua categoria no estabelecimento em que preste serviço.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 16.º do DL 172/81: revoga o n.º 1 do artigo 13.º; aplicado",
+    "Revogação das disposições do DL 674/75 e dos DL 33/73 e 182/77: não são do original, ignoradas"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

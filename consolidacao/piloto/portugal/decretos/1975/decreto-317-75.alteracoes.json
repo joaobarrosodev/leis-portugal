@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º\n\n1. O primeiro provimento dos lugares do quadro técnico, sempre que seja possível, e do quadro administrativo, em todos os casos, será feito, por ordem de prioridade, com pessoal proveniente dos serviços, do Ministério da Economia, cuja extinção se prevê no artigo 25.º do [Decreto-Lei n.º 539/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1974-585845), de 12 de Outubro, nos termos do disposto no artigo 26.º do mesmo diploma, e com pessoal dos institutos públicos ou dos extintos organismos corporativos dependentes do Ministério.\n\n2. O pessoal referido no número anterior ingressará nos quadros da Direcção-Geral, mediante lista ou listas nominativas aprovadas pelo Secretário de Estado do Abastecimento e Preços, anotadas pela Direcção-Geral do Tribunal de Contas e publicadas no Diário do Governo, considerando-se investido nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de quaisquer outros requisitos ou formalidades.",
+    "depois": "###### Artigo 8.º\n\n1. O primeiro provimento dos lugares do quadro técnico, sempre que seja possível, e do quadro administrativo, em todos os casos, será feito, por ordem de prioridade, com pessoal proveniente dos serviços do extinto Ministério da Economia, cuja extinção se prevê no artigo 25.º do [Decreto-Lei n.º 539/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1974-585845), de 12 de Outubro, nos termos do disposto no artigo 26.º do mesmo diploma, com pessoal de outros serviços e organismos daquele Ministério e outro pessoal que, à data da publicação deste diploma, preste serviço, a qualquer título, na Direcção-Geral ou Comércio Interno ou em serviços e organismos do Ministério do Comércio Interno.\n\n2. O pessoal referido no número anterior ingressará nos quadros da Direcção-Geral, mediante lista ou listas nominativas aprovadas pelo Secretário de Estado do Abastecimento e Preços, anotadas pela Direcção-Geral do Tribunal de Contas e publicadas no Diário do Governo, considerando-se investido nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de quaisquer outros requisitos ou formalidades.\n\n> Alterado pelo/a [Decreto n.º 134/76](https://diariodarepublica.pt/dr/detalhe/decreto/134-1976-507616), publicado em 1976-02-17.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:337068:por",
+    "alterador": "pt:dre:507616:por"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:216251911:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "Participação em autoconsumo de pontos de entrega correspondentes a pontos de medição internos em instalações de consumo não exclusivas para a mobilidade elétrica",
+      "texto": "1 - Os pontos de entrega correspondentes a pontos de medição internos em instalações de consumo não exclusivas para a mobilidade elétrica, ao abrigo do [Decreto-Lei n.º 93/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2025-928937303), de 14 de agosto, são equiparados aos demais pontos de entrega para efeitos da sua participação em regimes de autoconsumo e da aplicação do presente Regulamento.\n\n2 - O apuramento dos dados de energia nos pontos de entrega referidos no número anterior adota os procedimentos específicos previstos no Guia de Medição, Leitura e Disponibilização de Dados do setor elétrico, bem como as disposições do presente Regulamento.\n\n3 - Os valores de energia apurados no equipamento de medição interno, após a aplicação de saldos, no sentido da instalação para montante, são tratados como injeção na RESP para os efeitos do presente Regulamento.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Regulamento n.º 8/2026, art. 2.º: declara alterar também o artigo 28.º, mas não traz a nova redação do artigo 28.º; não aplicado.",
+  "instrucoes": [
+    "Art. 2.º do Regulamento 8/2026: nova redação do art. 7.º (epígrafe e n.os 1-3) — aplicada.",
+    "Art. 2.º: alteração do art. 28.º anunciada sem texto — não aplicada.",
+    "Arts. 3.º-6.º: alteram outros regulamentos (Guia, RQS, RRC) — ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

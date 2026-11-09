@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:415444:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Regulamento das Entradas e Saídas de Fundos, da Contabilização e Controlo das operações de Tesouraria e do Funcionamento das Caixas::7.º",
+      "epigrafe": "Contabilização",
+      "texto": "1 - Para a contabilização das operações de tesouraria que não utilizem na sua origem o documento único de cobrança, serão utilizados como suporte os registos diários e os mapas resumo das operações referidas no artigo 5.º, discriminando os movimentos por conta de operações de tesouraria.\n\n2 - As operações de tesouraria cuja entrada se processe através da utilização do documento único de cobrança são contabilizadas pelo serviço processador do documento, utilizando os suportes informáticos criados para o efeito.\n\n3 - Com base nos referidos suportes, serão preparados os seguintes documentos:\n\na) Balancetes mensais do Razão, evidenciando os movimentos ocorridos nas contas e respectivos valores acumulados, quer sob o ponto de vista das responsabilidades perante terceiros, quer sob a óptica da natureza ou tipo de operações;\n\nb) Balancetes anuais do Razão, nos termos referidos na alínea anterior;\n\nc) Balanço financeiro do Tesouro, evidenciando as disponibilidades existentes no final do exercício, as responsabilidades e os direitos de Tesouraria do Estado perante terceiros.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "N.º 2.º da Portaria n.º 1491-A/95 substitui o plano de contas anexo ao Regulamento, que não consta do texto atual por artigos; não aplicado.",
+  "instrucoes": [
+    "N.º 1.º da Portaria 1491-A/95: nova redação do artigo 7.º do Regulamento — aplicada.",
+    "N.º 2.º: substituição do plano de contas anexo — não aplicado (anexo ausente do texto atual).",
+    "N.º 3.º: produção de efeitos — norma própria, sem alteração ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

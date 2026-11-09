@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:230891:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1 - A frequência do ensino básico é obrigatória para todos os menores em idade escolar.\n\n2 - A idade escolar é fixada entre os 6 anos completos e os 14 anos.\n\n3 - Ficam sujeitos à obrigatoriedade de matrícula em cada ano escolar os menores que completarem 6 anos até 31 de Dezembro do ano civil em que o ano escolar tiver início.\n\n4 - Poderão ainda ser matriculados, a título voluntário, os menores que completem os referidos seis anos, até 31 de Dezembro do mesmo ano.\n\n5 - A idade escolar considera-se terminada com a obtenção do diploma de escolaridade obrigatória ou, não o tendo obtido, no termo do ano escolar em que os menores atinjam a idade determinada como limite superior da escolaridade obrigatória.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do n.º 3 do artigo 4.º (31 de Dezembro); aplicada.",
+    "Alterador 1, art. 2.º: revoga o artigo 19.º; já está (Revogado.), sem mudança.",
+    "Alterador 2, art. 1.º: nova redação do artigo 4.º (n.os 1 a 3 mantidos, novo n.º 4, antigo n.º 4 passa a n.º 5 com nova redação); aplicada, artigo final atribuído ao alterador 2.",
+    "Alterador 3 (Declaração de Rectificação 951/2009) retifica um aviso de concurso, não o original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

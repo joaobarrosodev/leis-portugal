@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nA publicidade dos resultados dos concursos abertos nos termos do [Decreto-Lei n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1984-367853), de 3 de Fevereiro, será feita mediante aviso a publicar na 2.ª série, informando os interessados do local ou locais onde podem ser consultadas as listas provisória, definitiva ou de classificação final de candidatos, consoante os casos.",
+    "depois": "###### Artigo 2.º\n\n1 - A publicidade dos resultados dos concursos abertos nos termos do [Decreto-Lei n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1984-367853), de 3 de Fevereiro, quando o número de candidatos for igual ou superior a 70, será feita mediante aviso a publicar na 2.ª série do Diário da República, donde constem as listas provisória, definitiva ou de classificação final, consoante os casos.\n\n2 - Quando o número de candidatos não ultrapasse o limite referido no número anterior, será publicado na 2.ª série do Diário da República aviso informando do local ou locais onde podem ser consultadas as listas, devendo ainda os serviços promover o envio aos interessados, por carta registada, de fotocópia da lista respectiva, com indicação dos motivos determinantes da admissão condicional ou da exclusão do concurso, quando for caso disso.\n\n3 - Nas situações referidas no número anterior, o prazo para a interposição de eventuais recursos da lista provisória ou da lista de classificação final, nos termos do [Decreto-Lei n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1984-367853), de 3 de Fevereiro, conta-se a partir da data do registo da comunicação, respeitada a dilação de três dias.\n\n> Alterado pelo/a [Decreto-Lei n.º 204/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1988-372197), publicado em 1988-06-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:495680:por",
+    "alterador": "pt:dre:372197:por"
+  }
+]

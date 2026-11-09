@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:485048:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alt.1 (Decreto 19/2000) art. 1.º dá nova redação, na tradução portuguesa, aos capítulos IX, X e XI do anexo à Convenção SOLAS 74 (texto anexo ao decreto, republicado integralmente), não ao artigo único do original; o anexo não está estruturado por artigos no texto atual, pelo que não foi aplicado.",
+  "instrucoes": [
+    "Alt.1 art. 1.º: nova redação da tradução dos capítulos IX, X e XI do anexo SOLAS; não aplicada (anexo, não artigo).",
+    "O artigo único do original não é alterado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

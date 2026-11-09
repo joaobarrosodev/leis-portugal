@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1. As companhias de seguros são obrigadas a comunicar à Conservatória do Registo Automóvel, à Direcção-Geral de Viação e aos Comandos-Gerais da Guarda Nacional Republicana, da Guarda Fiscal e da Polícia de Segurança Pública todas as vendas de salvados de veículos automóveis.\n\n2. A comunicação será efectuada por carta registada até ao dia 5 do mês seguinte àquele em que a transacção se tenha efectuado, referindo a identidade do comprador, preço da venda e os demais elementos identificadores do veículo.\n\n3. A infracção ao disposto neste artigo é punida com a multa de 5000$00 a 100000$00.",
+    "depois": "###### Artigo 4.º\n\n1. As companhias de seguros são obrigadas a comunicar à Conservatória do Registo Automóvel, à Direcção-Geral de Viação e aos Comandos-Gerais da Guarda Nacional Republicana, da Guarda Fiscal e da Polícia de Segurança Pública todas as vendas de salvados de veículos automóveis.\n\n2. A comunicação será efectuada por carta registada até ao dia 5 do mês seguinte àquele em que a transacção se tenha efectuado, referindo a identidade do comprador, preço de venda e os demais elementos identificadores do veículo.\n\n3. Em igual prazo, deverão as companhias de seguros enviar à Direcção-Geral de Viação os documentos referentes aos veículos vendidos, desde que se não haja levantado processo criminal ou de transgressão.\n\n4. A infracção ao disposto neste artigo é punida com a multa de 5000$00 a 100000$00.\n\n> Alterado pelo/a [Decreto-Lei n.º 303/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1975-337058), publicado em 1975-06-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:372636:por",
+    "alterador": "pt:dre:337058:por"
+  }
+]

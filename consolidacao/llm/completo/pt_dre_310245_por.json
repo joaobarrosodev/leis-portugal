@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:310245:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "Os serviços técnicos são constituídos por quatro divisões distintas no seu ramo de actividade, trabalhando em íntima colaboração: Divisão de Medicina, Divisão de Veterinária, Divisão de Entomologia e Divisão de Investigação.\n\n§ único. Os Serviços Técnicos da Missão de Combate às Tripanossomíases de Moçambique são constituídos, apenas, pelas divisões de medicina e investigação.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Artigo 4.º do Decreto n.º 512/73: eliminação, nos quadros do pessoal anexos, das unidades de Moçambique que transitaram para os Serviços de Veterinária — os quadros não vêm no texto atual e as unidades não são identificadas; não aplicado.",
+  "instrucoes": [
+    "Art. 1.º: aditado § único ao artigo 8.º — aplicado.",
+    "Art. 2.º: norma autónoma, não altera o texto do original.",
+    "Art. 3.º: altera o Decreto n.º 49073 — ignorado.",
+    "Art. 4.º: eliminação de unidades nos quadros anexos — não aplicável."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

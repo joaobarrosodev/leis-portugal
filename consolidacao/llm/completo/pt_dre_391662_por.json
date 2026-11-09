@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:391662:por",
+  "artigos": [
+    {
+      "chave": "13.º",
+      "epigrafe": "(Direcção e administração)",
+      "texto": "1 - Os matadouros industriais são administrados por um director técnico e administrativo, médico veterinário, nomeado por despacho conjunto dos Secretários Regionais da Agricultura e Pescas e do Comércio e Indústria, em comissão de serviço de 2 anos, a qual será renovada pelos mesmos Secretários Regionais, sob proposta do conselho directivo do Serviço Regional dos Produtos Agro-Pecuários.\n\n2 - Aos directores referidos no número anterior caberá igualmente a direcção administrativa dos demais matadouros e casas de matança da ilha onde se sediarem os matadouros industriais.",
+      "alterador": 1
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "(Receitas do serviço)",
+      "texto": "1 - Constituem receitas do SRPAP, além das inscritas no Orçamento da Região:\n\nTaxas aplicadas pelos serviços prestados nos matadouros e casas de matança;\n\nDiferenciais do preço resultante da venda de carne de bovino e suíno e de couros;\n\nVenda de produtos de lacticínios da Central Leiteira e de produtos horto-frutícolas da Estação Fruteira e postos de intervenção;\n\nJuros e rendimentos de capital e bens próprios;\n\nSubsídios ou quaisquer outras receitas que lhe sejam entregues;\n\nEmpréstimos contraídos.\n\n2 - As receitas serão depositadas, por guia, nas contas bancárias do Serviço que para o efeito forem indicadas.\n\n3 - Os serviços remeterão à sede um duplicado da guia de depósito, para efeito de contabilização e controle.\n\n4 - Constituirão título executivo, nomeadamente para cobrança coerciva de quaisquer dívidas ao Serviço Regional dos Produtos Agro-Pecuários, através do respectivo processo de execução fiscal, ao abrigo do disposto no artigo 57.º do Estatuto da Região Autónoma dos Açores, as certidões passadas pelo conselho directivo e autenticadas com o respectivo selo branco.",
+      "alterador": 1
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "(Pessoal dirigente)",
+      "texto": "1 - O presidente e os vogais do conselho directivo são equiparados, respectivamente, a director de serviços e chefe de divisão.\n\n2 - Os vogais do conselho directivo que não exerçam o cargo a tempo inteiro serão abonados pelos montantes que vierem a ser estabelecidos em despacho conjunto dos Secretários Regionais da Administração Pública, das Finanças, da Agricultura e Pescas e do Comércio e Indústria.",
+      "alterador": 1
+    },
+    {
+      "chave": "32.º-A",
+      "epigrafe": "(Integração de pessoal)",
+      "texto": "1 - O pessoal que tenha sido transferido nos termos do artigo 10.º do [Decreto Regional n.º 18/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/18-1979-378944), de 20 de Agosto, e que exerça funções diversas das que integram as respectivas categorias poderá ser integrado, sem prejuízo das habilitações legalmente exigidas, em categoria de carreira correspondente a essas funções e cuja letra de vencimento seja igual ou imediatamente superior, na referida carreira, à da letra da categoria que possuía, de acordo com as funções efectivamente exercidas.\n\n2 - Para efeitos do número anterior, a correspondência das funções deverá ser certificada por despacho do presidente do conselho directivo.\n\n3 - Os auxiliares técnicos com mais de 2 anos de serviço efectivo e que possuam o curso geral do ensino secundário ou equivalente poderão ser integrados na categoria de técnico auxiliar de exportação de 2.ª classe.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 4.º: novo quadro de pessoal anexo, só em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do n.º 1 do art. 13.º (n.º 2 mantido), aditado n.º 4 ao art. 30.º (n.os 1-3 mantidos), nova redação do art. 32.º (n.os 1 e 2)",
+    "Alterador 1, art. 2.º: aditado o art. 32.º-A",
+    "Alterador 1, art. 3.º: norma transitória sobre comissões de serviço - não altera o texto",
+    "Alterador 1, art. 4.º: quadro de pessoal em imagem - não aplicado",
+    "Alterador 2: altera o Decreto Regulamentar Regional n.º 2/87/A e reclassifica pessoal - não dirigido ao original, ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

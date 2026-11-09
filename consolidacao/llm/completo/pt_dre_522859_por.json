@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:522859:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (DL 38/2014), art. 6.º, a): revoga o artigo 2.º 'na parte em que se refere ao Regulamento (CEE) n.º 2079/92' — revogação parcial por matéria, não textual; não aplicada ao texto.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação dos arts. 2.º, 6.º (n.º 6), 10.º (n.º 3) e 11.º (n.º 4) — o texto atual já coincide com a nova redação; sem mudança.",
+    "Alterador 1, art. 2.º: aditamento do art. 7.º-A — já presente no texto atual com a mesma redação; sem mudança.",
+    "Alterador 2, art. 6.º, a): revogação do art. 2.º na parte relativa ao Reg. 2079/92 — não textual, não aplicada (nao_aplicavel). Alíneas b) a d) dizem respeito a outros diplomas; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\n1 - A assistência na doença ao pessoal da Guarda Fiscal (ADPGF), que constitui encargo do Estado e cuja estruturação e funcionamento foram cometidos aos SSGF pelo [Decreto-Lei n.º 241/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1979-381283), de 25 de Julho, rege-se pelo [Decreto-Lei n.º 357/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1977-286529), de 31 de Agosto, pela [Portaria n.º 555/78](https://diariodarepublica.pt/dr/detalhe/portaria/555-1978-329794), de 15 de Setembro, e por despachos normativos regulamentadores.\n\n2 - Só poderão beneficiar da ADPGF os subscritores dos SSGF que se encontrem abrangidos pela legislação referida no número anterior.\n\n3 - Os SSGF poderão exercer uma acção supletiva da assistência na doença por conta do Estado que compreenderá exclusivamente os casos não contemplados por aquela assistência que sejam considerados merecedores de especial atenção pelas características excepcionalmente gravosas de que se revistam.\n\n4 - Ainda no âmbito da assistência sanitária deve merecer a melhor atenção a profilaxia, que compreenderá todas as medidas preventivas contra doenças em geral, incluindo as chamadas «sociais», designadamente contra as doenças infecciosas e infecto-contagiosas, as doenças de coração, o cancro e as doenças mentais e nervosas.",
+    "depois": "###### Artigo 5.º\n\nOs SSGF poderão exercer uma acção supletiva da assistência na doença por conta do Estado, que compreenderá exclusivamente os casos não contemplados por aquela assistência que sejam considerados merecedores de especial atenção pelas características excepcionalmente gravosas de que se revistam.\n\n> Alterado pelo/a [Portaria n.º 835/84](https://diariodarepublica.pt/dr/detalhe/portaria/835-1984-400586), publicado em 1984-10-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:606484:por",
+    "alterador": "pt:dre:400586:por;pt:dre:496363:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º\n\n1 - A assistência na invalidez, no desamparo e na velhice destina-se aos inválidos, às viúvas carenciadas e aos filhos solteiros menores e órfãos em situação comprovada de desamparo e, bem assim, àqueles que, pela sua avançada idade e condições de desamparo, devidamente comprovadas, requeiram cuidados especiais.\n\n2 - Este tipo de assistência pode assumir a forma de internamento em recolhimentos, orfanatos, casas de repouso e outros estabelecimentos análogos, de atribuição de subsídios ou qualquer outra modalidade de auxílio, também com o condicionamento referido no n.º 3 do artigo 5.º do presente Regulamento.",
+    "depois": "###### Artigo 8.º\n\n1 - A assistência na invalidez, no desamparo e na velhice destina-se aos inválidos, às viúvas carenciadas e aos filhos solteiros menores e órfãos em situação comprovada de desamparo e, bem assim, àqueles que, pela sua avançada idade e condições de desamparo, devidamente comprovadas, requeiram cuidados especiais.\n\n2 - Este tipo de assistência pode assumir a forma de internamento em recolhimentos, orfanatos, casas de repouso e outros estabelecimentos análogos, de atribuição de subsídios ou qualquer outra modalidade de auxílio, também com o condicionamento referido no artigo 5.º do presente Regulamento.\n\n> Alterado pelo/a [Portaria n.º 835/84](https://diariodarepublica.pt/dr/detalhe/portaria/835-1984-400586), publicado em 1984-10-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:606484:por",
+    "alterador": "pt:dre:400586:por;pt:dre:496363:por"
+  },
+  {
+    "artigo": "17.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 17.º\n\nA perda da qualidade de subscritor verificar-se-á:\n\na) Quando o subscritor deixar de estar nas situações referidas no artigo 6.º do [Decreto-Lei n.º 511/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1980-462409), de 25 de Outubro;\n\nb) Por declaração de desistência;\n\nc) Por despacho do director, em relação a subscritores voluntários, em consequência de actos reprováveis e atentatórios do bom nome dos SSGF por eles praticados;\n\nd) Automaticamente, quando o subscritor voluntário dever aos SSGF 6 meses de quotas e não responder dentro de 15 dias à comunicação que lhe for feita sobre se deseja ou não continuar a ser subscritor.",
+    "depois": "###### Artigo 17.º\n\nA perda da qualidade de subscritor verificar-se-á:\n\na) Quando o subscritor deixar de estar nas situações referidas no artigo 6.º do [Decreto-Lei n.º 511/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1980-462409), de 25 de Outubro;\n\nb) Por declaração de desistência;\n\nc) Por despacho do director, em relação a subscritores voluntários, em consequência de actos reprováveis e atentatórios do bom nome dos SSGF por eles praticados;\n\nd) Automaticamente, quando o subscritor voluntário dever aos SSGF 6 meses de quotas e não responder dentro de 15 dias à comunicação que lhe for feita sobre se deseja ou não continuar a ser subscritor.\n\ne) Automaticamente, quando o subscritor passar compulsivamente à situação de reserva ou de reforma.\n\n> Alterado pelo/a [Portaria n.º 832/87](https://diariodarepublica.pt/dr/detalhe/portaria/832-1987-496363), publicado em 1987-10-17.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:606484:por",
+    "alterador": "pt:dre:400586:por;pt:dre:496363:por"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:673410:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - A secretaria é integrada pelos elementos constantes do mapa anexo a este diploma, que são requisitados ou admitidos em comissão de serviço, nos termos da lei, sob proposta do presidente da Comissão, devendo o secretário ser, de preferência, um licenciado em Direito.\n\n2 - Nas suas faltas e impedimentos o secretário é substituído pelo escrivão de direito mais antigo.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "As alterações ao mapa anexo (quadro do pessoal) feitas pelo artigo 1.º do Decreto n.º 116/79 e pelo artigo 2.º do Decreto n.º 42/81 não incidem sobre nenhum artigo: o mapa não é um artigo do texto atual (aparece só como texto final a seguir às assinaturas), pelo que não foi aplicado.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: alterações ao mapa anexo - não é artigo, não aplicado (ver nao_aplicavel)",
+    "Alterador 2, art. 1.º: nova redação do art. 2.º - aplicada",
+    "Alterador 2, art. 2.º: nova constituição do mapa anexo - não é artigo, não aplicado (ver nao_aplicavel)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

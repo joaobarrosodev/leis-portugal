@@ -1,0 +1,58 @@
+{
+  "id": "pt:dre:674006:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "A direcção executiva do Banco Financial Português será exercida por um órgão singular ou colectivo cuja designação, composição, competência e regras de funcionamento serão fixadas pelo conselho de administração da Caixa, tendo em conta as particularidades e necessidades do Banco.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "O titular ou titulares do órgão referido no artigo anterior serão contratados ou designados pelo conselho de administração da Caixa, mantendo os de nacionalidade portuguesa, sem direito a qualquer remuneração, as qualidades de adido financeiro ou de adido financeiro-adjunto à Embaixada de Portugal no Brasil.",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "A organização dos serviços do Banco Financial Português será estabelecida em regulamento aprovado pelo conselho de administração da Caixa Geral de Depósitos.",
+      "alterador": 1
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "1. A Agência terá orçamento privativo, expresso em moeda brasileira, de acordo com o plano de actividades a desenvolver em cada ano, o qual regulará a respectiva gestão financeira.\n\n2 - Compete ao conselho de administração da Caixa Geral de Depósitos aprovar o orçamento e o plano de actividades referidos no n.º 1.",
+      "alterador": 1
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "1. Na movimentação da conta «Lucros e perdas» e no apuramento e aplicação dos respectivos resultados observar-se-á o disposto na lei brasileira.\n\n2 - Na aplicação dos resultados serão constituídas as reservas e provisões convenientes, tendo em vista reforçar a solidez financeira do Banco Financial Português, e será também considerada a remuneração a conceder à participação financeira da Caixa Geral de Depósitos, a que alude o artigo 10.º",
+      "alterador": 1
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "",
+      "texto": "As contas do Banco Financial Português e a aplicação dos resultados serão apreciadas pelo conselho de administração da Caixa Geral de Depósitos, cuja aprovação as legitima para todos os efeitos.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "DL 236/81, art. 2.º: a Agência Financial de Portugal passa a denominar-se Banco Financial Português; mudança de denominação sem substituição textual expressa nos restantes artigos, não aplicada ao texto.",
+  "instrucoes": [
+    "DL 236/81, art. 1.º: altera o DL 265/75 (outro diploma); ignorado.",
+    "DL 236/81, art. 2.º: nova denominação; não textual, não aplicado.",
+    "DL 236/81, art. 3.º: nova redação dos arts. 7.º, 8.º, 9.º, 14.º n.º 2, 16.º n.º 2 e 17.º; aplicado.",
+    "DL 236/81, art. 4.º: revoga o artigo 6.º do DL 210/72 (e o art. 5.º do DL 265/75, ignorado); aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

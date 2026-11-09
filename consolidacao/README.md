@@ -466,6 +466,7 @@ Respostas importadas (`llm/escala/`): 134 sem problemas nos lotes 027 a 042 (027
 | 6 | 18 | 40 | 15 | 38% |
 | 7 | 19, 20 | 40 | 13 | 32% (68% dos 19 verificados) |
 | 8 | 21 | 40 | 18 | 45% (72% dos 25 verificados) |
+| 9 (todos os restantes de uma vez) | 22 | 1.152 respostas; 688 juntados e verificados | 465 | 68% dos 688 juntados (as 389 respostas "sem alterações" não têm nada a verificar) |
 
 Total do pedido completo: 136 diplomas sem reparos em 334 respostas (bloco 4 incluído; `rendimento.py RONDA --ids FICHEIRO` mede um bloco; o prompt do verificador está em `verificacao/PROMPT-verificador.md`). **Erro corrigido a meio:** `proximos` não excluía os diplomas já feitos (o nome do ficheiro tem `_` onde o id tem `:`); o bloco 2 repetiu 26 do bloco 1. As respostas repetidas não foram importadas. A causa dos que ficam por passar: anexos e quadros só em imagem (`fora_dos_artigos`), revogação de diplomas inteiros que deixa os anexos, instruções ambíguas ("[Anterior alínea b)]" desfasadas), e o verificador sem o texto dos artigos iguais ao original. Faltam cerca de 1.400 diplomas na fila (`proximos`), e 107 foram saltados por tamanho.
 

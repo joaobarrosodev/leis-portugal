@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1 - O quadro de supranumerários criado pelo artigo 2.º do [Decreto-Lei n.º 149/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1979-383647), de 26 de Maio, é o constante do mapa anexo a este diploma.\n\n2 - O pessoal será integrado no quadro com as categorias resultantes das equivalências estabelecidas naquele mapa, sem prejuízo das habilitações legais.\n\n3 - O pessoal que não reúna os requisitos exigíveis será provido em categoria para a qual detenha os requisitos legais mínimos, sem prejuízo da manutenção da actual remuneração, até que as respectivas diferenças sejam absorvidas por futuros aumentos consignados nas tabelas de vencimentos.\n\n4 - O disposto na parte final do número anterior aplica-se igualmente aos agentes que, por força da tabela de equivalências, tenham provimento em categoria a que corresponda vencimento inferior ao actualmente auferido.",
+    "depois": "###### Artigo 1.º\n\n1 - O quadro de supranumerários criado pelo artigo 2.º do [Decreto-Lei n.º 149/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1979-383647), de 26 de Maio, é o constante do mapa anexo a este diploma.\n\n2 - O pessoal será integrado no quadro com as categorias resultantes das equivalências estabelecidas naquele mapa, sem prejuízo das habilitações legais.\n\n3 - Para provimento do pessoal será tida em conta a sua situação à data da publicação do [Decreto-Lei n.º 149/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1979-383647), de 26 de Maio, sendo aplicável aos oficiais administrativos o disposto no artigo 11.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.\n\n4 - O pessoal que não reúna os requisitos para provimento nas categorias constantes do mapa referido, bem como o pessoal com categorias sem equivalência, manterá a actual categoria, podendo transitar para nova situação logo que obtenha os requisitos legais, sendo extintos os lugares à medida que vagarem.\n\n> Alterado pelo/a [Decreto-Lei n.º 354/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1984-400590), publicado em 1984-10-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:157017:por",
+    "alterador": "pt:dre:400590:por"
+  }
+]

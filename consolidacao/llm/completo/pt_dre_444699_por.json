@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:444699:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O Decreto n.º 87/76 extingue o Grupo de Missões Científicas do Zambeze e transfere património e pessoal, sem alterar nem revogar expressamente artigos do Decreto n.º 173/71; alteração não textual.",
+  "instrucoes": [
+    "Decreto 87/76, arts. 1.º a 3.º: extinção do Grupo e transferência de património e pessoal para a Junta — sem instrução textual sobre o original, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

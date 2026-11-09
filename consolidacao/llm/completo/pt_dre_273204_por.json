@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:273204:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Art. 1.º do DL 249/72 substitui o quadro (mapa anexo) a que se refere o artigo 1.º; o novo quadro só existe em imagem no documento original e o mapa não faz parte do texto dos artigos; não aplicado.",
+  "instrucoes": [
+    "Art. 1.º: substituição do quadro anexo; só em imagem, não aplicado.",
+    "Arts. 2.º a 5.º: normas autónomas (provimento, concurso do artigo 11.º, transição, despesa) sem alteração textual dos artigos do original; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

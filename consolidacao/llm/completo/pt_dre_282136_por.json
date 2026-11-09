@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:282136:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1 - À Caixa Económica das Forças Armadas competem as seguintes funções, no âmbito das forças armadas:\n\na) Promoção com baixos juros de:\n\nOperações de depósitos;\n\nConcessão de empréstimos, incluindo os sujeitos a garantias especiais;\n\nFinanciamento de construções de carácter eminentemente social, sem prejuízo da concessão de empréstimos;\n\nb) Recepção e administração de legados ou doações, quer dos beneficiários dos Serviços Sociais das Forças Armadas, quer de entidades públicas ou privadas, que especificamente se destinem ao financiamento de instalações de carácter social, incluindo as importâncias destinadas a servir de contrapartida ao uso vitalício de uma fracção dos alojamentos dos complexos sociais, lares ou centros de repouso, nos moldes que vierem a ser fixados por despacho do Chefe do Estado-Maior-General das Forças Armadas.\n\n2 - A concessão de empréstimos é da competência da Comissão Directiva dos Serviços Sociais das Forças Armadas, que poderá delegar num dos seus membros ou no chefe da Caixa Económica das Forças Armadas.\n\n3 - O financiamento referido na alínea b) do n.º 1 carece de autorização prévia do Chefe do Estado-Maior-General das Forças Armadas.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 18003): nova redação do artigo 4.º (com § único); substituída depois pelo alterador 2.",
+    "Alterador 2 (DL 92/80) art. 1.º: altera o artigo 10.º do DL 42072 (outro diploma): ignorado.",
+    "Alterador 2 art. 2.º: nova redação integral do artigo 4.º do Regulamento: aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

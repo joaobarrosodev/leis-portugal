@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:522391:por",
+  "artigos": [
+    {
+      "chave": "22.º",
+      "epigrafe": "Degraus de acesso ao habitáculo do condutor",
+      "texto": "1 - Os degraus de acesso devem obedecer às características fixadas nos números seguintes em conformidade com a figura 5 do anexo III do presente diploma.\n\n2 - A distância (A) do solo à superfície superior do degrau mais baixo, medida com o veículo em ordem de marcha numa superfície horizontal e plana, não deve ser superior a 600 mm.\n\n3 - No que respeita aos veículos fora de estrada, definidos na parte A do anexo II do Regulamento da Homologação CE, a distância (A) a que se refere o número anterior pode ser aumentada para 700 mm.\n\n4 - A distância (B) entre as superfícies superiores do ou dos degraus não deve ser superior a 400 mm e a distância vertical entre dois degraus seguidos não deve variar mais de 50 mm, podendo este valor ser aumentado para 100 mm no que respeita aos veículos fora de estrada.\n\n5 - O requisito relativo à distância vertical entre dois degraus seguidos não se aplica à distância entre o degrau mais alto e o piso do habitáculo do condutor.\n\n6 - Devem, ainda, ser satisfeitas as especificações geométricas mínimas referidas no anexo VI do presente diploma, que dele faz parte integrante.\n\n7 - O degrau mais baixo pode ser concebido como um varão se tal for necessário por razões relacionadas com a construção ou utilização e ainda nos veículos fora de estrada, não podendo a profundidade do varão (R) ser inferior a 20 mm, não sendo admitidos varões de secção transversal redonda.\n\n8 - Ao sair do habitáculo do condutor, a posição do degrau mais acima deve ser encontrada com facilidade.\n\n9 - A superfície superior dos degraus não pode ser escorregadia, devendo os degraus expostos ao tempo e à sujidade, durante a condução, ter uma capacidade de escoamento adequada, através de uma superfície drenante.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 art. 2.º: alterações aos anexos VI (n.º 7) e VIII (epígrafe) não constam do texto por artigos.",
+  "instrucoes": [
+    "Alterador 1 art. 2.º: nova redação do art. 1.º - já refletida no texto atual.",
+    "Alterador 1 art. 2.º: art. 22.º - novo n.º 5 e antigos n.os 5 a 8 renumerados 6 a 9 - aplicado.",
+    "Alterador 1 art. 2.º: anexos VI e VIII - não aplicável (fora dos artigos).",
+    "Alterador 1 art. 3.º: norma de efeitos autónoma."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

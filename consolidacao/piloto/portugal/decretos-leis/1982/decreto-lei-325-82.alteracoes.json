@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nA execução deste Programa cabe ao Instituto de Emprego e Formação Profissional, com verbas do seu orçamento e de outras que lhe venham a ser consignadas no âmbito dos acordos de adesão à Comunidade Económica Europeia.",
+    "depois": "###### Artigo 2.º\n\n1 - Cabe ao Instituto do Emprego e Formação Profissional superintender e dirigir a execução do Programa de Construção de Novos Centros de Formação Profissional e de Reabilitação Profissional.\n\n2 - Os encargos com a execução do Programa serão suportados por verbas inscritas no orçamento do Instituto do Emprego e Formação Profissional e por outras que venham a ser atribuídas quer no âmbito dos acordos com entidades internacionais quer no âmbito do orçamento da Segurança Social - PIDDAC para construção de novos centros de formação profissional.\n\n> Alterado pelo/a [Decreto-Lei n.º 151/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1986-229080), publicado em 1986-06-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:397915:por",
+    "alterador": "pt:dre:229080:por"
+  }
+]

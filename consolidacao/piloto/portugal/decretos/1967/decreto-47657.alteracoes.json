@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º\n\nOs serviços técnicos são constituídos por quatro divisões distintas no seu ramo de actividade, trabalhando em íntima colaboração: Divisão de Medicina, Divisão de Veterinária, Divisão de Entomologia e Divisão de Investigação.",
+    "depois": "###### Artigo 8.º\n\nOs serviços técnicos são constituídos por quatro divisões distintas no seu ramo de actividade, trabalhando em íntima colaboração: Divisão de Medicina, Divisão de Veterinária, Divisão de Entomologia e Divisão de Investigação.\n\n§ único. Os Serviços Técnicos da Missão de Combate às Tripanossomíases de Moçambique são constituídos, apenas, pelas divisões de medicina e investigação.\n\n> Alterado pelo/a [Decreto n.º 512/73](https://diariodarepublica.pt/dr/detalhe/decreto/512-1973-413202), publicado em 1973-10-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:310245:por",
+    "alterador": "pt:dre:413202:por"
+  }
+]

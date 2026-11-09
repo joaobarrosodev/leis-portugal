@@ -1,0 +1,38 @@
+{
+  "id": "pt:dre:579342:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "1 - O operador portuário prestará, com vista a garantir as suas obrigações perante a autoridade portuária, caução nos seguintes montantes:\n\na) Nos portos de Lisboa e do Douro e Leixões:\n\n1000000$00, se o movimento de mercadorias por ele previsto ou realizado no ano anterior for igual ou inferior a 10% da tonelagem movimentada no porto;\n\n2000000$00, se o movimento for superior a 10%, mas não a 30%;\n\n5000000$00, se o movimento for superior a 30%;\n\nb) No porto de Setúbal, a caução será de montante equivalente a 50% dos referidos na alínea a);\n\nc) Nos portos de Aveiro, Figueira da Foz e Viana do Castelo, as cauções serão de montante equivalente a 20% dos referidos na alínea a);\n\nd) Nos outros portos, a caução será de montante equivalente a 10% dos referidos na alínea a).\n\n2 - As cauções serão prestadas em numerário, podendo ser substituídas por garantias bancárias ou seguros equivalentes que satisfaçam os requisitos e finalidades do presente diploma.\n\n3 - Os montantes fixados no n.º 1 deste artigo poderão ser revistos por despacho do ministro da tutela, tendo em conta a evolução dos custos das operações portuárias.\n\n4 - O operador portuário que se dedique exclusivamente à actividade de conferência e o operador portuário de superintendência de cargas prestarão caução no montante de um terço dos valores previstos nos números anteriores.",
+      "alterador": 2
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "",
+      "texto": "1 - A taxa anual a que se refere o artigo 6.º deste diploma é fixada, para o operador portuário geral, nos seguintes valores:\n\nLisboa e Douro e Leixões - 1800000$00;\n\nSetúbal - 1200000$00;\n\nAveiro, Figueira da Foz e Viana do Castelo - 800000$00;\n\nOutros portos - 400000$00.\n\n2 - A presente taxa será revista no prazo de 1 ano, nos termos do artigo 6.º\n\n3 - O operador portuário especializado pagará uma taxa correspondente a dois terços das taxas fixadas no n.º 1.\n\n4 - O operador portuário que se dedique exclusivamente à actividade de conferência e o operador portuário de superintendência de cargas pagarão uma taxa igual a um terço das taxas fixadas no número anterior.",
+      "alterador": 2
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "",
+      "texto": "1 - É exigido ao operador portuário, como requisito necessário ao licenciamento e ao exercício da actividade, o seguinte capital realizado:\n\na) Lisboa e Douro e Leixões - 30000000$00;\n\nb) Setúbal - 15000000$00;\n\nc) Aveiro, Figueira da Foz e Viana do Castelo - 5000000$00;\n\nd) Outros portos - 3000000$00.\n\n2 - Quando o operador portuário pretender obter licença para operar em mais de um dos portos indicados nas alíneas a), b) e c) do número anterior, o requisito de capital será o resultante do somatório do que for exigido para cada um dos portos em que esteja ou pretenda ser licenciado.\n\n3 - Ao operador portuário que se dedique exclusivamente à actividade de conferência e ao operador portuário de superintendência de cargas será exigido, como requisito necessário ao licenciamento, o capital social correspondente a um terço dos fixados no n.º 1.",
+      "alterador": 2
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "",
+      "texto": "1 - O operador portuário terá de possuir nos seus quadros permanentes um número mínimo de hierarquias e trabalhadores de base correspondente a 30% dos utilizados pelo operador no ano anterior ou dos estimados necessários no caso de novos operadores, sem prejuízo do disposto no artigo 27.º\n\n2 - O número mínimo previsto no número anterior será sempre arredondado por excesso e não pode ser inferior ao número de trabalhadores, a fixar pelo Instituto do Trabalho Portuário, necessários à formação de uma equipa para realização de cada tipo de operação para que o operador estiver licenciado.\n\n3 - Sempre que, seja qual for o motivo, o número de trabalhadores portuários do quadro permanente do operador portuário não seja suficiente para integrar as equipas de trabalho, serão requisitados os trabalhadores portuários do contingente comum previsto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto, que forem necessários para as complementar.\n\n4 - O número mínimo de hierarquias e trabalhadores de base previsto no n.º 1 deste artigo será fixado pelo Instituto do Trabalho Portuário com base em critérios de natureza exclusivamente técnica e não prejudica a composição das equipas constantes de regulamentação colectiva em vigor.\n\n5 - O cálculo previsto no n.º 1 será feito tomando por base a equipa correspondente à actividade principal do operador portuário em causa.\n\n6 - O disposto no n.º 1 não se aplica nos portos onde estejam constituídos, e em actividade, órgãos de gestão bipartida (OGB) ou organizações ou estruturas previstas no n.º 3 do artigo 2.º do [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: aditado n.º 6 ao art. 21.º — aplicado.",
+    "Alterador 2: nova redação do n.º 4 do art. 7.º, do n.º 4 do art. 19.º e do n.º 3 do art. 20.º, mantendo os restantes números — aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

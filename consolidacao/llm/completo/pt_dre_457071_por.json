@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:457071:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "O recrutamento para o lugar de mordomo faz-se, mediante concurso, de entre:\n\na) Encarregados de pessoal auxiliar, auxiliares administrativos posicionados no escalão 5 ou superior e fiéis de armazém e auxiliares técnicos de sala também no escalão 5 ou superior, todos com classificação de Muito bom nos últimos três anos;\n\nb) Indivíduos habilitados com o curso geral do ensino secundário ou equiparado e formação e experiência profissional adequadas.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (DL 256/93): nova redação integral do art. 4.º: aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

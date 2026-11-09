@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:204379:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "Pagamento do apoio financeiro",
+      "texto": "1 - O pagamento do apoio financeiro é da responsabilidade do IEFP, I. P., mediante apuramentos trimestrais dos montantes a atribuir a cada empregador.\n\n2. Sem prejuízo do disposto no artigo seguinte, o pagamento do apoio financeiro é efetuado nos prazos seguintes:\n\na) Até ao dia 30 de abril, relativamente ao trimestre correspondente aos meses de janeiro, fevereiro e março;\n\nb) Até ao dia 31 de julho, relativamente ao trimestre correspondente aos meses de abril, maio e junho;\n\nc) Até ao dia 31 de outubro, relativamente ao trimestre correspondente aos meses de julho, agosto e setembro;\n\nd) Até ao dia 31 de janeiro, relativamente ao trimestre correspondente aos meses de outubro, novembro e dezembro.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Suspensão e cessação do apoio financeiro",
+      "texto": "1 - Sempre que seja detetada a não verificação dos requisitos que condicionam a atribuição do Incentivo, o IEFP, I. P., suspende o pagamento do apoio financeiro ao empregador até à respetiva regularização, a efetuar até ao termo da verificação trimestral seguinte.\n\n2. A verificação trimestral é efetuada nos prazos seguintes:\n\na) Até ao dia 25 de abril, relativamente ao trimestre correspondente aos meses de janeiro, fevereiro e março;\n\nb) Até ao dia 25 de julho, relativamente ao trimestre correspondente aos meses de abril, maio e junho;\n\nc) Até ao dia 25 de outubro, relativamente ao trimestre correspondente aos meses de julho, agosto e setembro;\n\nd) Até ao dia 25 de janeiro, relativamente ao trimestre correspondente aos meses de outubro, novembro e dezembro.\n\n3. O pagamento do apoio financeiro ao empregador é retomado no apuramento trimestral em que se verifique a respetiva regularização.\n\n4. O Incentivo cessa no caso de cessação do contrato de trabalho ou de não regularização da situação referida no n.º 1.\n\n5. Para efeito do pagamento do apoio financeiro, a regularização referida no n.º 1 não pode ter lugar após o termo de vigência da presente Portaria.\n\n6. O empregador deve restituir ao IEFP, I.P., os eventuais montantes indevidamente recebidos, sem prejuízo de participação criminal por eventuais indícios da prática do crime de fraude na obtenção de subsídio de natureza pública.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 17/2014, art. 1.º: art. 4.º já com a nova redação no texto atual: sem mudança",
+    "Art. 7.º: nova redação do n.º 1, n.º 2 mantido: aplicado",
+    "Art. 8.º: nova redação do n.º 1, n.os 2 a 6 mantidos: aplicado",
+    "Arts. 2.º e 3.º: efeitos e vigência, não textuais"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

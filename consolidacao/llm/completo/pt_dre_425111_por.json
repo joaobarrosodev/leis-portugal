@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:425111:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1. O rendeiro tem o direito de remir o contrato, tornando-se dono da terra pelo pagamento do preço que for fixado pela comissão arbitral.\n\n2. Este preço será determinado pelo valor potencial da terra, excluídas as benfeitorias, tendo em conta o estado em que se encontrava a terra no início do contrato.\n\n3. Depositado na Caixa Geral de Depósitos o montante do preço referido no número anterior e paga a respectiva sisa, a comissão arbitral efectuará a transferência, a favor do rendeiro, dos bens remidos.\n\n4. As certidões ou fotocópias notariais da deliberação da comissão referida no número anterior são havidas, para todos os efeitos, como escrituras públicas.\n\n5. O direito conferido pelo n.º 1 deste artigo exerce-se independentemente das áreas mínimas de unidade de cultura fixadas pela [Portaria n.º 202/70](https://diariodarepublica.pt/dr/detalhe/portaria/202-1970-225977), de 21 de Abril.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, artigo único: nova redação do artigo 5.º; n.os 1 a 4 mantidos, aditado o n.º 5."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

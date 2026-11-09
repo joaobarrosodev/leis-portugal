@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:413845:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1. O pessoal nomeado ou contratado que actualmente presta serviço na Biblioteca Geral da Universidade de Coimbra será provido em lugares idênticos ou de categoria equivalente do quadro anexo ao presente diploma, mediante lista aprovada pelo Ministro da Educação Nacional e publicada no Diário do Governo, independentemente de outras formalidades, salvo a anotação das novas situações pelo Tribunal de Contas, mantendo-se válidos os respectivos contratos até à publicação da referida lista.\n\n2. O Ministro da Educação Nacional poderá livremente nomear os actuais funcionários da Biblioteca para lugares de categoria imediatamente superior previstos no novo quadro, desde que para tanto possuam as habilitações legais.\n\n3. O pessoal contratado que não for possível prover nos termos previstos no n.º 1 deste artigo transita para a Biblioteca Geral na situação em que se encontrar à data da publicação deste decreto-lei.\n\n4. Os actuais funcionários do quadro da Biblioteca que não for possível prover nos termos do n.º 1 deste artigo continuarão ao serviço, sem perda dos direitos adquiridos e na situação de supranumerários ao quadro.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (Decreto n.º 19/77), art. 1.º: altera a categoria do cargo de fotógrafo de 3.ª classe no quadro (mapa anexo, só em imagem); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do art. 4.º (n.os 1, 3 e 4; n.º 2 mantido)",
+    "Alterador 1, art. 2.º: norma autónoma sobre contratação além do quadro - não altera o original",
+    "Alterador 2: alteração da categoria no mapa (imagem) e normas autónomas - não aplicadas"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:194801:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1 a 5 (DRR n.os 3/87/A, 28/87/A, 35/90/A, 19/92/A e 4/93/A) substituem ou aditam lugares ao quadro de pessoal anexo, que só vem em imagem (ver documento original); não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1, artigo 1.º: substitui partes do quadro anexo (imagem); não aplicado.",
+    "Alterador 2, artigo 1.º: substitui a parte do pessoal de enfermagem do quadro (imagem); não aplicado.",
+    "Alterador 3, artigo 1.º: adita um lugar ao quadro (mapa em imagem); não aplicado.",
+    "Alterador 4, artigo 1.º: adita dois lugares ao quadro (mapa em imagem); não aplicado.",
+    "Alterador 5, artigo 1.º: substitui o quadro anexo (imagem); não aplicado. Os artigos 2.º a 4.º dos alteradores são normas próprias."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

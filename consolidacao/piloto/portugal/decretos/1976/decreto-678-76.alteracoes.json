@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "76.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 76.º\n\nO ingresso nos quadros permanentes dos alunos que tenham concluído os cursos da Academia Militar, incluindo o tirocínio, efectua-se no posto de alferes, sendo a antiguidade no posto referida a 1 de Novembro do ano civil seguinte àquele em que tiver início o tirocínio.",
+    "depois": "###### Artigo 76.º\n\n1 - O ingresso nos quadros permanentes dos alunos que tenham concluído os cursos da Academia Militar, incluindo o tirocínio, efectua-se no posto de alferes quando tenham sido graduados em aspirantes a oficial no início do tirocínio.\n\n2 - O ingresso nos quadros permanentes dos alunos que tenham concluído os cursos da Academia Militar, incluindo o tirocínio, efectua-se no posto de tenente quando tenham sido graduados em alferes alunos no início do 6.º ano do respectivo curso.\n\n3 - A antiguidade no posto é referida ao dia imediato ao do termo daquele tirocínio.\n\n4 - O ingresso nos quadros permanentes dos alunos da Força Aérea que tenham concluído os cursos na Academia Militar, incluindo o tirocínio, continuará a reger-se pela legislação em vigor na Força Aérea.\n\n> Alterado pelo/a [Decreto-Lei n.º 152/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-1980-474511), publicado em 1980-05-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:408727:por",
+    "alterador": "pt:dre:474511:por;pt:dre:227594:por"
+  },
+  {
+    "artigo": "81.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 81.º\n\nEm cada um dos diferentes cursos há prémios pecuniários, honoríficos ou outros de natureza especial a conceder aos alunos, nas condições que forem estabelecidas em regulamento próprio a promulgar por portaria dos Chefes dos Estados-Maiores do Exército e da Força Aérea.",
+    "depois": "###### Artigo 81.º\n\nEm cada ano lectivo são concedidos aos alunos prémios de natureza honorífica, nas condições que forem definidas em despacho a aprovar pelo Chefe do Estado-Maior do Exército, sob proposta do comandante da Academia Militar.\n\n> Alterado pelo/a [Decreto-Lei n.º 91/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1986-227594), publicado em 1986-05-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:408727:por",
+    "alterador": "pt:dre:474511:por;pt:dre:227594:por"
+  }
+]

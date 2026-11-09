@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:376021:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Declaração de Rectificação n.º 2440/2010: retifica o aviso n.º 23396/2010 (troca a referência à Lei n.º 48/86 pela Lei n.º 46/86); não contém instrução dirigida ao texto da Lei n.º 48/86; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

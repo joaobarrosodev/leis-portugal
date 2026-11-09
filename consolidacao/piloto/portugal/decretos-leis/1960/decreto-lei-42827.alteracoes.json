@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nA Escola Náutica, na dependência da Direcção-Geral da Marinha, tem por fim ministrar os conhecimentos necessários ao desempenho das funções de capitães, oficiais náuticos, oficiais maquinistas, oficiais radiotelegrafistas e oficiais comissários da marinha mercante.\n\n§ 1.º A Escola Náutica faz a contagem dos tirocínios e passa as cartas das diferentes categorias de oficiais da marinha mercante, que serão registadas na Direcção da Marinha Mercante.\n\n§ 2.º Os tirocínios e demais condições necessárias à concessão das diferentes categorias de oficiais constarão do diploma legal que regular a inscrição marítima.",
+    "depois": "###### Artigo 1.º\n\nA Escola Náutica, na dependência do director-geral dos Serviços de Fomento Marítimo, tem por fim ministrar os conhecimentos necessários ao desempenho das funções de capitães, oficiais náuticos, oficiais maquinistas, oficiais radiotelegrafistas e oficiais comissários da marinha mercante.\n\n§ 1.º A Escola Náutica faz a contagem dos tirocínios e passa as cartas das diferentes categorias de oficiais da marinha mercante, que serão registadas na Direcção da Marinha Mercante.\n\n§ 2.º Os tirocínios e demais condições necessárias à concessão das diferentes categorias de oficiais constarão do diploma legal que regular a inscrição marítima.\n\n> Alterado pelo/a [Decreto-Lei n.º 157/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1970-225837), publicado em 1970-04-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:279227:por",
+    "alterador": "pt:dre:225837:por;pt:dre:312822:por;pt:dre:513800:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º\n\nO corpo docente da Escola Náutica, de nomeação do Ministro da Marinha, compõe-se de:\n\na) Um director - oficial general, da reserva, ou capitão-de-mar-e-guerra, do activo ou da reserva, da classe de marinha, a propor pelo director-geral da Marinha;\n\nb) Professores e instrutores em número julgado conveniente - oficiais superiores ou subalternos da Armada, do activo ou da reserva, a propor pelo director da Escola Náutica.\n\n§ 1.º O director será substituído nos seus impedimentos pelo professor que, como oficial, se lhe seguir em antiguidade.\n\n§ 2.º A nomeação do director é feita por portaria; a dos professores e instrutores por despacho ministerial.",
+    "depois": "###### Artigo 8.º\n\nO corpo docente da Escola Náutica, de nomeação do Ministro da Marinha, compõe-se de:\n\na) Um director - oficial general da Armada, do quadro da reserva, ou capitão-de-mar-e-guerra, dos quadros do activo ou da reserva, a propor pelo director-geral dos Serviços de Fomento Marítimo;\n\nb) Professores e instrutores - oficiais superiores ou subalternos da Armada, dos quadros do activo ou da reserva, ou oficiais da marinha mercante habilitados com o curso complementar da Escola Náutica, a propor pelo director da mesma Escola.\n\n§ 1.º O director será substituído nos seus impedimentos pelo professor oficial da Armada que, como oficial, se lhe seguir em antiguidade.\n\n§ 2.º A nomeação do director é feita por portaria; a dos professores e instrutores por despacho ministerial.\n\n> Alterado pelo/a [Decreto-Lei n.º 157/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1970-225837), publicado em 1970-04-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:279227:por",
+    "alterador": "pt:dre:225837:por;pt:dre:312822:por;pt:dre:513800:por"
+  },
+  {
+    "artigo": "11.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 11.º\n\nA Escola Náutica disporá de um conselho administrativo composto por:\n\nPresidente - o director.\n\nVogal - o professor que, como oficial, se seguir em antiguidade ao director.\n\nSecretário-tesoureiro - o secretário da Escola.",
+    "depois": "###### Artigo 11.º\n\nA administração financeira da Escola Náutica pertencerá ao conselho administrativo que for designado por despacho do Ministro da Marinha.\n\n> Alterado pelo/a [Decreto-Lei n.º 157/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1970-225837), publicado em 1970-04-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:279227:por",
+    "alterador": "pt:dre:225837:por;pt:dre:312822:por;pt:dre:513800:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\nAs condições de admissão à matrícula nos vários cursos subdividem-se em condições gerais e condições especiais e são as que a seguir se indicam:\n\nI) Para a matrícula no 1.º ano do curso geral:\n\nA) Condições gerais:\n\n1.ª Ser português;\n\n2.ª Ter bom comportamento moral e civil, comprovado pelo certificado do registo criminal, e não possuir ideias subversivas ou contrárias à ordem social constitucionalmente estabelecida;\n\n3.ª Ter autorização do pai ou tutor, quando for menor;\n\n4.ª Ter aptidão física verificada por uma junta de saúde;\n\n5.ª Obter aprovação no exame de aptidão.\n\nB) Condições especiais:\n\n1) Para o curso de pilotagem:\n\n1.ª Ter de 16 a 25 anos de idade, feitos no ano civil da admissão;\n\n2.ª Ter obtido aprovação nas disciplinas do 3.º ciclo do ensino liceal - alínea f) do artigo 5.º do [Decreto-Lei n.º 36507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36507-1947-637471), de 17 de Setembro de 1947.\n\n2) Para o curso de máquinas marítimas:\n\n1.ª Ter de 16 a 30 anos de idade, feitos no ano civil da admissão;\n\n2.ª Ter obtido aprovação em todas as disciplinas e aulas práticas que constituem o 2.º ano do curso de máquinas e electrotecnia dos institutos industriais;\n\n3.ª Ter aptidão profissional como serralheiro mecânico ou como torneiro mecânico, a verificar pela execução de artefactos em prova eliminatória que antecederá o exame de aptidão.\n\n3) Para o curso de radiotelegrafia:\n\n1.ª Ter de 16 a 25 anos de idade, feitos no ano civil da admissão;\n\n2.ª Ter obtido aprovação nas disciplinas do 3.º ciclo do ensino liceal - alínea f) do artigo 5.º do [Decreto-Lei n.º 36507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36507-1947-637471), de 17 de Setembro de 1947 - ou em todas as disciplinas e aulas práticas que constituem o 2.º ano do curso de máquinas e electrotecnia dos institutos industriais.\n\n4) Para o curso de comissariado:\n\n1.ª Ter de 16 a 25 anos de idade, feitos no ano civil da admissão;\n\n2.ª Ter obtido aprovação nas disciplinas do 3.º ciclo do ensino liceal - alínea g) do artigo 5.º do [Decreto-Lei n.º 36507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36507-1947-637471), de 17 de Setembro de 1947 - ou em todas as disciplinas e aulas práticas que constituem o 2.º ano dos institutos comerciais.\n\nII) Para a matrícula no 2.º ano do curso geral:\n\nCondição única: ter obtido aprovação em todas as disciplinas e instruções que constituem o ano anterior.\n\nIII) Para a matrícula no curso complementar:\n\nA) Condição geral:\n\nÚnica: ter o curso geral.\n\nB) Condições especiais:\n\n1) Para o curso de pilotagem:\n\n1.ª Ter, pelo menos, a categoria de segundo-piloto;\n\n2.ª Não ter idade superior a 40 anos, feitos no ano civil da admissão.\n\n2) Para o curso de máquinas marítimas:\n\n1.ª Ser maquinista de 2.ª classe;\n\n2.ª Não ter idade superior a 40 anos, feitos no ano civil da admissão.\n\n3) Para o curso de radiotelegrafia:\n\n1.ª Ser radiotelegrafista de 2.ª classe e ter efectuado nesta categoria 5400 horas de navegação;\n\n2.ª Não ter idade superior a 40 anos, feitos no ano civil da admissão.\n\n4) Para o curso de comissariado:\n\n1.ª Ser comissário de 2.ª classe, ter 6 anos de permanência nesta categoria e nela ter feito, pelo menos, 540 dias de embarque em navios portugueses de passageiros, fora dos portos de armamento;\n\n2.ª Não ter idade superior a 40 anos, feitos no ano civil da admissão.\n\n§ único. A tabela de incapacidade física para admissão na Escola Náutica constará de diploma especial, podendo a junta solicitar qualquer exame radiológico ou análise ao Hospital da Marinha ou a outro estabelecimento, a expensas do candidato.",
+    "depois": "###### Artigo 6.º\n\nAs condições de admissão à matrícula nos vários cursos subdividem-se em condições gerais e condições especiais e são as que a seguir se indicam:\n\nI) Para a matrícula no 1.º ano do curso geral:\n\nA) Condições gerais:\n\n1.ª Ser português;\n\n2.ª Ter bom comportamento moral e civil, comprovado pelo certificado do registo criminal, e não possuir ideias subversivas ou contrárias à ordem social constitucionalmente estabelecida;\n\n3.ª Ter autorização do pai ou tutor, quando for menor;\n\n4.ª Ter aptidão física verificada por uma junta de saúde;\n\n5.ª Obter aprovação no exame de aptidão.\n\nB) Condições especiais:\n\n1) Para o curso de pilotagem:\n\n1.ª Ter de 16 a 25 anos de idade, feitos no ano civil da admissão;\n\n2.ª Ter obtido aprovação em todas as disciplinas do 6.º ano liceal, alínea f), do artigo 5.º do [Decreto-Lei n.º 36507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36507-1947-637471), de 17 de Setembro de 1947;\n\n2) Para o curso de máquinas marítimas:\n\n1.ª Ter de 16 a 30 anos de idade, feitos no ano civil da admissão;\n\n2.ª Ter um dos seguintes cursos das escolas industriais estabelecidos no [Decreto-Lei n.º 37028](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37028-1948-384413) e no [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), ambos de 25 de Agosto de 1948:\n\na) De formação de serralheiro, de montador electricista, de electromecânica de precisão, incluindo a secção preparatória para os institutos médios;\n\nb) De especialização do curso de serralheiro: torneiro-fresador, ajustador de precisão, maquinista, mecânico de automóveis e desenhador industrial.\n\n3.ª Ter aptidão profissional como serralheiro mecânico ou como torneiro mecânico, a verificar pela execução de artefactos em prova eliminatória que antecederá o exame de aptidão.\n\n3) Para o curso de radiotelegrafia:\n\n1.ª Ter de 16 a 25 anos de idade, feitos no ano civil da admissão;\n\n2.ª Ter obtido aprovação em todas as disciplinas que constituem o 6.º ano liceal, alínea f), do artigo 5.º do [Decreto-Lei n.º 36507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36507-1947-637471), de 17 de Setembro de 1947, ou num dos seguintes cursos:\n\na) De especialização do curso de montador electricista: de montador radioelectricista, a que se refere o [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948;\n\nb) De montador radiotécnico, a que se refere a [Portaria n.º 15755](https://diariodarepublica.pt/dr/detalhe/portaria/15755-1956-306274), de 6 de Março de 1956.\n\n4) Para o curso de comissariado:\n\n1.ª Ter de 16 a 25 anos de idade, feitos no ano civil da admissão;\n\n2.ª Ter obtido aprovação em todas as disciplinas que constituem o 6.º ano liceal, alínea g), do artigo 5.º do [Decreto-Lei n.º 36507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36507-1947-637471), de 17 de Setembro de 1947, ou nas disciplinas de Matemática (1.º ano), Geografia Geral e Económica, História Geral e Económica (1.ª ano), Organização Política da Nação e Economia Corporativa (1.º ano), curso prático de inglês (1.º ano), a que se refere o artigo 11.º do [Decreto n.º 38231](https://diariodarepublica.pt/dr/detalhe/decreto/38231-1951-331053), de 23 de Abril de 1951.\n\nII) Para a matrícula no 2.º ano do curso geral:\n\nCondição única: ter obtido aprovação em todas as disciplinas e instruções que constituem o ano anterior.\n\nIII) Para a matrícula no curso complementar:\n\nA) Condição geral:\n\nÚnica: ter o curso geral.\n\nB) Condições especiais:\n\n1) Para o curso de pilotagem:\n\n1.ª Ter, pelo menos, a categoria de segundo-piloto;\n\n2.ª Não ter idade superior a 40 anos, feitos no ano civil da admissão.\n\n2) Para o curso de máquinas marítimas:\n\n1.ª Ser maquinista de 2.ª classe;\n\n2.ª Não ter idade superior a 40 anos, feitos no ano civil da admissão.\n\n3) Para o curso de radiotelegrafia:\n\n1.ª Ser radiotelegrafista de 2.ª classe e ter efectuado nesta categoria 5400 horas de navegação;\n\n2.ª Não ter idade superior a 40 anos, feitos no ano civil da admissão.\n\n4) Para o curso de comissariado:\n\n1.ª Ser comissário de 2.ª classe, ter 6 anos de permanência nesta categoria e nela ter feito, pelo menos, 540 dias de embarque em navios portugueses de passageiros, fora dos portos de armamento;\n\n2.ª Não ter idade superior a 40 anos, feitos no ano civil da admissão.\n\n§ único. A tabela de incapacidade física para admissão na Escola Náutica constará de diploma especial, podendo a junta solicitar qualquer exame radiológico ou análise ao Hospital da Marinha ou a outro estabelecimento, a expensas do candidato.\n\n> Alterado pelo/a [Decreto-Lei n.º 47724](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47724-1967-312822), publicado em 1967-05-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:279227:por",
+    "alterador": "pt:dre:225837:por;pt:dre:312822:por;pt:dre:513800:por"
+  },
+  {
+    "artigo": "20.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 20.º\n\nEm caso de reconhecida urgência poderá o Ministro da Marinha, sob proposta da Escola Náutica, mandar proceder a uma segunda chamada de admissão para candidatos que, não tendo as habilitações fixadas no artigo 6.º, tenham, todavia, habilitações não inferiores às que vigoraram até à publicação deste decreto-lei.\n\n> Aditado pelo/a [Decreto-Lei n.º 43246](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43246-1960-513800), publicado em 1960-10-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:279227:por",
+    "alterador": "pt:dre:225837:por;pt:dre:312822:por;pt:dre:513800:por"
+  }
+]

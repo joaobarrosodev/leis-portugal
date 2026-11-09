@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nSe o prémio referido nos artigos 5.º e 6.º se destinar a contemplar aluno ou alunos de mais do que um estabelecimento do mesmo ou de diferente grau de ensino ou de mais do que um distrito escolar, a efectuação do depósito ou a instituição da renda vitalícia far-se-á em nome do Instituto de Tecnologia Educativa, respeitando-se em tudo o mais o estabelecido naqueles artigos.",
+    "depois": "###### Artigo 7.º\n\nSe o prémio referido nos artigos 5.º e 6.º se destinar a contemplar aluno ou alunos de mais de um estabelecimento do mesmo ou de diferente grau de ensino ou de mais de um distrito escolar, a efectuação do depósito ou a instituição da renda vitalícia far-se-ão em nome da respectiva direcção-geral de ensino, respeitando-se, em tudo o mais, o estabelecido naqueles artigos.\n\n> Alterado pelo/a [Decreto-Lei n.º 43/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1986-193472), publicado em 1986-03-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:370786:por",
+    "alterador": "pt:dre:193472:por"
+  },
+  {
+    "artigo": "12.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º\n\n1 - O quantitativo pecuniário do prémio será levantado pelo director de escola, director de distrito escolar, conselho directivo ou por quem as suas vezes fizer, consoante o caso.\n\n2 - Quando se verifique o disposto no artigo 7.º do presente diploma, o levantamento será efectuado pelo Instituto de Tecnologia Educativa, que, de imediato, deverá pôr à disposição do director de escola ou escolas, do director de distrito ou do conselho directivo do estabelecimento de ensino a que pertença o aluno ou alunos premiados as respectivas importâncias.",
+    "depois": "###### Artigo 12.º\n\n1 - O quantitativo pecuniário do prémio será levantado pelo director de escola, director de distrito escolar, conselho directivo ou por quem as suas vezes fizer, consoante o caso.\n\n2 - Quando se verifique o disposto no artigo 7.º do presente diploma, o levantamento será efectuado pela respectiva direcção-geral de ensino, que, de imediato, deverá pôr à disposição do director da escola ou escolas, do director de distrito ou do conselho directivo do estabelecimento de ensino a que pertença o aluno ou alunos premiados as respectivas importâncias.\n\n> Alterado pelo/a [Decreto-Lei n.º 43/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1986-193472), publicado em 1986-03-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:370786:por",
+    "alterador": "pt:dre:193472:por"
+  }
+]

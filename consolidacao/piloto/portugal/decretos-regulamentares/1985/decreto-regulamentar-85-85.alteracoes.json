@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1 - No transporte rodoviário e ferroviário de caixas, isoladas ou agrupadas em paletas, a altura de carga no veículo não deverá ser superior a 8 unidades.\n\n2 - Para distâncias superiores a 100 km, o transporte deverá efectuar-se em condições de ambiente controlado de forma a serem evitadas temperaturas superiores a 18º ou inferiores a 12º Celsius.",
+    "depois": "###### Artigo 2.º\n\n1 - No transporte rodoviário e ferroviário de caixas, isoladas ou agrupadas em paletas, a altura de carga no veículo não deverá ser superior a 8 unidades.\n\n2 - A partir de 1 de Janeiro de 1987, para distâncias superiores a 100 km, o transporte deverá efectuar-se em condições de ambiente controlado, de forma a serem evitadas temperaturas superiores a 18ºC ou inferiores a 12ºC.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 10/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1987-663173), publicado em 1987-02-04.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:250642:por",
+    "alterador": "pt:dre:663173:por"
+  }
+]

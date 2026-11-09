@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "24.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 24.º\n\nOs lugares de bibliotecário dos institutos superiores de engenharia podem ser desempenhados por licenciados em Engenharia.",
+    "depois": "###### Artigo 24.º\n\n1. O provimento dos lugares de bibliotecário dos institutos superiores de engenharia será feito nos termos da legislação aplicável.\n\n2. Podem, contudo, ser providos naqueles licenciados em Engenharia, quando se verifique a ausência de candidatos habilitados com o respectivo título.\n\n> Alterado pelo/a [Decreto-Lei n.º 326/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1975-337217), publicado em 1975-06-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:238223:por",
+    "alterador": "pt:dre:337217:por"
+  }
+]

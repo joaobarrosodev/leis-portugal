@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:556814:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 93/72), artigo 1.º: acrescenta lugares ao quadro do pessoal do mapa anexo a que se refere o artigo 4.º; o mapa só vem em imagem, não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1 art. 1.º: acrescenta lugares ao mapa do quadro de pessoal (anexo em imagem); não aplicada (ver nao_aplicavel).",
+    "Alterador 1 art. 2.º: autorizações orçamentais; não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

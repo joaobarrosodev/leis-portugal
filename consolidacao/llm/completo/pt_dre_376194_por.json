@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:376194:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - A Companhia Portuguesa de Resseguros, S. A. R. L., tem inicialmente como accionistas as empresas públicas do sector de seguros e os fundos autónomos existentes no âmbito da actividade seguradora.\n\n2 - Poderão igualmente ser accionistas o Estado e quaisquer outras entidades públicas, incluindo as empresas públicas ou as sociedades de capitais públicos, umas e outras sem distinção de ramos de actividade, e, bem assim, sem prejuízo do estabelecido na [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, pessoas singulares ou colectivas do sector privado.\n\n3 - O capital estatutário inicial é de 250000 contos, que se encontra integralmente realizado.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 303/88 art. 1.º: nova redação do n.º 2 do art. 3.º; aplicada e depois substituída",
+    "DL 303/88 arts. 2.º e 3.º: alteram os Estatutos aprovados pelo DL 426/82 (outro diploma); ignorados",
+    "DL 126/92 artigo único: nova redação do n.º 2 do art. 3.º (n.º 1 mantido); aplicada, n.º 3 mantido"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:220759:por",
+  "artigos": [
+    {
+      "chave": "17.º",
+      "epigrafe": "Núcleos de apoio administrativo",
+      "texto": "1 - As divisões das zonas agrárias dispõem de núcleos de apoio administrativo, orientados por chefes de secção, directamente dependentes do respectivo chefe de zona, competindo-lhes assegurar a execução das tarefas de natureza administrativa, designadamente no âmbito da administração do pessoal, financeira, patrimonial e geral necessárias ao desenvolvimento das actividades das zonas agrárias.\n\n2 - Junto do Centro de Estudos Vitivinícolas do Douro, sediado na Régua, funciona uma secção administrativa.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1, 3, 4 e 5 (e art. 7.º do alterador 2) alteram o quadro de pessoal (mapa I anexo), que não está no texto atual por artigos e cujos mapas só vêm em imagem; não aplicados.",
+  "instrucoes": [
+    "Alt. 1 (DN 88/90): cria lugar no mapa I do quadro de pessoal — não aplicável (mapa).",
+    "Alt. 2 (DR 43/90), art. 4.º: nova redação do n.º 1 do artigo 17.º, n.º 2 '...' mantido — aplicado.",
+    "Alt. 2, art. 5.º: altera o DR 38/87 — ignorado (outro diploma).",
+    "Alt. 2, arts. 6.º-8.º: transições de pessoal e mapas anexos em imagem — não aplicáveis.",
+    "Alt. 3, 4 e 5 (Portarias 296/92, 831/92, 387/93): alteram o quadro de pessoal por mapas em imagem — não aplicáveis.",
+    "Alt. 6 (DR 12/2007): nova orgânica das DRAP, sem instrução textual dirigida ao DR 63/86 — nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:400040:por",
+  "artigos": [
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "Ao pessoal técnico de inspecção é atribuída uma gratificação mensal no valor correspondente a 20% do respectivo vencimento.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DRR 3/85/M, art. 1.º: nova redação do artigo 9.º (artigo inteiro, sem números); aplicada.",
+    "DRR 3/85/M, art. 2.º: entrada em vigor do próprio diploma; não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

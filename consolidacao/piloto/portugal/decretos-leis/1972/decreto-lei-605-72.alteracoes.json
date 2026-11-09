@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "16.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 16.º\n\n1. As circunscrições são serviços externos da Direcção dos Serviços de Construção e, além disso, compete-lhes:\n\na) A execução dos serviços externos das Direcções dos Serviços de Exploração e de Viação Rural nos distritos, das respectivas sedes;\n\nb) Coordenar regionalmente a actividade das direcções distritais;\n\nc) Gerir os parques regionais de equipamento.\n\n2. Aos subdirectores das circunscrições compete superintender na actividade distrital da respectiva circunscrição em tudo quanto respeite às Direcções dos Serviços de Exploração e de Viação Rural.",
+    "depois": "###### Artigo 16.º\n\n1. Às circunscrições de estradas compete, na área da sua jurisdição e dentro da orientação estabelecida superiormente, o exercício das atribuições necessárias à prossecução dos fins da Junta, designadamente:\n\na) Elaborar, em coordenação com os órgãos de planeamento regional, propostas de planeamento da rede rodoviária regional, tendo em conta o planeamento nacional;\n\nb) Coordenar e assegurar a gestão dos programas anuais de obras a cargo das direcções de estradas;\n\nc) Elaborar os projectos de construção e de grande reparação de estradas e outros estudos que lhes sejam atribuídos;\n\nd) Apoiar as direcções de estradas directamente responsáveis pela execução das obras;\n\ne) Gerir o parque regional de estradas.\n\n2. No parque regional de estradas constituir-se-á a reserva de máquinas da respectiva circunscrição e nele funcionará a oficina de mecânica que apoiará as oficinas distritais.\n\n> Alterado pelo/a [Decreto-Lei n.º 771/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/771-1976-409170), publicado em 1976-10-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:163788:por",
+    "alterador": "pt:dre:409170:por"
+  },
+  {
+    "artigo": "17.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 17.º\n\nSão exercidos pelas direcções distritais os serviços de conservação, reparação, arborização, exploração, polícia e cadastro que competem à Direcção dos Serviços de Exploração e os serviços externos da Direcção dos Serviços de Viação Rural.",
+    "depois": "###### Artigo 17.º\n\nAs direcções de estradas são serviços distritais das circunscrições de estradas, competindo-lhes, a nível distrital e dentro da orientação estabelecida superiormente, o exercício das atribuições necessárias à prossecução dos fins da Junta, designadamente:\n\na) Elaborar, em coordenação com a respectiva circunscrição e com as autarquias e outros órgãos locais, os programas de obras e de outros trabalhos com aquelas correlacionados;\n\nb) Elaborar projectos e outros estudos de extensão e âmbito restritos;\n\nc) Fiscalizar e administrar as obras em regime de empreitadas em curso no respectivo distrito;\n\nd) Realizar e fiscalizar as obras que lhes sejam atribuídas em regime de administração directa;\n\ne) Garantir as operações de conservação, arborização, sinalização, demarcação e polícia e elaborar o cadastro da rede de estradas distrital e seus pertences;\n\nf) Gerir os parques distritais de estradas.\n\n> Alterado pelo/a [Decreto-Lei n.º 771/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/771-1976-409170), publicado em 1976-10-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:163788:por",
+    "alterador": "pt:dre:409170:por"
+  }
+]

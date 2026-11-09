@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "23.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 23.º\n\nOs inspectores provinciais, inspectores provinciais-adjuntos, chefes de serviços de inspecção bancária, chefes de serviços de inspecção de seguros, chefes de serviços de operações com o exterior, peritos juristas, actuariais e económicos, inspectores dos serviços de inspecção bancária e inspectores dos serviços de inspecção de seguros, das Inspecções Provinciais de Crédito e Seguros de Angola e Moçambique, terão direito ao uso de cartões especiais de identidade, de modelo a aprovar pelos respectivos governos-gerais.",
+    "depois": "###### Artigo 23.º\n\nOs inspectores provinciais, inspectores provinciais-adjuntos, técnicos-directores, chefes de serviços de inspecção bancária, chefes de serviços de inspecção de seguros, chefes de serviços de operações com o exterior, peritos juristas, actuariais e económicos, inspectores dos serviços de inspecção bancária e inspectores dos serviços de inspecção de seguros, das Inspecções Provinciais de Crédito e Seguros de Angola e Moçambique, terão direito ao uso de cartões de identidade, de modelo a aprovar pelos respectivos Governos-Gerais.\n\n> Alterado pelo/a [Decreto-Lei n.º 402/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1972-689838), publicado em 1972-10-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:643948:por",
+    "alterador": "pt:dre:689838:por"
+  }
+]

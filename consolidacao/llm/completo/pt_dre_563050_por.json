@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:563050:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 art. 3.º: nova redação do anexo (lista de domínios), que não consta do texto por artigos.",
+  "instrucoes": [
+    "Alterador 1 art. 1.º: nova redação dos arts. 3.º e 4.º - já refletida no texto atual.",
+    "Alterador 1 art. 2.º: aditamento do art. 5.º - já refletido no texto atual.",
+    "Alterador 1 art. 3.º: anexo - não aplicável (fora dos artigos)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

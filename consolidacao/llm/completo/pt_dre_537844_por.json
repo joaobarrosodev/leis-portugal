@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:537844:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (DL 15/2007), art. 25.º, f): revoga o mapa II anexo 'na parte que respeita aos docentes da educação pré-escolar e dos ensinos básico e secundário' — revogação parcial por matéria de um mapa que só existe em imagem; não aplicada.",
+  "instrucoes": [
+    "Alterador 1, art. 25.º, f): revogação parcial do mapa II (só em imagem) — não aplicada (nao_aplicavel). Restantes alíneas dizem respeito a outros diplomas; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

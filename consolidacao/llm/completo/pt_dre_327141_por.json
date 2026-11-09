@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:327141:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Portaria n.º 53/87 cria um lugar de controlador de trabalhos e extingue um lugar de operador de registo de dados no mapa II (quadro de pessoal), que só vem em imagem; não altera o texto de nenhum artigo.",
+  "instrucoes": [
+    "1.º e 2.º: alteração de lugares no mapa II anexo — não aplicável ao texto dos artigos"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

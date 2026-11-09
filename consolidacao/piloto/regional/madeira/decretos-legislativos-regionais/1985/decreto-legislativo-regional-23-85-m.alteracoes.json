@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nOs prazos de remição do [Decreto Legislativo Regional n.º 17/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1983-444431), de 21 de Dezembro, passam a ser os seguintes:\n\na) Até 31 de Dezembro de 1986 e até 31 de Dezembro de 1989, os contemplados na alínea a) do artigo 1.º, respectivamente;\n\nb) Até 31 de Dezembro de 1991, o contemplado na alínea b) do artigo 1.º",
+    "depois": "###### Artigo 1.º\n\nOs prazos de remição do [Decreto Legislativo Regional n.º 17/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1983-444431), de 21 de Dezembro, passam a ser os seguintes:\n\na) Até 30 de Abril de 1987 e até 30 de Abril de 1990, os contemplados na alínea a) do artigo 1.º, respectivamente;\n\nb) Até 30 de Abril de 1992, o contemplado na alínea b) do artigo 1.º\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 1/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1987-599567), publicado em 1987-01-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:546466:por",
+    "alterador": "pt:dre:599567:por"
+  }
+]

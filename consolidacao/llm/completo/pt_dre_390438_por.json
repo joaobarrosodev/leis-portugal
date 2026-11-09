@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:390438:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DL 48219, art. 1.º: nova redação da base III das bases anexas; as bases não estão no texto atual como artigo próprio com chave (vêm no fim, após as assinaturas), pelo que não há alvo seguro. Nova redação: «A província obriga-se a inscrever nos orçamentos gerais, como despesa obrigatória, as verbas destinadas à liquidação das anuidades do empréstimo a começar em 1969 e até liquidação final da dívida.»",
+  "instrucoes": [
+    "DL 48219, art. 1.º: altera a base III anexa; sem chave correspondente no texto atual, não aplicada.",
+    "DL 48219, arts. 2.º a 4.º: autorização de contrato adicional, isenção e vigência; não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

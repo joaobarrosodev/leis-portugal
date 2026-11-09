@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:392849:por",
+  "artigos": [
+    {
+      "chave": "28.º-A",
+      "epigrafe": "",
+      "texto": "Para efeitos do disposto no presente capítulo, o tempo de serviço efectivo dos oficiais oriundos do quadro permanente e do quadro de complemento do Exército é o resultante do somatório do tempo de serviço efectivo prestado nas forças armadas e do tempo de serviço efectivo prestado na Polícia de Segurança Pública, após a respectiva integração.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 200/90), artigo único: adita o artigo 28.º-A; aditado com o texto do alterador.",
+    "Alterador 2 (Declaração de Retificação n.º 874/2025/2): retifica o Despacho n.º 10847/2025, não o original; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

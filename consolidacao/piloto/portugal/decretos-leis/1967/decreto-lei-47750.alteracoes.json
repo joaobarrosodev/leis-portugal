@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nO prazo estabelecido no corpo do artigo 27.º do [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803), de 2 de Setembro de 1963, é prorrogado até 30 de Setembro de 1967.\n\n§ único. O disposto no artigo 6.º deste diploma é aplicável às importâncias pagas pelos mutuários a partir de 1 de Junho de 1966, relativas à primeira prestação da dívida a que se referem os artigos 25.º e 27.º do citado [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803).",
+    "depois": "###### Artigo 7.º\n\nO prazo estabelecido no corpo do artigo 27.º do [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803), de 2 de Setembro de 1963, é prorrogado até 30 de Setembro de 1968.\n\n§ único. O disposto no artigo 6.º deste diploma é aplicável às importâncias pagas pelos mutuários a partir de 1 de Junho de 1966, relativas à primeira prestação da dívida a que se referem os artigos 25.º e 27.º do citado [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803).\n\n> Alterado pelo/a [Decreto-Lei n.º 48018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48018-1967-388801), publicado em 1967-11-02.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:312227:por",
+    "alterador": "pt:dre:388801:por"
+  }
+]

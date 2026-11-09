@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:349501:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 14-C/97 rectifica o mapa anexo (orçamento da segurança social), cujo texto 'onde se lê' e 'deve ler-se' só vem em imagem; não aplicada.",
+  "instrucoes": [
+    "Rectificação n.º 14-C/97: correção do mapa anexo, só em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

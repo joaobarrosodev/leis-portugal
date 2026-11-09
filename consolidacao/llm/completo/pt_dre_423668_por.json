@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:423668:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Art. 1.º do DR 21/2000: altera a escala salarial (anexo I do original) de acordo com mapa anexo que só vem em imagem ('ver quadro no documento original'); o anexo I nem consta do texto atual; não aplicado.",
+  "instrucoes": [
+    "Art. 1.º: substitui a estrutura indiciária (anexo I) por mapa em imagem; não aplicado.",
+    "Arts. 2.º e 3.º: transição e produção de efeitos; normas próprias, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

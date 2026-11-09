@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\nOs planos anuais de actividade, as bases dos orçamentos ordinários, os orçamentos, as contas e o relatório de gerência das câmaras municipais e das juntas distritais poderão deixar de ser transcritos nas actas das reuniões em que forem apreciados, discutidos e votados desde que os originais sejam assinados pelos membros presentes do corpo administrativo, do conselho municipal ou do conselho do distrito, conforme os casos, e por eles rubricados em todas as folhas, sendo depois arquivados em pasta anexa ao respectivo livro de actas.",
+    "depois": "###### Artigo 5.º\n\n1 - Os planos anuais de actividades, os orçamentos, as contas e os relatórios de gerência das câmaras municipais, assembleias distritais e juntas de freguesia, assim como os regimentos dos órgãos deliberativos das autarquias locais, poderão deixar de ser transcritos nas actas das reuniões em que forem apreciados e aprovados, desde que os originais sejam assinados pelos membros presentes e por eles rubricados em todas as folhas, sendo depois arquivados em pasta anexa ao respectivo livro de actas.\n\n2 - O disposto no número anterior aplica-se ainda às posturas e regulamentos que forem aprovados pelos órgãos deliberativos das autarquias locais, sem prejuízo da respectiva publicação nos termos legais.\n\n> Alterado pelo/a [Decreto-Lei n.º 334/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1982-397481), publicado em 1982-08-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:683987:por",
+    "alterador": "pt:dre:397481:por"
+  }
+]

@@ -12,5 +12,33 @@
     "unidade": [],
     "diploma": "pt:dre:204379:por",
     "alterador": "pt:dre:571061:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º — Pagamento do apoio financeiro\n\n1. O pagamento do apoio financeiro é da responsabilidade do IEFP, I.P., mediante apuramentos trimestrais, a efetuar pelo II, I.P., dos montantes a atribuir a cada empregador.\n\n2. Sem prejuízo do disposto no artigo seguinte, o pagamento do apoio financeiro é efetuado nos prazos seguintes:\n\na) Até ao dia 30 de abril, relativamente ao trimestre correspondente aos meses de janeiro, fevereiro e março;\n\nb) Até ao dia 31 de julho, relativamente ao trimestre correspondente aos meses de abril, maio e junho;\n\nc) Até ao dia 31 de outubro, relativamente ao trimestre correspondente aos meses de julho, agosto e setembro;\n\nd) Até ao dia 31 de janeiro, relativamente ao trimestre correspondente aos meses de outubro, novembro e dezembro.",
+    "depois": "###### Artigo 7.º — Pagamento do apoio financeiro\n\n1 - O pagamento do apoio financeiro é da responsabilidade do IEFP, I. P., mediante apuramentos trimestrais dos montantes a atribuir a cada empregador.\n\n2. Sem prejuízo do disposto no artigo seguinte, o pagamento do apoio financeiro é efetuado nos prazos seguintes:\n\na) Até ao dia 30 de abril, relativamente ao trimestre correspondente aos meses de janeiro, fevereiro e março;\n\nb) Até ao dia 31 de julho, relativamente ao trimestre correspondente aos meses de abril, maio e junho;\n\nc) Até ao dia 31 de outubro, relativamente ao trimestre correspondente aos meses de julho, agosto e setembro;\n\nd) Até ao dia 31 de janeiro, relativamente ao trimestre correspondente aos meses de outubro, novembro e dezembro.\n\n> Alterado pelo/a [Portaria n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/portaria/17-2014-571061), publicado em 2014-01-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:204379:por",
+    "alterador": "pt:dre:571061:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º — Suspensão e cessação do apoio financeiro\n\n1. Sempre que o II, I.P., detete a não verificação dos requisitos que condicionam a atribuição do Incentivo, o IEFP, I.P., suspende o pagamento do apoio financeiro ao empregador até à respetiva regularização, a efetuar até ao termo da verificação trimestral seguinte.\n\n2. A verificação trimestral é efetuada nos prazos seguintes:\n\na) Até ao dia 25 de abril, relativamente ao trimestre correspondente aos meses de janeiro, fevereiro e março;\n\nb) Até ao dia 25 de julho, relativamente ao trimestre correspondente aos meses de abril, maio e junho;\n\nc) Até ao dia 25 de outubro, relativamente ao trimestre correspondente aos meses de julho, agosto e setembro;\n\nd) Até ao dia 25 de janeiro, relativamente ao trimestre correspondente aos meses de outubro, novembro e dezembro.\n\n3. O pagamento do apoio financeiro ao empregador é retomado no apuramento trimestral em que se verifique a respetiva regularização.\n\n4. O Incentivo cessa no caso de cessação do contrato de trabalho ou de não regularização da situação referida no n.º 1.\n\n5. Para efeito do pagamento do apoio financeiro, a regularização referida no n.º 1 não pode ter lugar após o termo de vigência da presente Portaria.\n\n6. O empregador deve restituir ao IEFP, I.P., os eventuais montantes indevidamente recebidos, sem prejuízo de participação criminal por eventuais indícios da prática do crime de fraude na obtenção de subsídio de natureza pública.",
+    "depois": "###### Artigo 8.º — Suspensão e cessação do apoio financeiro\n\n1 - Sempre que seja detetada a não verificação dos requisitos que condicionam a atribuição do Incentivo, o IEFP, I. P., suspende o pagamento do apoio financeiro ao empregador até à respetiva regularização, a efetuar até ao termo da verificação trimestral seguinte.\n\n2. A verificação trimestral é efetuada nos prazos seguintes:\n\na) Até ao dia 25 de abril, relativamente ao trimestre correspondente aos meses de janeiro, fevereiro e março;\n\nb) Até ao dia 25 de julho, relativamente ao trimestre correspondente aos meses de abril, maio e junho;\n\nc) Até ao dia 25 de outubro, relativamente ao trimestre correspondente aos meses de julho, agosto e setembro;\n\nd) Até ao dia 25 de janeiro, relativamente ao trimestre correspondente aos meses de outubro, novembro e dezembro.\n\n3. O pagamento do apoio financeiro ao empregador é retomado no apuramento trimestral em que se verifique a respetiva regularização.\n\n4. O Incentivo cessa no caso de cessação do contrato de trabalho ou de não regularização da situação referida no n.º 1.\n\n5. Para efeito do pagamento do apoio financeiro, a regularização referida no n.º 1 não pode ter lugar após o termo de vigência da presente Portaria.\n\n6. O empregador deve restituir ao IEFP, I.P., os eventuais montantes indevidamente recebidos, sem prejuízo de participação criminal por eventuais indícios da prática do crime de fraude na obtenção de subsídio de natureza pública.\n\n> Alterado pelo/a [Portaria n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/portaria/17-2014-571061), publicado em 2014-01-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:204379:por",
+    "alterador": "pt:dre:571061:por"
   }
 ]

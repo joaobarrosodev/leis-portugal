@@ -1,0 +1,62 @@
+{
+  "id": "pt:dre:692064:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Art. 9.º, n.º 1, do DL 279/98 revoga a Lei n.º 20/85 'salvo no que respeita à isenção do imposto sobre sucessões e doações estatuída no seu artigo 6.º': o art. 6.º fica parcialmente em vigor, sem texto que delimite a parte revogada, pelo que se manteve o seu texto atual.",
+  "instrucoes": [
+    "DL 279/98, art. 9.º, n.º 1: revoga a Lei 20/85 com ressalva da isenção do imposto sobre sucessões e doações do art. 6.º; arts. 1.º a 5.º e 7.º a 9.º revogados; art. 6.º mantido (ver nao_aplicavel).",
+    "Restantes artigos do DL 279/98 estabelecem regime próprio, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

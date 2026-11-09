@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:401549:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, artigo 1.º: a nova redação do n.º 4.º do artigo 7.º vale só na comarca de Macau; não substitui o texto geral do artigo, que continua a aplicar-se às outras províncias. O artigo 2.º do alterador é norma autónoma, não altera o original.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: redação do n.º 4.º do art. 7.º só para a comarca de Macau; não aplicada ao texto geral (nao_aplicavel).",
+    "Alterador 1, art. 2.º: norma própria, sem alteração ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

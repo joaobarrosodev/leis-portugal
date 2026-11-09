@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nÉ fixada a respectiva zona especial de protecção do conjunto de interesse público identificado no artigo anterior, conforme planta de delimitação constante do anexo à presente portaria da qual faz parte integrante.\n\n2 de Junho de 2010. - Pela Ministra da Cultura, Elísio Costa Santos Summavielle, Secretário de Estado da Cultura.",
+    "depois": "###### Artigo 2.º\n\nÉ fixada a zona especial de protecção do Bairro Alto e imóveis classificados na sua área envolvente, conforme planta de delimitação constante do anexo à presente portaria, da qual faz parte integrante.\n\n2 de Junho de 2010. - Pela Ministra da Cultura, Elísio Costa Santos Summavielle, Secretário de Estado da Cultura.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 874/2011](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/874-2011-2057017), publicado em 2011-05-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:3131230:por",
+    "alterador": "pt:dre:2057017:por"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:524809:por",
+  "artigos": [
+    {
+      "chave": "48.º-A",
+      "epigrafe": "Vagas adicionais",
+      "texto": "1 - Às vagas a que se refere o artigo anterior acrescem ainda as vagas adicionais que sejam fixadas pelas instituições de ensino superior em relação aos pares estabelecimento/curso em que demonstrem:\n\na) A existência de procura na respectiva área sem a correspondente oferta no conjunto da rede pública, tendo em consideração os resultados do concurso nacional;\n\nb) Dispor de condições adequadas, designadamente em recursos humanos e materiais, para o aumento do número de vagas.\n\n2 - Compete à Direcção-Geral do Ensino Superior proceder à verificação da satisfação das condições a que se refere o n.º 1.\n\n3 - As vagas adicionais a que se refere o número anterior:\n\na) Devem ser comunicadas pelos estabelecimentos de ensino superior à Direcção-Geral do Ensino Superior no prazo fixado nos termos do artigo 61.º;\n\nb) São divulgadas nos termos e prazo fixados pelo n.º 4 do artigo anterior.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: aditado o artigo 48.º-A ao Regulamento; aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

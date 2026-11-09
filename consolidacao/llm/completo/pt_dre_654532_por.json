@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:654532:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Gabinete de Apoio Técnico",
+      "texto": "1 - Ao Gabinete de Apoio Técnico (GAT) compete:\n\na) Apoiar o director no planeamento, coordenação e controlo do funcionamento da DAMAG;\n\nb) Promover a normalização de produtos e metodologias nas áreas dos sistemas de informação e da informática;\n\nc) Promover a qualidade e a segurança dos sistemas de informação e informáticos.\n\n2 - O GAT é chefiado, em regime de acumulação de funções, pelo subdirector.\n\n3 - O GAT compreende:\n\na) A Secção de Estudos e Planeamento, à qual incumbe o exercício da competência indicada na alínea a) do n.º 1 e, no seu âmbito, o da indicada na alínea b) do mesmo número;\n\nb) A Secção de Qualidade e Segurança, à qual incumbe o exercício da competência indicada na alínea c) do n.º 1 e, no seu âmbito, o da indicada na alínea b) do mesmo número.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Art. 7.º, n.º 2, al. b) («dos Utilizadores,» por «aos Utilizadores,»): o artigo 7.º está vazio no texto atual, o texto a retificar não existe.",
+  "instrucoes": [
+    "Art. 5.º, n.º 3, al. a): «âmbito, da indicada» por «âmbito, o da indicada» — já estava no texto atual.",
+    "Art. 5.º, n.º 3, al. b): «âmbito, da indicada» por «âmbito, o da indicada» — aplicado.",
+    "Art. 7.º, n.º 2, al. b): «dos Utilizadores,» por «aos Utilizadores,» — artigo vazio no texto atual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "5.º: parágrafo que não está no alterador nem no original: a) A Secção de Estudos e Planeamento, à qual incumbe o exercício da competência ",
+    "5.º: parágrafo que não está no alterador nem no original: b) A Secção de Qualidade e Segurança, à qual incumbe o exercício da competência "
+  ]
+}

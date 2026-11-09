@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:378319:por",
+  "artigos": [
+    {
+      "chave": "37.º",
+      "epigrafe": "(Criação)",
+      "texto": "1 - A criação das delegações regionais far-se-á em função do desenvolvimento das actividades da DGEFAP, mediante decreto do Ministro de Estado e das Finanças e do Plano e do Ministro da Reforma Administrativa, que fixará, simultaneamente, os respectivos quadros de pessoal.\n\n2 - Consideram-se desde já criadas as Delegações Regionais do Porto e Coimbra.\n\n3 - As delegações mencionadas no número anterior têm o nível orgânico de direcções de serviço.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Portaria n.º 248/85 (n.º 1.º), Decreto Regulamentar n.º 38/85 (art. 2.º) e Portaria n.º 671/86 (n.º 1.º) alteram o quadro de pessoal (quadro I anexo), que só existe em imagem (ver documento original); não aplicados.",
+  "instrucoes": [
+    "Portaria n.º 248/85, n.º 1.º: aumenta o quadro I com os lugares do mapa anexo (imagem); não aplicável.",
+    "DR 38/85, art. 1.º: adita n.º 3 ao artigo 37.º; aplicado.",
+    "DR 38/85, art. 2.º: altera o quadro de pessoal conforme mapa anexo (imagem); não aplicável.",
+    "DR 38/85, art. 3.º, n.º 3: revoga o n.º 3 do artigo 44.º; já está (Revogado.) no texto atual, sem mudança.",
+    "Portaria n.º 671/86, n.º 1.º: alarga o quadro em um lugar de assessor; quadro só em imagem, não aplicável."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:582436:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "As três retificações (parte I, cap. 5, alíneas d) e e); parte III, cap. 3, quadro 'Objectivos de médio/longo prazo', OT-DH5; parte VI, aditamento após a alínea w)) incidem sobre o texto do Plano de Bacia Hidrográfica do Minho anexo, que não consta do texto atual (só o título 'PLANO DE BACIA HIDROGRÁFICA DO MINHO'); não há onde as aplicar com segurança.",
+  "instrucoes": [
+    "Retificação parte I, cap. 5 ('d) REN' -> nova alínea d) PROF e e) REN): não aplicada, texto do plano ausente.",
+    "Retificação parte III, cap. 3, quadro, OT-DH5: não aplicada, quadro ausente.",
+    "Retificação parte VI, aditamento 'Sistemas de medida' após alínea w): não aplicada, texto ausente.",
+    "Artigos 1.º e 2.º do decreto regulamentar não são visados: sem alterações."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

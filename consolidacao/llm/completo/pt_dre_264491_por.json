@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:264491:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Constituem receitas do Fundo:\n\n1.º Os saldos positivos de gerência das caixas de abono de família;\n\n2.º Os saldos positivos da modalidade de abono de família das caixas de previdência e abono de família;\n\n3.º (Revogado.)\n\n4.º A participação anual do Fundo de Desemprego que for fixada pelo Ministro das Obras Públicas de acordo com o Ministro das Corporações e Previdência Social;\n\n5.º As multas aplicadas por infracção às disposições de diplomas legais, regulamentos e despachos que, por lei, se destinam ao F. N. A. F.;\n\n6.º Os juros dos fundos capitalizados;\n\n7.º Quaisquer outras receitas previstas em legislação especial;\n\n8.º Outros rendimentos, donativos ou auxílios não proibidos por lei.\n\n§ 1.º A receita proveniente dos saldos a que se referem os n.os 1.º e 2.º deste artigo, será depositada pelas instituições na Caixa Geral de Depósitos, Crédito e Previdência, suas filiais, agências ou delegações, à ordem do F. N. A. F., mediante guias, em quadruplicado, do modelo A anexo a este decreto-lei, até ao dia 20 de Março do ano seguinte àquele a que respeitam os saldos.\n\n§ 2.º As importâncias referidas no n.º 3 deste artigo serão depositadas pelas entidades patronais na Caixa Geral de Depósitos, Crédito e Previdência, suas filiais, agências ou delegações do distrito a que pertencerem essas entidades patronais ou os serviços delas dependentes que tenham dado causa à prestação do trabalho, à ordem do F. N. A. F. e mediante guias em quadruplicado do modelo A anexo a este decreto-lei, até ao dia 20 do mês seguinte àquele a que respeita o trabalho prestado, salvos casos excepcionais, devidamente justificados, em que poderá ser autorizada pelo Ministro das Corporações e Previdência Social a prorrogação daquele prazo.\n\n§ 3.º As importâncias provenientes das multas previstas no n.º 6.º deste artigo, processadas pelas delegações distritais do Instituto Nacional do Trabalho e Previdência, Inspecção do Trabalho, instituições de previdência ou outras entidades, serão depositadas no prazo de dez dias a contar da notificação ou aviso, na Caixa Geral de Depósitos, Crédito e Previdência, suas filiais, agências ou delegações, à ordem do F. N. A. F., mediante guias, em quadruplicado, do modelo A anexo a este decreto-lei.\n\nAs importâncias provenientes das multas aplicadas pelos tribunais do trabalho serão depositadas, do mesmo modo e dentro do mesmo prazo, mediante guias do modelo B anexo a este decreto-lei.\n\n§ 4.º O aumento a que se refere o n.º 3.º deste artigo é isento da percentagem para o Fundo de Desemprego e de qualquer outro encargo fiscal.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "DL 410/71, art. 4.º: altera a designação da rubrica n.º 3 na guia do modelo A anexo, que só existe em imagem; não aplicado. O art. 3.º do DL 410/71 não é alteração textual.",
+  "instrucoes": [
+    "DL 410/71 art. 1.º: nova redação do corpo do art. 2.º (n.os 1.º a 8.º) aplicada",
+    "DL 410/71 art. 2.º: nova redação do § 2.º do art. 2.º aplicada",
+    "DL 410/71 art. 3.º: norma autónoma, não textual; ignorada",
+    "DL 410/71 art. 4.º: rubrica do modelo A (imagem); não aplicável",
+    "DL 89/83 art. 1.º: revoga o n.º 3 do art. 2.º; n.º 3.º fica (Revogado.)",
+    "DL 89/83 art. 2.º: entrada em vigor; ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "2.º: parágrafo que não está no alterador nem no original: 3.º (Revogado.)",
+    "2.º: parágrafo que não está no alterador nem no original: § 2.º As importâncias referidas no n.º 3 deste artigo serão depositadas pelas en"
+  ]
+}

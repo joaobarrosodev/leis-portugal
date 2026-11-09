@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:356697:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "A acção comunitária relativa à protecção das florestas contra os incêndios instituída pelo Regulamento n.º [3529/86/CEE](https://data.europa.eu/eli/reg/1986/3529/oj?locale=pt), do Conselho, de 17 de Novembro, e posteriormente alterado pelo Regulamento n.º [1614/89/CEE](https://data.europa.eu/eli/reg/1989/1614/oj?locale=pt), do Conselho, de 29 de Maio, é aplicada a Portugal nos termos daqueles Regulamentos e deste diploma.",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "Para o efeito previsto no artigo anterior, compete à DGF:\n\na) Promover e garantir a execução das medidas previstas no artigo 2.º do Regulamento n.º [3529/86/CEE](https://data.europa.eu/eli/reg/1986/3529/oj?locale=pt), do Conselho, de 17 de Novembro, e no Regulamento n.º [1614/89/CEE](https://data.europa.eu/eli/reg/1989/1614/oj?locale=pt), do Conselho, de 29 de Maio;\n\nb) Pronunciar-se, no prazo de 30 dias, sobre os projectos que lhe sejam apresentados no âmbito deste diploma, devendo, no que respeita aos projectos de iniciativa privada a desenvolver em áreas protegidas, solicitar ao Serviço Nacional de Parques, Reservas e Conservação da Natureza parecer, a emitir no prazo de vinte dias, contado a partir da data da recepção do pedido de consulta;\n\nc) Enviar à Comissão das Comunidades Europeias, adiante designada por Comissão, nos prazos e pelas vias regulamentares, os projectos apresentados e os respectivos pareceres;\n\nd) Celebrar com os beneficiários os contratos referentes aos projectos que merecerem aprovação pelas instituições comunitárias, conforme o disposto no n.º 2 do artigo 7.º;\n\ne) Garantir por meios próprios ou através da celebração de contratos com outras entidades o acompanhamento e controle da execução dos projectos aprovados, bem como o cumprimento dos contratos referidos na alínea anterior;\n\nf) Dar conhecimento dos projectos aprovados à Comissão Nacional Especializada de Fogos Florestais - CNEFF, criada pela Resolução do Conselho de Ministros n.º 30/87, de 23 de Abril;\n\ng) Enviar ao IFADAP cópia dos projectos aprovados e respectivos contratos;\n\nh) Verificar a conformidade dos documentos comprovativos de aplicação de fundos e remetê-los ao IFADAP, certificando que o respectivo pagamento se encontra em condições de ser efectuado e que os projectos respectivos se encontram em situação regular de execução;\n\ni) Enviar ao IFADAP, para efeitos do respectivo pagamento, relação detalhada e discriminada das despesas efectuadas pelos organismos ou serviços, no âmbito da aplicação do presente diploma;\n\nj) Comunicar prontamente ao IFADAP qualquer situação de incumprimento verificada;\n\nl) Exigir dos beneficiários a restituição dos montantes por estes recebidos, em caso de incumprimento;\n\nm) Informar o IFADAP dos projectos cuja execução se encontre concluída e prestar-lhe as informações e esclarecimentos que forem por este solicitados para o bom desempenho das funções que lhe são cometidas pelo presente diploma.",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "1 - A participação comunitária nas medidas que a acção comporta é, no máximo, de 50%.\n\n2 - Sempre que a execução da acção prevista no artigo 1.º deste diploma seja da responsabilidade da administração central, o montante da contribuição nacional cobrirá o remanescente do respectivo valor global.\n\n3 - Quando a execução da acção prevista no artigo 1.º deste diploma for da responsabilidade de outras entidades que não as previstas no número anterior, pode haver uma contribuição nacional até 25% das despesas orçamentadas, em termos a definir por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "1 - Os pedidos de financiamento relativos à acção prevista no âmbito do presente diploma devem ser apresentados, com o respectivo projecto, na DGF, até ao dia 30 de Junho de cada ano, mediante o preenchimento do formulário distribuído pelos serviços.\n\n2 - Após aprovação dos projectos pelas instâncias comunitárias competentes, serão celebrados contratos donde constem as obrigações de ambas as partes.\n\n3 - O IFADAP pagará aos beneficiários as quantias correspondentes à participação financeira nacional concedida à medida da execução dos trabalhos e até um máximo de oito pagamentos por projecto, após a apresentação dos documentos comprovativos das despesas efectuadas.\n\n4 - Decorrendo a execução a cargo do Estado, o IFADAP, contra recibo, procederá à transferência para a entidade beneficiária de uma verba inicial correspondente a 20% da verba orçamentada para o projecto.\n\n5 - O IFADAP transferirá para as entidades beneficiárias as importâncias correspondentes à comparticipação comunitária nos quinze dias subsequentes à respectiva recepção.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 13/91, artigo único: nova redação do art. 1.º aplicada.",
+    "Nova redação da alínea a) do art. 3.º aplicada; restantes alíneas e proémio mantidos.",
+    "Nova redação dos n.os 1 e 3 do art. 6.º aplicada; n.º 2 mantido.",
+    "Nova redação do n.º 4 do art. 7.º aplicada; restantes números mantidos."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

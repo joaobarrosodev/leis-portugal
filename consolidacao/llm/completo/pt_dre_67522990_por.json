@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:67522990:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DRR 16/2016/M art. 2.º n.º 2: nova redação do Anexo I, que só vem em imagem; não aplicada.",
+  "instrucoes": [
+    "DRR 16/2016/M art. 2.º n.º 1: nova redação do n.º 2 do art. 14.º (n.º 1 mantido); o texto atual já coincide, sem mudança",
+    "DRR 16/2016/M art. 2.º n.º 2: Anexo I em imagem, em nao_aplicavel",
+    "DRR 16/2016/M art. 3.º e 4.º: alteram o DRR 21/2015/M; ignorados",
+    "DRR 22/2020/M art. 31.º: mantém em vigor os n.os 7 e 8 do art. 22.º; texto já presente, sem mudança"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

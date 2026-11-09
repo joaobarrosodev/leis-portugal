@@ -166,5 +166,19 @@
     "unidade": [],
     "diploma": "pt:dre:456778:por",
     "alterador": "pt:dre:25345600:por"
+  },
+  {
+    "artigo": "ANEXO — Estatutos de RESIESTRELA - Valorização e Tratamento de Resíduos Sólidos, S. A.::6.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º — Aumento de capital social\n\n1 - Quaisquer eventuais aumentos de capital social são realizados através da emissão de acções da classe A, ou das classes A e B, devendo as acções da classe A representar sempre e pelo menos 51 % do capital social com direito a voto.\n\n2 - A subscrição de acções da classe A é reservada aos accionistas titulares de acções do mesmo tipo.\n\n3 - Os accionistas titulares de acções da classe A têm direito a subscrever um número de acções dessa classe proporcional ao número de acções da mesma classe de que já sejam titulares.\n\n4 - Caso as acções da classe A possam, pela ocorrência de qualquer facto, designadamente pela ocorrência de qualquer das situações referidas no n.º 1 do artigo 9.º, passar a representar uma percentagem do capital social com direito a voto inferior à referida no n.º 1 do presente artigo, a sociedade deve proceder imediatamente a um aumento de capital social por emissão dessa classe de acções, de forma a garantir o cumprimento daquela percentagem.\n\n5 - As deliberações de aumento de capital devem prever para os accionistas preferentes um prazo de realização das entradas não inferior a 60 dias.",
+    "depois": "###### Artigo 6.º — Aumento de capital social\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 98/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2014-25345600), publicado em 2014-07-02.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:456778:por",
+    "alterador": "pt:dre:25345600:por"
   }
 ]

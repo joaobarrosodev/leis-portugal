@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:239776:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Art. 62.º do DL 141/2019 revoga o Decreto Regulamentar n.º 9/2003 'com exceção das normas aplicáveis à carreira de inspetor-adjunto'; vários artigos (1.º, 2.º, 3.º, 5.º, 6.º, 7.º, 8.º) misturam normas das três carreiras, pelo que não se consegue delimitar com segurança o que fica revogado; nada aplicado ao texto.",
+  "instrucoes": [
+    "Art. 62.º do DL 141/2019: revogação com exceção das normas da carreira de inspetor-adjunto - não aplicada (âmbito não delimitável com segurança)",
+    "Art. 57.º: subsistência da carreira de inspetor-adjunto - norma autónoma",
+    "Restantes artigos: regime autónomo das novas carreiras - não alteram o original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

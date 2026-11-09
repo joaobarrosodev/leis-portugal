@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:326945:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DR 76/85 altera o art. 26.º do DR 41/82 'na redacção dada pelo artigo 1.º do DR 18/85' (outro diploma), ignorado. O art. 46.º do DR 76/86 revoga o DR 41/82 (outro diploma) e o artigo 4.º do DR 18/85; este art. 4.º não tem chave própria no texto atual (vem embutido no corpo da chave '42.º', a seguir ao artigo 42.º aditado ao DR 41/82), pelo que o alvo é ambíguo e a revogação não foi aplicada.",
+  "instrucoes": [
+    "DR 76/85, artigo único: nova redação do art. 26.º do DR 41/82 na redação dada pelo original; instrução dirigida a outro diploma, ignorada.",
+    "DR 76/86, art. 46.º: revoga o DR 41/82 (ignorado, outro diploma) e o art. 4.º do DR 18/85 (não aplicado: sem chave própria no texto atual).",
+    "DR 76/86, restantes artigos: novo regime do bingo, sem instruções ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

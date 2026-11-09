@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:662344:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1. Por despacho do chefe do Estado-Maior-General das Forças Armadas ou da entidade em quem o mesmo delegar, e em casos de reconhecida necessidade, podem ser nomeados ad hoc licenciados em Direito ou técnicos de investigação criminal para servirem como adjuntos dos agentes da Polícia Judiciária Militar ou dos promotores de justiça.\n\n2. Os adjuntos recebem a competência que lhes for delegada e podem substituir os promotores de justiça, sem prejuízo da orientação destes.\n\n3. Idênticas funções de adjunto podem ser atribuídas a oficiais com qualificações especiais, ainda que de patente inferior à do arguido.\n\n4. Em idênticas condições e pelas entidades referidas no n.º 1 podem ser nomeados ad hoc civis de reconhecida competência para servirem como escrivães dos agentes da Polícia Judiciária Militar ou dos promotores de justiça.\n\n5. Para os fins constantes do número anterior, poder-se-ão requisitar funcionários judiciais ao Ministério da Justiça.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 619/75 artigo único: nova redacção do art. 1.º (n.os 1 a 5) — aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

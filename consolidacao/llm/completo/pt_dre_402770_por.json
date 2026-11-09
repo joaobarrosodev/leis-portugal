@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:402770:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1 e 2 (Decreto Regulamentar n.º 38/92): aditam categorias ao mapa I anexo, que só existe em imagem. Alterador 3 sem texto. Alterador 4 retifica o mapa VIII do Decreto-Lei n.º 121/2008, que revoga o original com excepção das disposições relativas às categorias subsistentes: revogação parcial não delimitável no texto.",
+  "instrucoes": [
+    "Alteradores 1 e 2: aditamento de categorias ao mapa I (imagem); não aplicado.",
+    "Alterador 3: sem texto.",
+    "Alterador 4: retificação de outro diploma; revogação do original com excepção das categorias subsistentes, não aplicada ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

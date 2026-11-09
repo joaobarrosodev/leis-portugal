@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:140559:por",
+  "artigos": [
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "O presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 21 de Março de 1991. - Aníbal António Cavaco Silva - Luís Miguel Courceiro Pizarro Beleza.\n\nPromulgado em 5 de Abril de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 5 de Abril de 1991.\n\nO Primeiro-Ministro, Anbíbal António Cavaco Silva.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (retificação): datas de promulgação e referenda passam de 4 para 5 de Abril de 1991; aplicado no fecho que está no artigo 13.º."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

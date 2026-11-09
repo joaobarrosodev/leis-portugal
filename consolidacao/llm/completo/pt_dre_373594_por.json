@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:373594:por",
+  "artigos": [
+    {
+      "chave": "38.º",
+      "epigrafe": "Alargamento especial dos períodos de concessão dos auxílios",
+      "texto": "Os períodos de concessão das medidas de apoio, bem como os correspondentes auxílios financeiros previstos no âmbito da Convenção e do presente diploma, podem ser alargados por força e nos termos prescritos nos programas especiais aprovados pela Comissão das Comunidades.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 58/89 artigo único: nova redação do art. 38.º; aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:452260:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 1129/90, n.º 1.º) determina que o curso de licenciatura em Hortofruticultura passa a designar-se Engenharia Hortofrutícola, sem dar nova redação ao artigo 1.º; alteração de designação não textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1: mudança de designação do curso de Hortofruticultura (não textual); restante portaria regula o curso e a Portaria 505/87; nada aplicado ao texto.",
+    "Alterador 2 (Portaria 968/91): regula o curso de Biologia Marinha e Pescas e revoga a Portaria 505/87; nenhuma instrução textual ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

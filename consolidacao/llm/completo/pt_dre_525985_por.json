@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:525985:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Art. 6.º do DL 308-B/75 revoga o DL 48970 apenas 'no tocante a Moçambique': revogação de âmbito territorial parcial, sem alteração textual de artigos; não aplicada ao texto.",
+  "instrucoes": [
+    "Arts. 1.º a 5.º do DL 308-B/75: normas autónomas (extinção das direcções provinciais de Moçambique, pessoal, bens): sem alteração do texto do original.",
+    "Art. 6.º: revogação parcial no tocante a Moçambique: não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

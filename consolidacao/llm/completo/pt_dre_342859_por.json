@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:342859:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto e âmbito",
+      "texto": "1 - O presente diploma cria a Escola Básica Integrada de Ponta Garça, no concelho de Vila Franca do Campo, doravante designada de EBI de Ponta Garça.\n\n2 - A EBI de Ponta Garça é a unidade orgânica do sistema educativo que assegura o funcionamento da educação pré-escolar e do ensino básico na freguesia de Ponta Garça, do concelho de Vila Franca do Campo.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, artigo 1.º: a nova redação do anexo (quadro do pessoal docente) só vem em imagem ('ver documento original'), não aplicada.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do n.º 2 do artigo 1.º (n.º 1 mantém-se) - aplicado.",
+    "Alterador 1, art. 1.º: nova redação do anexo - só em imagem, não aplicado.",
+    "A republicação mostra ainda diferenças nos artigos 2.º, 3.º e 5.º sem instrução de alteração - não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

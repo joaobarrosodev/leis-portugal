@@ -1,0 +1,104 @@
+{
+  "id": "pt:dre:548429:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "1.º",
+      "epigrafe": "Natureza",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Missão",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Atribuições",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Composição e funcionamento",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Competências",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Competências do presidente",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Receitas e despesas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Contratos-programa",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Instrumentos de previsão e controlo",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Regime",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Actos notariais",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Garantias de imparcialidade",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Norma transitória",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DRR 1/2008/M), art. 28.º: mantém transitoriamente em vigor o DRR 15/2005/M — sem alteração textual.",
+    "Alterador 2 (DLR 30/2009/M), art. 25.º: revogado o DRR 15/2005/M, com excepção dos arts. 7.º a 24.º e 28.º da orgânica anexa e do mapa de pessoal — revogados os arts. 1.º e 2.º do decreto e os arts. 1.º a 6.º, 25.º a 27.º e 29.º a 32.º do anexo (as chaves 1.º e 2.º repetem-se no decreto e no anexo; ambos revogados, um elemento por artigo)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

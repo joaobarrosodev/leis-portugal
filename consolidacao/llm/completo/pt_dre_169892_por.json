@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:169892:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "As percentagens a atribuir a cada uma das categorias de obras serão fixadas tendo em conta as disponibilidades orçamentais existentes na verba respectiva e de acordo com os limites a seguir indicados:\n\n1.º Reparação de estragos provocados pelas intempéries nas propriedades rústicas; problema da habitação dos pequenos agricultores e assalariados rurais, e obras de rega, enxugo e defesa contra a erosão - até 50 por cento;\n\n2.º Obras de electrificação ligadas às explorações agrícolas e arroteamento de terrenos incultos - até 40 por cento;\n\n3.º Outras obras - até 30 por cento.\n\n§ único. Nas obras de interesse colectivo a comparticipação poderá atingir o limite do custo das obras ou melhoramentos.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo 15.º: aditado § único ao artigo 3.º; aplicado.",
+    "Alterador 1, artigos 8.º, 9.º, 13.º, 14.º e 16.º: alteram ou revogam outros diplomas; ignorados.",
+    "Alterador 1, restantes artigos: regime próprio dos Fundos; não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

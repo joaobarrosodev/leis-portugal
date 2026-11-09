@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:686061:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DL 680/75, art. 2.º: o quadro do art. 5.º é alterado nos termos de mapa anexo que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "DL 274-A/75, art. 1.º: nova redação do art. 150.º do Estatuto dos Tribunais do Trabalho (DL 41745, alterado pelo original); é alteração de outro diploma, ignorada.",
+    "DL 680/75: art. 1.º (transição dos copistas) e art. 3.º (encargos) não são textuais; art. 2.º altera o mapa (imagem), não aplicado.",
+    "Portaria 378/76: fixa áreas jurisdicionais ao abrigo do Estatuto; não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

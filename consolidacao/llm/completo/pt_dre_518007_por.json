@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:518007:por",
+  "artigos": [
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "A preparação, a organização e a execução da missão dos voluntários competem em cada província à respectiva organização provincial de voluntários, a qual, na dependência directa do governador, será dirigida por um comandante provincial, oficial superior das forças armadas na situação de actividade ou reserva, nomeado por portaria conjunta dos Ministros da Defesa Nacional e do Ultramar, mediante o parecer do titular do departamento de origem do nomeado e do governador da província.\n\n§ 1.º Nas províncias de governo simples o comando da organização provincial de voluntários poderá ser exercido por um capitão ou oficial superior, em comissão ordinária de serviço, ou, excepcionalmente, em regime de acumulação, por um oficial que na província se encontre em comissão militar, mediante gratificação a fixar em diploma provincial.\n\n§ 2.º O comandante provincial terá a categoria de director de serviço nas províncias de governo-geral e de chefe de serviço nas de governo simples e fará parte do Conselho de Defesa Militar.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 46322, artigo único: no artigo 9.º o § único passa a § 2.º e adita-se o § 1.º; aplicado.",
+    "DL 705/75, art. 19.º: extingue o Corpo de Voluntários de Macau; não é alteração textual do original; nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "9.º: parágrafo que não está no alterador nem no original: § 2.º O comandante provincial terá a categoria de director de serviço nas provín"
+  ]
+}

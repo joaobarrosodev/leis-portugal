@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:312391:por",
+  "artigos": [
+    {
+      "chave": "1.º-A",
+      "epigrafe": "",
+      "texto": "Idêntico tratamento será aplicado aos trabalhadores contratados além dos quadros de pessoal da empresa, em relação ao período de tempo em que permaneceram em regime de disponibilidade, sem serviço.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Lei 33/86 altera o DL 151/84 (outro diploma): ignorada",
+    "Lei 25/87: aditado o artigo 1.º-A"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

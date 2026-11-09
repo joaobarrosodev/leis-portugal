@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nA fotografia a inserir no bilhete de identidade é do tipo passe, tirada a três quartos, da linha do ombro para cima, com o uniforme tipo D constante da [Portaria n.º 140/70](https://diariodarepublica.pt/dr/detalhe/portaria/140-1970-228387), de 11 de Março.",
+    "depois": "###### Artigo 3.º\n\nA fotografia a inserir no bilhete de identidade é do tipo passe, tirada a três quartos, da linha do ombro para cima, com uniforme do tipo D constante da [Portaria n.º 140/70](https://diariodarepublica.pt/dr/detalhe/portaria/140-1970-228387), de 11 de Março, para o pessoal do activo ou equiparado e em traje civil para os aposentados.\n\n> Alterado pelo/a [Decreto-Lei n.º 16/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1980-679620), publicado em 1980-02-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:298055:por",
+    "alterador": "pt:dre:679620:por"
+  }
+]

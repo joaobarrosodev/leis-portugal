@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:616837:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "As retificações visam o artigo 22.º, n.º 1, e os anexos I e III do caderno de encargos, que não constam do texto atual recebido; não aplicadas.",
+  "instrucoes": [
+    "Retificação do artigo 22.º, n.º 1 (anexo IV -> anexo III): artigo ausente do texto atual, não aplicada.",
+    "Retificação do anexo I (Decreto-Lei n.º 182/91): anexo ausente do texto atual, não aplicada.",
+    "Retificação do anexo III (valor da garantia e referência à Resolução): anexo ausente do texto atual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

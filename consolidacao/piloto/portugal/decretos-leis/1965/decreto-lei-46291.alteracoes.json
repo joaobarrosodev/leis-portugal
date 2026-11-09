@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nJunto das unidades e outros órgãos da Força Aérea podem, sempre que tal convenha à sua existência e vida, funcionar serviços, criar-se e funcionar explorações de carácter agrícola, industrial e comercial, com a finalidade de, contra pagamento, efectuar fornecimentos e prestar serviços:\n\nNormalmente, às unidades e outros órgãos da Força Aérea, ao seu pessoal e respectivos agregados familiares;\n\nEventualmente, ao pessoal pertencente a forças militares nacionais ou estrangeiras autorizadas a utilizar facilidades nas mesmas unidades e órgãos.",
+    "depois": "###### Artigo 1.º\n\nJunto das unidades e outros órgãos da Força Aérea podem, sempre que tal convenha à sua existência e vida, funcionar serviços, criar-se e funcionar explorações de carácter agrícola, industrial e comercial com a finalidade de, contra pagamento, efectuar fornecimentos e prestar serviços:\n\nPor norma, às unidades e outros órgãos da Força Aérea, ao seu pessoal e respectivos agregados familiares;\n\nEventualmente, e mediante autorização prévia, ao pessoal pertencente às forças militares nacionais ou estrangeiras, bem como a outras entidades estranhas à Força Aérea.\n\n> Alterado pelo/a [Decreto-Lei n.º 451/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1979-367829), publicado em 1979-11-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:237445:por",
+    "alterador": "pt:dre:367829:por"
+  }
+]

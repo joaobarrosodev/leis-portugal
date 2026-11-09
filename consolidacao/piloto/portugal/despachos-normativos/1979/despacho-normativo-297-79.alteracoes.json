@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nDependem directamente do Ministro das Finanças os serviços seguintes:\n\na) Gabinete do Ministro;\n\nb) Secretaria-Geral;\n\nc) Gabinete de Estudos e Planeamento;\n\nd) Auditoria Jurídica;\n\ne) Gabinete para a Cooperação Económica Externa;\n\nf) Gabinete de Informação e Relações Públicas.",
+    "depois": "###### Artigo 2.º\n\nDependem directamente do Ministro das Finanças os serviços seguintes:\n\na) Gabinete do Ministro;\n\nb) Secretaria-Geral;\n\nc) Gabinete de Estudos e Planeamento;\n\nd) Auditoria Jurídica;\n\ne) Gabinete para a Cooperação Económica Externa;\n\nf) Gabinete de Informação e Relações Públicas.\n\ng) Biblioteca Central do Ministério das Finanças.\n\n> Alterado pelo/a [Despacho Normativo n.º 317/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/317-1979-364935), publicado em 1979-10-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:369785:por",
+    "alterador": "pt:dre:364935:por;pt:dre:364908:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nNa dependência do Secretário de Estado das Finanças funcionarão os serviços seguintes:\n\na) Gabinete do Secretário de Estado;\n\nb) Direcção-Geral do Património;\n\nc) Direcção-Geral do Tribunal de Contas;\n\nd) Serviços Sociais do Ministério das Finanças;\n\ne) Gabinete de Gestão de Veículos do Estado;\n\nf) Serviço de Informação para o Abastecimento Estatal.",
+    "depois": "###### Artigo 7.º\n\nNa dependência do Secretário de Estado das Finanças funcionarão os serviços seguintes:\n\na) Gabinete do Secretário de Estado;\n\nb) Direcção-Geral do Património;\n\nc) Direcção-Geral do Tribunal de Contas;\n\nd) Serviços Sociais do Ministério das Finanças;\n\ne) Gabinete de Gestão de Veículos do Estado;\n\nf) Serviço de Informação para o Abastecimento Estatal.\n\ng) Comissão Liquidatária do Comissariado para os Desalojados.\n\n> Alterado pelo/a [Despacho Normativo n.º 315/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/315-1979-364908), publicado em 1979-10-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:369785:por",
+    "alterador": "pt:dre:364935:por;pt:dre:364908:por"
+  }
+]

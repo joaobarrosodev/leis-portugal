@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — (Licenciatura em Produção Animal)\n\n1 - A área científica do curso de licenciatura em Produção Animal é a Produção Animal.\n\n2 - A duração normal do curso é de cinco anos.\n\n3 - O número total de unidades de crédito necessárias à concessão do grau é de 169,5, assim distribuídas.\n\n3.1 - Áreas obrigatórias:\n\na) Biologia ... 43\n\nb) Biotecnologia ... 15\n\nc) Geociências ... 12\n\nd) Economia e Sociologia ... 18,5\n\ne) Matemática ... 19\n\nf) Física ... 7\n\ng) Química ... 14\n\nh) Fitotecnia e Engenharia Rural ... 12\n\ni) Línguas Vivas Estrangeiras ... 2\n\n3.2 - Áreas opcionais:\n\na) Avicultura e Cunicultura ... 10\n\nb) Piscicultura ... 10\n\nc) Apicultura ... 10\n\nd) Aquacultura ... 5\n\ne) Silvopastorícia ... 5\n\n3.3 - Estágio ... 12",
+    "depois": "###### Artigo 3.º — Licenciatura em Engenharia Zootécnica\n\n1 - A área científica do curso de licenciatura em Produção Animal é a Produção Animal.\n\n2 - A duração normal do curso é de cinco anos.\n\n3 - O número total de unidades de crédito necessárias à concessão do grau é de 158,5, assim distribuídas:\n\n3.1 - Áreas obrigatórias:\n\na) Biologia ... 43\n\nb) Biotecnologia ... 15\n\nc) Geociências ... 6\n\nd) Economia e Sociologia ... 18,5\n\ne) Matemática ... 19\n\nf) Física ... 7\n\ng) Química ... 14\n\nh) Fitotecnia e Engenharia Rural ... 12\n\ni) Línguas Vivas Estrangeiras ... 2\n\n3.2 - Áreas opcionais:\n\na) Avicultura e Cunicultura ... 10\n\nb) Piscicultura ... 10\n\nc) Apicultura ... 10\n\nd) Aquacultura ... 10\n\ne) Silvo-pastorícia ... 10\n\n3.3 - Estágio ... 12\n\n> Alterado pelo/a [Portaria n.º 400/87](https://diariodarepublica.pt/dr/detalhe/portaria/400-1987-421032), publicado em 1987-05-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:563797:por",
+    "alterador": "pt:dre:421032:por;pt:dre:550461:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — (Licenciatura em Produção Florestal)\n\n1 - A área científica do curso de licenciatura em Produção Florestal é a Produção Florestal.\n\n2 - A duração normal do curso é de cinco anos.\n\n3 - O número total de unidades de crédito necessárias à concessão do grau é de 158, assim distribuídas:\n\na) Silvicultura ... 41\n\nb) Física ... 7\n\nc) Química ... 7\n\nd) Matemática ... 21\n\ne) Biologia ... 32\n\nf) Geociências ... 15\n\ng) Economia e Sociologia ... 15,5\n\nh) Engenharia Rural ... 3\n\ni) Agronomia ... 2,5\n\nj) Línguas Vivas Estrangeiras ... 2",
+    "depois": "###### Artigo 4.º — Licenciatura em Engenharia Florestal\n\n1 - A área científica do curso de licenciatura em Produção Florestal é a Produção Florestal.\n\n2 - A duração normal do curso é de cinco anos.\n\n3 - O número total de unidades de crédito necessárias à concessão do grau é de 159, assim distribuídas:\n\n3.1 - Áreas científicas obrigatórias:\n\na) Silvicultura ... 43,5\n\nb) Física ... 7\n\nc) Química ... 7\n\nd) Matemática ... 20\n\ne) Biologia ... 29,5\n\nf) Geociências ... 12\n\ng) Economia e Sociologia ... 10,5\n\nh) Engenharia Rural ... 3\n\ni) Agronomia ... 2,5\n\n3.2 - Conjunto de áreas científicas optativas:\n\na) Línguas Vivas Estrangeiras ... 12\n\nb) Biologia ... 12\n\nc) Economia e Sociologia ... 12\n\nd) Matemática ... 12\n\ne) Silvicultura ... 12\n\n3.3 - Estágio ... 12\n\n> Alterado pelo/a [Portaria n.º 1073/89](https://diariodarepublica.pt/dr/detalhe/portaria/1073-1989-550461), publicado em 1989-12-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:563797:por",
+    "alterador": "pt:dre:421032:por;pt:dre:550461:por"
+  }
+]

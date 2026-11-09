@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:156792:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "Poderão inscrever-se nos cursos regulares do Instituto de Estudos Sociais os indivíduos que possuam, pelo menos, algumas das seguintes habilitações:\n\na) O curso complementar dos liceus;\n\nb) O curso dos institutos de ensino médio que habilite à admissão em escola superior.\n\n§ único. As habilitações equivalentes a qualquer dos cursos referidos nas alíneas a) e b) deste artigo apenas permitirão a inscrição nos cursos regulares do Instituto de Estudos Sociais desde que essas equivalências sejam concedidas para efeito de sequência de estudos.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "O artigo 1.º do Decreto-Lei n.º 522/72 cria o Instituto Superior de Ciências do Trabalho e da Empresa e declara extinto o Instituto de Estudos Sociais, mas não revoga nem dá nova redação a nenhum artigo do Decreto n.º 44620; a extinção não é alteração textual, pelo que não foi aplicada.",
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do art. 7.º - aplicada",
+    "Alterador 2, art. 1.º: extinção do Instituto de Estudos Sociais - sem alteração textual, não aplicada (ver nao_aplicavel)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1 - É criada uma instituição bancária denominada União de Bancos Portugueses, com sede na cidade do Porto, que recebe os patrimónios das empresas fundidas, com todos os direitos e obrigações que os integram.\n\n2 - A União de Bancos Portugueses fica sujeita à tutela do Ministro das Finanças.",
+    "depois": "###### Artigo 2.º\n\n1 - É criada uma instituição bancária denominada União de Bancos Portugueses, com sede na cidade do Porto, que recebe os patrimónios das empresas fundidas, com todos os direitos e obrigações que os integram.\n\n2 - A União de Bancos Portugueses fica sujeita à tutela do Ministro das Finanças.\n\n§ único. As transmissões operam-se por força do presente diploma, que servirá de título bastante para todos os efeitos legais, designadamente os de registo, beneficiando as mesmas das isenções previstas na alínea v) do artigo 9.º da [Lei n.º 20/78](https://diariodarepublica.pt/dr/detalhe/lei/20-1978-332189), de 26 de Abril.\n\n> Alterado pelo/a [Decreto n.º 156/78](https://diariodarepublica.pt/dr/detalhe/decreto/156-1978-325280), publicado em 1978-12-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:149258:por",
+    "alterador": "pt:dre:325280:por"
+  }
+]

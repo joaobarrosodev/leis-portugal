@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:450847:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Os alteradores 1 a 5 só alteram ou substituem o quadro/mapa de pessoal da Direcção-Geral do Património do Estado, que vem apenas em imagem (ver documento original); não há alteração textual a artigos do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 869/84): aumenta o quadro de pessoal com um lugar do mapa anexo (imagem); não aplicado.",
+    "Alterador 2 (Portaria 101/85): acresce lugares e extingue o de subdirector, por mapa anexo (imagem); não aplicado.",
+    "Alterador 3 (Portaria 116/85): cria carreira de técnico superior de informática e altera o quadro do mapa I do DR 44/80 (outro diploma, imagem); ignorado.",
+    "Alterador 4 (Portaria 290/86): cria lugar de assessor no quadro do DR 44/80; ignorado.",
+    "Alterador 5 (Portaria 73/87): substitui o mapa de pessoal por mapa anexo (imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

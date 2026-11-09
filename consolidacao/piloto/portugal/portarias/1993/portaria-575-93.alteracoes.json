@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1 - Os detentores de animais e produtos referidos no artigo 1.º devem respeitar as exigências sanitárias e zootécnicas referidas no presente diploma em todas as fases da produção e da comercialização.\n\n2 - Os animais e os produtos referidos no anexo A devem ser controlados, do ponto de vista veterinário, de forma pelo menos tão cuidadosa como se fossem destinados ao mercado nacional, salvo derrogação específica prevista na regulamentação comunitária.\n\n3 - Os animais devem ser transportados em meios de transporte adequados que satisfaçam as normas de higiene.\n\n4 - No dia da emissão do certificado ou do documento de acompanhamento dos animais ou produtos, a autoridade competente comunicará à autoridade central competente do Estado membro de destino e à autoridade competente do local de destino, através do sistema informatizado previsto no artigo 20.º, as informações a especificar em conformidade com o processo comunitariamente previsto.",
+    "depois": "###### Artigo 4.º\n\n1 - Os detentores de animais e produtos referidos no artigo 1.º devem respeitar as exigências sanitárias e zootécnicas referidas no presente diploma em todas as fases da produção e da comercialização.\n\n2 - Os animais e os produtos referidos no anexo A devem ser controlados, do ponto de vista veterinário, de forma pelo menos tão cuidadosa como se fossem destinados ao mercado nacional, salvo derrogação específica prevista na regulamentação comunitária.\n\n3 - Os animais devem ser transportados em meios de transporte adequados que satisfaçam as normas de higiene.\n\n4 - No dia da emissão do certificado ou do documento de acompanhamento dos animais ou produtos, a autoridade competente comunicará à autoridade central competente do Estado membro de destino e à autoridade competente do local de destino, através do sistema informatizado previsto no artigo 20.º, as informações a especificar em conformidade com o processo comunitariamente previsto.\n\n5 - É proibida a utilização de proteínas derivadas de tecidos de mamíferos na alimentação dos ruminantes.\n\n> Alterado pelo/a [Portaria n.º 702/94](https://diariodarepublica.pt/dr/detalhe/portaria/702-1994-231750), publicado em 1994-07-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:260149:por",
+    "alterador": "pt:dre:231750:por"
+  }
+]

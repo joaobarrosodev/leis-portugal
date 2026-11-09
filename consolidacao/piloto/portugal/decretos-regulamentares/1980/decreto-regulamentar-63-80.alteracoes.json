@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nOs adidos que à entrada em vigor do presente diploma se encontrem integrados no quadro de supranumerários criado no Ministério da Educação e Ciência pela [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), de 28 de Março, e ainda aqueles que, ao abrigo da mesma portaria, o venham a ser até 31 de Dezembro de 1980 serão integrados no quadro privativo dos estabelecimentos de ensino básico e secundário, escolas normais de educadores de infância, escolas do magistério primário, jardins-de-infância e direcções de distrito escolar, de acordo com as regras estabelecidas nos artigos subsequentes.",
+    "depois": "###### Artigo 1.º\n\nOs adidos que à data da entrada em vigor do presente diploma se encontrem integrados no quadro de supranumerários criado no Ministério da Educação e Ciência pela [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), de 28 de Março, e ainda aqueles que, ao abrigo da mesma portaria, o venham a ser até 31 de Dezembro de 1980, além daqueles que tenham sido colocados até 31 de Dezembro de 1980, serão integrados no quadro privativo dos estabelecimentos de ensino básico o secundário, escolas normais de educadoras de infância, escolas do magistério primário, jardins-de-infância e direcções do distrito escolar, de acordo com as regras estabelecidas nos artigos subsequentes.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 53/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1981-568514), publicado em 1981-11-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:462431:por",
+    "alterador": "pt:dre:568514:por"
+  },
+  {
+    "artigo": "10.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º\n\nPara efeitos de aplicação do disposto no presente diploma, ao pessoal adido que for integrado até 31 de Dezembro de 1980 no quadro de supranumerários a que se refere a Portaria. n.º 136/79, de 28 de Março, em categorias resultantes de reclassificação efectuada pela Direcção-Geral de Recrutamento e Formação será contado, como se tivesse sido prestado nessas categorias, todo o tempo de serviço que o mesmo possua desde que iniciou as funções às mesmas inerentes em estabelecimento de ensino ou direcção de distrito escolar.",
+    "depois": "###### Artigo 10.º\n\nPara efeitos de aplicação do disposto no presente diploma, ao pessoal adido que foi integrado até 31 de Dezembro de 1980 no quadro de supranumerários a que se refere a [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), de 28 de Março, e àquele que tenha sido colocado até essa mesma data e que venha posteriormente a ser integrado nesse quadro em categorias resultantes da reclassificação proposta pelo director-geral da Integração Administrativa e aprovada pelos Ministros da Educação e das Universidades e da Reforma Administrativa será contado, como se tivesse sido prestado nessas categorias, todo o tempo de serviço que o mesmo possua desde que iniciou as funções às mesmas inerentes em estabelecimento de ensino ou direcção de distrito escolar.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 53/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1981-568514), publicado em 1981-11-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:462431:por",
+    "alterador": "pt:dre:568514:por"
+  }
+]

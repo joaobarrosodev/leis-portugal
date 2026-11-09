@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:172744:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Os três alteradores mexem só no anexo I (prazos) a que se refere o art. 43.º, que não consta do texto atual; o alterador 3 dá a nova redação das referências 9 a 20 só em imagem; o alterador 2 manda reverter vagas para a 2.ª fase sem alterar texto. Nada aplicado.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 954-A/95): fixa datas do anexo I; anexo ausente do texto atual, não aplicado",
+    "Alterador 2 (Portaria 1124/95): reversão de vagas para a 2.ª fase; não textual, não aplicado",
+    "Alterador 3 (Portaria 1191/95): nova redação das referências 9 a 20 do anexo I, só em imagem; não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

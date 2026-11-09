@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nOs funcionários públicos e administrativos que forem designados como administradores por parte do Estado ou dos corpos administrativos junto de qualquer empresa mantêm os direitos adquiridos como beneficiários da Assistência na Doença aos Servidores Civis do Estado, sempre que optem pelo regime de aposentação do Estado e continuem, assim, a descontar as quotas devidas para a Caixa Geral de Aposentações.",
+    "depois": "###### Artigo 1.º\n\nOs funcionários e agentes que forem designados como administradores por parte do Estado ou dos corpos administrativos junto de qualquer empresa mantêm o direito à inscrição como beneficiários da Assistência na Doença aos Servidores Civis do Estado (ADSE), sempre que optem pelo regime de aposentação do Estado e continuem, assim, a descontar as quotas devidas para a Caixa Geral de Aposentações.\n\n> Alterado pelo/a [Decreto-Lei n.º 162/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1978-298017), publicado em 1978-07-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:138516:por",
+    "alterador": "pt:dre:298017:por"
+  }
+]

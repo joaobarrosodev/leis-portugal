@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:227196:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DRR 25/87/A, artigo único: altera o quadro de pessoal anexo, que só vem em imagem; sem alteração textual aos artigos.",
+  "instrucoes": [
+    "Artigo único: alteração do quadro anexo segundo mapa — só em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:459444:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alt.1 (Decreto-Lei 266/86) extingue o Instituto Português de Conservas de Peixe, cujo estatuto foi aprovado pelo original, e aprova novo estatuto para o IPCP, sem revogar expressamente nem dar nova redação a artigos do original; efeito não textual, não aplicado.",
+  "instrucoes": [
+    "Alt.1 art. 2.º: extinção do instituto (não textual); não aplicado.",
+    "Alt.1 estatuto anexo, arts. 47.º e 49.º: mantêm categorias criadas pelo original; sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

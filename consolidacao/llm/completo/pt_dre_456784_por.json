@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:456784:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Art. 2.º do DL 6/2011: substitui o anexo do DL 127/2008; o anexo não consta do texto atual por artigos e a tabela de categorias de actividades só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Art. 1.º do DL 6/2011: novas redações dos artigos 3.º (alínea c)), 4.º (alíneas b) e c)), 5.º (n.º 2) e 8.º (n.º 2, alínea a)); o texto atual já tem essas redações, nada a mudar.",
+    "Art. 2.º: substituição do anexo; não aplicada (fora do texto, tabela em imagem).",
+    "Art. 3.º: disposição transitória própria."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

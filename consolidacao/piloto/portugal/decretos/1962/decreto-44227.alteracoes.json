@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "10.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º\n\nAos mapas II e III anexos ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, são introduzidas as seguintes alterações:\n\n1.º Acrescentar nos dois mapas:\n\na) Na rubrica engenheiros directores: ou inspectores provinciais;\n\nb) Na rubrica engenheiros-chefes: chefe da Divisão de Serviços Técnicos;\n\nc) Na rubrica engenheiros de 1.ª classe: ou de chefe de brigada;\n\nd) Na rubrica engenheiros de 2.ª classe: ou de chefes de brigada.\n\n2.º Acrescentar no mapa II:\n\nEngenheiros de 2.ª classe, quando exercendo funções de adjuntos dos chefes de serviços de oficinas ou de brigada ... 500$00",
+    "depois": "###### Artigo 10.º\n\nAos mapas II e III anexos ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, são introduzidas as seguintes alterações:\n\n1.º Acrescentar nos dois mapas:\n\na) Na rubrica engenheiros directores: ou inspectores provinciais;\n\nb) Na rubrica engenheiros-chefes: chefe da Divisão de Serviços Técnicos;\n\nc) Na rubrica engenheiros de 1.ª classe: ou de chefe de brigada;\n\nd) Na rubrica engenheiros de 2.ª classe: ou de chefes de brigada.\n\n2.º Acrescentar no mapa II:\n\nEngenheiros de 2.ª classe, quando exercendo funções de adjunto de chefes de serviços, adjunto de chefes de oficinas ou de brigada - 500$00.\n\n> Alterado pelo/a [Decreto n.º 45/70](https://diariodarepublica.pt/dr/detalhe/decreto/45-1970-227783), publicado em 1970-02-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:518188:por",
+    "alterador": "pt:dre:227783:por"
+  }
+]

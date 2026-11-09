@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:469789:por",
+  "artigos": [
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "1 - As vagas criadas serão repartidas anualmente, por despacho do CEME, pelos seguintes grupos e subgrupos de candidatos:\n\nA) Grupo A - Casos especiais:\n\n1) 1.º subgrupo - serem órfãos de militares ou militarizados falecidos no exercício das suas funções e por motivo do seu desempenho, com preferência para os que tenham falecido em campanha ou na manutenção da ordem pública e por esta prioridade;\n\n2) 2.º subgrupo - ser órfão de militar dos quadros permanentes, com prioridade para os órfãos de pai e mãe;\n\n3) 3.º subgrupo - ser filho de militar dos quadros permanentes, nas seguintes condições:\n\na) Órfão de mãe;\n\nb) Pai em situação de invalidez, com grau de incapacidade mínimo de 30%, resultante do exercício das suas funções militares e por motivo do seu desempenho, com preferência para os que se tenham incapacitado em campanha ou na manutenção da ordem e por esta prioridade;\n\nc) Ter seis ou mais irmãos menores, exceptuando os já matriculados nos estabelecimentos militares de ensino, e não possuir outros rendimentos além do vencimento da função militar;\n\n4) 4.º subgrupo - ser filho de militar que tenha prestado serviços à Pátria recompensados a título individual com qualquer grau da Ordem Militar da Torre e Espada ou com medalhas militares de valor militar ou cruz de guerra e serviços distintos com palma pela ordem legal de precedências.\n\nB) Grupo B - Filhos de militares do quadro permanente (QP):\n\n1) 1.º subgrupo - filhos de oficiais;\n\n2) 2.º subgrupo - filhos de sargentos;\n\n3) 3.º subgrupo - filhos de praças.\n\nC) Grupo C - Outros candidatos:\n\n1) 1.º subgrupo:\n\na) Filhos de pessoal dos quadros de pessoal militarizado do Exército e da Armada e de oficiais, graduados, praças ou guardas da Guarda Nacional Republicana (GNR), Guarda Fiscal (GF) ou Polícia de Segurança Pública (PSP) servindo em permanência e na efectividade de serviço ou falecidos nessa situação;\n\nb) Filhos de funcionários civis de qualquer dos departamentos das forças armadas com mais de cinco anos de serviço.\n\n2) 2.º subgrupo - candidatos não abrangidos nos grupos anteriores.\n\n2 - Os candidatos abrangidos pelo disposto no 1.º subgrupo do grupo A, bem como os filhos dos condecorados em qualquer grau da Ordem Militar da Torre e Espada ou da medalha militar de valor militar, desde que satisfaçam as condições de admissão, serão sempre admitidos, ainda que excedam o número de vagas.\n\n3 - As vagas destinadas a candidatos do grupo A atribuídas a qualquer dos seus subgrupos que não forem preenchidas reverterão em primeira instância a favor dos restantes subgrupos pela ordem em que são indicados e, se não forem preenchidas, a favor do grupo B.\n\n4 - As vagas destinadas a candidatos do grupo B que não forem preenchidas reverterão a favor dos candidatos do grupo C, proporcionalmente às vagas atribuídas inicialmente a cada subgrupo.\n\n5 - As vagas destinadas a candidatos do grupo C e atribuídas a qualquer dos subgrupos que não forem preenchidas reverterão a favor do outro subgrupo e, se não forem preenchidas a favor do grupo B.\n",
+      "alterador": 1
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "",
+      "texto": "1 - Os candidatos residentes no continente realizarão no estabelecimento de ensino a que concorrem, perante um júri, do qual fará parte obrigatoriamente um delegado a designar pelo CEPE.\n\n2 - Os candidatos residentes nas ilhas e em Macau poderão realizar localmente as provas de aptidão psicotécnica perante um júri nomeado pelo comandante militar respectivo, do qual deverá fazer parte um oficial com a especialidade do CEPE, quando exista. A elaboração e classificação das provas será sempre feita no CEPE.\n\n3 - Os candidatos que concorram simultaneamente ao CM e ao IMPE prestam provas psicotécnicas apenas num desses estabelecimentos, mediante coordenação a estabelecer pelos respectivos directores. Os candidatos nestas condições devem declarar previamente a sua intenção de concorrer aos dois estabelecimentos.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 626/81 n.º 1.º: nova redação da alínea C) do n.º 1 do artigo 16.º (subgrupo 1) com alíneas a) e b); subgrupo 2) mantém a redacção actual; aplicada.",
+    "N.º 2.º: aditado n.º 3 ao artigo 26.º; aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

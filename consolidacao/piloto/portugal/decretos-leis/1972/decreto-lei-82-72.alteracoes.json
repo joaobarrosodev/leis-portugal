@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º\n\nOs subdirectores e inspectores da Polícia Judiciária são considerados magistrados do Ministério Público.",
+    "depois": "###### Artigo 13.º\n\nO director, os subdirectores e os inspectores da Polícia Judiciária são considerados magistrados do Ministério Público.\n\n> Alterado pelo/a [Decreto-Lei n.º 389/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1974-475726), publicado em 1974-08-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:396765:por",
+    "alterador": "pt:dre:475726:por"
+  }
+]

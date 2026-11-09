@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:1622480:por",
     "alterador": "pt:dre:2049273:por"
+  },
+  {
+    "artigo": "17.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 17.º — Controlo\n\n1 - São efetuados controlos administrativos e no local destinados a verificar o cumprimento das condições de concessão das ajudas previstas no presente despacho.\n\n2 - As entidades avaliadoras realizam controlos administrativos à totalidade dos pedidos de ajuda.\n\n3 - As DRAP realizam controlos no local no prazo de 20 dias úteis após a comunicação da definição da amostra de controlo pelo IFAP, I. P.\n\n4 - É da responsabilidade do IFAP, I. P., a realização do controlo de qualidade aos controlos efetuados pelas DRAP.\n\n5 - Sempre que um beneficiário da ajuda, ou um seu representante, impedir a realização de ação de controlo no local, a candidatura em causa é integralmente rejeitada.",
+    "depois": "###### Artigo 17.º — Controlo\n\n1 - São efetuados controlos administrativos e no local destinados a verificar o cumprimento das condições de concessão das ajudas previstas no presente despacho.\n\n2 - As entidades avaliadoras realizam controlos administrativos à totalidade dos pedidos de ajuda, cabendo, no caso da medida 1-C, estes controlos ao IFAP, I.P.\n\n3 - As DRAP realizam controlos no local e comunicam ao IFAP, I.P. o resultado dos mesmos no prazo de 20 dias úteis após a tomada de conhecimento da apresentação dos pedidos de pagamento intermédios ou de 10 dias úteis no caso do pedido final.\n\n4 - É da responsabilidade do IFAP, I. P., a realização do controlo de qualidade aos controlos efetuados pelas DRAP.\n\n5 - Sempre que um beneficiário da ajuda, ou um seu representante, impedir a realização de ação de controlo no local, a candidatura em causa é integralmente rejeitada.\n\n> Alterado pelo/a [Despacho Normativo n.º 4/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2014-2049273), publicado em 2014-03-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1622480:por",
+    "alterador": "pt:dre:2049273:por"
   }
 ]

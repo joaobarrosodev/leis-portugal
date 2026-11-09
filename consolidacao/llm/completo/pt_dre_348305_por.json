@@ -1,0 +1,74 @@
+{
+  "id": "pt:dre:348305:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Estrutura",
+      "texto": "1 - A Vice-Presidência do Governo compreende os seguintes órgãos e serviços:\n\na) Gabinete do Vice-Presidente do Governo;\n\nb) Delegação do Governo Regional na Ilha de Porto Santo;\n\nc) Direcção Regional dos Assuntos Europeus e da Cooperação Externa;\n\nd) Direcção Regional do Comércio, Indústria e Energia;\n\ne) Direcção Regional da Administração Pública e Local.\n\nf) Gabinete de Gestão da Loja do Cidadão.\n\n2 - A natureza, atribuições, orgânica, funcionamento e pessoal de cada um dos órgãos e serviços referidos no número anterior, à excepção do Gabinete do Vice-Presidente do Governo, constarão de diploma próprio.",
+      "alterador": 3
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Funcionamento",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Direcção",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Do delegado",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Sede",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Protocolo",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Dos serviços administrativos",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "27.º-A",
+      "epigrafe": "Carreira de coordenador",
+      "texto": "1 - São criados nos mapas VI e VII anexos à orgânica da Vice-Presidência do Governo Regional lugares da carreira de coordenador, no grupo de pessoal administrativo, em conformidade com os mapas anexos.\n\n2 - A carreira de coordenador desenvolve-se pelas categorias de coordenador especialista e de coordenador.\n\n3 - O recrutamento para as categorias de coordenador especialista e de coordenador far-se-á, respectivamente, de entre coordenadores com três anos na respectiva categoria e de entre chefes de secção com comprovada experiência na área administrativa.\n\n4 - A carreira de coordenador é remunerada de acordo com o estabelecido no [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de Agosto, aplicando-se à mobilidade mediante concurso o disposto nos n.os 2 a 4 do artigo 18.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, com as alterações introduzidas pelo [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro.",
+      "alterador": 1
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "Primeiro provimento",
+      "texto": "1 - O primeiro provimento em lugar dos quadros de pessoal do Gabinete do Vice-Presidente do Governo e dos respectivos órgãos e serviços de apoio far-se-á pela aplicação deste diploma e elaboração de lista nominativa, aprovada pelo Vice-Presidente do Governo, com dispensa de quaisquer outras formalidades legais sempre que se trate de pessoal com vínculo à Administração Pública e o provimento se processar em categoria igual ou equivalente à que detinha no respectivo quadro de origem.\n\n2 - Quando não se verifique coincidência de índice, o provimento far-se-á para o escalão cujo índice seja imediatamente superior na estrutura da categoria para a qual se processa a integração.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 4 (DRR 7/2005/M, art. 2.º) revoga o DRR 5/2001/M \"à excepção da parte referente aos diversos órgãos e serviços não regulamentados\" no novo diploma: revogação com exceção indeterminada, não aplicada ao texto. Alterador 2, art. 2.º, n.º 1 revoga o capítulo IV da orgânica sem enumerar artigos (os capítulos não vêm marcados no texto atual); aplicado aos artigos 19.º a 24.º (Delegação do Governo Regional na Ilha de Porto Santo). As chaves dos artigos da orgânica anexa coincidem com as do decreto (1.º a 3.º); a chave \"3.º\" aqui refere-se ao artigo 3.º da orgânica (Estrutura).",
+  "instrucoes": [
+    "Alt. 1, art. 2.º: aditado o artigo 27.º-A (Carreira de coordenador) à orgânica.",
+    "Alt. 2, art. 2.º, n.º 1: revogado o capítulo IV da orgânica (Delegação do Governo Regional na Ilha de Porto Santo) - artigos 19.º a 24.º ficam (Revogado.).",
+    "Alt. 2, art. 2.º, n.º 2: remissão interpretativa das referências à Delegação; não textual, nada a mudar.",
+    "Alt. 2, art. 2.º, n.º 3: suprimidas as referências à Delegação no n.º 2 do artigo 3.º e no n.º 1 do artigo 28.º da orgânica.",
+    "Alt. 3, art. 12.º: aditada a alínea f) ao n.º 1 do artigo 3.º da orgânica (Gabinete de Gestão da Loja do Cidadão).",
+    "Alt. 4, art. 2.º: revogação do diploma com exceção indeterminada; não aplicada ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "28.º: parágrafo que não está no alterador nem no original: 1 - O primeiro provimento em lugar dos quadros de pessoal do Gabinete do Vice-Pr"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:238432:por",
+  "artigos": [
+    {
+      "chave": "único",
+      "epigrafe": "",
+      "texto": "Poderá o Ministro da Educação Nacional prorrogar, por despacho, até dois anos, o prazo fixado no § 1.º do artigo 26.º do [Decreto n.º 39001](https://diariodarepublica.pt/dr/detalhe/decreto/39001-1952-669494), de 20 de Novembro de 1952, quando isso se mostrar conveniente em face de condições especiais resultantes da necessidade de manter em comissão de serviço nos Estudos Gerais Universitários de Angola e de Moçambique elevado número de funcionários do quadro referido no artigo 7.º do [Decreto-Lei n.º 41362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41362-1957-253057), de 14 de Novembro de 1957.\n\n§ único. O disposto no presente artigo é aplicável aos concursos cujo prazo de validade já tenha expirado.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 13 de Março de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocência Galvão Teles.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único do Decreto 46491: aditado § único ao artigo único - aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

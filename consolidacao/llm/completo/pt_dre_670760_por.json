@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:670760:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "As duas resoluções alteram o anexo I (Regimento do Conselho de Ministros), que não consta do texto atual (só o anexo II, regras de legística); não há alvo onde aplicar.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação integral do anexo I - anexo I não está no texto atual, não aplicado",
+    "Alterador 2, n.º 1: altera o n.º 27 do anexo I - anexo I não está no texto atual, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

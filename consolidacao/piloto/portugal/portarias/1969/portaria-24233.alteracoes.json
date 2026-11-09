@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "115.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 115.º\n\nO serviço desempenhado na Escola Prática de Polícia é considerado como prestado nos termos do artigo 85.º do Regulamento da Polícia de Segurança Pública.",
+    "depois": "###### Artigo 115.º\n\nO serviço desempenhado na Escola Prática de Polícia nas funções de instrutor ou de adjunto de instrutor durante, pelo menos, um ano lectivo é considerado, para efeitos de admissão aos cursos de promoção, como equivalente ao desempenho de funções de instrutor ou monitor de uma escola de alistados.\n\n> Alterado pelo/a [Portaria n.º 209/79](https://diariodarepublica.pt/dr/detalhe/portaria/209-1979-382854), publicado em 1979-05-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:308691:por",
+    "alterador": "pt:dre:382854:por"
+  }
+]

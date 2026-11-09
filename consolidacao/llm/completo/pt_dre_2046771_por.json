@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:2046771:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Classificação",
+      "texto": "São classificados, como sítio de interesse público (SIP) os bens imóveis a seguir identificados:\n\na) A área arqueológica do Torrão, na freguesia de Barbacena, concelho de Elvas, distrito de Portalegre, cuja fundamentação para a classificação consta do anexo i à presente portaria, da qual faz parte integrante;\n\nb) O Cerro da Mangancha, na freguesia e concelho de Aljustrel, distrito de Beja, cuja fundamentação para a classificação consta do anexo ii à presente portaria, da qual faz parte integrante;\n\nc) A Lapa dos Esteios, jardim com os objectos nele integrados, situada na Quinta das Canas, lugar de Lajes, freguesia de Santa Clara, concelho e distrito de Coimbra, cuja fundamentação para a classificação consta do anexo iii à presente portaria, da qual faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Retificação da alínea b) do art. 1.º: 'distrito de Évora' passa a 'distrito de Beja' (única diferença entre o 'onde se lê' e o 'deve ler-se'); mantido o ';' final do texto atual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "1.º: parágrafo que não está no alterador nem no original: b) O Cerro da Mangancha, na freguesia e concelho de Aljustrel, distrito de Beja,"
+  ]
+}

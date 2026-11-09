@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:524827:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 6.º: declara extinto o subsídio eventual de custo de vida a partir da entrada em vigor dos novos vencimentos, sem revogar nem alterar expressamente o texto do decreto; não é alteração textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1, art. 6.º: extinção do subsídio a partir de data futura; sem instrução textual, não aplicada. Restantes artigos dizem respeito a outros diplomas; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "12.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º\n\n1. As funções de juiz dos Tribunais Municipais de Lisboa e do Porto são exercidas por juizes de direito de 3.ª ou de 2.ª classe, nomeados pelo Ministro do Interior, ouvido o Ministro da Justiça.\n\n2. A nomeação será feita em comissão de serviço por períodos renováveis de três anos, caducando necessariamente logo que o magistrado seja promovido à 1.ª classe.\n\n3. No caso do n.º 2 do artigo 3.º, poderão ser nomeados, em comissão de serviço, pelo período de um ano, prorrogável, os juizes que, além do quadro, se reputem necessários à completa normalização do serviço.",
+    "depois": "###### Artigo 12.º\n\n1. Os juízes dos Tribunais de Lisboa e do Porto serão nomeados pelo Ministro da Administração Interna de entre os juízes de direito de 3.ª ou de 2.ª classe, ouvido o Ministro da Justiça.\n\n2. A nomeação será feita em comissão de serviço nos períodos renováveis de três anos.\n\n> Alterado pelo/a [Decreto-Lei n.º 286/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1975-335744), publicado em 1975-06-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:421996:por",
+    "alterador": "pt:dre:335744:por;pt:dre:407101:por"
+  },
+  {
+    "artigo": "18.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 18.º\n\nAs funções de agente do Ministério Público junto dos Tribunais Municipais de Lisboa e do Porto são exercidas por delegados do procurador da República de 3.ª ou de 2.ª classe, nomeados pelo Ministro do Interior, ouvido o Ministro da Justiça.",
+    "depois": "###### Artigo 18.º\n\nAs funções de agente do Ministério Público junto dos Tribunais Municipais de Lisboa e do Porto são exercidas por delegados do procurador da República, nomeados, em comissão de serviço, pelo Ministro do Interior, ouvido o Ministro da Justiça.\n\n> Alterado pelo/a [Decreto-Lei n.º 29/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1974-407101), publicado em 1974-02-01.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:421996:por",
+    "alterador": "pt:dre:335744:por;pt:dre:407101:por"
+  },
+  {
+    "artigo": "23.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 23.º\n\nEm tudo quanto não vem especialmente regulado neste capítulo é extensivo aos magistrados do Ministério Público, com as adaptações que se mostrem necessárias, o disposto nos artigos 3.º n.º 2, 12.º n.os 2 e 3, e 16.º",
+    "depois": "###### Artigo 23.º\n\nEm tudo quanto não vem especialmente regulado neste capítulo é extensivo aos magistrados do Ministério Público, com as adaptações que se mostrem necessárias, o disposto nos artigos 3.º, n.º 2, e 16.º\n\n> Alterado pelo/a [Decreto-Lei n.º 29/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1974-407101), publicado em 1974-02-01.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:421996:por",
+    "alterador": "pt:dre:335744:por;pt:dre:407101:por"
+  }
+]

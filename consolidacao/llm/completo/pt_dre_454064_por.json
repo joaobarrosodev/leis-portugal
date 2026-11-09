@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:454064:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Constituem receita do Serviço Regional de Proteção Civil, IP-RAM:\n\n1) O produto das seguintes sobretaxas que as seguradoras estão autorizadas a cobrar dos segurados na Região:\n\na) 13 % sobre os prémios de seguro contra fogo;\n\nb) 4% sobre os prémios dos seguros agrícolas e pecuários;\n\nc) 2,5 % dos prémios ou contribuições relativos a seguros dos ramos de vida, doença, acidentes de trabalho, automóvel e responsabilidade civil e acidentes pessoais.\n\n2) A incidência das taxas mencionadas no n.º 1) deste artigo recai sobre os prémios e encargos e ainda sobre o custo da apólice ou acta adicional, quando existam.",
+      "alterador": 4
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - Todos os valores obtidos e previstos no presente diploma serão entregues pela Tesouraria do Governo Regional ao Serviço Regional de Proteção Civil, IP-RAM, através de operações extraorçamentais.\n\n2 - Os valores previstos no número anterior serão utilizados pelo Serviço Regional de Proteção Civil, IP-RAM, para o financiamento de despesas no âmbito da sua atividade.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1 art. 18.º: altera alíneas a) e c) do n.º 1 do art. 1.º e o art. 3.º; aplicado.",
+    "Alt.2 art. 54.º: altera proémio do art. 1.º e o art. 3.º; aplicado.",
+    "Alt.3 art. 57.º: altera proémio do art. 1.º (igual) e o art. 3.º; aplicado.",
+    "Alt.4 art. 5.º: altera alínea c) do n.º 1 do art. 1.º (2,5 %); aplicado. Restantes artigos dos alteradores dizem respeito a outros diplomas; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:252004:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1. Enquanto frequentarem a Academia Militar, os alunos denominam-se cadetes-alunos, com excepção dos alunos admitidos como oficiais milicianos e dos alunos graduados nas condições referidas nos números seguintes deste artigo, os quais serão denominados por aspirantes a oficial, alferes ou tenentes-alunos, consoante a sua graduação.\n\n2. Os cadetes-alunos dos cursos cuja frequência na Academia Militar tenha a duração de quatro anos são graduados em aspirantes a oficial, no início do tirocínio, com data de 1 de Outubro, assim como os cadetes-alunos que frequentam cursos cuja duração de frequência na Academia seja igual ou superior a cinco anos.\n\n3. Os aspirantes a oficial aluno dos cursos cuja duração de frequência na Academia Militar seja igual a seis anos são graduados em alferes-alunos no dia 1 de Outubro do ano em que iniciam o 6.º ano do respectivo curso.\n\n4 - Findo o tirocínio com aproveitamento, os alunos a que se refere o n.º 2 deste artigo ingressam nos quadros permanentes com o posto de alferes, sendo a antiguidade no posto a da data do referido ingresso.\n\n5 - Findo o tirocínio com aproveitamento, os alunos a que se refere o n.º 3 deste artigo ingressam nos quadros permanentes com o posto de tenente, sendo a antiguidade no posto a da data do referido ingresso.\n\n6. Os alunos dos cursos cuja duração de frequência na Academia Militar seja superior a seis anos são graduados nos postos correspondentes aos dos restantes cursos do mesmo ano de entrada na Academia, ingressando no quadro permanente imediatamente após o tirocínio com a antiguidade da data de graduação em tenente.",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "1. Os alunos da Academia Militar estão sujeitos às leis, disciplina e regulamentos militares.\n\n2. De acordo com a natureza particular da Academia e da sua função educativa, é estabelecido um regime especial de recompensas e punições.\n\n3 - O regime disciplinar definido neste capítulo é aplicável aos alunos desde a sua admissão na Academia Militar até ao seu ingresso no quadro permanente como oficiais, qualquer que seja a sua situação.",
+      "alterador": 2
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "1 - A competência disciplinar dos oficiais da Academia Militar exercendo funções de comando sobre os alunos é a indicada no quadro anexo a este diploma.\n\n2 - Os oficiais das unidades, estabelecimentos ou órgãos militares que exerçam funções de comando, direcção ou chefia sobre os alunos da Academia Militar neles apresentados têm sobre estes a competência disciplinar indicada no quadro anexo, em correspondência com as funções de comando dos oficiais da Academia Militar.\n\n3 - A competência disciplinar fixa-se no posto que, organicamente, corresponde à função exercida, quando exista essa correspondência.\n\n4 - Os oficiais comandantes de destacamento ou chefes de missão da Academia Militar têm sobre os alunos que comandam ou chefiam a competência disciplinar correspondente ao seu posto.\n\n5 - Os oficiais subalternos, quando comandantes de destacamento ou chefes de missão, têm sobre os alunos que comandam ou chefiam a competência disciplinar correspondente ao posto de capitão.\n\n6 - O comandante da Academia Militar é a única entidade com a faculdade de atenuar, agravar ou substituir as penas escolares impostas aos alunos por entidades exteriores à Academia Militar.\n\n7 - As decisões do comandante da Academia Militar no que respeita à aplicação das penas previstas no artigo 13.º são definitivas.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "O novo quadro anexo a que se refere o artigo 16.º, publicado pela Portaria n.º 497/82, só existe em imagem (ver documento original); não foi aplicado.",
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação dos n.os 4 e 5 do artigo 5.º; aplicada, restantes números mantidos.",
+    "Alterador 2, n.º 1.º: aditado n.º 3 ao artigo 11.º; aplicado.",
+    "Alterador 2, n.º 2.º: nova redação do artigo 16.º; aplicada.",
+    "Alterador 2: novo quadro anexo só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

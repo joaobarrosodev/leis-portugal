@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:446532:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 663/81): substitui o quadro do pessoal de informática (mapa anexo), que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1: substituição do quadro de pessoal de informática (imagem) - não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

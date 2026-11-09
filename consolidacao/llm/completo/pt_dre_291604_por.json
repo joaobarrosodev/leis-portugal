@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:291604:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 5.º, n.º 1, alínea c): revoga os n.os 2 e 3 do art. 6.º e o art. 7.º 'na parte em que contrariem' o decreto-lei; revogação condicional, não aplicada ao texto.",
+    "Alterador 1, arts. 1.º a 4.º e 6.º: regime autónomo de juros; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

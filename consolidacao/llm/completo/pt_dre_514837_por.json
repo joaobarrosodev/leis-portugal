@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:514837:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "O Conselho Corporativo poderá alterar o número, a composição e a designação dos agrupamentos de actividades e interesses previstos nos artigos anteriores, independentemente da forma como os mesmos se encontram estruturados nas corporações, nomeadamente para permitir a melhor representatividade de tais agrupamentos na Câmara Corporativa ou para adaptar a organização desta às corporações que forem instituídas.\n\n§ único. À medida que forem instituídas novas corporações, os respectivos representantes substituir-se-ão aos que estiverem a representar na Câmara os mesmos interesses, nos termos a fixar pelo Conselho Corporativo.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (Decreto-Lei n.º 48698) dá nova redação ao § 2.º do artigo 1.º, mas o texto atual do artigo 1.º não tem parágrafos nem § 2.º (só o agrupamento das secções I e II); alvo inexistente no texto atual, não aplicado.",
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do artigo 5.º e seu § único - aplicado.",
+    "Alterador 2, artigo único: nova redação do § 2.º do artigo 1.º - não aplicado (§ 2.º não existe no texto atual).",
+    "Alterador 3: regras autónomas sobre a composição da Câmara e revogação do Decreto-Lei n.º 45830, sem alteração textual do original - nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

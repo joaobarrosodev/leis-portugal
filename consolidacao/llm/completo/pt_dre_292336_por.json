@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:292336:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "Os cheques referidos no artigo 1.º serão transferidos, no prazo de vinte e quatro horas, e com as formalidades estabelecidas para as passagens de fundos em moeda corrente, para o Banco de Portugal, sede, filial ou agências como caixa geral do Tesouro, que procederá ao recebimento da respectiva importância das entidades que os tenham emitido ou das que foram responsáveis, nos termos do artigo 2.º deste decreto-lei, por compensação ou cobrança.\n\n§ único. Exceptuam-se do disposto neste artigo os cheques da Caixa Geral de Depósitos, Crédito e Previdência, sacados para o mesmo fim sobre as suas delegações que funcionem nas repartições de finanças concelhias, os quais seguirão a mesma forma de contabilização, cobrança e transferência dos demais cheques sobre o País.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Art. 1.º do DL 233/71 dispensa, para pagamentos nas tesourarias da Fazenda Pública (salvo valores selados e impressos), a exigência de cheques visados prevista no DL 46495: derrogação sem alteração textual; não aplicada ao texto.",
+  "instrucoes": [
+    "Art. 6.º do DL 233/71 dá nova redação ao corpo do art. 5.º: aplicada, mantido o § único.",
+    "Art. 1.º (dispensa do visto bancário): alteração não textual, não aplicada.",
+    "Arts. 2.º a 5.º: normas próprias do DL 233/71; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

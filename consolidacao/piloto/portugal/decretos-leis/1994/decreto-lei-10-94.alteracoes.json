@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1 - O estabelecimento das entidades referidas no artigo anterior dá lugar ao pagamento de uma taxa anual respeitante à licença de funcionamento, nas condições e montante a definir pelos respectivos governos regionais.\n\n2 - Para efeitos do disposto no número anterior, e consoante o caso, o Banco de Portugal ou o Instituto de Seguros de Portugal enviará ao respectivo governo regional cópia dos processos de estabelecimento nas referidas zonas francas das sucursais e agências ou das agências gerais, delegações e escritórios de representação das entidades mencionadas no artigo anterior.\n\n3 - A concessão da licença referida no n.º 1 pressupõe, no caso de sucursal ou agência de instituição de crédito ou sociedade financeira, a prévia classificação em sucursal financeira exterior ou em sucursal financeira internacional, consoante aquela exclua ou não do âmbito da sua actividade as operações com residentes e restantes entidades referidas na alínea c) do n.º 1 do artigo 41.º do Estatuto dos Benefícios Fiscais, na redacção que lhe foi dada pelo [Decreto-Lei n.º 84/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1993-634689), de 18 de Março, nos termos e condições aí enunciados.",
+    "depois": "###### Artigo 2.º\n\n1 - O estabelecimento das entidades referidas no artigo anterior dá lugar ao pagamento de uma taxa anual respeitante à licença de funcionamento, nas condições e montante a definir pelos respectivos governos regionais.\n\n2 - Para efeitos do disposto no número anterior, e consoante o caso, o Banco de Portugal ou o Instituto de Seguros de Portugal enviará ao respectivo governo regional cópia dos processos de estabelecimento nas referidas zonas francas das sucursais e agências ou das agências gerais, delegações e escritórios de representação das entidades mencionadas no artigo anterior.\n\n3 - A concessão da licença referida no n.º 1 pressupõe, no caso de sucursal ou agência de instituição de crédito ou sociedade financeira, a prévia classificação em sucursal financeira exterior ou em sucursal financeira internacional, consoante aquela exclua ou não do âmbito da sua actividade as operações com residentes e restantes entidades referidas na alínea c) do n.º 1 do artigo 41.º do Estatuto dos Benefícios Fiscais nos termos e condições aí enunciados.\n\n> Alterado pelo/a [Lei n.º 30-G/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), publicado em 2000-12-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:508873:por",
+    "alterador": "pt:dre:212015:por"
+  }
+]

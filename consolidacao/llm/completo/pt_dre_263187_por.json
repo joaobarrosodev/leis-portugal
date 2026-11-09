@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:263187:por",
+  "artigos": [
+    {
+      "chave": "único",
+      "epigrafe": "",
+      "texto": "É alterada da seguinte forma a distribuição de encargos fixada no artigo 2.º do [Decreto n.º 47582](https://diariodarepublica.pt/dr/detalhe/decreto/47582-1967-503626), de 9 de Março de 1967:\n\n1969 ... 166666$60\n\n1970 ... 333333$40\n\n§ único. A importância fixada para o ano de 1970 será acrescida do saldo eventualmente apurado no ano anterior.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único do Decreto 49208: substitui a distribuição de encargos (anos e montantes) e o § único do artigo único; mantida a frase introdutória do texto atual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

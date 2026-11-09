@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:407749:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alt.1 (Declaração) retifica só o sumário e o título (Decreto -> Decreto-Lei), não o texto dos artigos. Alt.2 (Decreto-Lei n.º 64/79, artigo único) fixa o limite de emissão das moedas de 25$00 em 1500000000$00 sem dar nova redação ao n.º 1 do art. 3.º: alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Alt.1: retificação do sumário e do título; sem efeito nos artigos.",
+    "Alt.2: novo limite de emissão sem nova redação do art. 3.º; não aplicado ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

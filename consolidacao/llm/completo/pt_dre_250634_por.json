@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:250634:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "alterador": 1,
+      "texto": "1. Ao quadro do pessoal dirigente e técnico da Direcção-Geral dos Desportos constante do mapa I anexo ao [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451), de 3 de Março, é acrescentado um lugar de subdirector-geral, que se integra no quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.\n\n2 - É extinto, quando vagar, o lugar de adjunto do director-geral constante do mapa I anexo ao [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451), de 3 de Março.\n\n3. O acréscimo de encargos será liquidado, no corrente ano, pelas disponibilidades da verba respectiva, que, para tanto, se considera global."
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 1.º: nova redação do n.º 2 do artigo 2.º (n.os 1 e 3 mantêm-se) — aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

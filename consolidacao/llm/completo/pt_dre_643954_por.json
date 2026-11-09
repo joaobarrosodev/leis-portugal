@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:643954:por",
+  "artigos": [
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 art. 6.º: extingue a Comissão Nacional do Frio, sem alteração textual dos arts. 12.º-13.º: nada aplicado.",
+    "Alt. 2 art. 24.º: extingue a Comissão Permanente da Indústria de Abate, sem alteração textual: nada aplicado.",
+    "Alt. 3 art. 1.º: Fundo de Abastecimento deixa de ser fonte de financiamento, sem alteração textual: nada aplicado.",
+    "Alt. 4 art. 20.º: revoga o art. 16.º do DL 237/71: aplicado; restantes revogações são de outros diplomas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

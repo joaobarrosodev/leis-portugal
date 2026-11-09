@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:356546:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Art. 15.º, n.º 1, do DL n.º 66/97 altera o mapa anexo de classificação económica das receitas, que só vem em imagem; nenhum artigo do original é alterado. O alterador 2 (DL n.º 26/2002) não traz texto.",
+  "instrucoes": [
+    "DL 66/97, art. 15.º, n.º 1: alteração do mapa anexo (imagem); não aplicado.",
+    "DL 66/97, restantes artigos: execução orçamental de 1997, sem relação com o original.",
+    "DL 26/2002: sem texto no pedido; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

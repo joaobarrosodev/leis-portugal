@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:278707:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Todas as alterações substituem quadros de pessoal dos mapas anexos (Portaria 698/79: anexo II; DL 513-R/79: quadro do GIRP; Portaria 1089/80: quadros da Secretaria-Geral e da Auditoria Jurídica), que só existem em imagem; não aplicadas. Nenhum artigo é alterado.",
+  "instrucoes": [
+    "Portaria 698/79: substitui o quadro do anexo II (imagem); não aplicável",
+    "DL 513-R/79 art. 1.º: substitui o quadro do GIRP (imagem); não aplicável; arts. 2.º-7.º são normas autónomas",
+    "Portaria 1089/80 n.os 1.º e 2.º: substituem os quadros da Secretaria-Geral e da Auditoria Jurídica (imagem); não aplicável; restantes números não dizem respeito ao original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

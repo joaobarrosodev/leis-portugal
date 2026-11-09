@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:444431:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O art. 1.º do DLR 1/86/M fixa, no seu próprio texto, novos prazos de remição ('Os prazos de remição do DLR 17/83/M passam a ser os seguintes'), sem dar nova redação a nenhum artigo do original; é uma prorrogação não textual, pelo que o art. 1.º do original não foi reescrito.",
+  "instrucoes": [
+    "DLR 1/86/M, art. 1.º: novos prazos de remição (1986/1989 e 1991) fixados por norma autónoma, sem nova redação de artigo do original — não aplicado ao texto.",
+    "DLR 1/86/M, art. 2.º: revogação genérica de legislação em contrário — não se aplica ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

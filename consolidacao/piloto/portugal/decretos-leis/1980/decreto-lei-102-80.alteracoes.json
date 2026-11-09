@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\n1 - Constituem receitas do Fundo de Fomento Cultural:\n\na) As dotações para o efeito inscritas no orçamento da Secretaria de Estado da Cultura;\n\nb) Os saldos de gerência anteriores;\n\nc) Os rendimentos da edição ou reedição de obras de arte, gravuras, documentos históricos ou livros que subsidie;\n\nd) Os rendimentos cobrados por serviços prestados, materiais fornecidos, publicações, filmes, diapositivos, gravações em fita e discos editados, espectáculos realizados e, em geral, por quaisquer outras actividades efectuadas pelos organismos representados no conselho administrativo que não sejam administrativa e financeiramente autónomos;\n\ne) Quaisquer donativos, heranças ou legados para fins de acção cultural;\n\nf) Quaisquer outras receitas não proibidas por lei.\n\n2 - As receitas à disposição do Fundo serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência e a sua movimentação será isenta de imposto do selo e prémio de transferência, devendo o Fundo integrar-se na orientação definida no [Decreto-Lei n.º 264/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1978-299220), de 30 de Agosto, a partir do orçamento de 1981.",
+    "depois": "###### Artigo 7.º\n\n1 - Constituem receitas do Fundo de Fomento Cultural:\n\na) As dotações para o efeito inscritas no orçamento da Secretaria de Estado da Cultura;\n\nb) Os saldos de gerência anteriores verificados em contas de ordem;\n\nc) Os juros dos fundos capitalizados e dos empréstimos concedidos;\n\nd) Os rendimentos da edição ou reedição de obras de arte, gravuras documentos históricos ou livros que subsidie;\n\ne) Os rendimentos cobrados por serviços prestados, materiais fornecidos, publicacações, filmes, diapositivos e outras gravações áudio-visuais. espectáculos realizados e, em geral, por quaisquer outras actividades efectuadas pelos organismos representados no conselho administrativo que não sejam administrativa e financeiramente autónomos;\n\nf) Quaisquer donativos, heranças ou legados para fins de acção cultural;\n\ng) Quaisquer outras receitas não proibidas por lei.\n\n2 - As receitas a que se refere o número anterior serão depositadas à sua ordem em instituição de crédito e a sua movimentação será isenta de imposto do selo e de prémio de transferência.\n\n> Alterado pelo/a [Decreto-Lei n.º 114/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1987-662280), publicado em 1987-03-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:442304:por",
+    "alterador": "pt:dre:662280:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º\n\n1 - Os organismos e serviços que cobrem ou arrecadem receitas destinadas ao Fundo efectuarão o seu depósito, dentro dos prazos legais, na conta referida no n.º 2 do artigo 7.º mediante guias em quadruplicado.\n\n2 - A Caixa Geral de Depósitos, Crédito e Previdência reterá um exemplar de cada guia e devolverá no acto de depósito, depois de este averbado, os restantes exemplares ao depositante, que enviará dois deles ao Fundo de Fomento Cultural.\n\n3 - Dentro dos prazos estabelecidos para o depósito de receitas, as entidades responsáveis pela sua cobrança ou arrecadação enviarão ao conselho administrativo do Fundo, nos termos que vierem a ser determinados, elementos elucidativos acerca do depósito efectuado.",
+    "depois": "###### Artigo 9.º\n\n1 - Os organismos e serviços que cobrem ou arrecadem receitas destinadas ao Fundo efectuarão o seu depósito, dentro dos prazos legais, na conta referida no n.º 2 do artigo 7.º mediante guias em quadruplicado.\n\n2 - A instituição de crédito reterá um exemplar da guia e devolverá no acto do depósito, depois de averbado, os restantes exemplares ao depositante, o qual enviará dois deles ao FFC.\n\n3 - Dentro dos prazos estabelecidos para o depósito de receitas, as entidades responsáveis pela sua cobrança ou arrecadação enviarão ao conselho administrativo do Fundo, nos termos que vierem a ser determinados, elementos elucidativos acerca do depósito efectuado.\n\n> Alterado pelo/a [Decreto-Lei n.º 114/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1987-662280), publicado em 1987-03-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:442304:por",
+    "alterador": "pt:dre:662280:por"
+  }
+]

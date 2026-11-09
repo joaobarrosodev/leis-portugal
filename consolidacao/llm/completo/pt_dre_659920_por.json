@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:659920:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DL 107/2004 (art. 2.º) substitui a secção 5.1 do capítulo III do anexo I do DL 180/2003 e DL 210/2005 (art. 3.º) adita as secções 8.A e 8.B ao capítulo II-1 do anexo e um anexo II: o anexo não consta do texto atual recebido (só os artigos 1.º e 2.º), pelo que não foram aplicados.",
+  "instrucoes": [
+    "DL 107/2004 art. 2.º: substituição da secção 5.1 do cap. III do anexo — anexo não recebido, não aplicado",
+    "DL 210/2005 art. 2.º: altera o DL 293/2001 (outro diploma) — ignorado",
+    "DL 210/2005 art. 3.º: aditamento das secções 8.A e 8.B ao anexo e de anexo II — não aplicado (anexo não recebido)",
+    "DL 93/2012: sem artigos que mencionem o original no pedido — nada a aplicar",
+    "DL 134/2017: altera o DL 293/2001 e o seu anexo I — ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

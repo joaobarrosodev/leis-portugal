@@ -1,0 +1,320 @@
+---
+id: pt:dre:324279:por
+title: Decreto Regulamentar n.º 10/2000
+original: data/portugal/decretos-regulamentares/2000/decreto-regulamentar-10-2000.md
+consolidacao:
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:210024:por
+    title: Decreto Regulamentar n.º 4/2004
+    publication_date: '2004-03-29'
+  - id: pt:dre:67198365:por
+    title: Decreto-Lei n.º 78/2015
+    publication_date: '2015-05-13'
+---
+
+# Decreto Regulamentar n.º 10/2000
+
+de 22 de Agosto
+
+As lagoas de Santo André e da Sancha, situadas no litoral dos concelhos de Santiago do Cacém e de Sines, constituem um sistema lagunar costeiro de relevante importância biológica, incluindo interessantes aspectos ecológicos, ictiológicos, botânicos e, muito particularmente, ornitológicos. O complexo dunar envolvente desempenha um importante papel de protecção destas lagoas, suportando uma flora e vegetação característica que se apresenta em bom estado de conservação, incluindo espécies endémicas consideradas vulneráveis. A faixa marítima adjacente, além de um elevado valor ecológico, possui uma fragilidade e dinâmicas muito particulares, albergando comunidades faunísticas características, constituindo-se ainda como uma importante área de passagem de golfinhos e de aves.
+
+O interesse na protecção, conservação e gestão da lagoa de Santo André e da lagoa da Sancha está demonstrado pelo facto de estas zonas constarem da lista de «Zonas de protecção especial» para a avifauna nos termos da Directiva n.º [79/409/CEE](http://data.europa.eu/eli/dir/1979/409/oj?locale=pt), serem designadas como «zonas húmidas de importância internacional» pela Convenção de Ramsar e estarem incluídas num sítio candidato a integração na Rede Natura 2000, constante da 1.ª fase da lista nacional de sítios, aprovada pela Resolução do Conselho de Ministros n.º 142/97, de 28 de Agosto.
+
+A área em consideração, com um total de 5370 ha, estende-se ao longo de cerca de 15 km, desde o limite sul da povoação da lagoa de Santo André até ao limite norte da área ocupada pelo Complexo de Sines, abrangendo uma faixa terrestre de largura variável de 2 km a 3 km e uma faixa marítima de 1,5 km de largura. Os limites da área foram definidos tendo como base as zonas húmidas e áreas alagadas correspondentes, bem como as zonas adjacentes responsáveis pela manutenção das lagoas e «poços».
+
+Actualmente, esta área encontra-se sujeita a múltiplos factores de pressão sobre o meio natural, sob a forma da emissão de efluentes, caça, pesca, turismo e construção, que impõem medidas de conservação adequadas.
+
+A área em causa identifica-se com os pressupostos inerentes à classificação como reserva natural, previstos no artigo 6.º do Decreto-Lei n.º 19/93, de 23 de Janeiro, designadamente a protecção de habitats, da fauna e da flora, conduzindo à implementação de medidas que assegurem a manutenção das condições naturais indispensáveis à estabilidade ou à sobrevivência de espécies, grupos de espécies, comunidades bióticas ou aspectos físicos do ambiente que dependam da intervenção do homem para a sua continuidade.
+
+Verificam-se os pressupostos do artigo 13.º do Decreto-Lei n.º 19/93, de 23 de Janeiro, tendo sido realizado o inquérito público e ouvidas as Câmaras Municipais de Santiago do Cacém e de Sines.
+
+Assim:
+
+Nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Criação
+
+É criada a Reserva Natural das Lagoas de Santo André e da Sancha, adiante designada por Reserva Natural.
+
+###### Artigo 2.º — Limites
+
+1 - Os limites da Reserva Natural são os fixados no texto e na carta simplificada que constituem os anexos I e II ao presente diploma, do qual fazem parte integrante.
+
+2 - As dúvidas eventualmente suscitadas são resolvidas pela consulta da carta à escala de 1:25000, arquivada para o efeito na sede do Instituto da Conservação da Natureza, adiante designado por ICN.
+
+###### Artigo 3.º — Objectivos
+
+Sem prejuízo do disposto no artigo 3.º do Decreto-Lei n.º 19/93, de 23 de Janeiro, são objectivos específicos da Reserva Natural:
+
+a) Proteger as zonas húmidas litorais, faixa marítima e o sistema dunar, assim como o património natural a eles associado, incluindo a sua flora e fauna;
+
+b) Promover a salvaguarda dos ecossistemas em presença;
+
+c) Promover e divulgar os seus valores naturais, estéticos e científicos;
+
+d) Promover a valorização dos habitats naturais;
+
+e) Promover a utilização sustentada do espaço, compatibilizando os usos e a defesa dos valores naturais;
+
+f) Promover acções de sensibilização ambiental.
+
+###### Artigo 4.º — Gestão
+
+A Reserva Natural é gerida pelo ICN.
+
+###### Artigo 5.º — Órgãos
+
+São órgãos da Reserva Natural:
+
+a) A comissão directiva;
+
+b) (Revogada.)
+
+> Alterado pelo/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
+
+###### Artigo 6.º — Comissão directiva
+
+1 - A comissão directiva, composta por um presidente e dois vogais, é o órgão executivo da Reserva Natural.
+
+2 - O presidente e os vogais da comissão directiva são nomeados nos termos do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, alterado pelos Decretos-Leis n.os [151/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1995-475371), de 24 de Junho, [213/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1997-209591), de 16 de Agosto, e [221/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2002-432178), de 22 de Outubro.
+
+3 - As Câmaras Municipais de Santiago do Cacém e de Sines dispõem do prazo de 22 dias úteis para indicar um dos vogais da comissão directiva.
+
+4 - O mandato dos titulares da comissão directiva é de três anos.
+
+5 - A comissão directiva reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que convocada pelo presidente, por sua iniciativa ou a solicitação de um dos vogais.
+
+6 - O presidente tem voto de qualidade.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2004-210024), publicado em 2004-03-29.
+
+###### Artigo 7.º — Competências da comissão directiva
+
+1 - Compete à comissão directiva, em geral, a administração dos interesses específicos da Reserva Natural, executando as medidas contidas nos instrumentos de gestão e assegurando o cumprimento das normas legais e regulamentares em vigor.
+
+2 - Compete, em especial, ao presidente da comissão directiva:
+
+a) Representar a Reserva Natural;
+
+b) Dirigir os serviços e o pessoal com os quais a Reserva Natural seja dotada;
+
+c) Submeter anualmente ao ICN um relatório sobre o estado da Reserva Natural;
+
+d) Fiscalizar a conformidade do exercício de actividades na Reserva Natural com as normas do Decreto-Lei n.º 19/93, de 23 de Janeiro, do presente diploma e do plano de ordenamento e respectivo regulamento;
+
+e) Cobrar as receitas e autorizar as despesas para que seja competente.
+
+3 - Compete, em especial, à comissão directiva:
+
+a) Preparar e executar planos e programas anuais e plurianuais de gestão e investimento, submetendo-os previamente à apreciação do conselho consultivo;
+
+b) Elaborar os relatórios anuais e plurianuais de actividades, bem como o relatório anual de contas de gerência, submetendo-os previamente à apreciação do conselho consultivo;
+
+c) Decidir da elaboração periódica de relatórios científicos e culturais sobre o estado da Reserva Natural;
+
+d) Autorizar actos ou actividades condicionados na Reserva Natural, tendo em atenção o plano de ordenamento;
+
+e) Tomar as medidas administrativas de reposição previstas no Decreto-Lei n.º 19/93, de 23 de Janeiro;
+
+f) Ordenar o embargo e a demolição das obras, bem como fazer cessar outras acções realizadas em violação ao disposto no presente diploma e legislação complementar.
+
+4 - Das deliberações da comissão directiva cabe recurso para o Ministro do Ambiente e do Ordenamento do Território.
+
+###### Artigo 8.º — Conselho consultivo
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
+
+###### Artigo 9.º — Competências do conselho consultivo
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
+
+###### Artigo 10.º — Interdições
+
+1 - Na área da Reserva Natural são interditos os seguintes actos e actividades:
+
+a) A alteração à morfologia do solo, incluindo o enxugo ou a drenagem dos terrenos e a alteração da rede de drenagem natural, da qualidade das águas superficiais e subterrâneas e respectivo caudal;
+
+b) A alteração à morfologia do solo pela instalação ou ampliação de depósitos de ferro-velho, de sucata, de veículos, de areia ou de outros resíduos sólidos ou líquidos de origem orgânica que causem impacte visual negativo ou poluam o solo, o ar ou a água, bem como pelo vazamento de lixos, detritos, entulhos ou sucatas fora dos locais para tal destinados;
+
+c) A alteração à morfologia do solo pela exploração mineira ou de materiais inertes;
+
+d) A alteração à morfologia do solo, nomeadamente por escavações ou aterros;
+
+e) O lançamento de águas residuais industriais ou de uso doméstico, na água, no solo ou no subsolo, susceptíveis de causarem poluição;
+
+f) A colheita, captura, abate ou detenção de exemplares de quaisquer espécies vegetais ou animais sujeitas a medidas de protecção legal, incluindo a destruição de ninhos e a apanha de ovos, bem como a perturbação ou a destruição dos seus habitats, com excepção das acções levadas a efeito pela Reserva Natural ou das acções de âmbito científico devidamente autorizadas pela mesma;
+
+g) A introdução de espécies zoológicas e botânicas exóticas ou estranhas ao ambiente;
+
+h) O exercício de actividades susceptíveis de provocarem qualquer tipo de poluição ou de deteriorarem os recursos naturais da área, nomeadamente a realização de actividades desportivas que utilizem veículos todo o terreno, a prática de motocross e de motonáutica;
+
+i) O sobrevoo de aeronaves com motor abaixo dos 1000 pés, salvo por razões de vigilância, combate a incêndios, operações de salvamento e trabalhos científicos autorizados pela Reserva Natural;
+
+j) A realização de queimadas e a prática de foguear, excepto nas áreas com infra-estruturas a isso destinadas ou para prevenção de fogos (contrafogos);
+
+l) A prática de campismo ou caravanismo fora dos locais para tal destinados;
+
+m) A navegação a motor nos corpos centrais das lagoas e poços, excepto em missões de urgência, socorro e fiscalização;
+
+n) A aplicação de adubos e biocidas que não sejam previstos nos termos do edital a publicar anualmente pelos órgãos de gestão da Reserva Natural;
+
+o) A prática de pesca nos poços e na lagoa da Sancha e nas áreas do corpo central da lagoa de Santo André a definir no plano de ordenamento da Reserva Natural.
+
+2 - A prática das actividades previstas nas alíneas a), d), f), g), l) e o) do número anterior não se encontra interdita quando se insira em acções de gestão e conservação ou com fins científicos levadas a efeito pelo Instituto da Conservação da Natureza.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2004-210024), publicado em 2004-03-29.
+
+###### Artigo 11.º — Actos e actividades sujeitos a autorização
+
+Sem prejuízo dos restantes condicionalismos legais, ficam sujeitos a autorização prévia da comissão directiva da Reserva Natural os seguintes actos e actividades:
+
+a) A alteração do uso actual dos terrenos, nomeadamente pela alteração de culturas ou afectação de novas áreas a actividades agro-silvo-pastoris e pela implementação de novos povoamentos florestais ou sua reconversão;
+
+b) A implementação de novos povoamentos florestais ou reconversão dos existentes;
+
+c) A alteração à morfologia do solo pela abertura de poços, furos e captações;
+
+d) A alteração do coberto vegetal através da realização de cortes rasos de áreas florestais, a redução do coberto arbóreo ou arbustivo pelo corte individual de espécies arbóreas e arbustivas autóctones, exceptuando as situações de emergência, nomeadamente as decorrentes de combate a incêndios;
+
+e) A instalação, afixação, inscrição ou pintura mural de mensagens de publicidade ou propaganda, temporárias ou permanentes, de cariz comercial ou não, incluindo a colocação de meios amovíveis, com excepção da sinalização específica da Reserva Natural;
+
+f) A utilização de aparelhagem de amplificação sonora;
+
+g) A investigação e as actividades científicas que impliquem trabalhos de campo, nomeadamente a recolha de espécies zoológicas ou botânicas ou de amostras geológicas;
+
+h) A instalação de estufas e estufins;
+
+i) A instalação de novas explorações agro-pecuárias ou zootécnicas, bem como a aprovação dos respectivos projectos;
+
+j) A venda ambulante;
+
+l) A instalação ou ampliação de parques de campismo;
+
+m) Introduções, reintroduções e repovoamentos de espécimes de espécies da flora ou da fauna, bem como de largadas de espécimes de espécies da fauna.
+
+###### Artigo 12.º — Actos e actividades sujeitos a parecer vinculativo
+
+Sem prejuízo dos restantes condicionalismos legais, ficam sujeitos a parecer vinculativo da Reserva Natural os seguintes actos e actividades:
+
+a) A realização de obras de construção civil, designadamente novos edifícios e reconstrução, ampliação ou demolição de edificações, exceptuando as obras de simples conservação, restauro, reparação ou limpeza;
+
+b) O licenciamento de loteamentos urbanos e industriais;
+
+c) A abertura de novas estradas, caminhos ou acessos e o respectivo alargamento ou alteração, bem como as obras de manutenção e conservação susceptíveis de afectarem os recursos naturais da área protegida;
+
+d) A instalação de infra-estruturas de electricidade e telefónicas, aéreas ou subterrâneas, de telecomunicações, de transporte de gás natural ou de outros combustíveis, de saneamento básico e de aproveitamento de energias renováveis;
+
+e) A pesca, apanha e aquicultura nos termos do disposto no artigo 13.º
+
+> Alterado pelo/a [Decreto Regulamentar n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2004-210024), publicado em 2004-03-29.
+
+###### Artigo 13.º — Pesca, apanha e aquicultura
+
+1 - A prática de actividades ligadas à pesca na área da Reserva Natural está sujeita a legislação específica.
+
+2 - Por despacho conjunto dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território, poderão ser estabelecidos condicionalismos específicos ao exercício da pesca profissional e lúdica, incluindo a fixação de um número máximo de embarcações a operar na área da Reserva Natural.
+
+3 - Sempre que se verifiquem situações de restrição de acesso às actividades previstas no número anterior, poderá ser dada prioridade às comunidades locais dependentes da pequena pesca.
+
+4 - O licenciamento de actividades de apanha de organismos marinhos, bem como de instalação de estabelecimentos de culturas marinhas, está sujeito ao parecer vinculativo da Reserva Natural.
+
+###### Artigo 14.º — Caça
+
+Por portaria conjunta dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território, pode ser interdita a caça na área da Reserva Natural.
+
+###### Artigo 15.º — Plano de ordenamento e regulamento
+
+A Reserva Natural é dotada de um plano de ordenamento e respectivo regulamento, nos termos do Decreto-Lei n.º 380/99, de 22 de Setembro, a elaborar no prazo máximo de três anos a contar da data de entrada em vigor do presente diploma.
+
+###### Artigo 16.º — Projectos
+
+1 - Na Reserva Natural, e sem prejuízo dos restantes condicionalismos legais, os projectos sujeitos a autorização da comissão directiva, para além dos elementos previstos na legislação aplicável, são obrigatoriamente acompanhados de planta de localização à escala adequada num extracto de carta publicada por organismo oficial.
+
+2 - A comissão directiva poderá ainda solicitar, nos prazos previstos na legislação aplicável, elementos adicionais que se revelem necessários à apreciação dos projectos referidos no número anterior.
+
+3 - Os projectos relativos a edificações que se localizem no domínio público marítimo devem ser entregues na Reserva Natural acompanhados de levantamento topográfico, à escala de 1:2000, com cotas referenciadas ao zero hidrográfico e em planimetria no sistema HG - ponto central indicando a linha de máxima preia-mar de águas vivas.
+
+###### Artigo 17.º — Autorização e pareceres
+
+1 - Salvo disposição em contrário, as autorizações emitidas pela comissão directiva da Reserva Natural não dispensam outros pareceres, autorizações ou licenças que legalmente forem devidos.
+
+2 - A Reserva Natural pode fazer depender de uma avaliação de impacte ambiental, como formalidade essencial, a autorização e parecer para os actos e actividades referidos nos artigos 11.º e 12.º
+
+3 - Os pareceres emitidos pela comissão directiva são vinculativos, sem prejuízo de outros pareceres, autorizações ou licenças que legalmente forem devidos.
+
+4 - Na falta de disposição especial aplicável, o prazo para a emissão das autorizações e pareceres pela comissão directiva da Reserva Natural é de 45 dias.
+
+5 - Na falta de emissão das autorizações ou pareceres dentro do prazo fixado no número anterior, considera-se, consoante os casos, a autorização concedida ou que o parecer é favorável.
+
+6 - As autorizações e pareceres emitidos pela comissão directiva da Reserva Natural ao abrigo do presente diploma caducam decorridos dois anos sobre a data da sua emissão, salvo se nesse prazo as entidades competentes tiverem procedido ao respectivo licenciamento.
+
+7 - São nulas quaisquer licenças concedidas com violação do regime instituído neste diploma.
+
+###### Artigo 18.º — Direito de preferência
+
+1 - O ICN goza do direito de preferência nas alienações, a título oneroso, de quaisquer bens imóveis que se situem em zonas de interesse patrimonial definidas pelo plano de ordenamento.
+
+2 - O direito de preferência referido no número anterior tem o conteúdo e o alcance previstos no artigo 28.º do Decreto-Lei n.º 794/76, de 5 de Novembro, e regula-se pelas normas do Decreto n.º 862/76, de 22 de Dezembro.
+
+3 - Os transmitentes devem efectuar a comunicação a que se refere o artigo 3.º do Decreto n.º 862/76, de 22 de Dezembro, podendo o titular do direito exercê-lo a todo o tempo, nos termos previstos no mesmo diploma.
+
+###### Artigo 19.º — Contra-ordenações
+
+1 - Constitui contra-ordenação a prática dos actos e actividades previstos no artigo 10.º, bem como a prática dos actos e actividades previstos nos artigos 11.º e 12.º sem as necessárias autorizações e pareceres.
+
+2 - As contra-ordenações previstas no número anterior são punidas com coimas de:
+
+a) (euro) 25 a (euro) 2500, no caso de pessoas singulares;
+
+b) (euro) 1000 a (euro) 30000, no caso de pessoas colectivas.
+
+3 - A tentativa e a negligência são puníveis.
+
+4 - As contra-ordenações previstas no n.º 1 podem ainda determinar a aplicação das sanções acessórias previstas no artigo 23.º do Decreto-Lei n.º 19/93, de 23 de Janeiro.
+
+5 - O processamento das contra-ordenações e a aplicação das coimas e sanções acessórias são feitos de acordo com o artigo 24.º do Decreto-Lei n.º 19/93, de 23 de Janeiro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2004-210024), publicado em 2004-03-29.
+
+###### Artigo 20.º — Fiscalização
+
+As funções de fiscalização, para efeitos do disposto no presente diploma e legislação complementar aplicável na Reserva Natural, competem ao ICN, às autarquias locais e às demais entidades competentes, nos termos da legislação em vigor.
+
+###### Artigo 21.º — Norma transitória
+
+Ate à nomeação dos órgãos previstos no artigo 5.º do presente diploma, a gestão da Reserva Natural é assegurada pelos órgãos do Parque Natural do Sudoeste Alentejano e Costa Vicentina, criados ao abrigo do Decreto Regulamentar n.º 26/95, de 21 de Setembro.
+
+###### Artigo 22.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 1 de Junho de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Júlio de Lemos de Castro Caldas - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - Luís Medeiros Vieira - José Sócrates Carvalho Pinto de Sousa.
+
+Promulgado em 27 de Julho de 2000.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 1 de Agosto de 2000.
+
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
+
+## ANEXO I — Limite terrestre
+
+Limite noroeste no ponto de costa de coordenadas UTM x = 517675, y = 4218625, dirigindo-se para este à distância aproximada de 50 m da cota de nível máximo de água da lagoa de Santo André, até ao limite sudoeste do parque de campismo, continuando sobre o limite deste para este até à aresta sueste do prédio rústico identificado com o n.º 182 da secção A da freguesia de Santo André. Daqui inflecte para norte, em linha recta pelo limite deste prédio até à estrada municipal n.º 544. Segue depois para este por esta estrada até ao extremo noroeste do prédio rústico identificado com o n.º 40 da secção A da freguesia de Santo André. Seguidamente inflecte para sul em linha recta pelo limite desta propriedade até à aresta sudoeste da mesma, de onde segue em linha recta para a aresta noroeste do prédio rústico identificado com o n.º 88 da secção A da freguesia de Santo André. Daqui flecte em direcção sueste, aproximadamente em linha recta, até à estrada municipal n.º 1085. O limite segue para sul através desta estrada até ao limite sul da várzea da ribeira da Cascalheira, onde inflecte para sudoeste através do limite da várzea até atingir a aresta noroeste do prédio rústico identificado com o n.º 182 da secção D da freguesia de Santo André. Daqui inflecte para sudoeste até ao limite do prédio rústico identificado com o n.º 31 da secção D da freguesia de Santo André. A partir deste ponto segue para sueste através da estrada de terra batida e que constitui igualmente o limite da referida propriedade até atingir o limite do prédio rústico identificado com o n.º 179 da secção D da freguesia de Santo André, onde inflecte para sul pela estrada de terra até atingir a estrada municipal n.º 1085. Prossegue para sul até à margem norte da várzea da ribeira da Ponte, onde inflecte para sueste através do caminho de terra batida adjacente à várzea. A partir do fim do caminho, contorna os limites do prédio rústico identificado com o n.º 3 da secção G da freguesia de Santo André, até à intersecção deste com o perímetro urbano de Santo André. Continua a partir deste ponto para oeste até atingir novamente a estrada municipal n.º 1085. Segue para oeste através da estrada que se dirige para a praia do Monte Velho. Cerca de 250 m a oeste do Monte Velho, o limite inflecte para sul em linha recta através da linha de cumeadas até atingir o limite do perímetro urbano da Vila Nova de Santo André. Seguidamente contorna o limite do perímetro urbano da Vila Nova de Santo André até encontrar a via R41. Deste ponto, segue para sudoeste através desta via até atingir o ponto de coordenadas UTM x = 51475, y = 420555, deste ponto inflecte para noroeste em linha recta através do aceiro existente até ao ponto de coordenadas UTM x = 51401, y = 42059. Daqui inflecte para sudoeste através do caminho de terra batida que serve igualmente de limite aos terrenos do património do Estado sob gestão do ICN, até ao ponto de coordenadas UTM x = 51355, y = 4205. Daqui inflecte para oeste até atingir a linha de costa nas coordenadas x = 512175, y = 420515.
+
+Deste ponto, segue para sudoeste através desta.
+
+Limite marítimo
+
+Definido a oeste por uma linha paralela à costa a uma distância de 1,5 km e a norte e a sul pelas perpendiculares à linha de costa nos pontos de encontro desta com o limite terrestre, cujas coordenadas geográficas são, respectivamente, a norte (37º 06' 58,06'' e -8º 48' 52,88'') e a sul (37º 59' 48,93'' e -8º 52' 9,42'').
+
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193b00/42404245.pdf)

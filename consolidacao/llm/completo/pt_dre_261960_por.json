@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:261960:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "São atribuídas as seguintes gratificações mensais aos funcionários do Serviço Meteorológico de Angola que desempenhem as funções que a seguir se indicam:\n\nMeteorologista director do Serviço ... 3000$00\n\nMeteorologista inspector designado como substituto do director do Serviço, que exerce as funções de subdirector ... 2000$00\n\nMeteorologistas desempenhando as funções de chefes dos departamentos técnicos dos serviços centrais ... 1500$00\n\nMeteorologista chefe do Centro Meteorológico Principal de Luanda ... 1500$00\n\nMeteorologistas chefes de turno no Centro Meteorológico Principal de Luanda ... 1000$00\n\nChefes dos outros centros meteorológicos e das estações meteorológicas e postos aerológicos da rede internacional ... 750$00\n\nFunções associadas aos estágios para recrutamento e para actualização de conhecimentos de observadores e ajudantes de observador:\n\nMeteorologistas instrutores ... 1000$00\n\nInstrutores de outras categorias ... 750$00\n\nSecretário ... 500$00",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 3.º do Decreto 49222: gratificação do meteorologista director passa a 3000$00 no artigo 1.º; feito.",
+    "Arts. 1.º, 2.º e 4.º do Decreto 49222: normas próprias para outras províncias; não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "1.º: parágrafo que não está no alterador nem no original: Meteorologista director do Serviço ... 3000$00"
+  ]
+}

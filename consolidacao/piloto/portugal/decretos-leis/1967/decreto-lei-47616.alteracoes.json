@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nAos centros de estudo compete, em geral:\n\n1.º Aproveitar em trabalhos de investigação sistemática os dados estatísticos recolhidos pelo Instituto;\n\n2.º Assegurar a cooperação entre o Instituto e os centros universitários e estabelecimentos de investigação científica, nacionais e estrangeiros;\n\n3.º Propor ao Instituto tudo o que se lhes afigure conveniente, em relação aos serviços àquele confiados, para a prossecução das actividades previstas nos números anteriores;\n\n4.º Organizar, com a colaboração do Instituto, inquéritos, pesquisas ou investigações especiais necessários à realização dos seus fins;\n\n5.º Efectuar quaisquer outros estudos ou trabalhos que lhes sejam atribuídos nos diplomas que os constituam, ou de que sejam incumbidos pelo Presidente do Conselho;\n\n6.º Editar uma revista para divulgação dos trabalhos da sua competência;\n\n7.º Publicar na revista ou por outros meios os trabalhos realizados nos termos dos n.os 1.º e 2.º ou outros de reconhecido interesse.",
+    "depois": "###### Artigo 2.º\n\nOs centros de estudo são constituídos pelo director e por individualidades de reconhecido mérito nas matérias das respectivas atribuições.\n\n> Alterado pelo/a [Decreto-Lei n.º 62/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1975-160296), publicado em 1975-02-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:509204:por",
+    "alterador": "pt:dre:160296:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1. O director do Instituto, como presidente das direcções dos centros, e o director da revista dos centros têm direito a gratificação mensal, a fixar pelo Presidente do Conselho, ouvido o Ministro das Finanças.\n\n2. Aos vogais da direcção de cada centro serão abonadas senhas de presença, a fixar nos termos do número anterior.",
+    "depois": "###### Artigo 3.º\n\nAos centros de estudo compete, em geral:\n\n1.º Suscitar e apoiar o aproveitamento de trabalhos de investigação dos dados estatísticos no domínio que lhes seja definido no diploma que os constituam;\n\n2.º Promover a realização de investigações, pesquisas ou inquéritos especiais necessários à prossecução dos seus fins;\n\n3.º Efectuar quaisquer outros estudos ou trabalhos que lhes sejam atribuídos nos diplomas que os constituam;\n\n4.º Assegurar as ligações e a cooperação entre o Instituto e os centros universitários e estabelecimentos de investigação científica nacionais e estrangeiros;\n\n5.º Editar uma revista para divulgação dos trabalhos da sua competência;\n\n6.º Publicar na revista ou por outros meios os trabalhos realizados nos termos dos n.os 1.º e 2.º ou outros de reconhecido interesse.\n\n> Alterado pelo/a [Decreto-Lei n.º 62/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1975-160296), publicado em 1975-02-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:509204:por",
+    "alterador": "pt:dre:160296:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nContinuam em funcionamento, com observância do disposto no presente diploma e no seu regulamento, e com os fins específicos a cada um deles atribuídos, o Centro de Estudos Económicos e o Centro de Estudos Demográficos, criados, respectivamente, pela [Portaria n.º 10600](https://diariodarepublica.pt/dr/detalhe/portaria/10600-1944-272419), de 14 de Fevereiro de 1944, e pela [Portaria n.º 10619](https://diariodarepublica.pt/dr/detalhe/portaria/10619-1944-273055), de 11 de Março de 1944.",
+    "depois": "###### Artigo 7.º\n\nContinuam em funcionamento, com observância do disposto no presente diploma e com os fins específicos a cada um deles atribuído, o Centro de Estudos Económicos e o Centro de Estudos Demográficos, criados, respectivamente pela [Portaria n.º 10600](https://diariodarepublica.pt/dr/detalhe/portaria/10600-1944-272419), de 14 de Fevereiro de 1944, e pela [Portaria n.º 10619](https://diariodarepublica.pt/dr/detalhe/portaria/10619-1944-273055), de 11 de Março de 1944.\n\n> Alterado pelo/a [Decreto-Lei n.º 62/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1975-160296), publicado em 1975-02-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:509204:por",
+    "alterador": "pt:dre:160296:por"
+  }
+]

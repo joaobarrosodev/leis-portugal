@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:307649:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Portaria 274/2012 (art. 2.º) revoga o caráter transitório das normas abrangidas pelo n.º 1 do artigo 3.º, sem dar nova redação a nenhum artigo: alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Art. 2.º da Portaria 274/2012: revoga o caráter transitório das normas do n.º 1 do art. 3.º; não textual, não aplicado",
+    "Art. 3.º da Portaria 274/2012 refere-se à Portaria 1103/2010 (outro diploma): ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

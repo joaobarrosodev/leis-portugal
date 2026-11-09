@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:396765:por",
+  "artigos": [
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "O director, os subdirectores e os inspectores da Polícia Judiciária são considerados magistrados do Ministério Público.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 389/74), art. 1.º: altera o DL 35042, não o original; ignorado.",
+    "Alterador 1, art. 2.º: nova redação do art. 13.º. Aplicado.",
+    "Alterador 1, arts. 3.º a 5.º: normas próprias. Nada aplicado.",
+    "Alterador 2 (DL 129/86): revoga norma do DL 458/82 e normas próprias; o art. 13.º do original só é citado no preâmbulo. Nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nA Assembleia Municipal do Fundão, no prazo máximo de 30 dias, marcará novas eleições para aquele órgão, que deverão ter lugar no prazo de 70 a 80 dias a contar da data da respectiva marcação.\n\nVisto e aprovado em Conselho de Ministros de 9 de Junho de 1987. - Aníbal António Cavaco Silva - José Albino da Silva Peneda.\n\nAssinado em 27 de Junho de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 2 de Julho de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "depois": "###### Artigo 3.º\n\nAs eleições para a Câmara Municipal do Fundão realizar-se-ão no dia 18 de Outubro de 1987.\n\n> Alterado pelo/a [Decreto do Governo n.º 31/87](https://diariodarepublica.pt/dr/detalhe/decreto-governo/31-1987-495687), publicado em 1987-09-16.\n\nVisto e aprovado em Conselho de Ministros de 9 de Junho de 1987. - Aníbal António Cavaco Silva - José Albino da Silva Peneda.\n\nAssinado em 27 de Junho de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 2 de Julho de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:420442:por",
+    "alterador": "pt:dre:495687:por"
+  }
+]

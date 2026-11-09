@@ -1,0 +1,47 @@
+{
+  "id": "pt:dre:375245:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "(Dedução no lucro tributável da contribuição industrial)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "(Dedução no imposto complementar por investimento em acções)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "(Isenção do imposto sobre as sucessões e doações)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "(Tributação em imposto complementar e imposto sobre as sucessões e doações de acções ao portador não registadas cotadas na bolsa).",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "(Títulos da dívida pública)",
+      "texto": "Os rendimentos de quaisquer títulos da dívida pública auferidos pelo Banco de Portugal não constituem proveitos ou ganhos para efeitos de tributação em contribuição industrial.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "DL 485/88, art. 3.º, n.º 21): a revogação abrange os benefícios fiscais do DL 409/82; o art. 7.º (regulamentação) não é benefício fiscal e ficou sem alteração por não ser seguro que esteja abrangido.",
+  "instrucoes": [
+    "Alterador 1 (DL 182/85), art. 7.º: nova redação do n.º 1 do art. 2.º, do n.º 1 (corpo e alínea a)) do art. 4.º e do art. 6.º (n.os 1 e 2). Aplicado, mas os arts. 2.º e 4.º ficam depois revogados pelo alterador 3 e o art. 6.º é reescrito pelo alterador 2.",
+    "Alterador 1, art. 10.º: revoga o art. 1.º, que já estava (Revogado.). Sem mudança.",
+    "Alterador 1, restantes artigos: normas próprias, não dirigidas ao texto.",
+    "Alterador 2 (DL 182/86), art. 8.º: nova redação do art. 6.º (corpo único sobre o Banco de Portugal). Aplicado; os arts. 1.º a 7.º do alterador 2 alteram o Código da Contribuição Industrial, ignorados.",
+    "Alterador 3 (DL 485/88), art. 3.º, n.º 21): revoga os benefícios fiscais do DL 409/82 excepto o n.º 2 do art. 6.º na redação do DL 182/85; arts. 2.º, 3.º, 4.º e 5.º ficam (Revogado.); o art. 6.º mantém-se, por ter hoje (após o DL 182/86) só o conteúdo ressalvado (rendimentos do Banco de Portugal)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

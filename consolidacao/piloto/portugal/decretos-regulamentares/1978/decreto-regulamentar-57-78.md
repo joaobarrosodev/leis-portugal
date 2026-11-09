@@ -1,0 +1,265 @@
+---
+id: pt:dre:274219:por
+title: Decreto Regulamentar n.º 57/78
+original: data/portugal/decretos-regulamentares/1978/decreto-regulamentar-57-78.md
+consolidacao:
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:561783:por
+    title: Decreto Regulamentar n.º 47/81
+    publication_date: '1981-10-13'
+  titulos_normalizados: artigos em texto corrido no original, com título pelo parser
+    da fase 3
+---
+
+# Decreto Regulamentar n.º 57/78
+
+de 30 de Dezembro
+
+Em execução do disposto no artigo 6.º do [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681), de 30 de Setembro, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+Regulamento do Gabinete do Novo Hospital Central de Coimbra
+
+### CAPÍTULO I — Atribuições do Gabinete
+
+###### Artigo 1.º — (Definição das atribuições)
+
+O Gabinete do Novo Hospital Central de Coimbra, criado pelo [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681), de 30 de Setembro, adiante designado por Gabinete, dispõe das competências necessárias à prossecução dos objectivos definidos naquele diploma, designadamente:
+
+a) Promover a elaboração dos estudos necessários à realização da obra ou com ela relacionados;
+
+b) Coordenar a actuação dos serviços em todos os actos relacionados com os estudos e a realização do empreendimento;
+
+c) Assegurar a cooperação dos demais serviços e entidades que intervenham no estudo e na execução da obra e prestar essa cooperação aos serviços de outros departamentos do Estado, quando necessário;
+
+d) Propor medidas relativas à ocupação e às expropriações necessárias à execução da obra, incluindo estaleiros, acessos e infra-estruturas, e processar os respectivos trâmites depois das mesmas declaradas;
+
+e) Propor, quando necessário, as aquisições ou arrendamentos dos imóveis necessários ou intervir em tais actos dentro dos limites da competência que lhe é conferida legalmente;
+
+f) Dirigir e fiscalizar os trabalhos;
+
+g) Autorizar despesas e promover os respectivos pagamentos;
+
+h) Preparar, pela forma a acordar com o Ministério dos Assuntos Sociais ou o Ministério da Educação e Investigação Científica, o pessoal especializado necessário ao funcionamento do novo hospital;
+
+i) Proceder ao recrutamento e admissão do pessoal do Gabinete;
+
+j) Mediante autorização superior, enviar missões ao estrangeiro para realizarem estágios, procederem a estudos, colaborarem na elaboração de projectos e pareceres ou exercerem funções de fiscalização.
+
+### CAPÍTULO II — Conselho director
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 2.º — (Competência)
+
+Ao conselho director, no exercício da competência plena estabelecida no artigo 4.º do [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681), cabe, designadamente, o seguinte:
+
+a) Dirigir o Gabinete;
+
+b) Coordenar a execução de todos os planos e programas superiormente aprovados;
+
+c) Elaborar os relatórios anuais de execução;
+
+d) Desenvolver outras actividades de coordenação, contrôle e demais actos julgados necessários à prossecução dos objectivos do Gabinete.
+
+###### Artigo 3.º — (Funcionamento)
+
+1 - O conselho director é convocado pelo seu presidente e reúne, ordinariamente, de quinze em quinze dias, com a presença do delegado do Tribunal de Contas, e, extraordinariamente, sempre que for convocado pelo presidente, quer por iniciativa deste, quer a solicitação de dois membros.
+
+2 - As deliberações do conselho director serão tomadas por maioria de votos dos seus membros presentes, em número não inferior a três, tendo o presidente voto de qualidade.
+
+3 - De todas as sessões do conselho serão elaboradas actas em livro próprio.
+
+4 - O membro do conselho director nomeado pelo Ministro da Habitação e Obras Públicas substituirá o presidente nas suas faltas e impedimentos.
+
+5 - Os restantes membros do conselho, além de participarem nas respectivas deliberações, promoverão, em conformidade com a representação dos Ministérios que os designaram, a obtenção dos esclarecimentos necessários à resolução dos problemas específicos daqueles Ministérios, podendo também ser-lhes atribuídas outras tarefas.
+
+###### Artigo 4.º — (Abonos)
+
+O delegado do Tribunal de Contas junto do conselho director terá direito a uma gratificação mensal, de quantitativo a fixar, nos termos do n.º 2 do artigo 6.º do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio, bem como aos abonos relativos a transportes e ajudas de custo, nos termos da lei geral.
+
+#### SECÇÃO II — Estatuto dos membros
+
+###### Artigo 5.º — (Categoria dos membros do conselho director)
+
+O presidente do conselho director é equiparado, para todos os efeitos, a director-geral e os restantes membros a subdirectores-gerais.
+
+###### Artigo 6.º — (Nomeação de funcionários públicos)
+
+1 - As nomeações para o conselho director, quando recaiam em funcionários públicos e estes venham exercer as respectivas funções em tempo completo, serão feitas em comissão de serviço.
+
+2 - As nomeações nas condições do número antecedente não abrirão vagas nos quadros ou mapas de origem, mantendo os funcionários, enquanto durarem as respectivas comissões, todos os direitos que tinham à data do início das funções no Gabinete, designadamente ao exercício de funções que nesse momento desempenhavam, como se permanecessem ao serviço no seu próprio quadro ou mapa, inclusive às promoções legais e à aposentação baseada na remuneração auferida no Gabinete, se a aposentação se verificar durante a comissão.
+
+###### Artigo 7.º — (Exercício de funções)
+
+1 - Os membros do conselho director exercerão as suas funções em tempo inteiro ou em tempo parcial.
+
+2 - O presidente, bem como um ou mais dos restantes membros, a indicar oportunamente pelo Primeiro-Ministro, exercerão as suas funções em tempo inteiro.
+
+3 - Os membros que exerçam as suas funções em regime de tempo parcial poderão fazê-lo em acumulação com outro cargo ou cargos que estejam desempenhando, tendo em consideração as limitações estabelecidas na alínea a) do artigo 8.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+
+###### Artigo 8.º — (Abonos)
+
+1 - Os membros do conselho director terão direito às remunerações acessórias e a demais abonos nos mesmos termos e condições que os estabelecidos para a generalidade dos funcionários públicos.
+
+2 - Os membros do conselho director que exerçam as suas funções em regime de tempo parcial terão direito:
+
+a) A uma remuneração calculada nos termos do n.º 1 do artigo 7.º do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio, com referência ao vencimento correspondente à letra C da escala de vencimentos do funcionalismo público;
+
+b) A ajudas de custo com referência aos vencimentos correspondentes às mesmas funções quando exercidas em tempo inteiro.
+
+### CAPÍTULO III — Conselho consultivo
+
+###### Artigo 9.º — (Constituição)
+
+1 - O conselho director é assistido no exercício da sua competência por um conselho consultivo, que terá representantes de cada uma das seguintes entidades:
+
+a) Dois pela Câmara Municipal de Coimbra, sendo um dos Serviços Municipalizados;
+
+b) Um pela Comissão de Planeamento da Região Centro;
+
+c) Um pela Direcção-Geral do Equipamento Regional e Urbano;
+
+d) Um pela Direcção-Geral do Planeamento Urbanístico;
+
+e) Um pela Direcção-Geral do Saneamento Básico;
+
+f) Um pela Junta Autónoma de Estradas;
+
+g) Um pela Direcção-Geral dos Hospitais;
+
+h) Um representante do Ministério da Educação e Investigação Científica.
+
+2 - O conselho consultivo poderá ser ainda integrado por representantes de outras entidades, designadas sob proposta do conselho director em portaria do Ministro da Habitação e Obras Públicas e ainda do Ministro responsável pelo respectivo departamento, se for caso disso.
+
+###### Artigo 10.º — (Funcionamento)
+
+1 - O conselho consultivo poderá ser convocado pelo presidente do conselho director para funcionar em plenário ou por secções, consoante os assuntos a tratar.
+
+2 - As reuniões do conselho consultivo serão presididas pelo presidente do conselho director e este ou o conselho consultivo poderão, quando o considerarem conveniente, solicitar a presença de membros do conselho director, funcionários do Gabinete ou quaisquer outras pessoas, a fim de prestarem ao conselho os esclarecimentos necessários.
+
+3 - De todas as reuniões serão lavradas actas em livro próprio.
+
+###### Artigo 11.º — (Abonos)
+
+Os vogais do conselho consultivos terão direito ao abono de transportes e ajudas de custo, nos termos quantitativos fixados na lei, e a senhas de presença por cada dia de reunião em que tomem parte, conforme o disposto no artigo 8.º do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio.
+
+### CAPÍTULO IV — Gestão administrativa e financeira
+
+###### Artigo 12.º — (Fundo especial)
+
+As importâncias requisitadas pelo Gabinete constituirão, nos termos do n.º 2 do artigo 3.º do [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681), um fundo especial, denominado «Gabinete do Novo Hospital Central de Coimbra», que será depositado na Caixa Geral de Depósitos e movimentado por meio de cheques, assinados por dois membros do conselho director, sendo um deles, obrigatoriamente, o presidente ou seu legal substituto.
+
+###### Artigo 13.º — (Encargos do Gabinete)
+
+Constituem encargos do Gabinete as despesas a realizar com a instalação e funcionamento dos serviços e quaisquer outras que sejam necessárias para assegurar o desempenho das suas atribuições, sem prejuízo do disposto no [Decreto-Lei n.º 439-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-a-1977-582381), de 25 de Outubro.
+
+###### Artigo 14.º — (Fiscalização das despesas)
+
+No caso de parecer desfavorável do delegado do Tribunal de Contas sobre a legalidade de qualquer despesa, deverá ser organizado processo, o qual será submetido à apreciação e decisão do Conselho de Ministros.
+
+###### Artigo 15.º — (Acção do Tribunal de Contas)
+
+A acção do Tribunal de Contas no Gabinete exerce-se por intermédio do seu delegado, ficando apenas sujeitos a visto prévio do referido Tribunal os diplomas referentes a pessoal do quadro e os contratos de material e outros encargos.
+
+### CAPÍTULO V — Pessoal
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 16.º — (Regime jurídico)
+
+O regime do pessoal do Gabinete, em tudo quanto não estiver especialmente previsto neste decreto, será regulado subsidiariamente pela legislação de aplicação geral aos serviços do Ministério da Habitação e Obras Públicas ou pelo regime geral do funcionalismo público.
+
+#### SECÇÃO II — Pessoal do quadro
+
+##### SUBSECÇÃO I — Disposições gerais
+
+###### Artigo 17.º — (Definição de pessoal)
+
+O Gabinete disporá do pessoal constante do quadro anexo ao presente diploma.
+
+###### Artigo 18.º — (Natureza e extinção do quadro)
+
+1 - O quadro tem natureza temporária e será extinto assim que o Gabinete realize os objectivos para que foi criado.
+
+2 - O pessoal do Gabinete terá, no momento da respectiva extinção, o seguinte destino, sem prejuízo do disposto no n.º 3:
+
+a) O pessoal pertencente a outros quadros regressará aos lugares e serviços de origem;
+
+b) O restante pessoal terá o destino fixado na lei geral sobre excedentes de pessoal.
+
+3 - Para preenchimento das vagas do mapa ou do quadro do pessoal do novo hospital central de Coimbra, terá preferência o pessoal do Gabinete, sem prejuízo dos direitos adquiridos pelo pessoal do quadro dos Hospitais da Universidade de Coimbra.
+
+4 - O pessoal referido no n.º 3 será provido nas vagas das categorias que, no mapa ou quadro do novo hospital, correspondam às que vinha ocupando no Gabinete, ou, não sendo isso possível, nas que melhor se lhes ajustarem, desde que possuam, num ou outro caso, as necessárias condições legais de ingresso, designadamente as habilitações literárias exigíveis.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 47/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1981-561783), publicado em 1981-10-13.
+
+###### Artigo 19.º — (Abonos)
+
+Ao pessoal do Gabinete será também aplicável o disposto no n.º 1 e na alínea b) do n.º 2 do artigo 8.º deste diploma.
+
+##### SUBSECÇÃO II — Preenchimento de lugares
+
+###### Artigo 20.º — (Recrutamento)
+
+O recrutamento do pessoal do Gabinete será feito por escolha do conselho director de entre os funcionários ou outras pessoas com os requisitos de ingresso na função pública para a respectiva categoria e as qualificações adequadas ao desempenho das funções.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 47/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1981-561783), publicado em 1981-10-13.
+
+###### Artigo 21.º — (Provimento)
+
+1 - O pessoal não vinculado a outros serviços públicos será contratado por períodos de um ano automaticamente renováveis ou assalariado até ao termo da existência do Gabinete.
+
+2 - O pessoal já vinculado a outros serviços será nomeado em comissão, nos termos do artigo anterior, pelo período de existência do Gabinete, sem prejuízo de tais situações poderem ser dadas por findas em qualquer momento.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 47/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1981-561783), publicado em 1981-10-13.
+
+#### SECÇÃO III — Pessoal não pertencente ao quadro
+
+###### Artigo 22.º — (Pessoal além do quadro)
+
+1 - Poderá ser contratado pessoal além dos quadros quando tal venha a revelar-se necessário.
+
+2 - O pessoal já vinculado a outros serviços poderá também, se assim o preferir, ser contratado além do quadro, desvinculando-se, neste caso, do lugar de origem, mas conservando o direito à antiguidade pelo tempo nele prestado.
+
+3 - Quando se mostre conveniente, o conselho directivo poderá promover a requisição ou pedir o destacamento do pessoal de outros serviços públicos.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 47/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1981-561783), publicado em 1981-10-13.
+
+### CAPÍTULO VI — Disposições finais e transitórias
+
+###### Artigo 23.º — (Ratificação de actos)
+
+Consideram-se ratificados todos os actos do conselho director conformes com a lei, designadamente o [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681), de 30 de Setembro, e que não contrariem o presente diploma, praticados anteriormente à entrada em vigor deste regulamento, e como iniciadas as respectivas funções, para todos os efeitos legais, na data em que foram conferidas posses aos seus membros.
+
+###### Artigo 24.º — (Instalações do Gabinete)
+
+Além da sua sede em Coimbra, o Gabinete disporá em Lisboa, enquanto assim for considerado necessário, de dependências das actuais instalações da Direcção-Geral das Construções Hospitalares.
+
+###### Artigo 25.º — (Encargos com a execução deste diploma)
+
+Até final do corrente ano, os encargos emergentes do presente diploma e do [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681) serão custeados por força de dotação já inscrita para o corrente ano no orçamento da Direcção-Geral das Construções Hospitalares ou provenientes do seu eventual reforço.
+
+###### Artigo 26.º — (Resolução de dúvidas)
+
+As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Primeiro-Ministro.
+
+###### Artigo 27.º — (Entrada em vigor do diploma)
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - João Orlindo Almeida Pina.
+
+Promulgado em 30 de Dezembro de 1978.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Quadro do Gabinete, anexo ao Decreto Regulamentar n.º 57/78
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29907/01180122.pdf)
+
+O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Habitação e Obras Públicas, João Orlindo Almeida Pina.

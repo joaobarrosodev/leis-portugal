@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:643948:por",
+  "artigos": [
+    {
+      "chave": "23.º",
+      "epigrafe": "",
+      "texto": "Os inspectores provinciais, inspectores provinciais-adjuntos, técnicos-directores, chefes de serviços de inspecção bancária, chefes de serviços de inspecção de seguros, chefes de serviços de operações com o exterior, peritos juristas, actuariais e económicos, inspectores dos serviços de inspecção bancária e inspectores dos serviços de inspecção de seguros, das Inspecções Provinciais de Crédito e Seguros de Angola e Moçambique, terão direito ao uso de cartões de identidade, de modelo a aprovar pelos respectivos Governos-Gerais.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 478/71, art. 5.º, n.os 3 e 4: transfere atribuições do artigo 14.º para os administradores dos Fundos Cambiais e manda aplicar-lhes os arts. 15.º a 18.º; não é alteração textual; nada a fazer.",
+    "DL 402/72, art. 7.º: nova redação do artigo 23.º; aplicado (a quebra de parágrafo a meio da frase no alterador foi unida)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

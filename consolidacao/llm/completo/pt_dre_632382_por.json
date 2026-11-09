@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:632382:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A Portaria n.º 351/75 adita um novo n.º 1 ao artigo 40.º do Regulamento Geral do Pessoal dos CTT e renumera os n.os 1 a 3; esse artigo não consta do texto atual recebido (só ANEXO::1.º a 16.º), pelo que não foi aplicada.",
+  "instrucoes": [
+    "1.º: novo n.º 1 do artigo 40.º do Regulamento: artigo ausente do texto atual, não aplicado.",
+    "2.º: renumeração dos n.os 1, 2 e 3 do artigo 40.º para 2, 3 e 4: artigo ausente, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

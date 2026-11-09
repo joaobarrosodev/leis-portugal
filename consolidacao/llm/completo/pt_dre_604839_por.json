@@ -1,0 +1,87 @@
+{
+  "id": "pt:dre:604839:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Natureza, tipologia e missão",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Atribuições",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Estrutura",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Competências específicas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Estrutura",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Competências",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "16.º-A",
+      "epigrafe": "Dotação de lugares de direcção",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Função de inspector do ambiente",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Carreira de coordenador",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Auxiliares técnicos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Concursos pendentes",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Entrada em vigor",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DRR 23/2005/M: aprova a orgânica da SRA e revoga outros diplomas (11/2001/M, 7/2003/M, Portaria 64/2002) — nenhuma instrução dirigida ao DRR 31/2001/M.",
+    "DRR 7/2011/M: altera arts. 1.º-6.º, designações de capítulos/secções, adita 16.º-A, revoga n.º 3 do art. 3.º e arts. 7.º-17.º (estes já constam do texto atual como revogados) — superado pela revogação total do alterador 3.",
+    "DRR 30/2012/M, art. 2.º, n.º 1: revoga o DRR 31/2001/M — todos os artigos ainda não revogados (1.º-6.º, 16.º-A, 18.º-22.º) ficam '(Revogado.)'; 7.º-17.º já estavam '(Revogado.)' e não mudam. Epígrafes de 1.º e 2.º seguem a redação dada pelo DRR 7/2011/M."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

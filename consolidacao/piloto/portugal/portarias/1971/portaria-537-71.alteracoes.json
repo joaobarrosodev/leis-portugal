@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "22.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 22.º\n\n1. Os actuais faróis e farolins, em conformidade com o artigo anterior, são classificados pela forma seguinte:\n\na) 1.ª classe: Berlenga, S. Lourenço e Ilhéu de Cima;\n\nb) 2.ª classe: Cabo Mondego, Cabo da Roca, Bugio, Cabo Espichel, Cabo Sardão, Cabo de S. Vicente, Ponta do Altar, Alfanzina, Cabo de Santa Maria, Ponta do Pargo, Gonçalo Velho, Contendas, Ponta da Ilha do Pico, Albarnaz, Cintrão e Rosais;\n\nc) 3.ª classe: Montedor, Cabo Raso, Forte do Cavalo, Outão, Milfontes, Sagres, Culatra, Ferraria, Arnel, Serreta, Ponta do Topo, Ponta da Barca, Carapacho, Ribeirinha, e Lajes das Flores;\n\nd) 4.ª classe: os restantes.\n\n2. As alterações que se vierem a verificar na classificação do número anterior serão promulgadas por portaria do Ministro da Marinha.",
+    "depois": "###### Artigo 22.º\n\n1 - (Revogado.)\n\n2. As alterações que se vierem a verificar na classificação do número anterior serão promulgadas por portaria do Ministro da Marinha.\n\n> Alterado pelo/a [Portaria n.º 83/78](https://diariodarepublica.pt/dr/detalhe/portaria/83-1978-448517), publicado em 1978-02-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:633146:por",
+    "alterador": "pt:dre:448517:por"
+  }
+]

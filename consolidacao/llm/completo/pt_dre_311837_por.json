@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:311837:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O Decreto Regulamentar n.º 83/84 não dá nova redação aos artigos do Decreto Regulamentar n.º 33/83: é um diploma autónomo que fixa novos montantes ('são alterados nos termos do presente diploma'), sem instrução textual de substituição; não é alteração textual do original.",
+  "instrucoes": [
+    "Decreto Regulamentar n.º 83/84, art. 1.º a 4.º: fixa novos valores das prestações em diploma próprio, sem mandar substituir a redação dos artigos do original; não aplicado (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

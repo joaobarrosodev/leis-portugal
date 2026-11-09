@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:281202:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (Decreto Regulamentar Regional n.º 7/2020/A): o artigo 11.º do anexo III aditado ao Decreto Regulamentar Regional n.º 15/2011/A extingue a carreira de assistente de operações aeroportuárias e determina a transição dos trabalhadores, mas não revoga nem dá nova redação a artigos do original; não é uma alteração textual aplicável.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação dos artigos 3.º, 5.º, 6.º, 8.º e 9.º — o texto atual já contém essas redações (n.os 3 e 4 do artigo 5.º mantidos com '...'); nada a mudar.",
+    "Alterador 1, art. 2.º: republicação — não é instrução de alteração; ignorada.",
+    "Alterador 2: adita anexo a outro diploma e extingue a carreira — sem alteração textual do original, registado em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

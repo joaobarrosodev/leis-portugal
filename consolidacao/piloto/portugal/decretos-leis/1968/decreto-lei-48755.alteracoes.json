@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\nOs veterinários municipais perceberão mensalmente, pelo exercício das funções de subintendente de pecuária, complemento de vencimento, pago por dotação a considerar na verba do pessoal dos quadros aprovados por lei, da Direcção-Geral dos Serviços Pecuários, na seguinte conformidade:\n\nSubintendente de pecuária em concelhos de 1.ª ordem - 1800$00;\n\nSubintendente de pecuária em concelhos de 2.ª ordem - 1500$00;\n\nSubintendente de pecuária em concelhos de 3.ª ordem - 1300$00.\n\n§ único. Havendo lugar ao aumento do complemento de vencimento do subintendente de pecuária por virtude de mudança da ordem administrativa do concelho, será o excesso transitòriamente pago pelas disponibilidades das dotações para pessoal dos quadros da Direcção-Geral dos Serviços Pecuários.",
+    "depois": "###### Artigo 6.º\n\nOs veterinários municipais perceberão mensalmente, pelo exercício das funções de subintendente de pecuária, complemento de vencimento, pago por dotação a considerar na verba do pessoal dos quadros aprovados por lei, da Direcção-Geral dos Serviços Pecuários, na seguinte conformidade:\n\nSubintendente de pecuária em concelhos de 1.ª ordem - 1800$00;\n\nSubintendente de pecuária em concelhos de 2.ª ordem - 1500$00;\n\nSubintendente de pecuária em concelhos de 3.ª ordem - 1300$00.\n\n§ 1.º É aplicável ao complemento de vencimento dos subintendentes de pecuária o regime prescrito no § 1.º do artigo 527.º do Código Administrativo.\n\n§ 2.º Havendo lugar ao aumento do complemento de vencimento do subintendente de pecuária, por virtude de mudança da ordem administrativa do concelho, será o excesso transitòriamente pago pelas disponibilidades das dotações para pessoal dos quadros da Direcção-Geral dos Serviços Pecuários.\n\n> Alterado pelo/a [Decreto-Lei n.º 49174](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49174-1969-198896), publicado em 1969-08-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:261964:por",
+    "alterador": "pt:dre:198896:por"
+  }
+]

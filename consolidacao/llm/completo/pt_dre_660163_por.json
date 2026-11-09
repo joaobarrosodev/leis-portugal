@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:660163:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "(Correspondência quantitativa e qualitativa da pontuação)",
+      "texto": "1 - A classificação de serviço de cada funcionário ou agente, atribuída nos termos do n.º 1 do artigo 4.º, deverá ser traduzida numa das seguintes menções qualitativas, de acordo com o intervalo de valores em que a pontuação se situar:\n\nAté 7 - Insuficiente;\n\nDe 8 a 13 - Suficiente;\n\nDe 14 a 16 - Bom;\n\nDe 17 a 20 - Muito bom.\n\n2 - Sempre que a pontuação obtida se traduzir num número decimal, proceder-se-á ao seu arredondamento para número inteiro por excesso ou por defeito, consoante o valor decimal obtido seja igual ou superior a 0,5 ou inferior a este, respectivamente.\n\n3 - As menções quantitativas são relevantes para todos os efeitos legais, designadamente progressão na carreira e transferências.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Portaria 453-A/84: as alterações aos prazos dos artigos 14.º, 15.º, 18.º e 19.º só produzem efeitos durante o ano de 1984 (regime transitório); não aplicadas ao texto permanente.",
+  "instrucoes": [
+    "Portaria 453-A/84, n.os 1.º e 2.º: prazos dos arts. 14.º, 15.º, 18.º e 19.º alterados só para 1984; não aplicado (regime temporário).",
+    "Portaria 742/84: nova redação do n.º 2 do artigo 6.º; aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:628517:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, artigo 1.º: altera as bases XXI e XXVII da minuta anexa à Portaria n.º 1473/2007; o anexo (minuta) não consta do texto atual por artigos, pelo que não se pode aplicar.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação das bases XXI e XXVII do anexo — anexo ausente do texto atual, não aplicado (nao_aplicavel).",
+    "Alterador 1, art. 2.º e 3.º: aplicação aos contratos e produção de efeitos — não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

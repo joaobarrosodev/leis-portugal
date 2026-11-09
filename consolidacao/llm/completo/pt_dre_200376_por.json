@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:200376:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1. Todas as pessoas que viajem por conta dos territórios ultramarinos têm direito, durante a viagem, a assistência médica e medicamentosa e ao internamento na enfermaria de bordo, nos precisos termos dos artigos 303.º e 304.º do Estatuto do Funcionalismo Ultramarino.\n\n2. A igual assistência têm direito os repatriados que utilizem as passagens fornecidas gratuitamente pela Junta Nacional da Marinha Mercante.",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1. As companhias de navegação apresentarão na Direcção-Geral de Saúde e Assistência, do Ministério da Coordenação Interterritorial, ou nos Serviços Provinciais de Saúde, conforme o local de destino das viagens, factura com relação das pessoas tratadas, assinada pelo médico de bordo e confirmada pelos assistidos e pelo comandante do barco.\n\n2. Com essas relações serão apresentados elementos que identifiquem os assistidos e os serviços a que pertençam ou devam suportar os encargos, indicação das doenças e ainda se estas se declararam a bordo.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "As despesas só serão liquidadas na metrópole ou nos territórios ultramarinos, consoante o local de destino das viagens, depois de a Junta de Saúde do Ultramar ou de as juntas provinciais de saúde haverem emitido parecer favorável, conforme a doença se tenha verificado em viagem para a metrópole ou vice-versa.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto 65/75, art. 5.º: nova redação dos arts. 1.º (n.os 1 e 2), 4.º (n.os 1 e 2) e 5.º: aplicado",
+    "Art. 6.º: revoga o art. 2.º: já consta como (Revogado.) no texto atual, sem mudança",
+    "Arts. 1.º a 4.º e 7.º a 12.º: alteram outros diplomas ou são autónomos: ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

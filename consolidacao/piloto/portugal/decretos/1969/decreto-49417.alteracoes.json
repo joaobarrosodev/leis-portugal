@@ -15,5 +15,33 @@
     ],
     "diploma": "pt:dre:217090:por",
     "alterador": "pt:dre:419246:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\n1. Constarão de diploma regulamentar, a publicar pelos Governos-Gerais de Angola e de Moçambique, as receitas do Fundo e a composição e atribuições do conselho administrativo, que poderá ter a participação do sector privado com interesses nas actividades pecuárias.\n\n2. No diploma a que se refere o número anterior pode ser prevista a criação de comissões e subcomissões com fins específicos de estudo ou orientação de problemas ligados ao fomento da produção, comercialização e industrialização pecuárias, e também fixada a remuneração mensal dos membros do conselho administrativo e o quantitativo de senhas de presença aos membros das comissões e subcomissões, as quais serão acumuláveis com quaisquer vencimentos ou remunerações, sem limite legal.",
+    "depois": "###### Artigo 5.º\n\n1. Constarão de diploma regulamentar, a publicar pelos Governos-Gerais de Angola e de Moçambique, as receitas do Fundo, a composição dos quadros de pessoal técnico, técnico auxiliar, assalariado e administrativo da sua secretaria privativa e a composição e atribuição do conselho administrativo, que poderá ter a participação do sector privado com interesses nas actividades pecuárias.\n\n2. No diploma a que se refere o número anterior pode ser prevista a criação de comissões e subcomissões com fins específicos de estudo ou orientação de problemas ligados ao fomento da produção, comercialização e industrialização pecuárias, e também fixada a remuneração mensal dos membros do conselho administrativo e o quantitativo de senhas de presença aos membros das comissões e subcomissões, as quais serão acumuláveis com quaisquer vencimentos ou remunerações, sem limite legal.\n\n> Alterado pelo/a [Decreto n.º 401/73](https://diariodarepublica.pt/dr/detalhe/decreto/401-1973-419246), publicado em 1973-08-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:217090:por",
+    "alterador": "pt:dre:419246:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º\n\nO conselho administrativo pode subsidiar, nos termos que forem objecto de prévio acordo, com os serviços de veterinária:\n\na) A colaboração dos especialistas dos diversos órgãos da administração;\n\nb) O contrato de técnicos nacionais ou estrangeiros;\n\nc) (Revogada.)\n\n> Revogado pelo/a [Decreto n.º 401/73](https://diariodarepublica.pt/dr/detalhe/decreto/401-1973-419246), publicado em 1973-08-09.",
+    "depois": "###### Artigo 8.º\n\nO conselho administrativo pode subsidiar, nos termos que forem objecto de prévio acordo, com os serviços de veterinária:\n\na) A colaboração dos especialistas dos diversos órgãos da administração;\n\nb) O contrato de técnicos nacionais ou estrangeiros;\n\n> Revogado pelo/a [Decreto n.º 401/73](https://diariodarepublica.pt/dr/detalhe/decreto/401-1973-419246), publicado em 1973-08-09.\n\n> Alterado pelo/a [Decreto n.º 401/73](https://diariodarepublica.pt/dr/detalhe/decreto/401-1973-419246), publicado em 1973-08-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:217090:por",
+    "alterador": "pt:dre:419246:por"
   }
 ]

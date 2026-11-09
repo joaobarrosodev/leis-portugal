@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nAs estampilhas fiscais de emolumentos consulares serão dos seguintes valores em moeda portuguesa: 1$00, 5$00, 10$00, 12$00, 25$00, 40$00, 50$00, 80$00, 90$00, 100$00, 110$00, 120$00, 125$00, 150$00, 175$00, 200$00, 300$00 e 600$00, divididos em seis grupos de diferentes cores, composto cada um de três valores seguidos.",
+    "depois": "###### Artigo 1.º\n\nAs estampilhas fiscais de emolumentos consulares serão dos seguintes valores em moeda portuguesa: 1$00, 5$00, 10$00, 25$00, 40$00, 50$00, 80$00, 100$00, 150$00, 200$00, 300$00, 480$00, 500$00, 600$00, 800$00, 1000$00, 1440$00, 1500$00, 2000$00, 3200$00 e 3800$00, divididos em sete grupos de cores diferentes, composto cada um de três valores seguidos.\n\n> Alterado pelo/a [Decreto-Lei n.º 115/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1988-284763), publicado em 1988-04-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:472903:por",
+    "alterador": "pt:dre:284763:por"
+  }
+]

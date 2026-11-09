@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:567693:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, 1.º, e alterador 2, 1.º: novo plano de estudos (anexo) só em imagem/quadro no documento original. Alterador 1, 2.º («O curso passa a ter a duração de seis anos»): a disposição sobre a duração do curso não consta do texto atual (só existem os n.os 5.º a 8.º), pelo que não há texto onde aplicar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: plano de estudos substituído pelo anexo — quadro em imagem, não aplicável.",
+    "Alterador 1, 2.º: duração do curso passa a seis anos — artigo da duração não está no texto atual, não aplicável.",
+    "Alterador 1, 3.º e 4.º: transição e aplicação — autónomas.",
+    "Alterador 2, 1.º: nova redação do anexo — quadros em imagem, não aplicável.",
+    "Alterador 2, 2.º a 4.º: disposições autónomas (semanas lectivas, transição, aplicação) — ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

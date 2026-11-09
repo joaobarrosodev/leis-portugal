@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:468991:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Interconexão de dados",
+      "texto": "1 - A Direcção-Geral dos Impostos fica autorizada, através de processamento informático, a relacionar os dados regulados no presente diploma com os dados dos seus próprios sistemas informáticos, para efeitos do estritamente indispensável à determinação da classe de bonificação de juro a suportar pelo Estado, informando a Direcção-Geral do Tesouro em conformidade.\n\n2 - A determinação da classe de bonificação de juro é feita, exclusivamente, com base em informação prestada pela Direcção-Geral do Tesouro quanto à composição do agregado familiar dos mutuários e respectivos números de contribuinte, considerando-se, para todos os efeitos legais, o acto imputado àquela entidade.\n\n3 - É vedado à Direcção-Geral dos Impostos utilizar os dados a que aceda nos termos do presente diploma para qualquer fim diverso do fixado no número anterior.\n\n4 - A autorização a que se refere o n.º 1 não compreende, em caso algum, a revelação de dados relativos à situação tributária protegidos pelo dever de confidencialidade estabelecido na lei geral tributária, designadamente através de discriminação dos rendimentos pelos respectivos titulares.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 1.º do DL 107/2007: altera o DL 349/98, não o original; ignorado.",
+    "Art. 2.º: nova redação do artigo 5.º (n.os 1, 2 e 4 novos; n.º 3 é o anterior n.º 2; o anterior n.º 3 desaparece); aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

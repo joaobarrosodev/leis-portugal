@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:151075:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Os dois alteradores alteram apenas quadros de pessoal anexos (Santa Cruz da Graciosa; quadro n.º 6, Praia da Vitória), que vêm só em imagem; nenhum artigo do original é alterado textualmente.",
+  "instrucoes": [
+    "Alterador 1, artigo único: altera o quadro de pessoal do Centro de Saúde de Santa Cruz da Graciosa por mapa em imagem; não aplicável ao texto.",
+    "Alterador 2, artigo único: extingue um lugar no quadro n.º 6 anexo e substitui o quadro por anexo em imagem; não aplicável ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

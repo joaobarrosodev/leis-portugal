@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:564047:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - A faculdade de requerer os meios suspensivos da falência poderá ser exercida nos termos previstos no artigo 1266.º do Código de Processo Civil ou nos noventa dias subsequentes à entrada em vigor do presente diploma ou à declaração de falência, se for posterior.\n\n2 - Se, ao tempo do requerimento, ainda não houver sido proferida sentença de verificação de créditos em primeira instância, será aplicável, com as necessárias adaptações, o disposto no Código de Processo Civil para os meios preventivos da falência.\n\n3 - O Ministro das Finanças e do Plano poderá prorrogar o prazo previsto no n.º 1, ou renová-lo, por dois períodos de 90 dias.\n\n4 - Nos casos de falência em que tenham sido deduzidos embargos, não rejeitados por decisão transitada em julgado, poderá ser autorizada a confissão do pedido, desde que não tenha sido proferida sentença de verificação e graduação de créditos, não tenha o Estado efectuado a reserva de bens ou direitos prevista nos diplomas legais referidos no artigo 1.º e não haja ofensa de caso julgado.\n\n5 - Os prazos referidos no presente artigo têm natureza processual.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 1.º do alterador: nova redação do n.º 3 do art. 2.º — aplicada.",
+    "Art. 2.º do alterador: aditado o n.º 5 ao art. 2.º — aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

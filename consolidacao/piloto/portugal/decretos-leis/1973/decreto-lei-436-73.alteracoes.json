@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1. O pessoal do quadro actual irá ocupar, sem dependência de quaisquer formalidades, lugares da sua categoria no novo quadro, segundo relação a publicar no Diário do Governo.\n\n2. O Ministro da Educação Nacional poderá livremente nomear os actuais funcionários da Biblioteca para lugares de categoria imediatamente superior previstos no novo quadro, desde que para tanto possuam as habilitações legais.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.\n\nPromulgado em 8 de Agosto de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nMapa a que se refere o artigo 1.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/08/20100/15251525.pdf)\n\nO Ministro da Educação Nacional, José Veiga Simão.",
+    "depois": "###### Artigo 4.º\n\n1. O pessoal nomeado ou contratado que actualmente presta serviço na Biblioteca Geral da Universidade de Coimbra será provido em lugares idênticos ou de categoria equivalente do quadro anexo ao presente diploma, mediante lista aprovada pelo Ministro da Educação Nacional e publicada no Diário do Governo, independentemente de outras formalidades, salvo a anotação das novas situações pelo Tribunal de Contas, mantendo-se válidos os respectivos contratos até à publicação da referida lista.\n\n2. O Ministro da Educação Nacional poderá livremente nomear os actuais funcionários da Biblioteca para lugares de categoria imediatamente superior previstos no novo quadro, desde que para tanto possuam as habilitações legais.\n\n3. O pessoal contratado que não for possível prover nos termos previstos no n.º 1 deste artigo transita para a Biblioteca Geral na situação em que se encontrar à data da publicação deste decreto-lei.\n\n4. Os actuais funcionários do quadro da Biblioteca que não for possível prover nos termos do n.º 1 deste artigo continuarão ao serviço, sem perda dos direitos adquiridos e na situação de supranumerários ao quadro.\n\n> Alterado pelo/a [Decreto-Lei n.º 599/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/599-1973-411617), publicado em 1973-11-08.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.\n\nPromulgado em 8 de Agosto de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nMapa a que se refere o artigo 1.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/08/20100/15251525.pdf)\n\nO Ministro da Educação Nacional, José Veiga Simão.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:413845:por",
+    "alterador": "pt:dre:411617:por"
+  }
+]

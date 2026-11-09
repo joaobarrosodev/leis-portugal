@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:379709:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DL 4/2001, art. 162.º, alínea g): revoga os artigos 1.º e 2.º só na parte em que se referem ao bilhete de identidade de cidadão estrangeiro; revogação parcial não textual (no artigo 1.º a referência está dentro de uma frase), não aplicada ao texto.",
+  "instrucoes": [
+    "DL 4/2001, art. 162.º, g): revogação parcial dos artigos 1.º e 2.º na parte relativa ao BI de cidadão estrangeiro; não aplicada por não ser uma alteração textual delimitada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

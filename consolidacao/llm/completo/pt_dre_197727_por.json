@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:197727:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Declaração de Rectificação n.º 10-G/98: rectifica o quadro n.º 1 do anexo II e a respectiva nota de rodapé, que não constam do texto atual (quadro só em imagem); não aplicada.",
+  "instrucoes": [
+    "Anexo II, quadro n.º 1, viveiros florestais/organismos públicos: «-» -> «100» — quadro fora do texto; não aplicada.",
+    "Nota de rodapé (**) «cinco anos» -> «10 anos» — no quadro do anexo II, fora do texto; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

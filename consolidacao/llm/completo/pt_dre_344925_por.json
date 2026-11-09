@@ -1,0 +1,56 @@
+{
+  "id": "pt:dre:344925:por",
+  "artigos": [
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "1 - Os acionistas com direito de voto podem participar nas assembleias gerais desde que as ações estejam averbadas em seu nome no livro de registo da sociedade até 10 dias antes daquele em que a assembleia geral deve reunir em primeira convocatória.\n\n2 - A representação de accionistas em assembleia geral poderá fazer-se por qualquer pessoa, sendo instrumento suficiente de representação uma carta dirigida ao presidente da mesa da assembleia geral.",
+      "alterador": 3
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "1 - A assembleia geral reunirá no 1.º trimestre subsequente ao encerramento do exercício anterior.\n\n2 - A assembleia geral reúne ainda sempre que o requeiram o conselho de administração, o fiscal único ou os acionistas que representem, pelo menos, 5 % do capital social.",
+      "alterador": 3
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "",
+      "texto": "1 - Os accionistas podem deliberar sobre todos os assuntos que não sejam da competência exclusiva de outros órgãos sociais.\n\n2 - Compete em especial à assembleia:\n\na) Deliberar sobre o relatório de gestão e as contas de exercício;\n\nb) Deliberar sobre a proposta de aplicação dos resultados;\n\nc) Apreciar a administração e a fiscalização da sociedade;\n\nd) Aprovar os planos de actividades e financeiros plurianuais para um período de, pelo menos, cinco anos e suas eventuais alterações;\n\ne) Eleger os membros dos órgãos sociais;\n\nf) Deliberar sobre a emissão de obrigações;\n\ng) Deliberar sobre o aumento de capital;\n\nh) Fixar as remunerações dos membros do conselho de administração, podendo esta competência ser delegada numa comissão de vencimentos a nomear para o efeito.\n\n3 - Salvo quando a lei ou os presentes estatutos exijam maioria qualificada superior, as deliberações da assembleia geral são tomadas com os votos correspondentes a acções que representem mais de 50% do capital social.",
+      "alterador": 3
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "",
+      "texto": "1 - A administração da sociedade será exercida por um conselho de administração composto por cinco membros.\n\n2 - As deliberações do conselho de administração são tomadas por maioria.\n\n3 - Compete à assembleia geral eleger de entre os membros do conselho de administração o respetivo presidente, que tem voto de qualidade nas deliberações do conselho de administração.\n\n4 - A responsabilidade dos administradores poderá ser dispensada de caução por deliberação da assembleia geral.",
+      "alterador": 3
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "",
+      "texto": "A fiscalização da sociedade compete a um fiscal único e a um suplente, ambos revisores oficiais de contas ou sociedade de revisores oficiais de contas, eleitos em assembleia geral.",
+      "alterador": 3
+    },
+    {
+      "chave": "25.º-A",
+      "epigrafe": "",
+      "texto": "1 - Compete ao conselho consultivo o acompanhamento da atividade geral da sociedade, designadamente dos níveis de serviços praticados pela mesma e da gestão das infraestruturas afetas à concessão.\n\n2 - O conselho consultivo pode aprovar, por sua iniciativa ou quando tal lhe seja solicitado pelo concedente, por maioria dos membros presentes, pareceres não vinculativos nas matérias da sua competência.\n\n3 - Fazem parte do conselho consultivo, por inerência, os presidentes das câmaras municipais servidos pela sociedade, bem como os membros do respetivo conselho de administração e o fiscal único.\n\n4 - O conselho consultivo reúne trimestralmente mediante convocatória do presidente do conselho de administração e extraordinariamente sempre que convocado para o efeito pelo presidente do conselho de administração ou por pelo menos 1/3 dos utilizadores do sistema.\n\n5 - A sociedade assegura o necessário apoio logístico e administrativo ao funcionamento do conselho consultivo.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "No texto atual os artigos do decreto-lei (1.º a 12.º) e os dos estatutos anexos (1.º a 26.º) usam as mesmas chaves, sem prefixo de anexo. Por isso não se aplicaram, por alvo ambíguo: (i) o aditamento dos artigos 13.º e 14.º ao decreto-lei (art. 3.º do DL 105/2014), cujas chaves coincidem com os artigos 13.º e 14.º dos estatutos; (ii) as alterações aos artigos 3.º, 5.º, 7.º, 9.º, 10.º e 12.º dos estatutos (art. 4.º) e a revogação do artigo 6.º, do n.º 3 do artigo 8.º, dos n.os 1 e 2 do artigo 9.º e do n.º 3 do artigo 10.º dos estatutos (art. 6.º), cujas chaves coincidem com artigos do decreto-lei. As alterações ao decreto-lei (arts. 1.º, 6.º, 7.º e revogações do art. 6.º do DL 105/2014) já constam do texto atual. Os Despachos n.os 26172/2004 e 16510/2010 alargam o sistema a novos municípios sem alteração textual.",
+  "instrucoes": [
+    "Despacho n.º 26172/2004: alargamento do sistema a Abrantes, Gavião, Mação, Sardoal e Vila de Rei; não textual.",
+    "Despacho n.º 16510/2010: alargamento a Castelo Branco, Idanha-a-Nova, Oleiros, Proença-a-Nova, Sertã e Vila Velha de Ródão; não textual.",
+    "DL 105/2014, art. 2.º: nova redação dos arts. 1.º, 6.º e 7.º do decreto-lei; já no texto atual.",
+    "DL 105/2014, art. 3.º: aditamento dos arts. 13.º e 14.º do decreto-lei; não aplicado (chaves coincidem com artigos dos estatutos).",
+    "DL 105/2014, art. 4.º: nova redação dos arts. 14.º, 16.º, 18.º, 19.º e 25.º dos estatutos aplicada; arts. 3.º, 5.º, 7.º, 9.º, 10.º e 12.º dos estatutos não aplicados (chaves ambíguas).",
+    "DL 105/2014, art. 5.º: aditamento do art. 25.º-A aos estatutos; aplicado.",
+    "DL 105/2014, art. 6.º: revogações no decreto-lei já no texto atual; revogações nos estatutos (6.º, 8.º n.º 3, 9.º n.os 1-2, 10.º n.º 3) não aplicadas (chaves ambíguas).",
+    "DL 105/2014, art. 7.º: republicação; usada apenas como referência."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

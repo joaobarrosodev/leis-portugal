@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:216145:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Fora dos casos de consultas e visitas domiciliárias, de meios auxiliares de diagnóstico e terapêutica e de internamentos em clínicas particulares, os encargos com a assistência serão satisfeitos através da Assistência na Doença aos Servidores Civis do Estado (A. D. S. E.), competindo, porém, aos corpos administrativos, seus serviços municipalizados ou federações de municípios reembolsá-la directamente das importâncias pagas, na parte que exceda a participação dos beneficiários, dentro dos sessenta dias seguintes àquele em que for recebida a comunicação respectiva.",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "DL 324/78, art. 6.º, a): revoga o artigo 2.º (redação do DL 372/73) apenas 'na parte em que dispõe sobre reembolsos' — revogação parcial sem indicação textual do que sai; não aplicada ao texto.",
+  "instrucoes": [
+    "Alterador 1 (DL 372/73), artigo único: nova redação do art. 2.º — aplicada.",
+    "Alterador 2 (DL 324/78), art. 6.º a): revogação parcial do art. 2.º quanto a reembolsos — não aplicada (não textual).",
+    "Alterador 2, art. 6.º b): revoga o art. 7.º — (Revogado.).",
+    "Alterador 2, art. 6.º c) e arts. 1.º-5.º: dirigidos a outros diplomas/regime — ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

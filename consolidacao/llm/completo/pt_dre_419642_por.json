@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:419642:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alt.1 (Decreto-Lei n.º 56/74, art. 3.º e 4.º) muda designações e ordenados de cargos dos quadros do mapa anexo (incluindo cargos de ilhas dos Açores que não constam do texto atual do mapa) sem dar nova redação a nenhum artigo; alt.2 (Decreto Regulamentar Regional n.º 19/77/A, art. 2.º) altera as categorias dos quadros das Direcções de Obras Públicas de Angra do Heroísmo e Ponta Delgada por mapas que só vêm em imagem. Nenhuma das duas é aplicável ao texto com segurança.",
+  "instrucoes": [
+    "Alt.1 arts. 3.º e 4.º: renomeação de cargos e ordenados dos quadros anexos; não textual, não aplicada. Restantes artigos do alt.1 dizem respeito a outros diplomas; ignorados.",
+    "Alt.2 art. 2.º: novas categorias por mapas em imagem; não aplicável.",
+    "Alt.3: altera o art. 7.º do Decreto Regulamentar Regional n.º 27/77/A (outro diploma); ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

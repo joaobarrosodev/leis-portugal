@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1. Para o desempenho da competência conferida à G. N. R. em matéria de viação e trânsito, é criada no quadro das unidades da corporação a Brigada de Trânsito (B. T.).\n\n2. A B. T. da G. N. R. compreenderá, além de uma companhia de comando, quatro grupos regionais de trânsito (G. R. T.), que agruparão dezoito destacamentos de trânsito (D. T.), um por cada distrito do continente.\n\n3. Quando as necessidades do policiamento de certa zona o exijam, poderão ser constituídos, na directa dependência do comando de um G. R. T. ou da própria B. T., formações permanentes ou temporárias.\n\n4. A companhia de comando depende directamente do comandante da Brigada; os G. R. T. e os D. T. serão destacados e adidos, respectivamente, nos batalhões e nas companhias da G. N. R. afectos ao serviço rural.",
+    "depois": "###### Artigo 3.º\n\n1. Para o desempenho da competência conferida à G. N. R. em matéria de viação e trânsito, é criada no quadro das unidades da corporação a Brigada de Trânsito (B. T.).\n\n2. A B. T. da G. N. R. compreenderá, além de uma companhia de comando, quatro grupos regionais de trânsito (G. R. T.), que agruparão dezoito destacamentos de trânsito (D. T.), um por cada distrito do continente.\n\n3. Quando as necessidades do policiamento de certa zona o exijam, poderão ser constituídos, na directa dependência do comando de um G. R. T. ou da própria B. T., formações permanentes ou temporárias.\n\n4. A companhia de comando depende directamente do comandante da Brigada; os G. R. T. e os D. T. serão destacados e adidos, respectivamente, nos batalhões e nas companhias da G. N. R. afectos ao serviço rural.\n\n5. A subordinação às unidades territoriais da Guarda Nacional Republicana, a situação de adidos dos órgãos da BT destacados a que se refere o número anterior, bem como a cadeia de comando para transmissão de ordens, com vista ao emprego racional dos meios da BT no cumprimento da sua missão, serão estabelecidas por normas e regulamentação internas da competência do Comando da corporação.\n\n> Alterado pelo/a [Decreto-Lei n.º 300/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1976-502190), publicado em 1976-04-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:142555:por",
+    "alterador": "pt:dre:502190:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\n1. Cada G. R. T. será comandado por um capitão e cada D. T. terá por comandante um tenente.\n\n2. As unidades de B. T. ficarão subordinadas:\n\nAos comandos das unidades territoriais da G. N. R. da área em que se encontram destacadas para todos os efeitos, excepto os relativos ao serviço de trânsito;\n\nAo comando da B. T. para estes últimos.\n\n3. As ordens do comando da B. T. deverão ser transmitidas por intermédio dos comandos das unidades territoriais em que as unidades de trânsito se encontram destacadas. Em caso de urgência, poderão estas ordens ser transmitidas directamente, mas sempre com conhecimento ao comando da unidade territorial respectiva.",
+    "depois": "###### Artigo 5.º\n\nCada GRT será comandado por um capitão e cada DT terá por comandante um tenente.\n\n> Alterado pelo/a [Decreto-Lei n.º 300/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1976-502190), publicado em 1976-04-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:142555:por",
+    "alterador": "pt:dre:502190:por"
+  }
+]

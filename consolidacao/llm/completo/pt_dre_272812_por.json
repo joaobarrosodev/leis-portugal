@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:272812:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "Os materiais e peças vindos do estrangeiro e, bem assim, as embalagens quando estas não possam ser produzidas pela indústria nacional - entrarão no recinto do depósito franco mediante bilhete de entrada referido no § 5.º do artigo 146.º da Reforma Aduaneira.\n\n§ 1.º A alfândega verificará a qualidade dessas mercadorias, que se devem destinar à fabricação, construção e montagem dos aparelhos e peças indicados no § 2.º do artigo 1.º\n\n§ 2.º Quando pela documentação se verifique estar algum material ou peça sujeito à pauta máxima, será esse artefacto identificado para a hipótese de algum deles ter de voltar a sair do recinto, isolado, para entrar no consumo.\n\n§ 3.º A simplificação de formalidades do despacho de entrada no depósito franco de materiais e peças estrangeiros não dispensa o cumprimento das disposições relativas ao registo na Repartição do Comércio Externo.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único do Decreto 2/73: nova redação do corpo do artigo 6.º; §§ 1.º a 3.º mantidos."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

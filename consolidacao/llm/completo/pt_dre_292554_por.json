@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:292554:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "Independentemente do período de duração dos seus mandatos, os corpos gerentes dos clube seu exercício no começo do ano civil ou no começo da época de uma das modalidades em que participem em provas oficiais, conforme nos estatutos dos mesmos clubes se estabelecer.\n\n§ 1.º Os corpos gerentes dos restantes organismos desportivos iniciarão o seu exercício no começo das épocas das respectivas modalidades.\n\n§ 2.º Os mandatos dos corpos gerentes das federações e associações terão a duração estabelecida nos respectivos estatutos, não podendo, porém, aquela duração ser superior a 4 anos.\n\n§ 3.º (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único, n.º 1: nova redação do § 2.º do artigo 3.º; aplicada, corpo e § 1.º mantidos.",
+    "Alterador 1, artigo único, n.º 2: revogação do § 3.º do artigo 3.º; aplicada como (Revogado.)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "3.º: parágrafo que não está no alterador nem no original: § 3.º (Revogado.)"
+  ]
+}

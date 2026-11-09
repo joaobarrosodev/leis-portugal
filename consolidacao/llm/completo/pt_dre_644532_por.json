@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:644532:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DL 189/72 art. 1.º: 'É alterado o prazo de quatro anos referido no artigo 1.º do DL 202/71 [...], ficando totalmente liberalizada a comercialização [...] a partir da actual campanha de 1971-1972' — alteração não textual (sem nova redacção do artigo 1.º), não aplicada ao texto.",
+  "instrucoes": [
+    "DL 189/72 art. 1.º: antecipa a liberalização total, sem nova redacção do art. 1.º — não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

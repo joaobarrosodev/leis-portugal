@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:591106:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Carreira técnica",
+      "texto": "1 - ...\n\na) ...\n\nb) ...\n\nc) Técnico de 2.ª classe, de entre indivíduos habilitados com curso superior que não confira o grau de licenciatura, em área de formação adequada ao conteúdo funcional do lugar a prover, aprovados em estágio com classificação não inferior a Bom (14 valores).\n\n2 - ...\n\n3 - ...\n\na) ...\n\nb) ...\n\nArt. 2.º - (Revogado.)\n\nVisto e aprovado em Conselho de Ministros de 21 de Julho de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.\n\nPromulgado em 16 de Agosto de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 22 de Agosto de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 art. 116.º alínea ae): revoga o artigo 2.º do Decreto-Lei n.º 233/94; esse artigo vem no texto atual dentro do corpo da chave '4.º' (a seguir à redação do art. 4.º) - os seus n.os 1 e 2 foram substituídos por 'Art. 2.º - (Revogado.)', mantendo o resto letra a letra.",
+    "Restante corpo do art. 116.º: revogações de outros diplomas e revogação genérica de disposições contrárias - não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "4.º: parágrafo que não está no alterador nem no original: Art. 2.º - (Revogado.)"
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nOs actuais fundos de farmácia, transportes e gabinete de radiologia são integrados com o seu activo e passivo nos Serviços Sociais da Guarda Fiscal, criados pelo [Decreto-Lei n.º 48802](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48802-1968-256604), de 27 de Dezembro de 1968.",
+    "depois": "###### Artigo 2.º\n\nOs actuais fundos da farmácia e de transportes são integrados com o seu activo e passivo nos Serviços Sociais da Guarda Fiscal, criados pelo [Decreto-Lei n.º 48802](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48802-1968-256604), de 27 de Dezembro de 1968.\n\n> Alterado pelo/a [Decreto-Lei n.º 30/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1985-328435), publicado em 1985-01-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:643944:por",
+    "alterador": "pt:dre:328435:por"
+  }
+]

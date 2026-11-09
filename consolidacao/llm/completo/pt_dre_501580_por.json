@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:501580:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "O Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas está isento de custas e selos em todos os processos em que for parte ou interessado e de quaisquer emolumentos, taxas, contribuições ou impostos e beneficia de todas as facilidades conferidas por lei às instituições oficiais de assistência.\n\n§ único. O disposto no corpo deste artigo é aplicável aos processos em que o Cofre já teve intervenção.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1 artigo único: adita o art. 4.º; aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

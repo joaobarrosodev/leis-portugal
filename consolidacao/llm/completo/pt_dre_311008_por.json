@@ -1,0 +1,92 @@
+{
+  "id": "pt:dre:311008:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - A exoneração dos assistentes religiosos será sempre da competência do Ministro da Justiça.\n\n4 - A proposta de exoneração poderá ser feita pelo bispo da diocese local, por conveniência da Igreja ou pelos serviços competentes; neste último caso, será precedida de comunicação ao mesmo superior eclesiástico, mas sem interferência em matéria de natureza exclusivamente pastoral.",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - Ressalvado o disposto no n.º 4 do artigo 13.º, os assistentes religiosos exercerão as suas funções em regime de tempo parcial, com um mínimo de 12 horas semanais, a definir de acordo com o número de reclusos a assistir.\n\n2 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 3.º, alínea a), do DL 252/2009 revoga o DL 79/83, salvo os n.os 3 e 4 do art. 1.º, o n.º 1 do art. 3.º e os arts. 13.º e 14.º: revogados os n.os 1 e 2 do art. 1.º, o art. 2.º, o n.º 2 do art. 3.º e os arts. 4.º a 12.º e 15.º; arts. 13.º e 14.º mantidos.",
+    "Arts. 1.º e 2.º do DL 252/2009 e alínea b) do art. 3.º: sem alteração textual ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

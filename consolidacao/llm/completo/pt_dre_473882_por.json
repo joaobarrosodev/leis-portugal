@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:473882:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "(Nova lei orgânica - Regime transitório)",
+      "texto": "1. Até 30 de Junho de 1975, ouvido o conselho de administração, será aprovada por decreto-lei a lei orgânica do Banco de Angola.\n\n2. Até à entrada em vigor da lei referida no número anterior, o Banco de Angola continuará a reger-se pelos preceitos legais que actualmente se lhe aplicam, bem como pelas normas constantes dos seus estatutos e dos contratos celebrados com o Estado, na medida em que não contrariem as disposições do presente diploma.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Prorrogações do prazo do artigo 7.º (n.º 2 do art. 10.º do DL 729-K/75, até 16 de Julho de 1976, e artigo único do DL 882/76, que remete para a alínea b) do art. 18.º do DL 43453) não são alterações textuais: não dão nova redação ao artigo 7.º.",
+  "instrucoes": [
+    "DL 797/74, artigo único: data limite do art. 4.º, n.º 1, passa a 31 de Março de 1975 (substituída depois pelo alterador 2).",
+    "DL 273/75, art. 1.º: data limite do art. 4.º, n.º 1, passa a 30 de Junho de 1975; aplicada no texto do n.º 1.",
+    "DL 729-K/75, art. 10.º, n.º 2: prorroga o prazo do art. 7.º até 16/07/1976; não textual, não aplicada. Restantes artigos (empréstimo) não alteram o original.",
+    "DL 882/76, artigo único: prazo do art. 7.º passa ao da alínea b) do art. 18.º do DL 43453; não textual, não aplicada.",
+    "Portaria 261/81: não altera o original; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "4.º: parágrafo que não está no alterador nem no original: 1. Até 30 de Junho de 1975, ouvido o conselho de administração, será aprovada po"
+  ]
+}

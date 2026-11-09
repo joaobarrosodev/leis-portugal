@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:665141:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "É autorizada a Santa Casa da Misericórdia de Lisboa a celebrar contrato para fornecimento dos bilhetes para os concursos das apostas mútuas desportivas até à importância de 55600000$00.",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1. O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:\n\nAno de 1974 ... 12000000$00\n\nAno de 1975 ... 13200000$00\n\nAno de 1976 ... 14500000$00\n\nAno de 1977 ... 15900000$00\n\n2. O saldo apurado em cada ano será adicionado à importância fixada para o ano seguinte.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do artigo 1.º — aplicada.",
+    "Alterador 1, artigo único: nova redação do n.º 1 do artigo 2.º — aplicada; n.º 2 mantido do texto atual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

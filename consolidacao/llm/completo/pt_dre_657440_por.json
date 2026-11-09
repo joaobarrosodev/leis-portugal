@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:657440:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 art. 5.º: revoga o artigo 5.º 'na parte respeitante aos compostos de arsénio' - revogação parcial material, sem indicação de texto a suprimir; não aplicada para não inventar redação.",
+  "instrucoes": [
+    "Alterador 1 art. 5.º: revogação parcial do art. 5.º quanto aos compostos de arsénio - não aplicada (não textual).",
+    "Alterador 1 arts. 2.º e 3.º: aditam números aos anexos do Decreto-Lei n.º 264/98 (outro diploma) - ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

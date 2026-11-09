@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:642184:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1: retifica o sumário e a epígrafe do diploma («Ministério das Finanças» por «Ministério da Agricultura, Pescas e Alimentação»); esse texto não consta de nenhum artigo do texto atual.",
+  "instrucoes": [
+    "Alterador 1: retificação do sumário e da epígrafe do diploma — fora dos artigos, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

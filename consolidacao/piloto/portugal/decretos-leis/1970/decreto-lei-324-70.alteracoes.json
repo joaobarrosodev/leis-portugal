@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\n1. Os lugares de chefe da 4.ª Repartição e de chefe de divisão do Serviço do Contencioso e Notariado serão providos, por escolha, por indivíduos do quadro do Ministério ou estranhos a ele, com a licenciatura em Direito.\n\n2. Os lugares de chefes das secções criadas pelo presente diploma serão providos por indivíduos que satisfaçam as condições gerais fixadas para a admissão nesta categoria nos quadros do Ministério.\n\n3. O provimento de dois dos lugares de técnico de 3.ª classe previstos no artigo anterior será feito entre licenciados em Direito, podendo os outros lugares ser providos entre licenciados com um curso superior adequado ao exercício das respectivas funções.\n\n4. Os lugares de técnico de 2.ª classe serão providos entre técnicos de 3.ª classe, chefes de secção e inspectores do quadro da Direcção-Geral da Previdência e Habitações Económicas com, pelo menos, três anos de bom e efectivo serviço.\n\n5. O provimento dos lugares de técnico de 1.ª classe criados por este diploma far-se-á por promoção entre os técnicos de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço.\n\n6. O lugar de técnico especialista previsto no n.º 1 do artigo 5.º será provido por promoção entre os técnicos de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço.",
+    "depois": "###### Artigo 6.º\n\n1. Os lugares de chefe da 4.ª Repartição e de chefe de divisão do Serviço do Contencioso e Notariado serão providos, por escolha, por indivíduos do quadro do Ministério ou estranhos a ele, com a licenciatura em Direito.\n\n2. Os lugares de chefes das secções criadas pelo presente diploma serão providos por indivíduos que satisfaçam as condições gerais fixadas para a admissão nesta categoria nos quadros do Ministério.\n\n3. O provimento de dois dos lugares de técnico de 3.ª classe previstos no artigo anterior será feito entre licenciados em Direito, podendo os outros lugares ser providos entre licenciados com um curso superior adequado ao exercício das respectivas funções.\n\n4. Os lugares de técnico de 2.ª classe serão providos entre técnicos de 3.ª classe, com, pelo menos, três anos de bom e efectivo serviço, bem como entre chefes de secção e inspectores dos quadros do Ministério das Corporações e Previdência Social, igualmente com três anos de bom e efectivo serviço, quando licenciados com um curso superior adequado ao exercício das respectivas funções.\n\n5. O provimento dos lugares de técnico de 1.ª classe criados por este diploma far-se-á por promoção entre os técnicos de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço.\n\n6. Os lugares de técnico especialista serão providos entre técnicos de 1.ª classe, chefes de repartição e inspectores-chefes dos quadros do Ministério das Corporações e Previdência Social, com, pelo menos, três anos de bom e efectivo serviço.\n\n> Alterado pelo/a [Decreto-Lei n.º 320/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1972-676456), publicado em 1972-08-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:140331:por",
+    "alterador": "pt:dre:676456:por"
+  }
+]

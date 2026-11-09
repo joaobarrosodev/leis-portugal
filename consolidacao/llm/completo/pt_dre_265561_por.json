@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:265561:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - As contas de liquidação do GAPA, a apresentar pela comissão liquidatária, serão aprovadas até 31 de Dezembro de 1995, por despacho conjunto dos Ministros das Finanças e do Mar.\n\n2 - É fixado em um mês, contado da data da entrada em vigor do presente diploma, o prazo durante o qual os credores do GAPA residentes no País podem reclamar os seus créditos, sendo tal prazo, para os credores não residentes no País, de três meses.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único do DL 281/95: nova redação do n.º 1 do artigo 3.º (1995); n.º 2 mantido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

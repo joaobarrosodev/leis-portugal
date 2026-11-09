@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:667282:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Despacho Normativo 59/99, n.º 1.º: o anexo II passa a ter nova redação, mas o quadro só vem em imagem (ver quadro no documento original); não aplicado.",
+  "instrucoes": [
+    "DN 59/99, 1.º: nova redação do anexo II (quadro em imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

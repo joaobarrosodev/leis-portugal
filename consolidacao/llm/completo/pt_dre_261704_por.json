@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:261704:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Os limites da nova freguesia, conforme representação cartográfica anexa, são:\n\nA norte, via rápida para a Costa da Caparica, desde o caminho público da Quinta do Secretário até ao cruzamento em Casas Velhas com a estrada nacional n.º 377;\n\nA oeste, desde o cruzamento anterior até ao alto do Lazarim, pela estrada nacional n.º 377;\n\nA sul, desde o Alto do Lazarim, pela caminho municipal, até ao cruzamento da Cerieira, inflecte para sul por caminho público até à vala da Regateira, seguindo depois por esta até à Rua do General Humberto Delgado, junto à fábrica de cerâmica, Valbom, Vale Rosal e Carcereira, até ao limite do concelho em Vale Milhaços, junto a Madalena.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 1.º da Lei 22/86: substitui o limite sul do artigo 2.º; feito.",
+    "Art. 2.º da Lei 22/86: dirigido à Lei 125/85; ignorado.",
+    "Art. 3.º da Lei 22/86: remete para representação cartográfica; não é alteração textual dos artigos."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

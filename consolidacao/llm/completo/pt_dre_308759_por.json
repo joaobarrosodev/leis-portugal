@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:308759:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Art. 5.º da Portaria 97/2011 substitui quadros dos anexos i, ii, iii e iv da Portaria 1187/2010 por quadros que só vêm em imagem (ver documento original); os anexos não constam do texto atual. Nenhum artigo é alterado.",
+  "instrucoes": [
+    "Arts. 2.º, 3.º, 4.º, 6.º e 7.º alteram outros diplomas: ignorados",
+    "Art. 5.º: substituição de quadros dos anexos i a iv só em imagem; não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

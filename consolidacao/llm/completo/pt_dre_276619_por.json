@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:276619:por",
+  "artigos": [
+    {
+      "chave": "único",
+      "epigrafe": "",
+      "texto": "2 - O troço da actual estrada nacional n.º 1, entre os quilómetros 301,692 e 304,192, que constitui a Avenida da República, é transferido do domínio público do Estado para o da Câmara Municipal de Vila Nova de Gaia, deixando de pertencer à rede nacional.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único do Decreto 124/78: suprime o n.º 1 do artigo único, mantendo o n.º 2; n.º 1 eliminado, n.º 2 copiado do texto atual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

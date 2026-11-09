@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Serviços assistenciais de apoio\n\nO hospital dispõe ainda dos seguintes serviços assistênciais de apoio:\n\na) Farmácia;\n\nb) Serviço social;\n\nc) Saúde ocupacional;\n\nd) Assistência religiosa;\n\ne) Nutrição e dietética.",
+    "depois": "###### Artigo 4.º — Serviços assistenciais de apoio\n\nO hospital dispõe ainda dos seguintes serviços assistenciais de apoio:\n\na) Farmácia;\n\nb) Serviço social;\n\nc) Saúde ocupacional;\n\nd) Assistência religiosa;\n\ne) Nutrição clínica.\n\n> Alterado pelo/a [Portaria n.º 1038/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1038-2001-516015), publicado em 2001-08-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:632072:por",
+    "alterador": "pt:dre:516015:por;pt:dre:321357:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º — Departamento de gestão operativa\n\n1 - O hospital dispõe dos seguintes departamentos de gestão operativa:\n\na) Departamento de planeamento e apoio à gestão;\n\nb) Departamento de apoio logístico.\n\n2 - O departamento de planamento e apoio à gestão compreende as seguintes áreas:\n\na) Gestão de recursos humanos;\n\nb) Gestão financeira;\n\nc) Gestão de materiais;\n\nd) Arquivo clínico;\n\ne) Gestão de doentes;\n\nf) Informação para a gestão;\n\ng) Informática e estatística;\n\nh) Contencioso e apoio técnico jurídico.\n\n3 - O departamento de apoio logístico compreende as seguintes áreas:\n\na) Instalações e equipamentos;\n\nb) Transportes e comunicações;\n\nc) Alimentação;\n\nd) Segurança.",
+    "depois": "###### Artigo 5.º — Departamento de gestão operativa\n\n1 - O hospital dispõe dos seguintes departamentos de gestão operativa:\n\na) Departamento de planeamento e apoio à gestão;\n\nb) Departamento de apoio logístico.\n\n2 - O departamento de planamento e apoio à gestão compreende as seguintes áreas:\n\na) Gestão de recursos humanos;\n\nb) Gestão financeira;\n\nc) Gestão de materiais;\n\nd) Arquivo clínico;\n\ne) Gestão de doentes;\n\nf) Informação para a gestão;\n\ng) Informática e estatística;\n\nh) Contencioso e apoio técnico jurídico.\n\n3 - O departamento de apoio logístico compreende as seguintes áreas:\n\na) Instalações e equipamentos;\n\nb) Transportes e comunicações;\n\nc) Alimentação e dietética;\n\nd) Segurança.\n\n> Alterado pelo/a [Portaria n.º 1038/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1038-2001-516015), publicado em 2001-08-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:632072:por",
+    "alterador": "pt:dre:516015:por;pt:dre:321357:por"
+  },
+  {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º — Adjuntos do enfermeiro-director\n\nComo órgão de direcção técnica, o enfermeiro-director é coadjuvado por três adjuntos, por si escolhidos e nomeados pelo conselho de administração.",
+    "depois": "###### Artigo 14.º — Adjuntos do enfermeiro-director\n\nComo órgão de direcção técnica, o enfermeiro-director é coadjuvado por cinco adjuntos, por si escolhidos e nomeados pelo conselho de administração.\n\n> Alterado pelo/a [Portaria n.º 500/2000](https://diariodarepublica.pt/dr/detalhe/portaria/500-2000-321357), publicado em 2000-07-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:632072:por",
+    "alterador": "pt:dre:516015:por;pt:dre:321357:por"
+  }
+]

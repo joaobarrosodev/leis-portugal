@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:235936:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (art. 1.º, n.º 2) integra o GCC no Ministério da Cooperação e alterador 2 (art. 1.º) extingue o GCC: não são alterações textuais ao articulado do Decreto-Lei n.º 791/74.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º, n.º 2: integração do GCC no Ministério da Cooperação; não textual, não aplicada.",
+    "Alterador 1, art. 2.º: transição de funcionários; não altera o texto.",
+    "Alterador 2, art. 1.º: extinção do GCC; não textual, não aplicada.",
+    "Alterador 2, arts. 9.º, 13.º a 15.º: transição de pessoal, património e encargos para a DGC; não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

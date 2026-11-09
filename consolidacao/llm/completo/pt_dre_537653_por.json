@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:537653:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "O Fundo é constituído por receitas próprias destinadas a custear os encargos com a acção social a desenvolver juntos dos trabalhadores rurais e por valores consignados aos fins previstos no Código do Trabalho Rural, incluindo as importâncias depositadas para despesas de repatriação.\n\n§ único. Embora o Fundo vise principalmente o trabalho rural e equiparado, serão abrangidos também na sua acção social os trabalhadores não rurais que para ele hajam contribuído financeiramente, aproveitando os respectivos benefícios na medida da sua contribuição.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: aditamento de § único ao art. 3.º; aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:424144:por",
+  "artigos": [
+    {
+      "chave": "36.º-A",
+      "epigrafe": "Matrícula e inscrição dos estudantes residentes nas Regiões Autónomas dos Açores e da Madeira",
+      "texto": "1 - Os estudantes residentes na Região Autónoma dos Açores e na Região Autónoma da Madeira colocados na 1.ª fase da candidatura podem realizar a matrícula e inscrição até 27 de Setembro de 1996, desde que até ao dia 20 de Setembro de 1996 apresentem, nos respectivos serviços regionais de acesso ao ensino superior, uma declaração de intenção de matrícula na vaga em que foram colocados.\n\n2 - Os serviços regionais do acesso remetem as declarações, por fax, aos estabelecimentos de ensino superior em causa até ao dia 23 de Setembro.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 336-A/96: fixa vagas dos cursos de estudos superiores especializados; não contém instrução dirigida ao Regulamento da Portaria 241/96 — nada aplicado.",
+    "Portaria 493-A/96, 1.º: aditado o art. 36.º-A ao Regulamento."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

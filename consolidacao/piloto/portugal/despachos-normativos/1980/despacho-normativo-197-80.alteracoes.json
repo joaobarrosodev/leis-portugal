@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — (Montantes e aplicações)\n\n1 - O apoio selectivo previsto neste despacho normativo será concedido a fundo perdido e o seu montante será função das necessidades avaliadas pelos serviços do IEFP, não podendo, no entanto, ultrapassar, por trabalhador, o equivalente ao montante máximo do subsídio de desemprego multiplicado por doze nem, por empresa, a importância de dezoito milhões de escudos.\n\n2 - Em princípio, o montante da ajuda destinar-se-á a contribuir para o pagamento de salários, correspondentes sobretudo a períodos de desocupação e ou subocupação, e para acções de formação profissional.",
+    "depois": "###### Artigo 4.º — (Montantes e aplicações)\n\n1 - O apoio selectivo previsto neste despacho normativo será concedido a fundo perdido e o seu montante será função das necessidades avaliadas pelos serviços do IEFP, não podendo, no entanto, ultrapassar por trabalhador o equivalente ao montante máximo do subsídio de desemprego multiplicado por catorze.\n\n2 - Em princípio, o montante da ajuda destinar-se-á a contribuir para o pagamento de salários, correspondentes sobretudo a períodos de desocupação e ou subocupação, e para acções de formação profissional.\n\n> Alterado pelo/a [Despacho Normativo n.º 1/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-1981-570490), publicado em 1981-01-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:473162:por",
+    "alterador": "pt:dre:570490:por"
+  }
+]

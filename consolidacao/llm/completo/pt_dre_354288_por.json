@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:354288:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Todos os alteradores (DRR 5/90/A, 33/91/A, 6/92/A, 13-A/95/A, 11/96/A, 19/96/A, 12/99/A, 23/2000/A, 22/2004/A, 33/2004/A) alteram o quadro de pessoal (mapa anexo) do Centro de Saúde de Ponta Delgada através de mapas que só vêm em imagem; as restantes normas (transições, gabinete técnico, secção de contabilidade, remuneração do director) são autónomas e não alteram o texto dos artigos. Nada aplicado.",
+  "instrucoes": [
+    "DRR 5/90/A: transições e criações autónomas; art. 7.º altera o quadro por mapas em imagem — não aplicado.",
+    "DRR 33/91/A, 6/92/A, 13-A/95/A, 11/96/A, 19/96/A, 12/99/A, 23/2000/A, 22/2004/A, 33/2004/A: alteração dos quadros de pessoal por mapas em imagem — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

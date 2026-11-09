@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:425556:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, art. 5.º, b): revoga os artigos 2.º e 3.º: ambos revogados. A revogação genérica da legislação contrária não se aplica ao texto; o resto do alterador é regime próprio."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

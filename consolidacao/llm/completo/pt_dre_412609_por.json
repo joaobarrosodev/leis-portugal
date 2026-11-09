@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:412609:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando do Corpo de Fuzileiros.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto 96/77, artigo único, alínea a): nova redação do artigo 4.º; aplicada.",
+    "Decreto 96/77, artigo único, alínea b): altera o artigo 6.º do Decreto 168/74 (outro diploma); ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

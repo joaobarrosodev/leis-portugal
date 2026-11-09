@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:231759:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto",
+      "texto": "1 - O presente Regulamento estabelece as condições de acesso e atribuição de financiamento para o apoio de trabalhos arqueológicos, a conceder pelo Instituto Português de Arqueologia, adiante designado por IPA.\n\n2 - Para o efeito consideram-se abrangidos os trabalhos arqueológicos de carácter plurianual enquadrados nas categorias A e B do Regulamento dos Trabalhos Arqueológicos, aprovado pelo [Decreto-Lei n.º 164/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-2014-58728911), de 4 de novembro, e que constituem o Plano Nacional de Trabalhos Arqueológicos (PNTA).",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Instrução da candidatura",
+      "texto": "1 - A apresentação das candidaturas deverá ser realizada através do preenchimento do formulário disponível na página da DGPC, a ser enviado para o endereço de correio eletrónico que constará do aviso de abertura, anexando obrigatoriamente os seguintes documentos:\n\na) Declaração na qual o candidato particular, enquanto pessoa singular, indica o seu nome, número fiscal de contribuinte, número do bilhete de identidade, profissão, residência, ou, no caso de instituição, a designação, número de pessoa colectiva, sede e identificação dos representantes legais da instituição;\n\nb) Declaração na qual o candidato particular ou a instituição assumem a responsabilidade pela execução financeira do projecto candidato, indicando as fontes de financiamento previstas;\n\nc) Documento comprovativo de se encontrar regularizada a sua situação relativamente às contribuições para a segurança social em Portugal, ou no Estado de que é nacional, ou onde se encontra estabelecido;\n\nd) Documento comprovativo de ter a situação contributiva com a Fazenda Nacional regularizada;\n\ne) Memória descritiva do respectivo projecto e cronograma físico e financeiro da sua realização, designadamente:\n\nO título do projecto;\n\nA identificação do arqueólogo responsável pelo projecto caso o candidato não seja uma pessoa singular;\n\nO resumo do projecto (máximo uma página);\n\nOs objectivos do projecto, explicitando o seu carácter inovador e os resultados esperados;\n\nA revisão do estado actual dos conhecimentos face aos objectivos que se pretendem alcançar com o projecto, com referência à bibliografia mais importante (máximo duas páginas);\n\nA descrição técnico-científica do programa de trabalhos do projecto, com referência à metodologia e técnicas a utilizar, às fases do projecto, sua interdependência e resultados a alcançar em cada uma das fases, salientando as tarefas que são afectas a cada um dos participantes;\n\nA calendarização com as metas a alcançar em cada uma das fases;\n\nA descrição do modo como o projecto irá ser organizado e como será estabelecida a interligação entre os diferentes participantes (gestão do projecto);\n\nA descrição do modo como irá ser feita a difusão dos resultados esperados com o projecto;\n\nOs meios disponíveis para o projecto, e meios necessários para a sua execução e para os quais se solicita financiamento;\n\nf) Orçamento detalhado, por rubrica de despesa, do projecto a realizar;\n\ng) Documentos que demonstrem a capacidade técnica, nomeadamente o currículo individual dos membros da equipa;\n\nh) Especificação do apoio pretendido face ao orçamento do projecto.\n\n2 - Os documentos referidos no número anterior são obrigatoriamente redigidos em língua portuguesa, devendo, quando redigidos em língua estrangeira, ser acompanhados de tradução devidamente legalizada, em relação à qual o concorrente aceita a sua prevalência, para todos os efeitos, sobre os respectivos originais.\n\n3 - No caso previsto no n.º 3 do artigo 8.º, o concorrente deverá juntar um exemplar dos documentos traduzido para a língua inglesa ou francesa, excepto se o original já for redigido numa destas línguas.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "N.º 1 do Despacho Normativo n.º 6/2023: a remissão geral de todas as referências ao IPA para a DGPC não é uma alteração textual; o texto mantém 'IPA'.",
+  "instrucoes": [
+    "N.º 1: referências ao IPA consideradas feitas à DGPC - remissão geral, não aplicada ao texto",
+    "N.º 2: nova redação do n.º 2 do artigo 1.º - aplicada",
+    "N.º 3: nova redação do corpo do n.º 1 do artigo 9.º - aplicada, alíneas mantidas"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

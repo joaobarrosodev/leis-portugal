@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nAs importâncias a cobrar pela concessão de títulos de residência e respectivos vistos, estabelecidos por lei ou convenção, são os seguintes:\n\n1.º Por cada título de residência anual ou visto válido por um ano, 20$00 em estampilha fiscal e 200$00 de emolumentos;\n\n2.º Por cada título de residência temporária ou respectivo visto, que terá a validade de três meses, 10$00 em estampilha fiscal e 80$00 de emolumentos;\n\n3.º Por cada visto aposto no respectivo passaporte para uma permanência de 15 a 30 dias, 15$00 de emolumentos.\n\n§ único. Excepcionalmente, os emolumentos referidos no n.º 1.º poderão ser reduzidos a metade quando se trate de estrangeiros que, trabalhando por conta própria ou por conta de outrem, em mister modesto, demonstrem dificuldade em satisfazer o pagamento normal.",
+    "depois": "###### Artigo 1.º\n\n1. As importâncias a cobrar pela concessão de títulos de residência e respectivos vistos e demais actos relacionados com a permanência de estrangeiros no País são as seguintes:\n\na) Por cada título de residência anual ou visto válido por um ano, 40$00 em estampilha fiscal e 400$00 de taxa;\n\nb) Por cada título de residência temporária ou respectivo visto, com validade por três meses, 20$00 em estampilha fiscal e 160$00 de taxa;\n\nc) Por cada visto aposto em passaporte para permanência de quinze a trinta dias, 30$00 de taxa;\n\nd) Por cada autorização de trabalho, a taxa de 400$00, a satisfazer pela empresa contratante;\n\ne) Por cada boletim de alojamento, a taxa de 5$00.\n\n2. Excepcionalmente, poderá o director-geral de Segurança consentir que a taxa referida na alínea a) seja reduzida a metade quando se trate de indivíduo que demonstre dificuldade em satisfazer o pagamento normal.\n\n> Alterado pelo/a [Decreto-Lei n.º 81/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1972-396767), publicado em 1972-03-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:155798:por",
+    "alterador": "pt:dre:396767:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nA renovação dos títulos de residência anual e a concessão dos vistos válidos por um ano devem ser pedidas pelos interessados nos departamentos respectivos da Polícia Internacional e de Defesa do Estado e, nas localidades onde aqueles não existam, nos comandos da Polícia de Segurança Pública ou, ainda, nas câmaras municipais, durante os meses de Janeiro e Fevereiro de cada ano.\n\n§ único. Às transgressões ao disposto no corpo deste artigo será aplicada a multa de 200$00 a 1000$00 e adicionais, a fixar pelo director da Polícia Internacional e de Defesa do Estado.",
+    "depois": "###### Artigo 2.º\n\n1. A renovação dos títulos de residência anual e a concessão dos vistos válidos por um ano devem ser pedidas pelos interessados, durante os meses de Janeiro e Fevereiro de cada ano, nos departamentos respectivos da Direcção-Geral de Segurança e, nas localidades onde estes não existam, nos comandos da Polícia de Segurança Pública, onde os houver, ou nas secretarias das câmaras municipais.\n\n2. Às transgressões ao disposto no número anterior é aplicável a multa de 400$00 a 1000$00, a fixar pelo director-geral de Segurança, acrescida dos respectivos adicionais.\n\n> Alterado pelo/a [Decreto-Lei n.º 81/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1972-396767), publicado em 1972-03-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:155798:por",
+    "alterador": "pt:dre:396767:por"
+  }
+]

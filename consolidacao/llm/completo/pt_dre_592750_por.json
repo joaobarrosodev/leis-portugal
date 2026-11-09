@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:592750:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DR 36/92 altera o mapa anexo I (aditamento de categorias, eliminação de categoria, novos índices), que só vem em imagem. O texto do DL 121/2008 não vem no pedido; o mapa VIII republicado pela Decl. Ret. 49/2008 revoga o DR 23/91 'com excepção do n.º 2 do artigo 2.º, do artigo 3.º e de outras disposições relativas às categorias subsistentes e de mestre de embarcação', o que torna ambíguo que artigos ficam revogados.",
+  "instrucoes": [
+    "DR 36/92 arts. 1.º a 3.º: alterações ao mapa anexo I (imagem) - não aplicadas.",
+    "DL 121/2008: sem texto no pedido - nada aplicado.",
+    "Decl. Ret. 49/2008 (mapa VIII do DL 121/2008): revogação do DR 23/91 com exceções de alcance indeterminado - não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

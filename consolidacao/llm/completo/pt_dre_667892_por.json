@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:667892:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 15/2008), artigo 1.º: nova redação da base XLVIII das bases da concessão, que constam do anexo I; esse anexo não vem no texto atual do original, pelo que não há onde aplicar a alteração.",
+  "instrucoes": [
+    "Alterador 1, artigo 1.º: nova redação da base XLVIII do anexo I; não aplicada (anexo ausente do texto atual).",
+    "Alterador 1, artigos 2.º e 3.º: autorização de outorga do aditamento e entrada em vigor; não alteram o original.",
+    "Alterador 2 (RCM n.º 167/2008): altera o anexo da RCM n.º 14/2008 (minuta do aditamento ao contrato); não é dirigido ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

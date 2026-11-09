@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "11.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 11.º — Execução dos projectos\n\nA data-limite de execução dos projectos aprovados e apresentação do pedido de pagamento no âmbito do presente Regime é 30 de Setembro de 2003, excepto para os prémios fixos individuais, em que esta data é 30 de Novembro de 2003.",
+    "depois": "###### Artigo 11.º — Execução dos projectos\n\nA data limite de execução dos projectos aprovados e apresentação do pedido de pagamento no âmbito do presente regime é 18 de Novembro de 2003, excepto para as medidas de carácter sócio-económico, em que esta data é 30 de Outubro de 2004.\n\n> Alterado pelo/a [Portaria n.º 580/2004](https://diariodarepublica.pt/dr/detalhe/portaria/580-2004-261301), publicado em 2004-05-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:261325:por",
+    "alterador": "pt:dre:261301:por"
+  }
+]

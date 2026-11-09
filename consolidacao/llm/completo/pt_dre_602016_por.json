@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:602016:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Aferição da dotação de veículos",
+      "texto": "1 - No âmbito do PAE e para efeitos da aferição da dotação mínima de veículos, à escala municipal, considera-se a seguinte dotação mínima de veículos de socorro e combate a incêndios, por corpo de bombeiros:\n\na) Um veículo urbano de combate a incêndios (VUCI);\n\nb) Um veículo tanque táctico urbano (VTTU);\n\nc) Um veículo ligeiro de combate a incêndios (VLCI);\n\nd) Um veículo florestal de combate a incêndios (VFCI);\n\ne) Um veículo de socorro e assistência táctico (VSAT);\n\nf) Um veículo de comando táctico (VCOT);\n\ng) Uma ambulância de socorro (ABSC).\n\n2 - Na aferição da dotação de veículos a apoiar pelo PAE, o resultado do cálculo dos parâmetros constantes do n.º 1 do artigo anterior, à escala municipal, é condicionado em função da dotação do quadro homologado do conjunto dos corpos de bombeiros do município, e inclui a dotação mínima definida no número anterior.\n\n3 - Para efeitos do número anterior é considerada uma guarnição média de 5 elementos para cada viatura e a capacidade de accionamento dos meios em dois terços do dia, equivalente a dezasseis horas, o que corresponde a um mínimo de 10 elementos por viatura.\n\n4 - O limite máximo de veículos a apoiar, em cada município, é calculado segundo a fórmula:\n\nNúmero máximo de veículos = QH/GMV/T\n\nem que:\n\nQH - dotação do quadro homologado;\n\nGMV - guarnição média por viatura (cinco elementos);\n\nT - número de turnos correspondente a dois terços do dia (dois turnos).\n\n5 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Alocação dos veículos e equipamentos operacionais",
+      "texto": "Em cada município em que exista mais do que um corpo de bombeiros, considerando os princípios da afectação racional e da coordenação de meios, a alocação dos veículos e equipamentos operacionais compete à ANPC, atendendo às características da área de actuação dos respectivos corpos de bombeiros.",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Veículos e equipamentos operacionais",
+      "texto": "1 - Para efeitos da presente portaria, os veículos previstos no n.º 1 dos artigos 4.º e 5.º, e contemplados no plano de equipamento, são:\n\na) Veículo ligeiro de combate a incêndios (VLCI);\n\nb) Veículo florestal de combate a incêndios (VFCI);\n\nc) Veículo urbano de combate a incêndios (VUCI);\n\nd) Veículo tanque táctico urbano (VTTU);\n\ne) Veículo tanque táctico rural (VTTR);\n\nf) Veículo de socorro e assistência táctico (VSAT);\n\ng) Veículo de socorro e assistência especial (VSAE);\n\nh) Um veículo de comando táctico (VCOT);\n\ni) Ambulância de socorro (ABSC).\n\n2 - Para efeitos da presente portaria, e tendo em conta o seu carácter de complementaridade ao dispositivo operacional, o apoio à aquisição de ambulâncias de socorro (ABSC) é concedido mediante protocolo e condicionado ao reconhecimento, pela ANPC, da existência de recursos humanos qualificados para a respectiva operação.\n\n3 - Para além dos equipamentos identificados no n.º 1, cujas normas técnicas serão definidas por despacho do presidente da ANPC, o apoio à aquisição de outros equipamentos operacionais, nomeadamente para missões em meio aquático, resgate em grande ângulo e operações na neve, é condicionado ao reconhecimento, pela ANPC, da existência de capacidade operacional e qualificação técnica nos corpos de bombeiros para execução das respectivas missões, tendo em consideração a vulnerabilidade do município.\n\n4 - O equipamento a afectar a cada uma das missões, identificadas no ponto anterior, corresponde ao necessário para a operação do efectivo mínimo de uma brigada.\n\n5 - O apoio à aquisição de veículos com escada giratória (VE) ou veículos com plataforma giratória (VP) incide sobre 50 % do respectivo valor e a prioridade atribuída a estas tipologias é a indicada nas alíneas a) e b) do artigo 7.º do presente diploma, em que:\n\na) O quantitativo mínimo corresponde a um VE ou VP por município com mais de 100 edifícios com 5 ou mais andares;\n\nb) A substituição de VE ou VP deve respeitar, obrigatoriamente, o indicado no n.º 2 do artigo 7.º;\n\nc) Em casos devidamente justificados poderá ser autorizado o referido apoio em municípios que já disponham de VE ou VP, mediante parecer favorável da ANPC, homologado pelo Secretário de Estado da Protecção Civil.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 974/2009 art. 1.º: art. 5.º — nova alínea f), anterior f) passa a g), novos n.os 2 e 4, n.º 5 revogado; aplicado",
+    "art. 8.º — nova redacção; aplicado",
+    "art. 9.º — novo proémio do n.º 1, nova alínea h), anterior h) passa a i), aditado n.º 5; aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

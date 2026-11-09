@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:374612:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Rect. 10-BL/99: retifica os quadros dos anexos I e II (mapas de receitas e despesas), que só vêm em imagem (ver quadro no documento original) e não constam dos artigos; não aplicada.",
+  "instrucoes": [
+    "Rect. 10-BL/99: retificação do anexo I (receitas); quadro só em imagem, não aplicada.",
+    "Rect. 10-BL/99: retificação do anexo II (despesas); quadro só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

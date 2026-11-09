@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:561063:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "Os lugares constantes do quadro a que se refere o artigo anterior só poderão ser providos por oficiais, sargentos, cabos e soldados da Guarda Nacional Republicana em regime de comissão voluntária ou por imposição, com preferência para a primeira.\n\n§ 1.º A comissão voluntária terá a duração de quatro anos, podendo ser prorrogada por períodos de dois anos até ao limite fixado no Estatuto do Funcionalismo Ultramarino.\n\n§ 2.º A comissão por imposição terá a duração de dois anos e poderá, a pedido, passar ao regime de voluntariado nos termos do § 1.º\n\n§ 3.º A nomeação para comissão por imposição recairá sobre os militares mais modernos em cada um dos postos requeridos.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Decreto 49227, art. 3.º: aumenta dez lugares de segundos-cabos e soldados no quadro do artigo 3.º (mapa anexo só em imagem); não aplicado.",
+  "instrucoes": [
+    "Decreto 49227, art. 2.º: nova redação do art. 4.º (depois substituída).",
+    "Decreto 49227, art. 3.º: aumento de lugares no mapa anexo; não aplicado.",
+    "Decreto 457/73, art. 1.º: nova redação integral do art. 4.º (corpo e §§ 1.º a 3.º); aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

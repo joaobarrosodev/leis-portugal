@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:383401:por",
+  "artigos": [
+    {
+      "chave": "18.º",
+      "epigrafe": "(Subsídio de manutenção)",
+      "texto": "1 - O subsídio de manutenção é, em relação aos países da Europa, EUA e Canadá, de 32000$00 mensais.\n\n2 - Os quantitativos a atribuir aos bolseiros para os restantes países serão fixados caso a caso, de conformidade com as normas e os níveis de custo de vida em cada país.\n\n3 - Para cálculo do subsídio de manutenção far-se-á corresponder a cada mês de duração da bolsa o quantitativo mensal previsto no n.º 1 e a cada dia dos períodos que não perfaçam um mês o subsídio quantitativo diário igualmente previsto no mesmo número.\n\n4 - O quantitativo do subsídio de manutenção para países não referidos nos n.os 1 e 2 é determinado por analogia com os valores neles fixados e dentro dos respectivos limites.\n\n5 - O subsídio de manutenção é concedido pelo período de duração da bolsa fixado nos artigos 4.º e 5.º Porém, nos casos em que a bolsa termine antes da data inicialmente prevista, o subsídio deixa de ser abonado dois dias após o termo daquela.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 596/81: altera o artigo 21.º do regulamento da Portaria 128/79 (outro diploma); ignorada.",
+    "Portaria 597/81, 1.º: nova redação dos n.os 1 e 2 do artigo 18.º; aplicada e depois substituída pela Portaria 113/84.",
+    "Portaria 113/84, 1.º: nova redação dos n.os 1 e 2 do artigo 18.º; aplicada, n.os 3 a 5 mantidos do texto atual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

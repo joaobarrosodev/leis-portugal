@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:681997:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "A execução do Programa cabe aos Ministérios da Educação e das Universidades e da Habitação, Obras Públicas e Transportes através, respectivamente, das Direcções-Gerais do Equipamento Escolar e das Construções Escolares, com verbas dos orçamentos de ambos os Ministérios.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1: nova redação do artigo 3.º - aplicada.",
+    "Alt.2: prorroga regime do Decreto-Lei n.º 263/90 - não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "12.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 12.º\n\nO pessoal que, sendo agente, desempenhe funções em regime de tempo completo, se encontre sujeito à disciplina, hierarquia e horário da Direcção Regional da Segurança Social ou serviços dependentes, conte, pelo menos, três anos de serviço ininterrupto e foi admitido com observância dos requisitos habilitacionais pode ser integrado, directamente, em lugares do quadro, em categoria correspondente às funções que desempenha actualmente.\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 26/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1988-371672), publicado em 1988-06-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:666548:por",
+    "alterador": "pt:dre:371672:por"
+  }
+]

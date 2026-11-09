@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:287975:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 6.º (nova redação do artigo 3.º do Decreto-Lei n.º 369/91) e art. 4.º (substituição do mapa I anexo ao Decreto-Lei n.º 369/91): no texto atual não há chave '3.º' nem chave para o mapa I; o texto do art. 3.º e dos mapas vem misturado no corpo da chave '56.º' (que é um artigo do Decreto-Lei n.º 225/85), pelo que o alvo é ambíguo e não se aplicou. Alterador 2 (Lei n.º 9/2007) vem sem texto no pedido.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: altera artigos do Decreto-Lei n.º 225/85 na redação dada pelo original; é de outro diploma, ignorada.",
+    "Alterador 1, art. 2.º: revoga o artigo 17.º do Decreto-Lei n.º 225/85; outro diploma, ignorada.",
+    "Alterador 1, art. 3.º: regra de leitura das referências a direcção/director; não textual.",
+    "Alterador 1, art. 4.º: substituição do mapa I do original; sem chave correspondente no texto atual, não aplicada.",
+    "Alterador 1, art. 5.º: tabela de equivalências; não altera o original.",
+    "Alterador 1, art. 6.º: nova redação do artigo 3.º do original; sem chave '3.º' no texto atual, não aplicada.",
+    "Alterador 2: sem artigos transcritos; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

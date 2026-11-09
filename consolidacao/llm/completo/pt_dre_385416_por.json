@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:385416:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Portaria 531/87 (extinção e criação de lugares no quadro anexo, novo mapa só em imagem) e Portaria 784/89 (substituição do quadro de pessoal pelo mapa anexo, só em imagem): alteram o mapa anexo, que só vem em imagem e não consta dos artigos; não aplicadas.",
+  "instrucoes": [
+    "Portaria 531/87, 1.º: extingue lugares no quadro anexo; quadro só em imagem, não aplicada.",
+    "Portaria 531/87, 2.º: cria lugares conforme mapa anexo em imagem; não aplicada.",
+    "Portaria 784/89: substitui o quadro de pessoal pelo mapa anexo em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

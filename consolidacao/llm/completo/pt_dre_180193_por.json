@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:180193:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "(Emissão de títulos de participação)",
+      "texto": "1 - As empresas públicas e as sociedades anónimas pertencentes maioritariamente ao Estado, directa ou indirectamente, podem, de acordo com o disposto no presente diploma, emitir títulos de crédito denominados «títulos de participação», representativos de empréstimos por elas contraídos.\n\n2 - A emissão depende de autorização do Ministro das Finanças e do Plano.\n\n3 - O valor nominal global de cada emissão, adicionado ao valor nominal global dos títulos vivos de anteriores emissões, realizadas nos termos do presente diploma, não pode exceder duas vezes a soma do capital realizado, das reservas constituídas e dos resultados transitados.\n\n4 - O preço de emissão dos títulos de participação pode ser o seu valor nominal ou este último adicionado de um prémio de emissão.\n\n5 - Os títulos de participação podem ser nominativos ou ao portador e ser admitidos à cotação nas bolsas de valores.\n\n6 - Podem ser emitidos títulos representativos de mais de um título de participação.",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "(Reembolso)",
+      "texto": "1 - Os títulos são reembolsados apenas em caso de liquidação da empresa ou, se esta assim o decidir, após terem decorrido pelo menos 10 anos sobre a sua liberação, nas condições definidas aquando da emissão.\n\n2 - No caso de liquidação, os títulos são reembolsados somente depois do pagamento de todos os outros credores da empresa.\n\n3 - O disposto nos números anteriores não prejudica, no caso de a emissão ter sido totalmente subscrita pelo Estado, a possibilidade de conversão de títulos de participação em capital afecto a empresas públicas ou em capital social de sociedades anónimas de capitais maioritariamente públicos.\n\n4 - A conversão em capital dos títulos de participação referida no número anterior será deliberada nos termos do n.º 1 do artigo 6.º, podendo esta deliberação, no caso das sociedades anónimas, ter lugar na mesma assembleia geral que decida sobre o aumento de capital social.\n\n5 - A conversão em capital referida no n.º 3 far-se-á na base do valor nominal dos títulos.\n\n6 - A empresa procederá ao averbamento da conversão, considerando-se, para todos os efeitos legais, anulados os títulos convertidos.\n\n7 - No caso de a emissão ter sido destinada ao público em geral, a assembleia geral pode autorizar o reembolso dos títulos antes de decorrido o período de 10 anos, desde que os mesmos sejam utilizados para a subscrição de acções em aumentos de capital da sociedade, sendo sempre facultativa a sua mobilização.\n\n8 - A deliberação de reembolso antecipado deverá respeitar o processo estabelecido na alínea b) do n.º 1 do artigo 6.º",
+      "alterador": 4
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 407/86): nova redação do n.º 4 do art. 1.º — aplicada.",
+    "Alterador 2 (DL 229-A/88): nova redação do n.º 3 do art. 1.º — aplicada.",
+    "Alterador 3 (DL 311/89), art. 1.º: aditamento dos n.os 3 a 6 ao art. 4.º — aplicado. Art. 2.º (retroatividade) não textual.",
+    "Alterador 4 (DL 213/91), art. 1.º: aditamento dos n.os 7 e 8 ao art. 4.º — aplicado. Art. 2.º (aplicação a títulos já emitidos) não textual.",
+    "Alterador 5 (DL 305/91): altera o DL 202-B/86 (INH), não o original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

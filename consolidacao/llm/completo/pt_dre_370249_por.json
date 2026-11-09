@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:370249:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Carreira técnica de inspecção de aviação civil",
+      "texto": "1 - A carreira técnica de inspecção de aviação civil insere-se no grupo de pessoal técnico e desenvolve-se pelas categorias de subinspector especialista principal, subinspector especialista, subinspector principal, subinspector de 1.ª classe e subinspector de 2.ª classe.\n\n2 - A carreira técnica de aviação civil integra funções de natureza técnica internacionalmente regidas pelas normas e recomendações da OACI, ratificadas pelo Estado Português.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 9.º, n.º 2: regra de interpretação das referências à carreira técnica de aviação civil, não é alteração textual. Alterador 2, art. 16.º, n.º 7: extingue a área funcional de comunicações aeronáuticas do n.º 1 do art. 3.º sem dar nova redação; não é alteração textual.",
+  "instrucoes": [
+    "DL 373/91 art. 9.º n.º 1: nova redação do art. 1.º (epígrafe e n.º 1), n.º 2 mantido ('...'); aplicado",
+    "DL 373/91 art. 9.º n.º 2: referências entendem-se feitas à nova carreira; não textual, não aplicado",
+    "DL 121/94 art. 16.º n.º 7: extinção da área de comunicações aeronáuticas; não textual, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

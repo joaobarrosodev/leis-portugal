@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:307645:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::13.º",
+      "epigrafe": "Natureza dos incentivos",
+      "texto": "1 - O incentivo atribuído assume a forma de incentivo reembolsável, excepto o incentivo a conceder às despesas elegíveis referidas nos n.os 2 e 6 do artigo 11.º, o qual assume a forma de incentivo não reembolsável, podendo ainda ser utilizados mecanismos complementares de incentivo, nomeadamente a prestação de garantia de financiamento bancário e a bonificação total ou parcial de juros e de comissões de garantia.\n\n2 - O incentivo reembolsável referido no número anterior obedece às seguintes condições:\n\na) Sem pagamento de juros ou outros encargos;\n\nb) O prazo de financiamento considerado é de 6 anos, com um período de carência de capital de 3 anos, à excepção de projectos de novas unidades de produção cuja despesa elegível ultrapasse (euro) 2 500 000, de projectos de remodelação de estabelecimentos hoteleiros e de criação de unidades de turismo no espaço rural e de turismo de habitação, em que o prazo de financiamento terá como limite máximo 7 anos, com um período de carência de capital até 3 anos e de projectos de construção ou de instalação de novos estabelecimentos hoteleiros em que o prazo de financiamento terá como limite máximo 10 anos, com um período de carência de capital até 3 anos;\n\nc) As amortizações são efectuadas em prestações semestrais, iguais e sucessivas.\n\n3 - O incentivo reembolsável referido no n.º 1 pode ser substituído pela bonificação de juros, desde que previsto no aviso de abertura de concurso ou nos termos da decisão de financiamento para os projectos previstos no artigo 15.º\n\n4 - O incentivo reembolsável poderá ser convertido em incentivo não reembolsável, em função da avaliação do desempenho do projecto, conforme previsto no anexo B deste Regulamento, até ao montante máximo de 75 % do incentivo reembolsável concedido.\n\n5 - Por motivos justificados pela alteração substancial das condições de mercado e quando fique demonstrado que as empresas não têm condições financeiras de satisfazer as prestações de reembolso do incentivo nos prazos contratualmente estabelecidos, através da renegociação do contrato de concessão de incentivo referido no artigo 22.º, podem, excecionalmente, ser:\n\na) Alargado o prazo de financiamento do incentivo reembolsável, bem como o período de carência, para além do definido na alínea b) do anterior n.º 2;\n\nb) Flexibilizadas as condições de amortização previstas na alínea c) do anterior n.º 2 por variação dos montantes a amortizar.\n\n6 - Da renegociação referida no número anterior não pode resultar uma intensidade de auxílio superior à atribuída na decisão inicial de financiamento do projeto.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Portaria 274/2012 revoga o caráter transitório das normas do n.º 1 do artigo 3.º (alteração não textual). Portaria 262/2014 altera também os anexos B e D do Regulamento, que não constam do texto atual: não aplicados.",
+  "instrucoes": [
+    "Portaria 274/2012 art. 3.º: revoga o caráter transitório das normas; não textual, não aplicado",
+    "Portaria 262/2014: adita n.os 5 e 6 ao artigo 13.º do Regulamento (ANEXO::13.º); n.os 1 a 4 mantêm-se",
+    "Portaria 262/2014: n.º 3 do anexo B e alínea c) do n.º 1 do anexo D; anexos não existem no texto atual, não aplicados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

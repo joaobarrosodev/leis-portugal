@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º\n\nOs Ministros das Finanças e do Ultramar poderão, sobre parecer dos governos das províncias ultramarinas interessadas e ouvido o Conselho Nacional de Crédito, alterar, por portaria, relativamente a uma ou mais províncias, os limites de taxa de juro referidos no artigos 9.º e 10.º",
+    "depois": "###### Artigo 13.º\n\n1. O Ministro do Ultramar poderá, sob parecer dos governos das províncias ultramarinas interessadas, alterar, por portaria, relativamente a uma ou a mais províncias, os limites das taxas de juro referidos nos artigos 9.º e 10.º\n\n2. A afixação das taxas de juro das operações passivas referidas no artigo 9.» poderá ser feita em função da taxa de desconto do banco emissor da respectiva província ultramarina.\n\n> Alterado pelo/a [Decreto-Lei n.º 674/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/674-1970-154454), publicado em 1970-12-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:274851:por",
+    "alterador": "pt:dre:154454:por;pt:dre:412667:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nOs Ministros das Finanças e do Ultramar poderão, sobre parecer dos governos das províncias ultramarinas interessadas e ouvido o Conselho Nacional de Crédito, estabelecer, por portaria:\n\na) A participação das promissórias do fomento ultramarino e o limite da representação dos cheques à vista e dos vales do correio nas disponibilidades de caixa referidas no artigo 3.º;\n\nb) Os limites e as condições a que devem obedecer as coberturas mencionadas no corpo do artigo 5.º e no corpo do artigo 6.º;\n\nc) As condições em que valores não indicados no corpo do artigo 5.º e no corpo do artigo 6.º, ou aí referidos mas a prazos superiores aos neles estabelecidos, poderão ser contados nas coberturas das responsabilidades dos bancos comerciais, em moeda nacional com curso legal na província;\n\nd) O limite mínimo da relação entre o montante do capital e fundos de reserva dos bancos comerciais, por um lado, e, por outro, o montante dos depósitos e outras responsabilidades efectivas destes bancos para com terceiros, bem como da relação entre aquele montante do capital e fundos de reserva e o das responsabilidades dos bancos por aceites, avales e garantias concedidas.\n\n§ único. Os limites e condições a estabelecer nos termos do presente artigo poderão variar de província para província ou, na mesma província ultramarina, com a evolução da sua conjuntura monetária e financeira.",
+    "depois": "###### Artigo 7.º\n\nOs Ministros das Finanças e do Ultramar poderão, sob parecer dos Governos das províncias ultramarinas interessadas, estabelecer, por portaria:\n\na) A participação das promissórias de fomento ultramarino e o limite da representação dos cheques à vista e dos vales do correio nas disponibilidades de caixa referidas no artigo 3.º;\n\nb) Os limites e as condições a que devem obedecer as coberturas mencionadas no corpo do artigo 5.º e no corpo do artigo 6.º;\n\nc) As condições em que valores não indicados no corpo do artigo 5.º e no corpo do artigo 6.º, ou aí referidos, mas a prazos superiores aos neles estabelecidos, poderão ser contados nas coberturas das responsabilidades dos bancos comerciais em moeda nacional com curso legal na província;\n\nd) O limite mínimo da relação entre o montante de capital e fundos de reserva dos bancos comerciais, por um lado, e, por outro, o montante dos depósitos e outras responsabilidades efectivas destes bancos para com terceiros, bem como da relação entre aquele montante do capital e fundos de reserva e o das responsabilidades dos bancos por aceites, avales e garantias concedidas.\n\n§ único. Os limites e condições a estabelecer nos termos do presente artigo poderão variar de província para província ou, na mesma província ultramarina, com a evolução da sua conjuntura monetária e financeira.\n\n> Alterado pelo/a [Decreto-Lei n.º 72/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1974-412667), publicado em 1974-02-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:274851:por",
+    "alterador": "pt:dre:154454:por;pt:dre:412667:por"
+  }
+]

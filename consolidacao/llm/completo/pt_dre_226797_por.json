@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:226797:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - É excluída do regime florestal parcial, a que foi submetida pelo [Decreto n.º 3262](https://diariodarepublica.pt/dr/detalhe/decreto/3262-1917-497207), de 27 de Julho de 1917, uma parcela de terreno do perímetro florestal das dunas de Mira, com a área de 3 ha, conforme demarcação na planta em anexo ao presente diploma, do qual faz parte integrante.\n\n2 - A parcela de terreno referida no número anterior pertence à Câmara Municipal de Mira e destina-se à instalação de um centro de dia e lar para idosos, infra-estruturas de apoio à infância e cuidados de saúde, no âmbito das acções desenvolvidas pelo Centro Social Paroquial do Seixo de Mira.\n\n3 - Caso não venha a concretizar-se o uso referido no número anterior, a área em causa será novamente integrada no perímetro florestal das dunas de Mira.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, artigo único: nova redação do n.º 2 do art. 1.º (acrescenta apoio à infância); aplicado e depois substituído pelo alt. 2.",
+    "Alt. 2, artigo único: nova redação do n.º 2 do art. 1.º (lar, cuidados de saúde, Centro Social Paroquial); aplicado; n.os 1 e 3 mantidos."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

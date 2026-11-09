@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:171351:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "A Comissão será constituída pelo secretário-geral do Ministério da Saúde e Assistência, que presidirá, por representantes do respectivo Gabinete de Estudos e Planeamento e dos directores-gerais da Contabilidade Pública, de Saúde e dos Hospitais.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "A administração dos fundos afectos ao reapetrechamento dos estabelecimentos hospitalares compete a um conselho administrativo constituído por um representante da Contabilidade Pública, que presidirá, por representantes dos directores-gerais de Saúde e dos Hospitais e por um funcionário superior especializado em administração pública, que coadjuvará o presidente.\n\n§ único. O funcionário superior referido no presente artigo será proposto pelo presidente do conselho administrativo, com o acordo dos Ministros das Finanças e da Saúde e Assistência.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 476/73): nova redação dos arts. 2.º e 5.º; aplicada",
+    "Alterador 2 (DL 458/83): extingue a Comissão em 1984; não é alteração textual do original, nada a aplicar"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

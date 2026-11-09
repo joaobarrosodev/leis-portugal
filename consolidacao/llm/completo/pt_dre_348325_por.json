@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:348325:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 1.º: altera a Pauta dos Direitos de Importação (anexo do original) nos termos de um mapa anexo que só vem em imagem; as alterações às notas dos capítulos incidem sobre a Pauta, cujo texto não consta do texto atual. Nenhum artigo do original é alterado.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: alteração da Pauta anexa nos termos de mapa em imagem - não aplicável ao texto dos artigos.",
+    "Alterador 1, arts. 2.º e 3.º: normas próprias do alterador - sem efeito no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

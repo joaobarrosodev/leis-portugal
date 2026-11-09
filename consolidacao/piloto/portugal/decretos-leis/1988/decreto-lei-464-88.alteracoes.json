@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nA acção comunitária instituída pelo Regulamento (CEE) n.º [3528/86](http://data.europa.eu/eli/reg/1986/3528/oj?locale=pt) do Conselho, de 17 de Novembro, relativa à protecção das florestas contra a poluição atmosférica, é aplicada em Portugal nos termos daquele regulamento e deste diploma.",
+    "depois": "###### Artigo 1.º\n\nA acção comunitária relativa à protecção atmosférica instituída pelo Regulamento n.º [3528/86/CEE](https://data.europa.eu/eli/reg/1986/3528/oj?locale=pt), do Conselho, de 17 de Novembro, alterado pelo Regulamento n.º [1613/89/CEE](https://data.europa.eu/eli/reg/1989/1613/oj?locale=pt), do Conselho, de 29 de Maio, é aplicada em Portugal nos termos daquele Regulamento e do presente diploma.\n\n> Alterado pelo/a [Decreto-Lei n.º 6/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1991-693784), publicado em 1991-01-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:356352:por",
+    "alterador": "pt:dre:693784:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nPara o efeito previsto no artigo anterior, compete à DGF:\n\na) Promover e garantir o estabelecimento do inventário periódico dos danos causados às florestas, nomeadamente pela poluição atmosférica, bem como da respectiva rede de postos de observação;\n\nb) Efectuar o balanço anual do estado sanitário das florestas;\n\nc) Fomentar a realização das experiências, projectos piloto e demonstrações referidos no n.º 1 do artigo 4.º do Regulamento citado no artigo 1.º;\n\nd) Dar parecer, no prazo de 60 dias, sobre os projectos que lhe sejam apresentados no âmbito deste diploma, após consulta à DGQA, sempre que se trate de área da sua competência, designadamente no domínio da poluição atmosférica, a qual se deverá pronunciar no prazo de 30 dias contados a partir da data da recepção do pedido de consulta;\n\ne) Enviar à Comissão das Comunidades Europeias, adiante designada Comissão, nos prazos e pelas vias regulamentares, os projectos apresentados, acompanhados dos pareceres a que se refere a alínea anterior;\n\nf) Celebrar com os beneficiários os contratos referentes aos projectos que merecerem aprovação pelas instituições comunitárias, conforme o disposto no n.º 2 do artigo 7.º;\n\ng) Garantir por meios próprios ou através da celebração de contratos com outras entidades o acompanhamento e controle da execução dos projectos aprovados, bem como o cumprimento dos contratos referidos na alínea anterior;\n\nh) Enviar ao IFADAP cópia dos projectos aprovados e respectivos contratos;\n\ni) Verificar a conformidade dos documentos comprovativos da aplicação de fundos e remetê-los ao IFADAP, certificando que o respectivo pagamento se encontra em condições de ser efectuado e que os projectos respectivos se encontram em situação regular de execução;\n\nj) Enviar ao IFADAP, para efeitos do respectivo pagamento, relação detalhada e discriminada das despesas efectuadas pelos organismos ou serviços, no âmbito da aplicação do presente diploma;\n\nl) Comunicar prontamente ao IFADAP qualquer situação de incumprimento verificada;\n\nm) Exigir dos beneficiários a restituição dos montantes por estes recebidos em caso de incumprimento;\n\nn) Informar o IFADAP dos projectos cuja execução se encontre concluída e prestar-lhe as informações e esclarecimentos que forem por este solicitados para o bom desempenho das funções que lhe são cometidas pelo presente diploma.",
+    "depois": "###### Artigo 3.º\n\nPara o efeito previsto no artigo anterior, compete à DGF:\n\na) Promover e garantir o estabelecimento do inventário periódico dos danos causados às florestas, nomeadamente pela poluição atmosférica, bem como da respectiva rede de postos de observação;\n\nb) Efectuar o balanço anual do estado sanitário das florestas;\n\nc) Fomentar a realização das experiências, projectos piloto e demonstrações referidos no n.º 1 do artigo 4.º do Regulamento n.º [3528/86/CEE](https://data.europa.eu/eli/reg/1986/3528/oj?locale=pt), do Conselho, de 17 de Novembro, e no artigo 1.º do Regulamento n.º [1613/89/CEE](https://data.europa.eu/eli/reg/1989/1613/oj?locale=pt), do Conselho, de 29 de Maio;\n\nd) Dar parecer, no prazo de 60 dias, sobre os projectos que lhe sejam apresentados no âmbito deste diploma, após consulta à DGQA, sempre que se trate de área da sua competência, designadamente no domínio da poluição atmosférica, a qual se deverá pronunciar no prazo de 30 dias contados a partir da data da recepção do pedido de consulta;\n\ne) Enviar à Comissão das Comunidades Europeias, adiante designada Comissão, nos prazos e pelas vias regulamentares, os projectos apresentados, acompanhados dos pareceres a que se refere a alínea anterior;\n\nf) Celebrar com os beneficiários os contratos referentes aos projectos que merecerem aprovação pelas instituições comunitárias, conforme o disposto no n.º 2 do artigo 7.º;\n\ng) Garantir por meios próprios ou através da celebração de contratos com outras entidades o acompanhamento e controle da execução dos projectos aprovados, bem como o cumprimento dos contratos referidos na alínea anterior;\n\nh) Enviar ao IFADAP cópia dos projectos aprovados e respectivos contratos;\n\ni) Verificar a conformidade dos documentos comprovativos da aplicação de fundos e remetê-los ao IFADAP, certificando que o respectivo pagamento se encontra em condições de ser efectuado e que os projectos respectivos se encontram em situação regular de execução;\n\nj) Enviar ao IFADAP, para efeitos do respectivo pagamento, relação detalhada e discriminada das despesas efectuadas pelos organismos ou serviços, no âmbito da aplicação do presente diploma;\n\nl) Comunicar prontamente ao IFADAP qualquer situação de incumprimento verificada;\n\nm) Exigir dos beneficiários a restituição dos montantes por estes recebidos em caso de incumprimento;\n\nn) Informar o IFADAP dos projectos cuja execução se encontre concluída e prestar-lhe as informações e esclarecimentos que forem por este solicitados para o bom desempenho das funções que lhe são cometidas pelo presente diploma.\n\n> Alterado pelo/a [Decreto-Lei n.º 6/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1991-693784), publicado em 1991-01-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:356352:por",
+    "alterador": "pt:dre:693784:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\n1 - A participação comunitária nas medidas que a acção comum comporta é, no máximo, de 30%.\n\n2 - Sempre que a execução da acção prevista no artigo 1.º deste diploma seja da responsabilidade da administração central, o montante da contribuição nacional cobrirá o remanescente do respectivo valor global.\n\n3 - Quando a execução da acção prevista no artigo 1.º deste diploma for da responsabilidade de outras entidades que não as previstas no número anterior, poderá haver uma contribuição nacional até 45% das despesas orçamentadas, em termos a definir por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.",
+    "depois": "###### Artigo 6.º\n\n1 - A participação comunitária nas medidas que a acção comporta é, no máximo, de 50%.\n\n2 - Sempre que a execução da acção prevista no artigo 1.º deste diploma seja da responsabilidade da administração central, o montante da contribuição nacional cobrirá o remanescente do respectivo valor global.\n\n3 - Quando a execução das acções previstas no artigo 1.º do presente diploma for da responsabilidade de outras entidades que não as previstas no número anterior, pode haver uma contribuição nacional até 25% das despesas orçamentadas, nos termos a definir por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.\n\n> Alterado pelo/a [Decreto-Lei n.º 6/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1991-693784), publicado em 1991-01-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:356352:por",
+    "alterador": "pt:dre:693784:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\n1 - Os pedidos de financiamento relativos à acção prevista no âmbito do presente diploma devem ser apresentados, com o respectivo projecto, na DGF até ao dia 30 de Junho de cada ano, mediante o preenchimento do formulário distribuído pelos serviços.\n\n2 - Após aprovação dos projectos pelas instâncias comunitárias competentes serão celebrados contratos donde constem as obrigações de ambas as partes.\n\n3 - O IFADAP pagará aos beneficiários as quantias correspondentes à participação financeira nacional concedida à medida da execução dos trabalhos e até um máximo de oito pagamentos por projecto, após a apresentação dos documentos comprovativos das despesas efectuadas.\n\n4 - O IFADAP, contra recibo, procederá à transferência para a entidade beneficiária, a seu pedido, de uma verba correspondente a 20% do valor orçamentado para o projecto.\n\n5 - O IFADAP transferirá para as entidades beneficiárias as importâncias correspondentes à comparticipação comunitária nos quinze dias subsequentes à respectiva recepção.",
+    "depois": "###### Artigo 7.º\n\n1 - Os pedidos de financiamento relativos à acção prevista no âmbito do presente diploma devem ser apresentados, com o respectivo projecto, na DGF até ao dia 30 de Junho de cada ano, mediante o preenchimento do formulário distribuído pelos serviços.\n\n2 - Após aprovação dos projectos pelas instâncias comunitárias competentes serão celebrados contratos donde constem as obrigações de ambas as partes.\n\n3 - O IFADAP pagará aos beneficiários as quantias correspondentes à participação financeira nacional concedida à medida da execução dos trabalhos e até um máximo de oito pagamentos por projecto, após a apresentação dos documentos comprovativos das despesas efectuadas.\n\n4 - Decorrendo a execução a cargo do Estado, o IFADAP, contra recibo, procederá à transferência para a entidade beneficiária de uma verba inicial correspondente a 20% da verba orçamentada para o projecto.\n\n5 - O IFADAP transferirá para as entidades beneficiárias as importâncias correspondentes à comparticipação comunitária nos quinze dias subsequentes à respectiva recepção.\n\n> Alterado pelo/a [Decreto-Lei n.º 6/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1991-693784), publicado em 1991-01-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:356352:por",
+    "alterador": "pt:dre:693784:por"
+  }
+]

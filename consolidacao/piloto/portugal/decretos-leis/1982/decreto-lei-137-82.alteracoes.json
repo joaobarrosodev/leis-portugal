@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\n1 - O provimento, bem como o regime das carreiras do pessoal das secções regionais, regula-se pelas disposições aplicáveis ao pessoal da Direcção-Geral do Tribunal de Contas, com as excepções constantes dos números seguintes.\n\n2 - A competência para a nomeação é do Ministro de Estado e das Finanças e do Plano, obtida a prévia concordância do secretário regional competente.\n\n3 - A nomeação do contador-geral e a dos contadores-chefes carecem da anuência, respectivamente, do presidente do tribunal e do juiz da secção regional respectiva.\n\n4 - Não sendo possível, nos termos da lei aplicável, o provimento de entre funcionários da direcção-geral ou das secções regionais, podem ser nomeados para os lugares de contador-geral ou de contador-chefe, mediante concurso documental, técnicos superiores de categoria não inferior à 1.ª classe de qualquer quadro ou administração central regional ou local e possuidores da experiência necessária ao exercício da função.\n\n5 - No caso de inexistência de candidatos que reúnam os requisitos a que se refere o número anterior, será aberto concurso de prestação de provas, a que poderão candidatar-se indivíduos possuidores de licenciatura adequada.",
+    "depois": "###### Artigo 6.º\n\n1 - O provimento, bem como o regime das carreiras do pessoal das secções regionais, regula-se pelas disposições aplicáveis ao pessoal da Direcção-Geral do Tribunal de Contas, com as excepções constantes dos números seguintes.\n\n2 - A competência para a nomeação é do Ministro de Estado e das Finanças e do Plano, obtida a prévia concordância do secretário regional competente.\n\n3 - A nomeação do contador-geral e a dos contadores-chefes carecem da anuência, respectivamente, do presidente do tribunal e do juiz da secção regional respectiva.\n\n4 - Durante o regime de instalação, os cargos de contador-geral e de contador-chefe poderão também ser preenchidos de entre funcionários pertencentes aos quadros da administração central, regional ou local habilitados com licenciatura em Direito, Economia, Finanças ou Organização e Gestão de Empresas.\n\n5 - No caso de inexistência de candidatos que reúnam os requisitos a que se refere o número anterior, será aberto concurso de prestação de provas, a que poderão candidatar-se indivíduos possuidores de licenciatura adequada.\n\n> Alterado pelo/a [Decreto-Lei n.º 76/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1986-195218), publicado em 1986-04-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:606553:por",
+    "alterador": "pt:dre:195218:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º\n\n1 - Os funcionários colocados nos serviços centrais poderão ser destacados para as secções regionais para o exercício de funções correspondentes à sua categoria ou à categoria imediatamente superior, por despacho do presidente, sob proposta do director-geral e o acordo dos interessados.\n\n2 - O destacamento far-se-á por períodos de 3 meses renováveis, até ao limite de 2 anos.\n\n3 - Os funcionários destacados nos termos do n.º 1 poderão ser providos a título definitivo e em qualquer momento, tendo, no entanto, de reunir as condições legais de promoção e provimento, no caso de exercício de funções correspondentes a categoria superior à sua.",
+    "depois": "###### Artigo 9.º\n\n1 - Os lugares dos mapas anexos a este diploma poderão ser preenchidos por funcionários do quadro da Direcção-Geral do Tribunal de Contas, mediante despacho do Ministro das Finanças, obtida a concordância do secretário regional competente, do presidente do Tribunal de Contas e dos interessados, da seguinte forma:\n\na) O cargo de contador-chefe, em comissão de serviço, de entre contadores-chefes, técnicos superiores ou contadores-verificadores principais;\n\nb) Os lugares das várias carreiras, em comissão de serviço, de entre funcionários providos na mesma categoria ou na categoria imediatamente inferior.\n\n2 - A comissão de serviço referida no número anterior poderá manter-se enquanto vigorar o regime de instalação.\n\n3 - Sempre que o preenchimento do cargo de contador-chefe recaia em contadores-chefes que venham desempenhando o cargo em comissão de serviço, esta ficará suspensa, podendo as suas funções na Direcção-Geral do Tribunal de Contas ser asseguradas em regime de substituição.\n\n4 - Os funcionários que, nos termos do n.º 1, vão prestar serviço nas secções regionais poderão ser providos a título definitivo e em qualquer momento, tendo, no entanto, de reunir as condições legais de promoção e provimento, no caso de exercício de funções correspondentes a categoria superior à sua.\n\n> Alterado pelo/a [Decreto-Lei n.º 76/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1986-195218), publicado em 1986-04-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:606553:por",
+    "alterador": "pt:dre:195218:por"
+  },
+  {
+    "artigo": "10.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º\n\nOs funcionários a que se refere o n.º 1 do artigo anterior têm direito, além das remunerações próprias das funções que vão exercer, aos seguintes abonos:\n\na) Um subsídio equivalente a 3 meses do vencimento do contador-geral, a pagar antes do embarque;\n\nb) Um subsídio de residência correspondente a um terço do vencimento base, após o primeiro trimestre de serviço.",
+    "depois": "###### Artigo 10.º\n\n1 - Os funcionários a que se refere o n.º 1 do artigo anterior têm direito, além das remunerações próprias das funções que vão exercer, aos seguintes abonos:\n\na) Um subsídio equivalente a 3 meses do vencimento do contador-geral, a pagar antes do embarque;\n\nb) Um subsídio de residência correspondente a um terço do vencimento base, após o primeiro trimestre de serviço.\n\n2 - Os encargos com os abonos referidos nas alíneas a) e b) do número anterior serão suportados por verbas do orçamento privativo do Cofre do Tribunal de Contas, mantendo-se quanto às restantes remunerações o regime em vigor para os funcionários da Direcção-Geral do Tribunal de Contas.\n\n> Alterado pelo/a [Decreto-Lei n.º 76/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1986-195218), publicado em 1986-04-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:606553:por",
+    "alterador": "pt:dre:195218:por"
+  }
+]

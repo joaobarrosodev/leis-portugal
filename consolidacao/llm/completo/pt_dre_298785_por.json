@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:298785:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A alínea b) do artigo 5.º do Decreto-Lei n.º 213-B/92 (alterada pelo Decreto-Lei n.º 132/97) não existe no texto atual, que só contém os artigos dos estatutos em anexo; não aplicada.",
+  "instrucoes": [
+    "DL 132/97, artigo único: nova redação da alínea b) do artigo 5.º do decreto-lei — artigo ausente do texto atual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

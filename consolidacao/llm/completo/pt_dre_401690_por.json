@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:401690:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "O quadro de oficiais médicos fixado pelo artigo 28.º do [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937, passa a ser o seguinte:\n\nCoronéis ... 6\n\nTenentes-coronéis ... 9\n\nMajores ... 18\n\nCapitães e subalternos ... 60",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 1.º do DL 52/74: o quadro de oficiais do artigo 1.º passa a ser o novo — aplicado, substituindo a lista de postos.",
+    "Art. 2.º do DL 52/74: encargos — norma própria, sem alteração ao texto.",
+    "Alterador 2 é o mesmo DL 52/74 repetido — nada a aplicar além do já feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

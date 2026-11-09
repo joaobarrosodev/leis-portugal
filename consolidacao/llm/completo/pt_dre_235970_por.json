@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:235970:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Todos os alteradores (Despacho Normativo 96/77; Portarias 148-D/80, 720/80, 816/80, 829/80, 924/80, 939/80, 287/81, 854/81, 963/81, 412/82 e 88/88) só alteram ou substituem os quadros de pessoal dos mapas II, III e IV anexos, que no original e nos alteradores só existem em imagem ('ver documento original'), ou criam lugares nesses quadros sem instrução textual; não há texto de artigo a alterar.",
+  "instrucoes": [
+    "Alterador 1 (DN 96/77): aumenta e altera o mapa II (imagem); não aplicável.",
+    "Alterador 2 (Portaria 148-D/80): substitui quadros, incl. mapa IV (imagem); não aplicável.",
+    "Alterador 3 (Portaria 720/80): acrescenta um lugar ao mapa II; sem texto; não aplicável.",
+    "Alterador 4 (Portaria 816/80): aumenta o quadro da Inspecção-Geral de Navios; sem texto; não aplicável.",
+    "Alterador 5 (Portaria 829/80): aumenta o quadro da DG dos Estudos Náuticos (mapa em imagem); não aplicável.",
+    "Alterador 6 (Portaria 924/80): aumenta o quadro da DG do Pessoal do Mar (mapa em imagem); não aplicável.",
+    "Alterador 7 (Portaria 939/80): cria lugar de assessor; sem texto; não aplicável.",
+    "Alterador 8 (Portaria 287/81): cria lugar de assessor; sem texto; não aplicável.",
+    "Alterador 9 (Portaria 854/81): substitui quadros (anexos em imagem); não aplicável.",
+    "Alterador 10 (Portaria 963/81): aumenta quadro da Inspecção-Geral de Navios (imagem); não aplicável.",
+    "Alterador 11 (Portaria 412/82): cria lugar de assessor; sem texto; não aplicável.",
+    "Alterador 12 (Portaria 88/88): substitui o mapa IV (imagem); não aplicável."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

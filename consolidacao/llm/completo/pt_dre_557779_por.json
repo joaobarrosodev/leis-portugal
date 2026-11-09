@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:557779:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - A prescrição médica e o fornecimento do material clínico referido no artigo anterior competem ao Centro de Estudo de Paramiloidose do Porto, ao Hospital Geral de Santo António, ao Hospital de Santa Maria e aos Centros de Saúde de Braga, Seia, Bom Sucesso, Figueira da Foz, Vila do Conde, Matosinhos, Póvoa de Varzim, Esposende, Barcelos, Unhais da Serra e Covilhã.\n\n2 - Os encargos decorrentes da prescrição do material de apoio clínico serão suportados pelas entidades prescritoras.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do n.º 1 do artigo 3.º (inclui o Hospital Geral de Santo António); n.º 2 '...' mantido do texto atual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

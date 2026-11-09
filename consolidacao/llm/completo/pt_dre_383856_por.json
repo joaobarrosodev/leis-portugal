@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:383856:por",
+  "artigos": [
+    {
+      "chave": "18.º",
+      "epigrafe": "",
+      "texto": "1 - Os cartões de mariscador e as licenças para a utilização de embarcações passadas obrigatoriamente para os indivíduos quando na apanha e exploração de poliquetas são válidos para a apanha e exploração de moluscos testáceos marinhos, e reciprocamente.\n\n2 - No exercício das suas funções os mariscadores devem estar mundos dos respectivos cartões, actualizados quanto ao pagamento da licença.\n\n3 - As embarcações que possuem licença para o exercício de outras actividades marítimas estão isentas do encargo referido no n.º 1 se a licença que possuam for de custo igual ou superior à que é exigida para o exercício de actividades ligadas à exploração de minhocão e casulo. No caso contrário, terão de obter licença para a prática daquelas actividades.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 360/81) altera o n.º 3 do anexo (tabela de taxas), que não consta do texto atual; não aplicado. Alterador 3 (Decreto-Lei n.º 261/89), art. 34.º, n.º 1, g): revogação genérica das disposições relativas a culturas marinhas, sem artigos identificados e com manutenção transitória (n.º 2); não aplicada.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1 do artigo 18.º; n.os 2 e 3 mantidos ('...')",
+    "Alterador 2: altera o n.º 3 do anexo - anexo ausente do texto atual, não aplicado",
+    "Alterador 3, art. 34.º, n.º 1, g): revogação genérica de disposições sobre culturas marinhas - não aplicada ao texto"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

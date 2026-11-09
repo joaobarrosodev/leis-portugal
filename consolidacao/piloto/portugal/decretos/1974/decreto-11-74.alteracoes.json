@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nÉ autorizado o Governo de Macau a segurar ao Banco Nacional Ultramarino e ao Banco de Fomento Nacional, ou a qualquer deles, os riscos emergentes das garantias bancárias que vierem a ser prestadas e dos créditos documentários que vierem a ser abertos até ao montante total em capital de 4000 milhões de ienes, acrescidos dos juros e demais encargos que forem devidos, e, ainda, a assumir a responsabilidade por diferenças de câmbio que porventura se verificarem, tudo em consequência do contrato de adjudicação da central termoeléctrica de Coloane, a realizar, em regime de pagamentos diferidos, entre a Companhia de Electricidade de Macau, S. A. R. L. e a empresa japonesa Mitsubishi Corporation.",
+    "depois": "###### Artigo 1.º\n\nÉ autorizado o Governo de Macau a segurar ao Banco Nacional Ultramarino e ao Banco de Fomento Nacional, ou a qualquer deles, os riscos emergentes das garantias bancárias que vierem a ser prestadas e dos créditos documentários que vierem a ser abertos até ao montante total em capital de 4500 milhões de ienes, acrescidos dos juros e demais encargos que forem devidos, e, ainda, a assumir a responsabilidade por diferenças de câmbio que porventura se verificarem, tudo em consequência do contrato de adjudicação da central termoeléctrica de Coloane, realizado, em regime de pagamentos diferidos, entre a Companhia de Electricidade de Macau, S. A. R. L., e a empresa japonesa Mitsubishi Corporation.\n\n> Alterado pelo/a [Decreto n.º 418/75](https://diariodarepublica.pt/dr/detalhe/decreto/418-1975-314444), publicado em 1975-08-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:408315:por",
+    "alterador": "pt:dre:314444:por"
+  }
+]

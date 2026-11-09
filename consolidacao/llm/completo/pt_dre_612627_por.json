@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:612627:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "A nova redação do n.º 1 do artigo 3.º (repartição das presidências dos GPA) só vem em imagem ('ver documento original'); não aplicada.",
+  "instrucoes": [
+    "Alterador 1, artigo único, art. 1.º: nova redação do elenco (38) Portugal-Bulgária; 39) Portugal-Noruega) — já consta do texto atual; nada a mudar.",
+    "Alterador 1, artigo único, art. 3.º: n.º 1 em imagem, não aplicável; n.º 2 '...' mantido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

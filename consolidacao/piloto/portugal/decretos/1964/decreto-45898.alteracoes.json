@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nComo gratificação para despesas de representação do comandante-chefe da província da Guiné, ser-lhe-á atribuída, mensalmente, a quantia de 3500$00.",
+    "depois": "###### Artigo 2.º\n\nComo gratificação para despesas de representação do comandante-chefe da província da Guiné ser-lhe-á atribuída, mensalmente, a quantia de 5000$00.\n\n> Alterado pelo/a [Decreto n.º 167/70](https://diariodarepublica.pt/dr/detalhe/decreto/167-1970-225797), publicado em 1970-04-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:539263:por",
+    "alterador": "pt:dre:225797:por"
+  }
+]
